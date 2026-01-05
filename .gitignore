@@ -1,0 +1,23 @@
+# 统一使用正斜杠格式（跨平台兼容）
+en/himill-d1-d1s/media/
+zh/himill-d1-d1s/media/
+
+# 媒体文件
+*.mp4
+*.gif
+*.jpg
+*.png
+
+# 文档文件
+test.md
+
+# 开发工具
+.vscode/
+
+# Excel 和其他格式
+*.xlsx
+*.csv
+
+# 隐藏文件和特殊文件
+.git/
+*.dxf
