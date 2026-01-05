@@ -1,0 +1,72 @@
+# HiMill D1S Unboxing Guide
+
+## 📹 Unboxing Video
+
+Before starting, we recommend watching the complete unboxing video to understand the entire unboxing process:
+
+*The video will show the complete process from unpacking to first startup*
+<!-- <video width="640" height="360" controls>
+  <source src="/en/himill-d1-d1s/media/unboxing/unboxing.mp4" type="video/mp4">
+</video> -->
+
+<iframe 
+    src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1" 
+    width="100%" 
+    height="500" 
+    scrolling="no" 
+    border="0" 
+    frameborder="no" 
+    framespacing="0" 
+    allowfullscreen="true">
+</iframe>
+
+---
+
+## 📦 Accessory Checklist
+
+After unboxing, please first check if the following accessories are complete:
+
+- ✅ HiMill D1S Main Unit × 1
+- ✅ Dust Collection Cover × 1
+- ✅ Tool Accessory Box × 1
+- ✅ USB Data Cable × 1
+- ✅ Lubricating Grease × 1
+- ✅ Manual × 1
+- ✅ Clamp × 1
+- ✅ Dust Collector Adapter × 1
+- ✅ Substitute Wood × 2
+- ✅ Power Cord × 1
+- ✅ Lanyard × 1
+- ✅ Wood Wax Oil × 1
+- ✅ Boxwood Blocks × 2
+- ✅ Wooden Substrate × 1
+
+---
+
+## ⚠️ Important Notes
+
+> 🔌 **Voltage Setting**:
+> 
+> Please be sure to confirm that the voltage setting meets local standards. If adjustment is needed, it must be done before powering on. The adjustment switch is located at the marked position inside the equipment
+> 
+> ⚙️ **Wooden Substrate**:
+> 
+> The wooden substrate is standard equipment for each machine and is pre-installed at the factory. Below is the DXF vector file for the wooden substrate. You can process wooden substrates of different thicknesses according to your needs. You can also purchase them from our independent website.
+> 
+> **📁 [sacrificial plate.dxf download](media/sacrificial%20plate.dxf)**
+> 
+> 📋 **Safety Reminder**:
+> 
+> If you encounter problems during operation, please stop immediately and consult the troubleshooting guide
+> 
+> 🔧 **Maintenance Recommendations**:
+> 
+> Perform regular equipment maintenance to ensure the machine runs properly
+> 
+> {.is-warning}
+
+### Need Help?
+- 📧 Email Support: support@maxmakelab.com
+- 💬 Online Customer Service: Visit the official website
+
+---
