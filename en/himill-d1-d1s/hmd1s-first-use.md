@@ -22,6 +22,8 @@ We have prepared a detailed first-use tutorial video covering the complete proce
 - 📋 Content includes: Material preparation → Software usage → Tool installation → First tool machining → Tool changing → Completion of machining
 
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/3eCbuWcdnYk?si=AOLkE9COD6Gdi1VB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=3eCbuWcdnYk" target="_blank">
+    <img src="https://img.youtube.com/vi/3eCbuWcdnYk/0.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+</a>
 
 ---
