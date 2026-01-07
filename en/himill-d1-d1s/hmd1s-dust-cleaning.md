@@ -4,7 +4,7 @@
 
 After each processing is completed, the table should be cleaned thoroughly.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-dust-cleaning/1.gif" alt="Table Cleaning" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-dust-cleaning/1.webp" alt="Table Cleaning" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 Cleaning the table is an important step to maintain good operating condition of the equipment.
 
@@ -12,7 +12,7 @@ Cleaning the table is an important step to maintain good operating condition of 
 
 After each processing, check if there are debris on the lead screws and guide rails, and wipe with a dry cloth.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-dust-cleaning/2.gif" alt="Lead Screw and Guide Rail Cleaning" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-dust-cleaning/2.webp" alt="Lead Screw and Guide Rail Cleaning" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 Regular cleaning of lead screws and guide rails can extend equipment service life.
 

@@ -1,4 +1,4 @@
-# HiMill D1S Detection Function Description
+﻿# HiMill D1S Detection Function Description
 
 ## 1. After connecting the device, click the device settings button
 

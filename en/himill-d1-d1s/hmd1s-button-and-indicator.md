@@ -8,7 +8,7 @@ This document provides detailed information about the functions and operation me
 
 ### Step 1: Power On Complete, Need to Return to Zero
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/1-开机完成，需要回零.gif" alt="Power On Complete, Need to Return to Zero" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/1-开机完成，需要回零.webp" alt="Power On Complete, Need to Return to Zero" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📋 **Status Description**:
 > 
@@ -26,7 +26,7 @@ This document provides detailed information about the functions and operation me
 
 ### Step 2: Device in Idle State, Can Execute Commands
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/2-设备处于空闲状态，可执行指令.gif" alt="Device Idle State" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/2-设备处于空闲状态，可执行指令.webp" alt="Device Idle State" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📋 **Status Description**:
 > 
@@ -44,7 +44,7 @@ This document provides detailed information about the functions and operation me
 
 ### Step 3: Device in Alarm State, Need to Return to Zero or Unlock
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/3-设备处于报警状态，需要回零或者解锁.gif" alt="Alarm State" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/3-设备处于报警状态，需要回零或者解锁.webp" alt="Alarm State" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📋 **Status Description**:
 > 
@@ -62,7 +62,7 @@ This document provides detailed information about the functions and operation me
 
 ### Step 4: Device Successfully Received File, in Ready State
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/4-设备接受文件成功，处于就绪状态.gif" alt="File Ready State" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/4-设备接受文件成功，处于就绪状态.webp" alt="File Ready State" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📋 **Status Description**:
 > 
@@ -80,7 +80,7 @@ This document provides detailed information about the functions and operation me
 
 ### Step 5: Long Press to Start Processing
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/5-长按后开始加工.gif" alt="Start Processing" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/5-长按后开始加工.webp" alt="Start Processing" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚙️ **Operation Method**:
 > 
@@ -102,7 +102,7 @@ This document provides detailed information about the functions and operation me
 
 ### Step 6: Processing Shows Green Progress Light
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/6-加工中显示加工进度灯.gif" alt="Processing Progress" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/6-加工中显示加工进度灯.webp" alt="Processing Progress" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📋 **Status Description**:
 > 
@@ -114,7 +114,7 @@ This document provides detailed information about the functions and operation me
 
 ### Step 7: Single Click During Processing, Device Pauses Processing, Displays Orange
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/7-加工中单击，设备暂停加工，显示橙色.gif" alt="Pause Processing" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/7-加工中单击，设备暂停加工，显示橙色.webp" alt="Pause Processing" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚙️ **Operation Method**:
 > 
@@ -126,7 +126,7 @@ This document provides detailed information about the functions and operation me
 
 ### Step 8: Device in Tool Change State
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/8-设备处于换刀状态.gif" alt="Tool Change State" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/8-设备处于换刀状态.webp" alt="Tool Change State" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📋 **Status Description**:
 > 
@@ -146,7 +146,7 @@ This document provides detailed information about the functions and operation me
 
 ### Step 9: In Pause State, Long Press Button to Resume Processing
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/9-暂停状态下，长按按键，恢复加工.gif" alt="Resume Processing" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/9-暂停状态下，长按按键，恢复加工.webp" alt="Resume Processing" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚙️ **Operation Method**:
 > 
@@ -158,7 +158,7 @@ This document provides detailed information about the functions and operation me
 
 ### Step 10: Single Click to Show WIFI Connection Status, Green Means Connected to LAN, Orange Means Hotspot Mode
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/10-单击显示WIFI连接状态，绿色表示已连接局域网，橙色表示热点模式.gif" alt="WIFI Status Display" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/10-单击显示WIFI连接状态，绿色表示已连接局域网，橙色表示热点模式.webp" alt="WIFI Status Display" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📋 **Function Description**:
 > 
@@ -177,7 +177,7 @@ This document provides detailed information about the functions and operation me
 
 ### Step 11: Long Press Button for 5s in Idle State to Restore Hotspot Mode
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/11-空闲状态下长按按键5s，重置WIFI.gif" alt="WIFI Reset" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/11-空闲状态下长按按键5s，重置WIFI.webp" alt="WIFI Reset" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚙️ **Operation Method**:
 > 

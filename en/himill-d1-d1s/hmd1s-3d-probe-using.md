@@ -1,4 +1,4 @@
-# MaxmakeLab 3D Probe Usage
+﻿# MaxmakeLab 3D Probe Usage
 
 ## 1. Installing 3D Probe
 
@@ -10,9 +10,9 @@ Click the "Tool Change" button:
 
 Install the 3D probe, click the button, and complete automatic height measurement
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/1-安装测头-组装-02-组装测头.gif" alt="Assemble 3D Probe" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/1-安装测头-组装-02-组装测头.webp" alt="Assemble 3D Probe" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/1-安装测头-测高-03-完成测高.gif" alt="Complete Automatic Height Measurement" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/1-安装测头-测高-03-完成测高.webp" alt="Complete Automatic Height Measurement" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚠️ **Tool Change Operation Precautions**:
 > 
@@ -52,29 +52,29 @@ Use the movement function to move the 3D probe to the left side of the workpiece
 Click detect, after detecting the workpiece, it will automatically set the detected position as X0.
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/2-角点-X轴-探测-02-X轴探测截图.jpg" alt="X-axis Detection Screenshot" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/2-角点-X轴-探测-03-X轴探测过程.gif" alt="X-axis Detection Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/2-角点-X轴-探测-03-X轴探测过程.webp" alt="X-axis Detection Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### Y-axis Detection
 
 Use the movement function to move the probe to the front side of the workpiece.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/2-角点-Y轴-移动-01-移动到工件前侧.gif" alt="Y-axis Movement" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/2-角点-Y轴-移动-01-移动到工件前侧.webp" alt="Y-axis Movement" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 Click detect, after detecting the workpiece, it will automatically set the detected position as Y0.
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/2-角点-Y轴-探测-02-Y轴探测结果.jpg" alt="Y-axis Detection" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/2-角点-Y轴-探测-03-Y轴探测过程.gif" alt="Y-axis Detection Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/2-角点-Y轴-探测-03-Y轴探测过程.webp" alt="Y-axis Detection Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### Z-axis Detection
 
 Use the movement function to move the 3D probe above the workpiece.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/2-角点-Z轴-移动-01-移动到工件上方.gif" alt="Z-axis Movement" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/2-角点-Z轴-移动-01-移动到工件上方.webp" alt="Z-axis Movement" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 Click Z-plane detection, after detecting the workpiece, it will automatically set the detected position as Z0.
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/2-角点-Z轴-探测-02-Z轴探测成功.jpg" alt="Z-axis Detection Success" style="width: 300px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/2-角点-Z轴-探测-03-Z轴探测过程.gif" alt="Z-axis Detection Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/2-角点-Z轴-探测-03-Z轴探测过程.webp" alt="Z-axis Detection Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### Tool Change
 
@@ -82,7 +82,7 @@ After all settings are complete, click tool change to replace the first tool to 
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/5-换刀-点击-01-录屏点击换刀.gif" alt="Click Tool Change" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/5-换刀-过程-02-换刀过程.gif" alt="Tool Change Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/5-换刀-过程-02-换刀过程.webp" alt="Tool Change Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 4. Rectangular External Centering
 
@@ -98,19 +98,19 @@ And click detect, wait for detection to complete.
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/3-矩形外-X左-探测-02-左侧探测成功.jpg" alt="X-axis Left Side Detection Success" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/3-矩形外-X左-探测-03-左侧探测过程.gif" alt="X-axis Left Side Detection Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/3-矩形外-X左-探测-03-左侧探测过程.webp" alt="X-axis Left Side Detection Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### X-axis Right Side Detection
 
 After detecting the workpiece, manually raise the Z-axis to a safe height, then move to the right side of the workpiece.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/3-矩形外-X右-移动-01-移动到工件右侧.gif" alt="X-axis Right Side Movement" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/3-矩形外-X右-移动-01-移动到工件右侧.webp" alt="X-axis Right Side Movement" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 Click detect, wait for detection to complete.
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/3-矩形外-X右-探测-02-右侧探测成功.jpg" alt="X-axis Right Side Detection Success" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/3-矩形外-X右-探测-03-右侧探测过程.gif" alt="X-axis Right Side Detection Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/3-矩形外-X右-探测-03-右侧探测过程.webp" alt="X-axis Right Side Detection Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 After detecting the workpiece, you will get the X coordinates of both sides of the workpiece, click Zero X below, automatically calculate the center, and set the center as X0.
 
@@ -124,7 +124,7 @@ Detect the front and back sides of the workpiece using the same method, click Ze
 
 Use the movement function to move the 3D probe above the workpiece.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/3-矩形外-Z轴-移动-01-移动到工件上方.gif" alt="Z-axis Movement" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/3-矩形外-Z轴-移动-01-移动到工件上方.webp" alt="Z-axis Movement" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 Click Z-plane detection, wait for detection to complete.
 
@@ -132,7 +132,7 @@ Click Z-plane detection, wait for detection to complete.
 
 After detecting the workpiece, it will automatically set the detected position as Z0.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/3-矩形外-Z轴-探测-03-Z轴探测过程.gif" alt="Z-axis Detection Process" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/3-矩形外-Z轴-探测-03-Z轴探测过程.webp" alt="Z-axis Detection Process" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### Tool Change
 
@@ -140,7 +140,7 @@ After all settings are complete, click tool change to replace the first tool to 
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/5-换刀-点击-01-录屏点击换刀.gif" alt="Click Tool Change" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/5-换刀-过程-02-换刀过程.gif" alt="Tool Change Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/5-换刀-过程-02-换刀过程.webp" alt="Tool Change Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚠️ **Rectangular External Centering Precautions**:
 > 
@@ -156,25 +156,25 @@ Select circular internal centering in the software to detect and automatically c
 
 Use the movement function to move the probe inside the workpiece, close to the left side inside the workpiece.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/4-圆形内-X左-移动-01-移动到内部左侧.gif" alt="X-axis Left Side Movement" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/4-圆形内-X左-移动-01-移动到内部左侧.webp" alt="X-axis Left Side Movement" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 Click left detection, wait for detection to complete.
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/4-圆形内-X左-探测-02-内部左侧探测成功.jpg" alt="X-axis Left Side Detection Success" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/4-圆形内-X左-探测-03-内部左侧探测过程.gif" alt="X-axis Left Side Detection Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/4-圆形内-X左-探测-03-内部左侧探测过程.webp" alt="X-axis Left Side Detection Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### X-axis Right Side Detection
 
 After detecting the workpiece, move close to the right side of the workpiece (do not move the Y-axis during this time).
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/4-圆形内-X右-移动-01-移动到内部右侧.gif" alt="X-axis Right Side Movement" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/4-圆形内-X右-移动-01-移动到内部右侧.webp" alt="X-axis Right Side Movement" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 Click right detection, wait for detection to complete.
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/4-圆形内-X右-探测-02-内部右侧探测成功.jpg" alt="X-axis Right Side Detection Success" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/4-圆形内-X右-探测-03-内部右侧探测过程.gif" alt="X-axis Right Side Detection Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/4-圆形内-X右-探测-03-内部右侧探测过程.webp" alt="X-axis Right Side Detection Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 After detecting the workpiece, you will get the X coordinates of both internal sides of the workpiece, click Zero X below, automatically calculate the center, and set the center as X0.
 
@@ -188,7 +188,7 @@ Detect the front and back sides inside the workpiece using the same method, clic
 
 Use the movement function to move the 3D probe above the workpiece.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/4-圆形内-Z轴-移动-01-移动到工件上方.gif" alt="Z-axis Movement" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/4-圆形内-Z轴-移动-01-移动到工件上方.webp" alt="Z-axis Movement" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 And click Z-plane detection, wait for detection to complete.
 
@@ -196,7 +196,7 @@ And click Z-plane detection, wait for detection to complete.
 
 After detecting the workpiece, it will automatically set the detected position as Z0.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/4-圆形内-Z轴-探测-03-Z轴探测过程.gif" alt="Z-axis Detection Process" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/4-圆形内-Z轴-探测-03-Z轴探测过程.webp" alt="Z-axis Detection Process" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### Tool Change
 
@@ -204,7 +204,7 @@ After all settings are complete, click tool change to replace the first tool to 
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/5-换刀-点击-01-录屏点击换刀.gif" alt="Click Tool Change" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/5-换刀-过程-02-换刀过程.gif" alt="Tool Change Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/5-换刀-过程-02-换刀过程.webp" alt="Tool Change Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📋 **Centering Operation Tips**:
 > 

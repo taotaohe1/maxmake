@@ -24,9 +24,9 @@ Before installing tools, you need to click the tool change button in the softwar
 
 The equipment enters tool change mode, the spindle moves to a convenient position for tool changing (X140,Y0), waiting for tool change. At this time, the indicator light shows yellow flashing light effect.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-tool-installation/2主轴移动至换刀位置.gif" alt="Spindle moves to tool change position" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-tool-installation/2主轴移动至换刀位置.webp" alt="Spindle moves to tool change position" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-tool-installation/2指示灯黄色跳动.gif" alt="Indicator light yellow flashing" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-tool-installation/2指示灯黄色跳动.webp" alt="Indicator light yellow flashing" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📱 **Equipment Status Confirmation**:
 > 
@@ -42,9 +42,9 @@ The equipment enters tool change mode, the spindle moves to a convenient positio
 
 Pull down the handle, insert the tool, tool clamping must be ≥15mm. Slowly release the handle.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-tool-installation/3拉下把手 放入刀具.gif" alt="Pull handle and insert tool" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-tool-installation/3拉下把手 放入刀具.webp" alt="Pull handle and insert tool" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-tool-installation/3刀具夹持大于等于15mm.gif" alt="Tool clamping greater than or equal to 15mm" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-tool-installation/3刀具夹持大于等于15mm.webp" alt="Tool clamping greater than or equal to 15mm" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚠️ **Tool Installation Safety Requirements**:
 > 
@@ -60,9 +60,9 @@ Pull down the handle, insert the tool, tool clamping must be ≥15mm. Slowly rel
 
 After confirming correct installation, click the button (either internal or external), the spindle will move above the height measurer to complete height measurement.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-tool-installation/4内外部均可.gif" alt="Internal and external buttons both available" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-tool-installation/4内外部均可.webp" alt="Internal and external buttons both available" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-tool-installation/4单击按键.gif" alt="Click button to trigger height measurement" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-tool-installation/4单击按键.webp" alt="Click button to trigger height measurement" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚠️ **Tool Height Measurement Precautions**:
 > 
@@ -78,7 +78,7 @@ After confirming correct installation, click the button (either internal or exte
 
 If D1S is equipped with a 6mm collet, 6mm tools should be installed.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-tool-installation/5夹头与刀具匹配.gif" alt="Collet and tool matching" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-tool-installation/5夹头与刀具匹配.webp" alt="Collet and tool matching" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📏 **Tool Specification Description**:
 > 

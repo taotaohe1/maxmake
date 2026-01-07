@@ -8,23 +8,23 @@
 
 Accessory contents as follows:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-jaw-vise/1-展示配件.gif" alt="Accessory Display" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-jaw-vise/1-展示配件.webp" alt="Accessory Display" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 2. Installing the Jaw Vise
 
 Use the screws from the accessories to fix the rotation axis at the positions shown in the diagram.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-jaw-vise/底板丝印.jpg" alt="Base Plate Silkscreen" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-jaw-vise/底板丝印.webp" alt="Base Plate Silkscreen" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-jaw-vise/2-组装到垫板上.gif" alt="Assemble to Base Plate" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-jaw-vise/2-组装到垫板上.webp" alt="Assemble to Base Plate" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 3. Usage Method
 
 Rotate the handle to open the jaws, insert workpieces of different sizes; rotate the handle again to secure the workpiece.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-jaw-vise/3-固定黄杨木.gif" alt="Secure Boxwood" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-jaw-vise/3-固定黄杨木.webp" alt="Secure Boxwood" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-jaw-vise/4-固定代木.gif" alt="Secure Substitute Wood" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-jaw-vise/4-固定代木.webp" alt="Secure Substitute Wood" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚠️ **Usage Precautions**:
 > 
@@ -36,4 +36,4 @@ Rotate the handle to open the jaws, insert workpieces of different sizes; rotate
 
 Example of securing aluminum block:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-jaw-vise/5-固定铝块.gif" alt="Secure Aluminum Block" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-jaw-vise/5-固定铝块.webp" alt="Secure Aluminum Block" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />

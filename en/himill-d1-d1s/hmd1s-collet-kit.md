@@ -9,7 +9,7 @@
 
 Accessory contents as follows:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/1-展示配件.gif" alt="Accessory Display" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/1-展示配件.webp" alt="Accessory Display" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 2. Collet Installation
 
@@ -17,19 +17,19 @@ Accessory contents as follows:
 
 First, you need to remove the existing collet from the spindle:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/2-取下旧夹头.gif" alt="Remove Old Collet" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/2-取下旧夹头.webp" alt="Remove Old Collet" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 2.2 Take Out New Collet
 
 Remove the new 6mm collet from the package:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/3-拿出新夹头.gif" alt="Take Out New Collet" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/3-拿出新夹头.webp" alt="Take Out New Collet" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 2.3 Tighten Collet
 
 Install the new collet onto the spindle and tighten with wrench:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/4-拧紧夹头.gif" alt="Tighten Collet" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/4-拧紧夹头.webp" alt="Tighten Collet" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 3. Tool Clamping
 
@@ -37,13 +37,13 @@ Install the new collet onto the spindle and tighten with wrench:
 
 The 6mm collet is specifically designed for clamping 6mm diameter tools:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/5-6mm夹头可夹取6mm刀具.gif" alt="6mm Collet Clamps 6mm Tool" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/5-6mm夹头可夹取6mm刀具.webp" alt="6mm Collet Clamps 6mm Tool" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 3.2 Using Reduction Sleeve
 
 Using the reduction sleeve allows clamping tools of different sizes, expanding the collet's range of application:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/6-用变径套夹取不同尺寸的刀具.gif" alt="Use Reduction Sleeve to Clamp Different Size Tools" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/6-用变径套夹取不同尺寸的刀具.webp" alt="Use Reduction Sleeve to Clamp Different Size Tools" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 4. Precautions
 

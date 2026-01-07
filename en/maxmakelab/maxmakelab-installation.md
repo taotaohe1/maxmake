@@ -35,19 +35,19 @@ You can download the latest version of MaxmakeLab software through the following
 
 #### 1. Double-click the installer to install the software
 
-<img src="/eng/himill-d1-d1s/media/maxmakelab-installation/1-双击安装软件.gif" alt="Double-click installer to install software" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/maxmakelab/media/maxmakelab-installation/1-双击安装软件.webp" alt="Double-click installer to install software" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 #### 2. Open the software
 
-<img src="/eng/himill-d1-d1s/media/maxmakelab-installation/2-打开软件.gif" alt="Open software" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/maxmakelab/media/maxmakelab-installation/2-打开软件.webp" alt="Open software" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 #### 3. Click auto-connect to find device, and click return to zero after connection
 
-<img src="/eng/himill-d1-d1s/media/maxmakelab-installation/3-自动连接，点击回零.gif" alt="Auto-connect to find device" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/maxmakelab/media/maxmakelab-installation/3-自动连接，点击回零.webp" alt="Auto-connect to find device" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 #### 4. You can also select device and manually select serial port to connect
 
-<img src="/eng/himill-d1-d1s/media/maxmakelab-installation/4-手动连接.gif" alt="Manual device connection" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/maxmakelab/media/maxmakelab-installation/4-手动连接.webp" alt="Manual device connection" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 <!-- ### macOS System Installation and Usage Steps
 

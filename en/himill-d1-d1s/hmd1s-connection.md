@@ -5,7 +5,7 @@
 
 Connect the computer and device with a data cable. When opening the software for the first time, it can automatically search for and connect to HiMill devices.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-connection/1-自动连接，点击回零.gif" alt="Automatic Connection Device" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-connection/1-自动连接，点击回零.webp" alt="Automatic Connection Device" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📋 **Connection Tips**:
 > 
@@ -21,7 +21,7 @@ Connect the computer and device with a data cable, manually select device and co
 
 When automatic search fails, try using serial port connection.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-connection/2-手动连接.gif" alt="Manual Connection Device" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-connection/2-手动连接.webp" alt="Manual Connection Device" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚠️ **Connection Precautions**:
 > 

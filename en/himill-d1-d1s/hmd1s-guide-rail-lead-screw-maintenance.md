@@ -21,7 +21,7 @@ The lead screw and guide rails need regular application of grease to ensure opti
 - Move the X-axis to the far right, continue applying appropriate amount of grease
 - Move the X-axis back to the far left
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-guide-rail-lead-screw-maintenance/1-X轴.gif" alt="X-axis Maintenance" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-guide-rail-lead-screw-maintenance/1-X轴.webp" alt="X-axis Maintenance" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 3. Z-axis Maintenance
 
@@ -29,7 +29,7 @@ The lead screw and guide rails need regular application of grease to ensure opti
 - Move the Z-axis to the lowest position, continue applying appropriate amount of grease
 - Move the Z-axis back to the highest position
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-guide-rail-lead-screw-maintenance/2-Z轴.gif" alt="Z-axis Maintenance" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-guide-rail-lead-screw-maintenance/2-Z轴.webp" alt="Z-axis Maintenance" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 4. Y-axis Maintenance
 
@@ -39,4 +39,4 @@ Apply grease evenly to the guide rails and lead screw.
 
 After returning the equipment to upright position, power on and operate normally.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-guide-rail-lead-screw-maintenance/3-Y轴.gif" alt="Y-axis Maintenance" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-guide-rail-lead-screw-maintenance/3-Y轴.webp" alt="Y-axis Maintenance" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
