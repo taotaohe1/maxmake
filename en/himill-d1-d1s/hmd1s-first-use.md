@@ -21,15 +21,7 @@ We have prepared a detailed first-use tutorial video covering the complete proce
 - ⏱️ Video Duration: Approximately 6 minutes
 - 📋 Content includes: Material preparation → Software usage → Tool installation → First tool machining → Tool changing → Completion of machining
 
-<iframe 
-    src="//player.bilibili.com/player.html?isOutside=true&aid=115811897313649&bvid=BV1HWiTB2ELZ&cid=35090072779&p=1" 
-    width="100%" 
-    height="500" 
-    scrolling="no" 
-    border="0" 
-    frameborder="no" 
-    framespacing="0" 
-    allowfullscreen="true">
-</iframe>
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/3eCbuWcdnYk?si=AOLkE9COD6Gdi1VB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

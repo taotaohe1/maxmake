@@ -9,16 +9,7 @@ Before starting, we recommend watching the complete unboxing video to understand
   <source src="/en/himill-d1-d1s/media/unboxing/unboxing.mp4" type="video/mp4">
 </video> -->
 
-<iframe 
-    src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1" 
-    width="100%" 
-    height="500" 
-    scrolling="no" 
-    border="0" 
-    frameborder="no" 
-    framespacing="0" 
-    allowfullscreen="true">
-</iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/28sX656NdHs?si=6RUM2Msh9rC-FTDj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
