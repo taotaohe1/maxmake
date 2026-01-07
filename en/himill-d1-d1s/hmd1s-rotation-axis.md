@@ -58,26 +58,10 @@ Use the screws from the accessories box to fix the rotation axis at the position
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-rotation-axis/2-底板丝印.webp" alt="Bottom Plate Silkscreen" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-Installation diagram.
+Installation process.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-rotation-axis/2-2-安装图片.webp" alt="Installation Image" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-rotation-axis/2-2-安装过程.webp" alt="Installation Image" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-Installation video.
-
-<!-- <video src="media/hmd1s-rotation-axis/2/2-安装视频.mp4" controls style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;">
-  Your browser does not support video playback.
-</video> -->
-
-<iframe 
-    src="//player.bilibili.com/player.html?isOutside=true&aid=115811897313652&bvid=BV1HWiTB2EjA&cid=35090072755&p=1" 
-    width="100%" 
-    height="500" 
-    scrolling="no" 
-    border="0" 
-    frameborder="no" 
-    framespacing="0" 
-    allowfullscreen="true">
-</iframe>
 
 ## 3. Connection Cable Connection
 
