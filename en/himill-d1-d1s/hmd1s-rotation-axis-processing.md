@@ -4,7 +4,7 @@
 
 Switch the mode to CNC mode.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-rotation-axis-processing/1-切换CNC模式.webp" alt="Switch to CNC Mode" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-rotation-axis-processing/1-切换cnc模式.webp" alt="Switch to CNC Mode" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 2. Import Files
 
@@ -32,13 +32,13 @@ When the tool is at the processing origin, click to set XY0.
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-rotation-axis-processing/4-设置原点-1-刀具位于原点时.webp" alt="Tool at Origin" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-rotation-axis-processing/4-设置原点-1-设置XY0点.webp" alt="Set XY0 Point" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-rotation-axis-processing/4-设置原点-1-设置xy0点.webp" alt="Set XY0 Point" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 Slowly lower the Z-axis. When the tool just contacts the workpiece, click to set Z0.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-rotation-axis-processing/4-设置原点-2-降下Z轴.webp" alt="Lower Z-axis" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-rotation-axis-processing/4-设置原点-2-降下z轴.webp" alt="Lower Z-axis" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-rotation-axis-processing/4-设置原点-2-设置Z0点.webp" alt="Set Z0 Point" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-rotation-axis-processing/4-设置原点-2-设置z0点.webp" alt="Set Z0 Point" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚠️ **Origin Setting Notes**:
 > 

@@ -158,7 +158,7 @@ This document provides detailed information about the functions and operation me
 
 ### Step 10: Single Click to Show WIFI Connection Status, Green Means Connected to LAN, Orange Means Hotspot Mode
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/10-单击显示WIFI连接状态，绿色表示已连接局域网，橙色表示热点模式.webp" alt="WIFI Status Display" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/10-单击显示wifi连接状态，绿色表示已连接局域网，橙色表示热点模式.webp" alt="WIFI Status Display" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📋 **Function Description**:
 > 
@@ -177,7 +177,7 @@ This document provides detailed information about the functions and operation me
 
 ### Step 11: Long Press Button for 5s in Idle State to Restore Hotspot Mode
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/11-空闲状态下长按按键5s，重置WIFI.webp" alt="WIFI Reset" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-button-and-indicator/11-空闲状态下长按按键5s，重置wifi.webp" alt="WIFI Reset" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚙️ **Operation Method**:
 > 

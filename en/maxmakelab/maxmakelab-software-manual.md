@@ -67,7 +67,7 @@
 
 | Tool | Function Description | Demo |
 |------|---------------------|------|
-| **Select** | Enter selection mode, can select graphic elements, move graphic elements | <img src="/eng/maxmakelab/media/software-manual/design-panel-Select.gif" alt="Select Selection" style="width: 600px; height: auto; border-radius: 8px;" /> |
+| **Select** | Enter selection mode, can select graphic elements, move graphic elements | <img src="/eng/maxmakelab/media/software-manual/design-panel-select.gif" alt="Select Selection" style="width: 600px; height: auto; border-radius: 8px;" /> |
 | **Image** | Insert image, supports png, jpg, jpeg formats | <img src="/eng/maxmakelab/media/software-manual/design-panel-image.gif" alt="Image Insert" style="width: 600px; height: auto; border-radius: 8px;" /> |
 | **Basic** | Add lines, squares, circles | <img src="/eng/maxmakelab/media/software-manual/design-panel-basic.gif" alt="Basic Graphics" style="width: 600px; height: auto; border-radius: 8px;" /> |
 | **Text** | Add text | <img src="/eng/maxmakelab/media/software-manual/design-panel-text.gif" alt="Text Insert" style="width: 600px; height: auto; border-radius: 8px;" /> |
@@ -191,9 +191,9 @@
 
 | Function | Description | Demo |
 |----------|-------------|------|
-| **Set XY0** | Set current XY coordinates as XY zero point during processing | <img src="/eng/maxmakelab/media/software-manual/cnc-workflow-设置XY0.gif" alt="Set XY0" style="width: 600px; height: auto; border-radius: 8px;" /> |
-| **Set Z0** | Set current Z coordinates as Z zero point during processing | <img src="/eng/maxmakelab/media/software-manual/cnc-workflow-设置Z0.gif" alt="Set Z0" style="width: 600px; height: auto; border-radius: 8px;" /> |
-| **Move to XY Zero Point** | Automatically raise to safety height, then move to XY zero point position | <img src="/eng/maxmakelab/media/software-manual/cnc-workflow-移动到XY零点.gif" alt="Move to XY Zero Point" style="width: 600px; height: auto; border-radius: 8px;" /> |
+| **Set XY0** | Set current XY coordinates as XY zero point during processing | <img src="/eng/maxmakelab/media/software-manual/cnc-workflow-设置xy0.gif" alt="Set XY0" style="width: 600px; height: auto; border-radius: 8px;" /> |
+| **Set Z0** | Set current Z coordinates as Z zero point during processing | <img src="/eng/maxmakelab/media/software-manual/cnc-workflow-设置z0.gif" alt="Set Z0" style="width: 600px; height: auto; border-radius: 8px;" /> |
+| **Move to XY Zero Point** | Automatically raise to safety height, then move to XY zero point position | <img src="/eng/maxmakelab/media/software-manual/cnc-workflow-移动到xy零点.gif" alt="Move to XY Zero Point" style="width: 600px; height: auto; border-radius: 8px;" /> |
 
 #### File and Output
 
@@ -201,7 +201,7 @@
 |----------|-------------|------|
 | **File** | Select processing file | <img src="/eng/maxmakelab/media/software-manual/cnc-workflow-文件.gif" alt="File" style="width: 600px; height: auto; border-radius: 8px;" /> |
 | **Console** | Can manually or use macro buttons to send G-code | <img src="/eng/maxmakelab/media/software-manual/cnc-workflow-控制台.gif" alt="Console" style="width: 600px; height: auto; border-radius: 8px;" /> |
-| **Gcode** | Display loaded Gcode | <img src="/eng/maxmakelab/media/software-manual/cnc-workflow-Gcode.gif" alt="Gcode" style="width: 600px; height: auto; border-radius: 8px;" /> |
+| **Gcode** | Display loaded Gcode | <img src="/eng/maxmakelab/media/software-manual/cnc-workflow-gcode.gif" alt="Gcode" style="width: 600px; height: auto; border-radius: 8px;" /> |
 | **Preview Simulation Area** | Display 2D view or 3D simulation view of code | <img src="/eng/maxmakelab/media/software-manual/cnc-workflow-预览仿真区域.gif" alt="Preview Simulation Area" style="width: 600px; height: auto; border-radius: 8px;" /> |
 
 #### Other Operations
@@ -228,7 +228,7 @@
 
 | Function | Description | Demo |
 |----------|-------------|------|
-| **Save Gcode** | Save all current processing content to text format | <img src="/eng/maxmakelab/media/software-manual/laser-workflow-保存Gcode.gif" alt="Save Gcode" style="width: 600px; height: auto; border-radius: 8px;" /> |
+| **Save Gcode** | Save all current processing content to text format | <img src="/eng/maxmakelab/media/software-manual/laser-workflow-保存gcode.gif" alt="Save Gcode" style="width: 600px; height: auto; border-radius: 8px;" /> |
 | **Activate Laser** | After clicking, activate laser function and motor high-speed mode. Click again to exit laser function and restore motor normal mode | <img src="/eng/maxmakelab/media/software-manual/laser-workflow-激活激光.gif" alt="Activate Laser" style="width: 600px; height: auto; border-radius: 8px;" /> |
 | **Start Position** | Set processing start position | <img src="/eng/maxmakelab/media/software-manual/laser-workflow-开始位置.gif" alt="Start Position" style="width: 600px; height: auto; border-radius: 8px;" /> |
 

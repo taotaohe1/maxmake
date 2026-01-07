@@ -44,7 +44,7 @@ Click this button to control Z-axis up and down movement.
 
 Click this button to control A-axis (rotary axis) movement.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-movement-and-positioning/2-A轴移动.webp" alt="Rotary axis movement" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-movement-and-positioning/2-a轴移动.webp" alt="Rotary axis movement" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 5. Step Size and Feed Rate Settings
 
@@ -58,13 +58,13 @@ When moving, you can set step size and feed rate.
 
 When the tool moves to the workpiece center, click this button to set the XY0 point.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-movement-and-positioning/4-设置XY0点.webp" alt="Set XY0 point" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-movement-and-positioning/4-设置xy0点.webp" alt="Set XY0 point" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 7. Set Z0 Point
 
 When the tool just contacts the workpiece, click this button to set the Z0 point.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-movement-and-positioning/4-设置Z0点.webp" alt="Set Z0 point" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-movement-and-positioning/4-设置z0点.webp" alt="Set Z0 point" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ---
 

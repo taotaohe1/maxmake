@@ -1,4 +1,4 @@
-﻿# HiMill D1S Basic Operation and Usage Safety
+# HiMill D1S Basic Operation and Usage Safety
 
 This document introduces the basic operation methods and safety usage specifications for HiMill D1S equipment. Please read carefully and comply with all safety regulations before use.
 
@@ -9,9 +9,9 @@ This document introduces the basic operation methods and safety usage specificat
 ### 1. Voltage Check
 Before using the equipment, determine whether the equipment's power voltage value complies with local voltage values. The power interface label will indicate the current equipment power voltage. If it doesn't comply, please adjust before powering on.
 
-<img src="/eng/himill-d1-d1s/media/basic-operation-and-usage-safety/1-用电安全-贴纸-110V.webp" alt="Voltage Label 1" style="width: 150px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/basic-operation-and-usage-safety/1-用电安全-贴纸-110v.webp" alt="Voltage Label 1" style="width: 150px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/eng/himill-d1-d1s/media/basic-operation-and-usage-safety/1-用电安全-贴纸-230V.webp" alt="Voltage Label 2" style="width: 150px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/basic-operation-and-usage-safety/1-用电安全-贴纸-230v.webp" alt="Voltage Label 2" style="width: 150px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 <img src="/eng/himill-d1-d1s/media/basic-operation-and-usage-safety/1-用电安全-贴纸-英文.webp" alt="Voltage Label 3" style="width: 300px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 

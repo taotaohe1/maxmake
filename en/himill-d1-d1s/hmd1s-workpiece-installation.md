@@ -88,7 +88,7 @@ Wooden substrate removal and installation are as shown below. Use a wrench to ti
 
 When using support bars, the fixing method is as follows:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-workpiece-installation/6L型靠山.webp" alt="L-shaped Support Bar Fixing Method" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-workpiece-installation/6l型靠山.webp" alt="L-shaped Support Bar Fixing Method" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 🛠️ **Support Bar Usage Guide**:
 > 
