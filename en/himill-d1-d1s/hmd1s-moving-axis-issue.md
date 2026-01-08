@@ -42,15 +42,15 @@
 
 #### X Motor Connection Wires
 The spindle needs to be moved to the right for inspection. Try reconnecting:
-<img src="/eng/himill-d1-d1s/media/hmd1s-moving-axis-issue/X电机.jpg" alt="X Motor" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" /> <img src="/eng/himill-d1-d1s/media/hmd1s-moving-axis-issue/X电机线.jpg" alt="X Motor Wires" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-moving-axis-issue/x电机.jpg" alt="X Motor" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" /> <img src="/eng/himill-d1-d1s/media/hmd1s-moving-axis-issue/x电机线.jpg" alt="X Motor Wires" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 #### Y Motor Connection Wires
 The device needs to be placed sideways for inspection. Try reconnecting:
-<img src="/eng/himill-d1-d1s/media/hmd1s-moving-axis-issue/Y电机线.jpg" alt="Y Motor Wires" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-moving-axis-issue/y电机线.jpg" alt="Y Motor Wires" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 #### Z Motor Connection Wires
 Check the position as follows. Try reconnecting:
-<img src="/eng/himill-d1-d1s/media/hmd1s-moving-axis-issue/Z电机线.jpg" alt="Z Motor Wires" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-moving-axis-issue/z电机线.jpg" alt="Z Motor Wires" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 4. Check Lubrication Status
 - Check if the guide rails and lead screws are insufficiently lubricated

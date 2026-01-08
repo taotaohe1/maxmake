@@ -3,13 +3,13 @@
 ## Limit Switch Position Diagram
 
 X Limit Switch Position:
-<img src="/eng/himill-d1-d1s/media/hmd1s-limit-switch-issue/X限位.jpg" alt="X Limit Switch" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-limit-switch-issue/x限位.jpg" alt="X Limit Switch" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 Y Limit Switch Position:
-<img src="/eng/himill-d1-d1s/media/hmd1s-limit-switch-issue/Y限位.jpg" alt="Y Limit Switch" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-limit-switch-issue/y限位.jpg" alt="Y Limit Switch" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 Z Limit Switch Position:
-<img src="/eng/himill-d1-d1s/media/hmd1s-limit-switch-issue/Z限位.jpg" alt="Z Limit Switch" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-limit-switch-issue/z限位.jpg" alt="Z Limit Switch" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ---
 
