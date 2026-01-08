@@ -1,8 +1,16 @@
 # MaxmakeLab HiMill D1/D1S Format SD Card
 
-## Why Format SD Card
+## 📋 Why Format SD Card
 
 During device processing, files are transferred to the device's Micro SD card. If file transfer consistently fails, there may be issues with the SD card. Try formatting the SD card to resolve this problem.
+
+## ⚠️ Important Notes
+
+> **Important Reminder**: Do not power off or disconnect the USB cable during the formatting process, as this may cause device failure or SD card damage.
+>
+> {.is-warning}
+
+---
 
 ## 📝 SD Card Formatting Steps
 
@@ -20,9 +28,3 @@ After clicking the format button, the button will gray out, indicating that form
 ### Step 3: Restart Device
 
 After formatting is complete, you need to power off and restart the device to ensure the changes take effect.
-
-## ⚠️ Important Notes
-
-> **Important Reminder**: Do not power off or disconnect the USB cable during the formatting process, as this may cause device failure or SD card damage.
->
-> {.is-warning}
