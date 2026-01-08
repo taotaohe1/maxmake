@@ -18,7 +18,7 @@ After connecting the device using MaxMakeLab software, if your computer is conne
 
 | File Type | Download Link |
 |----------|--------------|
-| Firmware File | [HiMill_D1S_V1.0.34.bin](https://example.com/firmware/HiMill_D1S_V1.0.34.bin) |
+| Firmware File | [HiMill_D1S_V1.0.34.bin](/eng/himill-d1-d1s/media/HiMill_D1S_V1.0.34.bin) |
 
 ---
 
