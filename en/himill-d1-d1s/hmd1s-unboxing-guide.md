@@ -46,7 +46,7 @@ After unboxing, please first check if the following accessories are complete:
 > 
 > The wooden substrate is standard equipment for each machine and is pre-installed at the factory. Below is the DXF vector file for the wooden substrate. You can process wooden substrates of different thicknesses according to your needs. You can also purchase them from our independent website.
 > 
-> **📁 [sacrificial plate.dxf download](media/sacrificial%20plate.dxf)**
+> **📁 [sacrificial_plate.dxf](/eng/himill-d1-d1s/media/sacrificial_plate.dxf)**
 > 
 > 📋 **Safety Reminder**:
 > 
