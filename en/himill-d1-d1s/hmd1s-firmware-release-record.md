@@ -7,7 +7,7 @@
 After connecting the device using MaxMakeLab software, if your computer is connected to the internet, the software will automatically check for the latest firmware version and prompt for upgrade.
 
 ### Manual Update
-For detailed instructions, please refer to: [MaxmakeLab HiMill D1/D1S Firmware Upgrade](/eng/himill-d1-d1s/hmd1s-firmware-upgrade.md)
+For detailed instructions, please refer to: [MaxmakeLab HiMill D1/D1S Firmware Upgrade](/en/himill-d1-d1s/hmd1s-firmware-upgrade.md)
 
 If you choose to manually flash the firmware, you can follow these steps:
 
@@ -27,7 +27,7 @@ If you choose to manually flash the firmware, you can follow these steps:
 
 | File Type | Download Link |
 |----------|--------------|
-| Firmware File | [HiMill_D1S_V1.0.34.bin](/eng/himill-d1-d1s/media/himill_d1-v1.0.34-20251222) |
+| Firmware File | [HiMill_D1S_V1.0.34.bin](/eng/himill-d1-d1s/media/himill_d1-v1.0.34-20251222.bin) |
 
 ---
 
