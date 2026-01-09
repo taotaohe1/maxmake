@@ -17,23 +17,23 @@ After connecting the equipment, import the prepared NC program.
 
 Turn on the spindle and control the tool to move to the processing origin.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-processing-control/2-转动主轴.webp" alt="Turn on Spindle" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />  
+<img src="/eng/himill-d1-d1s/media/hmd1s-processing-control/2-转动主轴.webp" alt="Turn on Spindle" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />  
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-processing-control/2-移动到原点.webp" alt="Move to Origin" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-processing-control/2-移动到原点.webp" alt="Move to Origin" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 4. Set Origin
 
 Using the processing origin at the workpiece center point as an example, when the tool is at the workpiece center point, click to set XY0.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-processing-control/3-设置原点-刀具处于中心点.webp" alt="Tool at Center Point" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />  
+<img src="/eng/himill-d1-d1s/media/hmd1s-processing-control/3-设置原点-刀具处于中心点.webp" alt="Tool at Center Point" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />  
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-processing-control/3-设置原点-设置xy0点.webp" alt="Set XY0 Point" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-processing-control/3-设置原点-设置xy0点.webp" alt="Set XY0 Point" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 Slowly lower the Z-axis. When the tool just contacts the workpiece, click to set Z0.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-processing-control/3-设置原点-降z轴.webp" alt="Lower Z-axis" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />  
+<img src="/eng/himill-d1-d1s/media/hmd1s-processing-control/3-设置原点-降z轴.webp" alt="Lower Z-axis" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />  
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-processing-control/3-设置原点-设置z0点.webp" alt="Set Z0 Point" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-processing-control/3-设置原点-设置z0点.webp" alt="Set Z0 Point" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 5. Preview Simulation
 
@@ -56,7 +56,7 @@ Click the start processing button to transfer the processing file to the device 
 
 According to the prompts, wait until the indicator light shows the rainbow rotating light effect, then long press the equipment button for 2 seconds to start processing.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-processing-control/5-接受文件开始加工.webp" alt="Accept File and Start Processing" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-processing-control/5-接受文件开始加工.webp" alt="Accept File and Start Processing" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚠️ **Processing Control Notes**:
 > 

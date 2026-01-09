@@ -18,7 +18,7 @@ This document provides detailed information about the functions and operation me
 
 > ⚙️ **Operation Method**:
 > 
-> Click the "Return to Zero" button in the software and wait for the device to complete automatic homing.
+> Click the "Home" button in the software and wait for the device to complete automatic homing.
 > 
 > {.is-info}
 

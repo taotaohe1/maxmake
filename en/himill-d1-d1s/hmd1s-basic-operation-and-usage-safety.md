@@ -7,13 +7,19 @@ This document introduces the basic operation methods and safety usage specificat
 ## 🔌 Electrical Safety
 
 ### 1. Voltage Check
-Before using the equipment, determine whether the equipment's power voltage value complies with local voltage values. The power interface label will indicate the current equipment power voltage. If it doesn't comply, please adjust before powering on.
+Before using the equipment, determine whether the equipment's power voltage value complies with local voltage values. The power interface label will indicate the current equipment power voltage.
 
-<img src="/eng/himill-d1-d1s/media/basic-operation-and-usage-safety/1-用电安全-贴纸-110v.webp" alt="Voltage Label 1" style="width: 150px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/basic-operation-and-usage-safety/1-用电安全-贴纸-110v.webp" alt="Voltage Label 1" style="width: 150px; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
-<img src="/eng/himill-d1-d1s/media/basic-operation-and-usage-safety/1-用电安全-贴纸-230v.webp" alt="Voltage Label 2" style="width: 150px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/basic-operation-and-usage-safety/1-用电安全-贴纸-230v.webp" alt="Voltage Label 2" style="width: 150px; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
-<img src="/eng/himill-d1-d1s/media/basic-operation-and-usage-safety/1-用电安全-贴纸-英文.webp" alt="Voltage Label 3" style="width: 300px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/basic-operation-and-usage-safety/1-用电安全-贴纸-英文.webp" alt="Voltage Label 3" style="width: 300px; height: auto; margin-bottom: 8px; border-radius: 0px;" />
+
+If it doesn't comply, please adjust before powering on. The adjustment position is as follows.
+
+<img src="/eng/himill-d1-d1s/media/basic-operation-and-usage-safety/电压调节位置.jpg" alt="Voltage Adjustment Position" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 8px;" />
+
+<img src="/eng/himill-d1-d1s/media/basic-operation-and-usage-safety/电压调节位置内部.jpg" alt="Internal Voltage Adjustment Position" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 8px;" />
 
 ### 2. Voltage Switching
 Slide to the left to switch to 230V, slide to the right to switch to 110V.

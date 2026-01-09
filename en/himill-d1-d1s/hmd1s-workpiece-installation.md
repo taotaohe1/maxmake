@@ -8,7 +8,7 @@ This document details various workpiece installation methods for HiMill D1S equi
 
 When using clamping plates, keep the clamping plates parallel and press down on the workpiece. The diagram shows the correct installation method.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-workpiece-installation/1正确安装方式.webp" alt="Correct Clamping Plate Method" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-workpiece-installation/1正确安装方式.webp" alt="Correct Clamping Plate Method" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📋 **Installation Key Points**:
 > 
@@ -25,7 +25,7 @@ When using clamping plates, keep the clamping plates parallel and press down on 
 Choose screws of appropriate length. After fixing, they should not contact the bottom panel. This prevents scratching the bottom panel when the platform moves.
 The diagram below shows incorrect installation
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-workpiece-installation/2 选择合适长度螺丝1.webp" alt="Screw Length Selection 1" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-workpiece-installation/2 选择合适长度螺丝1.webp" alt="Screw Length Selection 1" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 🔧 **Screw Selection Principles**:
 > 
@@ -41,7 +41,7 @@ The diagram below shows incorrect installation
 
 When clamping large objects, ensure the edges are firmly clamped. If clamping plates cannot clamp correctly, please change to other fixing methods.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-workpiece-installation/3装夹大物体.webp" alt="Large Object Clamping Method" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-workpiece-installation/3装夹大物体.webp" alt="Large Object Clamping Method" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚙️ **Large Object Clamping Strategy**:
 > 
@@ -57,7 +57,7 @@ When clamping large objects, ensure the edges are firmly clamped. If clamping pl
 
 Before clamping, you should be familiar with the machining range, which is the length, width, and height of the machining tool path. Clamping plates should avoid all tool paths to prevent tools from hitting clamping plates during machining.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-workpiece-installation/4熟知加工范围.webp" alt="Machining Range Diagram" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-workpiece-installation/4熟知加工范围.webp" alt="Machining Range Diagram" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📐 **Machining Range Planning**:
 > 
@@ -73,7 +73,7 @@ Before clamping, you should be familiar with the machining range, which is the l
 
 Wooden substrate removal and installation are as shown below. Use a wrench to tighten or loosen the corresponding countersunk screws.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-workpiece-installation/5木工基板拆装.webp" alt="Wooden Substrate Removal and Installation" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-workpiece-installation/5木工基板拆装.webp" alt="Wooden Substrate Removal and Installation" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚠️ **Substrate Clamping Precautions**:
 > 
@@ -88,7 +88,7 @@ Wooden substrate removal and installation are as shown below. Use a wrench to ti
 
 When using support bars, the fixing method is as follows:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-workpiece-installation/6l型靠山.webp" alt="L-shaped Support Bar Fixing Method" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-workpiece-installation/6l型靠山.webp" alt="L-shaped Support Bar Fixing Method" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 🛠️ **Support Bar Usage Guide**:
 > 
@@ -97,3 +97,18 @@ When using support bars, the fixing method is as follows:
 > - Support bar surface should be clean and flat
 > 
 > {.is-info}
+
+---
+
+## 📋 Installation Safety Summary
+
+> 🚨 **Safe Operation Key Points**:
+> 
+> - Check all tools and accessories before installation
+> - Ensure the workpiece is firmly fixed before starting machining
+> - Regularly check the installation status to prevent loosening
+> - Avoid touching moving parts during machining
+> 
+> {.is-warning}
+
+---

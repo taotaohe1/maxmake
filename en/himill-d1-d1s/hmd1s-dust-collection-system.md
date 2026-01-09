@@ -4,7 +4,7 @@
 
 The dust hood uses magnetic attachment installation. Before processing, raise the spindle to its highest position and install the dust hood.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-dust-collection-system/1.webp" alt="Magnetic Installation of Dust Hood" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-dust-collection-system/1.webp" alt="Magnetic Installation of Dust Hood" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 2. Operations During Tool Change
 
@@ -21,7 +21,7 @@ When changing tools, with the spindle in standby state, you can first remove the
 
 Take out the adapter and hose clamp from the accessories box and install as shown. Open the vacuum cleaner during processing.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-dust-collection-system/2.webp" alt="Adapter and Hose Clamp Installation" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-dust-collection-system/2.webp" alt="Adapter and Hose Clamp Installation" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 4. Vacuum Cleaner Selection and Use
 
