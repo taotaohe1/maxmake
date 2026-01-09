@@ -33,7 +33,7 @@ This is your one-stop resource containing all content related to MAXMAKE, includ
     <a href="/en/himill-d1s.md#quick-start" style="display: block; margin-bottom: 2px; color: #60a0e0ff;">Quick Start</a>
     <a href="/en/himill-d1s.md#usage-instructions" style="display: block; margin-bottom: 2px; color: #51ad65ff;">Usage Instructions</a>
     <a href="/en/himill-d1s.md#software-operation" style="display: block; margin-bottom: 2px; color: #af4979ff;">Software Operation</a>
-    <a href="/en/himill-d1s.md#accessories-usage" style="display: block; margin-bottom: 2px; color: #aa730eff;">Accessories Usage</a>
+    <a href="/en/himill-d1s.md#accessories-usage-instructions" style="display: block; margin-bottom: 2px; color: #aa730eff;">Accessories Usage</a>
     <!-- Can continue to add more links -->
   </div>
   </div>
@@ -52,8 +52,8 @@ This is your one-stop resource containing all content related to MAXMAKE, includ
     <!-- <p style="margin: 0 0 2px 0; font-weight: bold;">Related Links:</p> -->
     <a href="/en/himill-d1.md#quick-start" style="display: block; margin-bottom: 2px; color: #60a0e0ff;">Quick Start</a>
     <a href="/en/himill-d1.md#usage-instructions" style="display: block; margin-bottom: 2px; color: #51ad65ff;">Usage Instructions</a>
-    <a href="/en/himill-d1.md#component-replacement" style="display: block; margin-bottom: 2px; color: #af4979ff;">Component Replacement Guide</a>
-    <a href="/en/himill-d1.md#firmware-release" style="display: block; margin-bottom: 2px; color: #aa730eff;">Firmware Release Record</a>
+    <a href="/en/himill-d1.md#software-operation" style="display: block; margin-bottom: 2px; color: #af4979ff;">Software Operation</a>
+    <a href="/en/himill-d1.md#accessories-usage-instructions" style="display: block; margin-bottom: 2px; color: #aa730eff;">Accessories Usage</a>
     <!-- Can continue to add more links -->
   </div>
   </div>
@@ -65,7 +65,7 @@ This is your one-stop resource containing all content related to MAXMAKE, includ
 ## MaxmakeLAB
 <div style="display: flex; gap: 24px; margin-top: 16px;">
 
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; display: flex; gap: 48px; align-items: center;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; display: flex; gap: 16px; align-items: center; min-width: 300px;">
   <!-- Left image area -->
   <div style="width: 50%;"> <!-- Image ratio adjustable -->
     <a href="/en/maxmakelab/maxmakelab-introduction.md"><img src="/eng/himill-d1-d1s/media/icon/maxmakelab.png" alt="MaxmakeLab" style="width: 100%; max-width: 100px; height: auto; border-radius: 6px;" /></a>
@@ -75,12 +75,12 @@ This is your one-stop resource containing all content related to MAXMAKE, includ
   </div>
 
   <!-- Right text link area -->
-  <div style="width: 50%;"> <!-- Text area takes remaining width -->
+  <div style="width: 70%;"> <!-- Text area takes remaining width -->
     <!-- <p style="margin: 0 0 2px 0; font-weight: bold;">Related Links:</p> -->
     <a href="/en/maxmakelab/maxmakelab-introduction.md" style="display: block; margin-bottom: 2px; color: #60a0e0ff;">Software Introduction</a>
     <a href="/en/maxmakelab/maxmakelab-installation.md" style="display: block; margin-bottom: 2px; color: #51ad65ff;">Software Installation</a>
-    <a href="/en/maxmakelab/maxmakelab-introduction.md#operation-process" style="display: block; margin-bottom: 2px; color: #af4979ff;">Quick Start</a>
-    <a href="/en/maxmakelab/maxmakelab-introduction.md#advanced-learning" style="display: block; margin-bottom: 2px; color: #aa730eff;">Advanced Features</a>
+    <a href="/en/maxmakelab/maxmakelab-introduction.md" style="display: block; margin-bottom: 2px; color: #af4979ff;">Quick Start</a>
+    <a href="/en/maxmakelab/maxmakelab-software-manual.md" style="display: block; margin-bottom: 2px; color: #aa730eff;">Advanced Features</a>
     <!-- Can continue to add more links -->
   </div>
   </div>
@@ -102,6 +102,7 @@ This is your one-stop resource containing all content related to MAXMAKE, includ
   <div style="border: 1px solid #e0e0e0; border-radius: 6px; padding: 12px; text-align: center; width: 180px;">
     <a href="https://www.facebook.com/groups/1284762976427127/?sorting_setting=CHRONOLOGICAL" target="_blank" rel="noopener noreferrer">
       <img src="/eng/himill-d1-d1s/media/icon/facebook.png" alt="Facebook" style="width: auto; height: 80px; margin-bottom: 8px; border-radius: 6px;" />
+      <br>
       Facebook
     </a>
   </div>
@@ -109,6 +110,7 @@ This is your one-stop resource containing all content related to MAXMAKE, includ
   <div style="border: 1px solid #e0e0e0; border-radius: 6px; padding: 12px; text-align: center; width: 180px;">
     <a href="https://discord.com/channels/1436232802227064903/1436232803061600351" target="_blank" rel="noopener noreferrer">
       <img src="/eng/himill-d1-d1s/media/icon/discord.png" alt="Discord" style="width: auto; height: 80px; margin-bottom: 8px; border-radius: 6px;" />
+      <br>
       Discord
     </a>
   </div>
@@ -116,6 +118,7 @@ This is your one-stop resource containing all content related to MAXMAKE, includ
   <div style="border: 1px solid #e0e0e0; border-radius: 6px; padding: 12px; text-align: center; width: 180px;">
     <a href="https://www.instagram.com/maxmaketech/" target="_blank" rel="noopener noreferrer">
       <img src="/eng/himill-d1-d1s/media/icon/ins.png" alt="Instagram" style="width: auto; height: 80px; margin-bottom: 8px; border-radius: 6px;" />
+      <br>
       Instagram
     </a>
   </div>
@@ -123,6 +126,7 @@ This is your one-stop resource containing all content related to MAXMAKE, includ
   <div style="border: 1px solid #e0e0e0; border-radius: 6px; padding: 12px; text-align: center; width: 180px;">
     <a href="https://www.youtube.com/@MaxmakeTech" target="_blank" rel="noopener noreferrer">
       <img src="/eng/himill-d1-d1s/media/icon/youtube.png" alt="YouTube" style="width: auto; height: 80px; margin-bottom: 8px; border-radius: 6px;" />
+      <br>
       YouTube
     </a>
   </div>
