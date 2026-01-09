@@ -10,7 +10,7 @@ Necessary and simple operation steps to help you quickly get started with HiMill
 * [HiMill D1S Unboxing Guide](/en/himill-d1-d1s/hmd1s-unboxing-guide.md)
 * [MaxmakeLab Software Installation](/en/maxmakelab/maxmakelab-installation.md)
 * [HiMill D1S First Use](/en/himill-d1-d1s/hmd1s-first-use.md)
-* [HiMill D1S Manual Download](/eng/himill-d1-d1s/media/d1s产品说明书en.pdf)
+* [HiMill D1S Manual Download](/eng/himill-d1-d1s/media/d1s-en.pdf)
 
 ## Usage Instructions
 Detailed operation instructions to help you correctly use HiMill D1S.
