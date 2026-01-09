@@ -4,112 +4,118 @@
 
 MaxmakeLab is an intelligent control software designed specifically for HiMill series CNC equipment, providing an intuitive operation interface and rich processing functions to help users easily complete various creative processing tasks. Whether you are a CNC beginner or an experienced user, you can quickly get started with using it.
 
-## 🎨 Interface Introduction
+The software supports both CNC processing and laser processing modes, with complete design, toolpath generation, and processing control functions, providing users with a one-stop processing solution.
 
-### Main Interface Layout
 
-MaxmakeLab adopts a clean and clear interface design, mainly divided into the following areas:
+## 🎨 Main Interface Function Introduction
 
-1. **Menu Bar**: Located at the top of the interface, containing menus such as File, Edit, View, Tools, Help
-2. **Toolbar**: Common function shortcut buttons, such as Open File, Save, Run, Pause, etc.
-3. **Device Control Area**: Device connection, motion control, spindle control and other device operation functions
-4. **Processing Parameters Area**: Set processing speed, spindle speed, feed rate and other parameters
-5. **Preview Area**: Real-time display of processing paths and workpiece preview
-6. **Status Bar**: Display device status, processing progress, current position and other information
+MaxmakeLab adopts a modular interface design, mainly divided into the following functional areas:
 
-## 🚀 Basic Functions
+<div style="display: flex; gap: 16px; flex-wrap: wrap;">
+  <img src="/eng/maxmakelab/media/software-manual/main-interface1.png" alt="Main Interface Layout 1" style="width: calc(50% - 8px); height: auto; border-radius: 8px;" />
+  <img src="/eng/maxmakelab/media/software-manual/main-interface2.png" alt="Main Interface Layout 2" style="width: calc(50% - 8px); height: auto; border-radius: 8px;" />
+</div>
 
-### File Management
-- **Open File**: Support importing G-code files (.nc, .gcode format)
-- **Save File**: Save current processing parameters and paths
-- **File Preview**: Preview complete processing path before processing
+### Interface Function Partition
 
-### Device Control
-- **Connect Device**: Automatically search and connect HiMill series equipment
-- **Manual Control**: Control each axis movement through interface buttons or keyboard
-- **Auto Zero Return**: One-click execution of equipment automatic zero return operation
-- **Emergency Stop**: Quickly stop all processing operations
+| Area | Name | Function Description |
+|------|------|---------------------|
+| 1 | Menu Bar | Import and export files, adjust view size, software settings, help guide, language switching, mode switching |
+| 2 | Design Bar | Add various types of primitives (lines, rectangles, circles, text, images, etc.) |
+| 3 | Canvas | Generally the size of the device's working area, used for designing and editing processing graphics |
+| 4 | Color Bar | Assign different colors to primitives for easy distinction and processing parameter setting |
+| 5 | Device Bar | Select, connect, and quickly control devices |
+| 6 | Parameter Setting | Set blank parameters and tool library parameters in CNC mode, set processing parameters in laser mode |
+| 7 | Generate Toolpath | Choose the way to generate toolpath (contour milling, plane milling, V-type milling, drilling, relief, etc.) |
+| 8 | Toolpath List | Display already generated toolpaths |
+| 9 | Quick Control | Quick control functions in laser mode, such as fast movement, reset, etc. |
+| 10 | Layer Bar | Assign different processing parameters to primitives of different colors |
+| 11 | Simulation Preview | Simulate and preview processing paths |
 
-### Processing Settings
-- **Spindle Control**: Set spindle speed and on/off status
-- **Feed Rate Control**: Adjust processing feed speed
-- **Processing Origin Setting**: Precisely set workpiece processing origin
-- **Tool Compensation**: Set tool compensation parameters
+## 🚀 Core Function Features
 
-### Processing Monitoring
-- **Real-time Position Display**: Display current position coordinates of each axis
-- **Processing Progress Monitoring**: Display processing completion percentage
-- **Status Log**: Record equipment operation status and operation history
+### 1. Design Functions
+- **Basic Primitive Drawing**: Lines, rectangles, circles, text, etc.
+- **Image Import**: Support PNG, JPG, JPEG format image import
+- **Pen Tool**: Create complex Bezier curves
+- **Graphic Editing**: Node editing, offset, array (rectangular/circular), Boolean operations, etc.
+- **Graphic Library**: Provide rich preset graphics
+- **Plugin Extension**: Support advanced functions like box generation, gear generation, etc.
 
-## 🛠️ Operation Process
+### 2. Device Control
+- **Auto Connect**: One-click search and connect HiMill series devices
+- **Manual Connect**: Manually select serial port for connection
+- **Device Settings**: Quick access to device-related settings and help
+- **Status Monitoring**: Real-time display of device connection status and operation information
 
-### Step 1: Connect Device
-1. Ensure the device is properly connected to the computer
-2. Start MaxmakeLab software
-3. Click the "Search Device" button, the software will automatically recognize the device
-4. After successful device connection, the status bar will display "Device Connected"
+### 3. Processing Functions
 
-### Step 2: Import File
-1. Click "File" → "Open", select your G-code file
-2. After file import, the preview area will display the processing path
-3. You can use mouse to zoom and pan to preview the processing path
+#### CNC Processing
+- **Blank Setting**: Custom blank size
+- **Tool Library Management**: Add and manage tool parameters
+- **Multiple Toolpath Generation**: Contour milling, plane milling, V-type milling, drilling, relief, etc.
+- **Toolpath Simulation**: 2D/3D preview of processing paths
+- **Precise Control**: Single-step control, spindle switch, tool change, etc.
+- **Coordinate Setting**: Flexible setting of XY0 and Z0 coordinates
 
-### Step 3: Set Processing Parameters
-1. Set appropriate spindle speed and feed rate in the "Processing Parameters" area
-2. Choose appropriate processing parameters based on processing materials and tools
-3. Set processing origin and tool compensation (if needed)
+#### Laser Processing
+- **Color Mapping**: Different colors correspond to different processing parameters
+- **Layer Management**: Move up/move down/delete layers
+- **Processing Modes**: Support absolute coordinate mode and current position mode
+- **Laser Control**: Activate laser function and motor high-speed mode
 
-### Step 4: Start Processing
-1. Ensure the workpiece is properly fixed on the equipment workbench
-2. Click the "Run" button to start processing
-3. During processing, you can pause processing through the "Pause" button, or end processing through the "Stop" button
+## 🛠️ Typical Processing Workflow
 
-### Step 5: Processing Complete
-1. After processing is complete, the equipment will automatically stop and return to origin
-2. Check the processing effect, if satisfied then processing is complete
-3. If adjustments are needed, modify processing parameters and run again
+### CNC Processing Workflow
 
-## 💡 Usage Tips
+1. **Design or Import Graphics**: Draw graphics on the canvas or import external files
+2. **Set Blank Parameters**: Set the size of processing material in the parameter bar
+3. **Select Tools**: Select appropriate tools from the tool library
+4. **Generate Toolpath**: Choose toolpath generation method and set processing parameters
+5. **Preview Toolpath**: Check processing paths in the simulation preview area
+6. **Connect Device**: Click "Auto Connect" or manually connect the device
+7. **Zero Return Operation**: Must execute zero return operation after turning on the device
+8. **Start Processing**: Click the "Run" button to start processing, can pause or stop at any time
 
-1. **Keyboard Shortcuts**:
-   - `Ctrl+O`: Open file
-   - `Ctrl+S`: Save file
-   - `F5`: Start processing
-   - `F6`: Pause processing
-   - `F7`: Stop processing
+### Laser Processing Workflow
 
-2. **Safe Operation**:
-   - Before processing, be sure to check if workpiece fixation is secure
-   - Do not leave the equipment during processing
-   - In case of abnormal situations, immediately press the "Emergency Stop" button
+1. **Design or Import Graphics**: Draw graphics on the canvas or import external files
+2. **Set Colors**: Assign different colors to different primitives
+3. **Set Processing Parameters**: Set processing parameters for different colors in the layer bar
+4. **Preview Effect**: Check graphics and processing parameter settings
+5. **Connect Device**: Click "Auto Connect" or manually connect the device
+6. **Activate Laser**: Click the "Activate Laser" button
+7. **Set Start Position**: Select the start position for processing
+8. **Start Processing**: Click the "Run" button to start processing
 
-3. **Performance Optimization**:
-   - For complex processing files, path optimization can be performed first
-   - Regularly clean software cache to keep software running smoothly
+## ⌨️ Common Shortcuts
 
-## ❓ Frequently Asked Questions
+| Shortcut | Function |
+|----------|----------|
+| Ctrl + S | Save file |
+| Ctrl + Z | Undo operation |
+| Delete | Delete selected primitives |
+| Esc | Cancel selection |
 
-### Q: How to adjust processing speed?
-A: Adjust the "Feed Rate" parameter in the processing parameters area. The larger the value, the faster the processing speed.
+## ❓ Frequently Asked Questions and Solutions
 
-### Q: What to do if processing path preview is incorrect?
-A: Check if the imported G-code file is correct, or reset the processing origin.
+### Device Connection Issues
+- **Cannot find device**: Try restarting the software, reconnecting the USB data cable, checking if the device is properly powered
+- **Connected but cannot control**: Check if the USB data cable is intact, try replacing the data cable or USB port
 
-### Q: What to do if software response is slow?
-A: Close other unnecessary software, or reduce the display accuracy of the preview area.
+### Software Usage Issues
+- **Abnormal interface display**: Check if the computer has the latest graphics card driver installed, adjust monitor resolution
 
-### Q: How to export processing files?
-A: Click "File" → "Export", select the export format.
+### Processing Issues
+- **Adjust processing speed**: Adjust the "Feed Rate" parameter in the processing parameters area. The larger the value, the faster the processing speed
+- **Incorrect processing path preview**: Check if the imported file is correct, or reset the processing origin
 
-## 📚 Advanced Learning
+## 📚 Learning Resources
 
 If you want to learn more about MaxmakeLab's features in depth, you can refer to:
+- [MaxmakeLab Software Installation Guide](/en/maxmakelab/maxmakelab-installation.md)
+- [MaxmakeLab Software Manual](/en/maxmakelab/maxmakelab-software-manual.md)
 - [HiMill D1S Processing Control](/en/himill-d1-d1s/hmd1s-processing-control.md)
 - [HiMill D1S Laser Processing](/en/himill-d1-d1s/hmd1s-laser-processing.md)
-- [HiMill D1S Rotation Axis Processing](/en/himill-d1-d1s/hmd1s-rotation-axis-processing.md)
 
 ---
-
-*Document Version: v1.0*
-*Update Time: 2024*
-*Applicable Software: MaxmakeLab v2.0 and above*
