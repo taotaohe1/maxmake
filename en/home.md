@@ -21,19 +21,19 @@ This is your one-stop resource containing all content related to MAXMAKE, includ
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; display: flex; gap: 48px; align-items: center;">
   <!-- Left image area -->
   <div style="width: 50%;"> <!-- Image ratio adjustable -->
-    <a href="/eng/himill-d1s.md"><img src="/eng/himill-d1-d1s/media/himill-d1s.png" alt="HiMill D1S" style="width: 100%; height: auto; border-radius: 6px;" /></a>
+    <a href="/en/himill-d1s.md"><img src="/eng/himill-d1-d1s/media/himill-d1s.png" alt="HiMill D1S" style="width: 100%; height: auto; border-radius: 6px;" /></a>
     <br>
-        <strong><a href="/eng/himill-d1s.md" style="display: block; margin-bottom: 2px; color: #2c3e50; text-align: center;">HiMill D1S</a></strong>
+        <strong><a href="/en/himill-d1s.md" style="display: block; margin-bottom: 2px; color: #2c3e50; text-align: center;">HiMill D1S</a></strong>
     <br>
   </div>
 
   <!-- Right text link area -->
   <div style="width: 50%;"> <!-- Text area takes remaining width -->
     <!-- <p style="margin: 0 0 2px 0; font-weight: bold;">Related Links:</p> -->
-    <a href="/eng/himill-d1s.md#quick-start" style="display: block; margin-bottom: 2px; color: #60a0e0ff;">Quick Start</a>
-    <a href="/eng/himill-d1s.md#usage-instructions" style="display: block; margin-bottom: 2px; color: #51ad65ff;">Usage Instructions</a>
-    <a href="/eng/himill-d1s.md#software-operation" style="display: block; margin-bottom: 2px; color: #af4979ff;">Software Operation</a>
-    <a href="/eng/himill-d1s.md#accessories-usage" style="display: block; margin-bottom: 2px; color: #aa730eff;">Accessories Usage</a>
+    <a href="/en/himill-d1s.md#quick-start" style="display: block; margin-bottom: 2px; color: #60a0e0ff;">Quick Start</a>
+    <a href="/en/himill-d1s.md#usage-instructions" style="display: block; margin-bottom: 2px; color: #51ad65ff;">Usage Instructions</a>
+    <a href="/en/himill-d1s.md#software-operation" style="display: block; margin-bottom: 2px; color: #af4979ff;">Software Operation</a>
+    <a href="/en/himill-d1s.md#accessories-usage" style="display: block; margin-bottom: 2px; color: #aa730eff;">Accessories Usage</a>
     <!-- Can continue to add more links -->
   </div>
   </div>
@@ -41,19 +41,19 @@ This is your one-stop resource containing all content related to MAXMAKE, includ
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; display: flex; gap: 48px; align-items: center;">
   <!-- Left image area -->
   <div style="width: 50%;"> <!-- Image ratio adjustable -->
-    <a href="/eng/himill-d1.md"><img src="/eng/himill-d1-d1s/media/himill-d1.png" alt="HiMill D1" style="width: 100%; height: auto; border-radius: 6px;" /></a>
+    <a href="/en/himill-d1.md"><img src="/eng/himill-d1-d1s/media/himill-d1.png" alt="HiMill D1" style="width: 100%; height: auto; border-radius: 6px;" /></a>
     <br>
-        <strong><a href="/eng/himill-d1.md" style="display: block; margin-bottom: 2px; color: #2c3e50; text-align: center;">HiMill D1</a></strong>
+        <strong><a href="/en/himill-d1.md" style="display: block; margin-bottom: 2px; color: #2c3e50; text-align: center;">HiMill D1</a></strong>
     <br>
   </div>
 
   <!-- Right text link area -->
   <div style="width: 50%;"> <!-- Text area takes remaining width -->
     <!-- <p style="margin: 0 0 2px 0; font-weight: bold;">Related Links:</p> -->
-    <a href="/eng/himill-d1.md#quick-start" style="display: block; margin-bottom: 2px; color: #60a0e0ff;">Quick Start</a>
-    <a href="/eng/himill-d1.md#usage-instructions" style="display: block; margin-bottom: 2px; color: #51ad65ff;">Usage Instructions</a>
-    <a href="/eng/himill-d1.md#component-replacement" style="display: block; margin-bottom: 2px; color: #af4979ff;">Component Replacement Guide</a>
-    <a href="/eng/himill-d1.md#firmware-release" style="display: block; margin-bottom: 2px; color: #aa730eff;">Firmware Release Record</a>
+    <a href="/en/himill-d1.md#quick-start" style="display: block; margin-bottom: 2px; color: #60a0e0ff;">Quick Start</a>
+    <a href="/en/himill-d1.md#usage-instructions" style="display: block; margin-bottom: 2px; color: #51ad65ff;">Usage Instructions</a>
+    <a href="/en/himill-d1.md#component-replacement" style="display: block; margin-bottom: 2px; color: #af4979ff;">Component Replacement Guide</a>
+    <a href="/en/himill-d1.md#firmware-release" style="display: block; margin-bottom: 2px; color: #aa730eff;">Firmware Release Record</a>
     <!-- Can continue to add more links -->
   </div>
   </div>
@@ -68,19 +68,19 @@ This is your one-stop resource containing all content related to MAXMAKE, includ
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; display: flex; gap: 48px; align-items: center;">
   <!-- Left image area -->
   <div style="width: 50%;"> <!-- Image ratio adjustable -->
-    <a href="/eng/maxmakelab/maxmakelab-introduction.md"><img src="/eng/himill-d1-d1s/media/icon/maxmakelab.png" alt="MaxmakeLab" style="width: 100%; max-width: 100px; height: auto; border-radius: 6px;" /></a>
+    <a href="/en/maxmakelab/maxmakelab-introduction.md"><img src="/eng/himill-d1-d1s/media/icon/maxmakelab.png" alt="MaxmakeLab" style="width: 100%; max-width: 100px; height: auto; border-radius: 6px;" /></a>
     <br>
-        <strong><a href="/eng/maxmakelab/maxmakelab-introduction.md" style="display: block; margin-bottom: 2px; color: #2c3e50; text-align: center;">MaxmakeLab</a></strong>
+        <strong><a href="/en/maxmakelab/maxmakelab-introduction.md" style="display: block; margin-bottom: 2px; color: #2c3e50; text-align: center;">MaxmakeLab</a></strong>
     <br>
   </div>
 
   <!-- Right text link area -->
   <div style="width: 50%;"> <!-- Text area takes remaining width -->
     <!-- <p style="margin: 0 0 2px 0; font-weight: bold;">Related Links:</p> -->
-    <a href="/eng/maxmakelab/maxmakelab-introduction.md" style="display: block; margin-bottom: 2px; color: #60a0e0ff;">Software Introduction</a>
-    <a href="/eng/maxmakelab/maxmakelab-installation.md" style="display: block; margin-bottom: 2px; color: #51ad65ff;">Software Installation</a>
-    <a href="/eng/maxmakelab/maxmakelab-introduction.md#operation-process" style="display: block; margin-bottom: 2px; color: #af4979ff;">Quick Start</a>
-    <a href="/eng/maxmakelab/maxmakelab-introduction.md#advanced-learning" style="display: block; margin-bottom: 2px; color: #aa730eff;">Advanced Features</a>
+    <a href="/en/maxmakelab/maxmakelab-introduction.md" style="display: block; margin-bottom: 2px; color: #60a0e0ff;">Software Introduction</a>
+    <a href="/en/maxmakelab/maxmakelab-installation.md" style="display: block; margin-bottom: 2px; color: #51ad65ff;">Software Installation</a>
+    <a href="/en/maxmakelab/maxmakelab-introduction.md#operation-process" style="display: block; margin-bottom: 2px; color: #af4979ff;">Quick Start</a>
+    <a href="/en/maxmakelab/maxmakelab-introduction.md#advanced-learning" style="display: block; margin-bottom: 2px; color: #aa730eff;">Advanced Features</a>
     <!-- Can continue to add more links -->
   </div>
   </div>
