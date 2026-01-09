@@ -1,9 +1,5 @@
 # HiMill D1S Introduction
 
-This is an article about the HiMill D1S introduction, written in markdown format.
-
-## Product Overview
-
 HiMill D1S is a high-performance desktop CNC engraving/milling machine designed for individual creators, DIY enthusiasts, and small workshops. It integrates precision mechanical structure, intelligent control system, and user-friendly operation interface, providing users with a complete solution from creative design to physical processing.
 
 ## Main Features
@@ -13,9 +9,11 @@ HiMill D1S is a high-performance desktop CNC engraving/milling machine designed 
 - Closed-loop control system with real-time feedback of processing status, ensuring machining stability
 
 ### 💪 Powerful Performance
-- Maximum machining area: XXmm × XXmm × XXmm (to be filled according to actual product specifications)
-- Maximum spindle speed: XX,XXX RPM (to be filled according to actual product specifications)
+- Maximum machining area: 280mm × 200mm × 80mm (to be filled according to actual product parameters)
+- Maximum spindle speed: 13000 RPM (to be filled according to actual product parameters)
 - Support for multiple material processing: wood, plastic, acrylic, metal (soft metal), etc.
+- Maximum movement speed: 1000mm/min
+- Stable and reliable mechanical structure, ensuring long-time continuous operation
 
 ### 🎨 Intelligent Design
 - Integrated automatic tool setting system, simplifying tool installation process
@@ -28,30 +26,33 @@ HiMill D1S is a high-performance desktop CNC engraving/milling machine designed 
 - Intuitive button and indicator light design for easy equipment status monitoring
 - Modular design, easy to maintain and upgrade
 
+### 🛡️ Safety Protection
+- Safety door automatically protects during processing, preventing accidental contact with moving parts
+- Intelligent power-off protection, ensuring safe operation of the equipment
+- Comprehensive safety tips and operation specifications
+
 ## Core Functions
 
 | Function Module | Detailed Description |
 |-----------------|----------------------|
-| File Processing | Support importing multiple file formats, including G-code, SVG, DXF, etc. |
-| Equipment Control | Real-time control of equipment movement, spindle speed, cooling system, etc. |
-| Machining Monitoring | Real-time monitoring of machining progress, spindle temperature, equipment status, etc. |
+| File Processing | Support importing multiple file formats, including G-code, JPG, PNG, DXF, etc. |
+| Equipment Control | Real-time control of equipment movement, spindle speed, etc. |
+| Machining Monitoring | Real-time monitoring of machining progress, equipment status, etc. |
 | Parameter Settings | Flexible machining parameter settings to adapt to different materials and processing requirements |
-| Breakpoint Resumption | Support for breakpoint resumption to avoid material waste caused by unexpected interruptions |
-| Auto-Home | One-click auto-homing function to improve machining efficiency |
 
 ## Technical Specifications
 
 | Parameter Item | Detailed Specifications |
 |----------------|-------------------------|
-| Machining Range | X: XXmm, Y: XXmm, Z: XXmm |
-| Spindle Power | XXW |
-| Spindle Speed | XX,XXX RPM |
-| Movement Speed | Maximum XXmm/min |
-| Positioning Accuracy | ±0.01mm |
-| Repeat Positioning Accuracy | ±0.005mm |
-| Power Requirements | AC XXV ±10%, XXHz |
-| Equipment Dimensions | XXmm × XXmm × XXmm |
-| Equipment Weight | XXkg |
+| Machining Range | X: 280mm, Y: 200mm, Z: 80mm |
+| Spindle Power | 250W |
+| Spindle Speed | 13000 RPM |
+| Movement Speed | Maximum 1000mm/min |
+| Positioning Accuracy | ±0.02mm |
+| Repeat Positioning Accuracy | ±0.01mm |
+| Power Requirements | Support AC 110V/230V voltage switching |
+| Laser Module | 10W 450nm blue laser |
+| Rotary Axis | Reduction ratio 1:5, clamping range 1mm-33mm, expanding range 16mm-50mm |
 
 ## Application Scenarios
 
@@ -77,35 +78,53 @@ HiMill D1S is a high-performance desktop CNC engraving/milling machine designed 
 
 ## Package Contents
 
-| No. | Item Name | Quantity |
-|-----|-----------|----------|
-| 1 | HiMill D1S Main Unit | 1 unit |
-| 2 | Spindle Assembly | 1 set |
-| 3 | Tool Kit | 1 set |
-| 4 | L-shaped Support Bars | 2 pieces |
-| 5 | Clamping Plate Assembly | 4 sets |
-| 6 | USB Connection Cable | 1 piece |
-| 7 | Power Adapter | 1 piece |
-| 8 | Manual & Warranty Card | 1 set |
-| 9 | MaxmakeLab Software Installation Package | 1 copy |
+After unpacking, please check if the following accessories are complete:
+
+- ✅ HiMill D1S Main Unit × 1
+- ✅ Dust Cover × 1
+- ✅ Tool Accessory Box × 1
+- ✅ USB Data Cable × 1
+- ✅ Grease × 1
+- ✅ Manual × 1
+- ✅ Hose Clamp × 1
+- ✅ Vacuum Cleaner Adapter × 1
+- ✅ MDF Wood × 2
+- ✅ Power Cable × 1
+- ✅ Lanyard × 1
+- ✅ Wood Wax Oil × 1
+- ✅ Boxwood Block × 2
+- ✅ Wood Working Base Plate × 1
 
 ## Accessories & Extensions
 
 HiMill D1S supports multiple accessory extensions to meet different processing requirements:
 
-- **3D Probe**: Realizes automatic workpiece measurement and positioning
-- **Rotary Axis**: Supports rotary processing of cylindrical workpieces
-- **Laser Module**: Realizes laser engraving and cutting functions
-- **Vacuum Platform**: Used to secure thin materials
-- **Side Clamp Assembly**: Convenient for processing long strip workpieces
+### 📐 3D Probe
+Realizes automatic workpiece measurement and positioning, improving processing accuracy and efficiency.
+
+### 🔄 Rotary Axis
+Supports rotary processing of cylindrical workpieces, with reduction ratio 1:5, clamping range 1mm-33mm, expanding range 16mm-50mm, suitable for engraving and processing cylindrical parts.
+
+### 🔦 Laser Module
+10W 450nm blue laser, realizing laser engraving and cutting functions, supporting laser processing of various materials.
+
+### 🌀 Vacuum Platform
+Used to secure thin materials, supporting multiple rubber strip installation methods, ensuring workpiece stability during processing through vacuum adsorption principle.
+
+### 🗜️ Side Clamp Assembly
+Convenient for processing long strip workpieces, providing stable clamping method.
 
 ## Safety Tips
 
-1. Please read the user manual carefully before operation
-2. Do not open the safety door during machining
-3. Wear protective glasses and masks to avoid injury from machining debris
-4. Regularly check equipment status to ensure safe operation
-5. Children must use under adult supervision
+> 1. Please read the user manual carefully before operation
+> 2. Do not open the safety door during processing, and keep away from the rotating spindle
+> 3. Wear protective glasses and masks to avoid injury from machining debris
+> 4. Regularly check equipment status to ensure safe operation
+> 5. Children must use under adult supervision
+> 6. Please disconnect the power supply before replacing accessories or electrical components
+> 7. Wear protective glasses during laser processing, avoid direct observation of laser
+> 8. Do not wear gloves during operation to avoid being caught by tools
+> {.is-warning}
 
 ---
 
