@@ -4,10 +4,6 @@ HiMill D1S is a high-performance desktop CNC engraving/milling machine designed 
 
 ## Main Features
 
-### 🎯 High-Precision Machining
-- Modular spindle design, supporting multiple tools, adapting to different material processing requirements
-- Closed-loop control system with real-time feedback of processing status, ensuring machining stability
-
 ### 💪 Powerful Performance
 - Maximum machining area: 280mm × 200mm × 80mm (to be filled according to actual product parameters)
 - Maximum spindle speed: 13000 RPM (to be filled according to actual product parameters)
