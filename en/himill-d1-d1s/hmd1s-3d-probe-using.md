@@ -85,7 +85,7 @@ After all settings are complete, click tool change to replace the first tool to 
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/5-换刀-过程-02-换刀过程.webp" alt="Tool Change Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-3d-probe-using/d1换刀.webp" alt="换刀过程" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/d1换刀.webp" alt="换刀过程" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 
 ## 4. Rectangular External Centering
@@ -146,7 +146,7 @@ After all settings are complete, click tool change to replace the first tool to 
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/5-换刀-过程-02-换刀过程.webp" alt="Tool Change Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-3d-probe-using/d1换刀.webp" alt="换刀过程" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/d1换刀.webp" alt="换刀过程" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 
 > ⚠️ **Rectangular External Centering Precautions**:
@@ -213,7 +213,7 @@ After all settings are complete, click tool change to replace the first tool to 
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/5-换刀-过程-02-换刀过程.webp" alt="Tool Change Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-3d-probe-using/d1换刀.webp" alt="换刀过程" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/d1换刀.webp" alt="换刀过程" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 
 > 📋 **Centering Operation Tips**:
