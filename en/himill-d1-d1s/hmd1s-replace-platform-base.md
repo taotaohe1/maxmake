@@ -1,4 +1,4 @@
-# HiMill D1S Platform Base Replacement
+# HiMill D1/D1S Platform Base Replacement
 
 ---
 

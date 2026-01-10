@@ -1,6 +1,6 @@
-# HiMill D1S Workpiece Installation Guide
+# HiMill D1/D1S Workpiece Installation Guide
 
-This document details various workpiece installation methods for HiMill D1S equipment, ensuring safe and efficient machining operations.
+This document details various workpiece installation methods for HiMill D1/D1S equipment, ensuring safe and efficient machining operations.
 
 ---
 

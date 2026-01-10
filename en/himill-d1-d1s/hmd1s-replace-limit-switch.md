@@ -1,4 +1,4 @@
-# HiMill D1S Limit Switch Replacement
+# HiMill D1/D1S Limit Switch Replacement
 
 ---
 

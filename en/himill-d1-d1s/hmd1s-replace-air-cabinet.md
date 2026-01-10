@@ -1,4 +1,4 @@
-# HiMill D1S Component Chamber Parts Replacement
+# HiMill D1/D1S Component Chamber Parts Replacement
 
 ---
 

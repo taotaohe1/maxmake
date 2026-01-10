@@ -1,4 +1,4 @@
-# HiMill D1S Button and Indicator Replacement
+# HiMill D1/D1S Button and Indicator Replacement
 
 ---
 

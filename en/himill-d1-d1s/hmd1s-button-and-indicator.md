@@ -1,6 +1,6 @@
-# HiMill D1S Buttons and Indicators
+# HiMill D1/D1S Buttons and Indicators
 
-This document provides detailed information about the functions and operation methods of buttons and indicators on the HiMill D1S device, helping users understand device status and correct operations.
+This document provides detailed information about the functions and operation methods of buttons and indicators on the HiMill D1/D1S device, helping users understand device status and correct operations.
 
 ---
 

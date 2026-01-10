@@ -1,24 +1,24 @@
 # HiMill D1
-<img src="/eng/himill-d1-d1s/media/himill-d1s.png" alt="" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 6px;" />
+<img src="/eng/himill-d1-d1s/media/himill-d1.png" alt="" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 6px;" />
 
-> CNC usage carries certain risks. Please carefully read the usage instructions to avoid dangers caused by improper operation. [View Details](/en/himill-d1-d1s/hmd1s-introduction.md)
+> CNC usage carries certain risks. Please carefully read the usage instructions to avoid dangers caused by improper operation. [View Details](/en/himill-d1-d1s/hmd1-introduction.md)
 {.is-danger}
 
 ## Quick Start
 Necessary and simple operation steps to help you quickly get started with HiMill D1.
-* [HiMill D1 Introduction](/en/himill-d1-d1s/hmd1s-introduction.md)
-* [HiMill D1 Unboxing Guide](/en/himill-d1-d1s/hmd1s-unboxing-guide.md)
+* [HiMill D1 Introduction](/en/himill-d1-d1s/hmd1-introduction.md)
+* [HiMill D1 Unboxing Guide](/en/himill-d1-d1s/hmd1-unboxing-guide.md)
 * [MaxmakeLab Software Installation](/en/maxmakelab/maxmakelab-installation.md)
-* [HiMill D1 First Use](/en/himill-d1-d1s/hmd1s-first-use.md)
+* [HiMill D1 First Use](/en/himill-d1-d1s/hmd1-first-use.md)
 
 ## Usage Instructions
 Detailed operation instructions to help you correctly use HiMill D1.
-* [HiMill D1 Basic Operation and Usage Safety](/en/himill-d1-d1s/hmd1s-basic-operation-and-usage-safety.md)
+* [HiMill D1 Basic Operation and Usage Safety](/en/himill-d1-d1s/hmd1-basic-operation-and-usage-safety.md)
 * [HiMill D1 Buttons and Indicators](/en/himill-d1-d1s/hmd1s-button-and-indicator.md)
 * [HiMill D1 Workpiece Installation](/en/himill-d1-d1s/hmd1s-workpiece-installation.md)
-* [HiMill D1 Tool Installation](/en/himill-d1-d1s/hmd1s-tool-installation.md)
-* [HiMill D1 Dust Collection System](/en/himill-d1-d1s/hmd1s-dust-collection-system.md)
-* 
+* [HiMill D1 Tool Installation](/en/himill-d1-d1s/hmd1-tool-installation.md)
+* [HiMill D1 Dust Collection System](/en/himill-d1-d1s/hmd1-dust-collection-system.md)
+
 ## Software Operation
 Detailed operation instructions for MaxmakeLab software to help you correctly use HiMill D1.
 * [MaxmakeLab Software Introduction](/en/maxmakelab/maxmakelab-introduction.md)
@@ -26,7 +26,7 @@ Detailed operation instructions for MaxmakeLab software to help you correctly us
 * [MaxmakeLab Movement and Positioning](/en/himill-d1-d1s/hmd1s-movement-and-positioning.md)
 * [MaxmakeLab Processing Control](/en/himill-d1-d1s/hmd1s-processing-control.md)
 * [MaxmakeLab Laser Processing](/en/himill-d1-d1s/hmd1s-laser-processing.md)
-* [MaxmakeLab Rotation Axis Processing](/en/himill-d1-d1s/hmd1s-rotation-axis-processing.md)
+* [MaxmakeLab Rotation Axis Processing](/en/himill-d1-d1s/hmd1-rotation-axis-processing.md)
 * [MaxmakeLab 3D Probe Usage](/en/himill-d1-d1s/hmd1s-3d-probe-using.md)
 * [MaxmakeLab HiMill D1/D1S Firmware Upgrade](/en/himill-d1-d1s/hmd1s-firmware-upgrade.md)
 * [MaxmakeLab HiMill D1/D1S SD Card Formatting](/en/himill-d1-d1s/hmd1s-format-sd-card.md)
@@ -47,7 +47,7 @@ Detailed accessory operation instructions to help you correctly use HiMill D1 ac
 Necessary daily maintenance operations to help you keep HiMill D1 running normally.
 * [HiMill D1 Dust Cleaning](/en/himill-d1-d1s/hmd1s-dust-cleaning.md)
 * [HiMill D1 Spindle Maintenance](/en/himill-d1-d1s/hmd1s-spindle-maintenance.md)
-* [HiMill D1 Guide Rail Lead Screw Maintenance](/en/himill-d1-d1s/hmd1s-guide-rail-lead-screw-maintenance.md)
+* [HiMill D1 Guide Rail Lead Screw Maintenance](/en/himill-d1-d1s/hmd1-guide-rail-lead-screw-maintenance.md)
 
 ## Troubleshooting
 Detailed troubleshooting operations to help you solve HiMill D1 problems.
@@ -62,7 +62,7 @@ Detailed troubleshooting operations to help you solve HiMill D1 problems.
 
 ## Component Replacement Guide
 Detailed component replacement operations to help you correctly replace HiMill D1 components.
-* [HiMill D1 Spindle Replacement](/en/himill-d1-d1s/hmd1s-replace-spindle.md)
+* [HiMill D1 Spindle Replacement](/en/himill-d1-d1s/hmd1-replace-spindle.md)
 * [HiMill D1 Limit Switch Replacement](/en/himill-d1-d1s/hmd1s-replace-limit-switch.md)
 * [HiMill D1 Moving Axis Motor Replacement](/en/himill-d1-d1s/hmd1s-replace-moving-axis-motor.md)
 * [HiMill D1 Button Indicator Replacement](/en/himill-d1-d1s/hmd1s-replace-button-and-indicator.md)

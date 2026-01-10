@@ -1,4 +1,4 @@
-# HiMill D1/D1S Moving Axis Motor Replacement
+# HiMill D1 Spindle Replacement
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Replacing the X-Axis Motor
+## Replacing the Spindle
 
 <iframe
      src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"
@@ -27,7 +27,7 @@
 
 ---
 
-## Replacing the Y-Axis Motor
+## Replacing the Spindle Rear Circuit Board
 
 <iframe
      src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"
@@ -42,7 +42,22 @@
 
 ---
 
-## Replacing the Z-Axis Motor
+## Replacing the Spindle Cooling Fan
+
+<iframe
+     src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"
+     width="100%"
+     height="500"
+     scrolling="no"
+     border="0"
+     frameborder="no"
+     framespacing="0"
+     allowfullscreen="true">
+ </iframe>
+
+---
+
+## Replacing the Spindle Light
 
 <iframe
      src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"

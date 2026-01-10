@@ -1,4 +1,4 @@
-# HiMill D1S Moving Axis Operation Issues
+# HiMill D1/D1S Moving Axis Operation Issues
 
 ## Precautions
 >- **Emergency Handling**: In case of continuous axis collision or jamming, immediately stop the device and power it off to avoid further damage to mechanical components
@@ -32,7 +32,7 @@
 
 ### 1. Exclude Limit Switch Abnormalities
 - After powering on, try the homing operation to check if it can move normally
-- If homing fails, refer to the [HiMill D1S Limit Switch Issues](/en/himill-d1-d1s/hmd1s-limit-switch-issue.md)
+- If homing fails, refer to the [HiMill D1/D1S Limit Switch Issues](/en/himill-d1-d1s/hmd1s-limit-switch-issue.md)
 
 ### 2. Check Mechanical Transmission Parts
 - Carefully check if there are any foreign objects stuck in the transmission path
@@ -65,8 +65,8 @@ Check the position as follows. Try reconnecting:
 <img src="/eng/himill-d1-d1s/media/hmd1s-moving-axis-issue/恢复参数.png" alt="Restore Parameters" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 7. Check Main Control Board Motor Wires
-- Check if the motor connection wires on the main control board are loose or have poor contact. For cover removal steps, refer to the video for replacing the main control board [HiMill D1S Replace Air Cabinet Components](/en/himill-d1-d1s/hmd1s-replace-air-cabinet.md)
+- Check if the motor connection wires on the main control board are loose or have poor contact. For cover removal steps, refer to the video for replacing the main control board [HiMill D1/D1S Replace Air Cabinet Components](/en/himill-d1-d1s/hmd1s-replace-air-cabinet.md)
 <img src="/eng/himill-d1-d1s/media/hmd1s-moving-axis-issue/主控板未插线电机.jpg" alt="Main Control Board Without Motor Wires" style="width: 350px; height: auto; margin-bottom: 8px; border-radius: 16px;" /> <img src="/eng/himill-d1-d1s/media/hmd1s-moving-axis-issue/主控板插线电机.jpg" alt="Main Control Board With Motor Wires" style="width: 450px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 8. Contact Technical Support
-If none of the above methods work, please contact support@maxmaketech.com for further assistance
+If none of the above methods work, please contact support@maxmake.com for further assistance

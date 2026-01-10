@@ -1,4 +1,4 @@
-# HiMill D1S Probe Replacement
+# HiMill D1/D1S Probe Replacement
 
 ---
 

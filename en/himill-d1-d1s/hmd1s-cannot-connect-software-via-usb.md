@@ -1,4 +1,4 @@
-# HiMill D1S Cannot Connect to Software via USB Cable
+# HiMill D1/D1S Cannot Connect to Software via USB Cable
 
 ---
 
@@ -16,11 +16,11 @@
 4. Try re-plugging the USB cable to ensure a secure connection
 5. Replace the USB interface (try another USB port on the computer)
 6. Avoid using excessively long USB extension cables; if necessary, use an extension cable with signal amplification function
-7. Check if the USB connection terminal on the main control board is loose or has poor contact; please refer to the video on replacing the main control board for steps to remove the rear cover [HiMill D1S Air Cabinet Component Replacement](/en/himill-d1-d1s/hmd1s-replace-air-cabinet.md)
+7. Check if the USB connection terminal on the main control board is loose or has poor contact; please refer to the video on replacing the main control board for steps to remove the rear cover [HiMill D1/D1S Air Cabinet Component Replacement](/en/himill-d1-d1s/hmd1s-replace-air-cabinet.md)
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-cannot-connect-software-via-usb/主控板未插线usb.jpg" alt="Main Control Board Not Plugged In" style="width: 350px; height: auto; margin-bottom: 8px; border-radius: 16px;" /> <img src="/eng/himill-d1-d1s/media/hmd1s-cannot-connect-software-via-usb/主控板插线usb.jpg" alt="Main Control Board Plugged In" style="width: 450px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-8. If the problem persists, contact support@maxmaketech.com
+8. If the problem persists, contact support@maxmake.com
 
 
 
@@ -42,4 +42,4 @@
 5. Update or reinstall the computer USB driver
 6. Restart the computer and device, then retry the connection
 7. Try connecting the device in a different environment to confirm if it is an environmental interference issue
-8. If the problem persists, contact support@maxmaketech.com
+8. If the problem persists, contact support@maxmake.com

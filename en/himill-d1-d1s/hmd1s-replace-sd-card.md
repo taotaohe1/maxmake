@@ -1,4 +1,4 @@
-# HiMill D1S SD Card Replacement
+# HiMill D1/D1S SD Card Replacement
 
 ---
 

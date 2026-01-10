@@ -8,7 +8,7 @@ Click the "Tool Change" button:
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/1-安装测头-换刀-01-录屏换刀.gif" alt="Tool Change" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-Install the 3D probe, click the button, and complete automatic height measurement
+Install the 3D probe, click the button, and complete automatic height measurement (For D1 equipment tool change, please follow D1's tool change process: use a wrench to remove the nut, install the 3D probe into the collet, and then tighten the nut with a wrench)
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/1-安装测头-组装-02-组装测头.webp" alt="Assemble 3D Probe" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
@@ -32,7 +32,8 @@ Control:
 - Set XY0: Set current position as XY0 point, used for manual setting. Ignore if using automatic centering
 - Set Z0: Set current position as Z0 point, used for manual setting. Ignore if using automatic centering
 
-Move to Position: Center X, Center Y, Center XY. After using 3D probe to set XY0, the corresponding icon will be lit, click to automatically go to the set X0 or Y0 position (also applies to corner detection).
+Move to Position: Center X, Center Y, Center XY. 
+- After using 3D probe to set XY0, the corresponding icon will be lit, click to automatically go to the set X0 or Y0 position (also applies to corner detection).
 
 Tool Setting:
 - Tool Distance: The distance the probe will move during detection. If no workpiece is detected within the set distance, a popup will prompt
@@ -83,6 +84,9 @@ After all settings are complete, click tool change to replace the first tool to 
 <img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/5-换刀-点击-01-录屏点击换刀.gif" alt="Click Tool Change" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/5-换刀-过程-02-换刀过程.webp" alt="Tool Change Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+
+<img src="/zh/himill-d1-d1s/media/hmd1s-3d-probe-using/d1换刀.webp" alt="换刀过程" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+
 
 ## 4. Rectangular External Centering
 
@@ -141,6 +145,9 @@ After all settings are complete, click tool change to replace the first tool to 
 <img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/5-换刀-点击-01-录屏点击换刀.gif" alt="Click Tool Change" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/5-换刀-过程-02-换刀过程.webp" alt="Tool Change Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+
+<img src="/zh/himill-d1-d1s/media/hmd1s-3d-probe-using/d1换刀.webp" alt="换刀过程" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+
 
 > ⚠️ **Rectangular External Centering Precautions**:
 > 
@@ -205,6 +212,9 @@ After all settings are complete, click tool change to replace the first tool to 
 <img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/5-换刀-点击-01-录屏点击换刀.gif" alt="Click Tool Change" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-3d-probe-using/5-换刀-过程-02-换刀过程.webp" alt="Tool Change Process" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+
+<img src="/zh/himill-d1-d1s/media/hmd1s-3d-probe-using/d1换刀.webp" alt="换刀过程" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+
 
 > 📋 **Centering Operation Tips**:
 > 

@@ -1,4 +1,4 @@
-# HiMill D1S Firmware Release Record
+# HiMill D1/D1S Firmware Release Record
 
 ## Firmware Update Instructions
 
@@ -27,7 +27,7 @@ If you choose to manually flash the firmware, you can follow these steps:
 
 | File Type | Download Link |
 |----------|--------------|
-| Firmware File | [HiMill_D1S_V1.0.34.bin](/eng/himill-d1-d1s/media/himill_d1-v1.0.34-20251222.bin) |
+| Firmware File | [HiMill_D1_V1.0.34.bin](/eng/himill-d1-d1s/media/himill_d1-v1.0.34-20251222.bin) |
 
 ---
 
