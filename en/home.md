@@ -68,9 +68,9 @@ This is your one-stop resource containing all content related to MAXMAKE, includ
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; display: flex; gap: 16px; align-items: center; min-width: 300px;">
   <!-- Left image area -->
   <div style="width: 50%;"> <!-- Image ratio adjustable -->
-    <a href="/en/maxmakelab/maxmakelab-introduction.md"><img src="/eng/himill-d1-d1s/media/icon/maxmakelab.png" alt="MaxmakeLab" style="width: 100%; max-width: 100px; height: auto; border-radius: 6px;" /></a>
+    <a href="/en/maxmakelab.md"><img src="/eng/himill-d1-d1s/media/icon/maxmakelab.png" alt="MaxmakeLab" style="width: 100%; max-width: 100px; height: auto; border-radius: 6px;" /></a>
     <br>
-        <strong><a href="/en/maxmakelab/maxmakelab-introduction.md" style="display: block; margin-bottom: 2px; color: #2c3e50; text-align: center;">MaxmakeLab</a></strong>
+        <strong><a href="/en/maxmakelab.md" style="display: block; margin-bottom: 2px; color: #2c3e50; text-align: center;">MaxmakeLab</a></strong>
     <br>
   </div>
 
@@ -79,7 +79,6 @@ This is your one-stop resource containing all content related to MAXMAKE, includ
     <!-- <p style="margin: 0 0 2px 0; font-weight: bold;">Related Links:</p> -->
     <a href="/en/maxmakelab/maxmakelab-introduction.md" style="display: block; margin-bottom: 2px; color: #60a0e0ff;">Software Introduction</a>
     <a href="/en/maxmakelab/maxmakelab-installation.md" style="display: block; margin-bottom: 2px; color: #51ad65ff;">Software Installation</a>
-    <a href="/en/maxmakelab/maxmakelab-introduction.md" style="display: block; margin-bottom: 2px; color: #af4979ff;">Quick Start</a>
     <a href="/en/maxmakelab/maxmakelab-software-manual.md" style="display: block; margin-bottom: 2px; color: #aa730eff;">Advanced Features</a>
     <!-- Can continue to add more links -->
   </div>
