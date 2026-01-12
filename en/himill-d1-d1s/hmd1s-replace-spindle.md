@@ -12,60 +12,26 @@
 
 ---
 
-## Replacing the Spindle
+## Replacing the Spindle or Light Board
 
-<iframe
-     src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"
-     width="100%"
-     height="500"
-     scrolling="no"
-     border="0"
-     frameborder="no"
-     framespacing="0"
-     allowfullscreen="true">
- </iframe>
+<a href="https://www.youtube.com/watch?v=A68RJwmv-f0" target="_blank">
+    <img src="https://img.youtube.com/vi/A68RJwmv-f0/0.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+</a>
 
 ---
 
 ## Replacing the Spindle Rear Circuit Board
 
-<iframe
-     src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"
-     width="100%"
-     height="500"
-     scrolling="no"
-     border="0"
-     frameborder="no"
-     framespacing="0"
-     allowfullscreen="true">
- </iframe>
+<a href="https://www.youtube.com/watch?v=gNi_qNM1qfk" target="_blank">
+    <img src="https://img.youtube.com/vi/gNi_qNM1qfk/0.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+</a>
 
 ---
 
 ## Replacing the Spindle Cooling Fan
 
-<iframe
-     src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"
-     width="100%"
-     height="500"
-     scrolling="no"
-     border="0"
-     frameborder="no"
-     framespacing="0"
-     allowfullscreen="true">
- </iframe>
+<a href="https://www.youtube.com/watch?v=LBAOFeffJlM" target="_blank">
+    <img src="https://img.youtube.com/vi/LBAOFeffJlM/0.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+</a>
 
 ---
-
-## Replacing the Spindle Light
-
-<iframe
-     src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"
-     width="100%"
-     height="500"
-     scrolling="no"
-     border="0"
-     frameborder="no"
-     framespacing="0"
-     allowfullscreen="true">
- </iframe>
