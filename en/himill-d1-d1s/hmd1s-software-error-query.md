@@ -60,7 +60,7 @@
 | ERROR8 | '$' command cannot be used unless controller state is IDLE. |  |  |
 | ERROR9 | G-code locked out during alarm or jog state. |  |  |
 | ERROR10 | Soft limits cannot be enabled without homing also enabled. |  |  |
-| ERROR11 | Max characters per line exceeded. Line was not processed and executed. | 1.The number of characters in a single line of G-code is excessive.<br>2.The file is corrupted.<br>3.An incompatible post-processor is being used. | 1.Shorten the length and streamline the code.<br>2.Check the correctness of the file.<br>3.Check or replace the post-processor. |
+| ERROR11 | Max characters per line exceeded. Line was not processed and executed. | 1.The number of characters in a single line of G-code is excessive.<br>2.The file is corrupted.<br>3. An incompatible post-processor is being used. | 1.Shorten the length and streamline the code.<br>2.Check the correctness of the file.<br>3.Check or replace the post-processor. |
 | ERROR12 | '$' setting value cause the step rate to exceed the maximum supported. |  |  |
 | ERROR13 | Safety door detected as opened and door state initiated. |  |  |
 | ERROR14 | Build info or startup line exceeded EEPROM line length limit.Line not stored. |  |  |
@@ -69,7 +69,7 @@
 | ERROR17 | Laser mode requires PWM output. |  |  |
 | ERROR18 | Reset asserted |  |  |
 | ERROR19 | Non positive value |  |  |
-| ERROR20 | Unsupported or invalid g-code command found in block. Error in SD file at line XXX. | 1.An unsupported G-code command is used.<br>2.The G-code command is incorrectly written. | 1.Check or replace the post-processor.<br>2.If the file is corrupted, please check the integrity of the file content. |
+| ERROR20 | Unsupported or invalid g-code command found in block. Error in SD file at line XXX. | 1. An unsupported G-code command is used.<br>2.The G-code command is incorrectly written. | 1.Check or replace the post-processor.<br>2.If the file is corrupted, please check the integrity of the file content. |
 | ERROR20 | Unsupported or invalid g-code command found in block. |  |  |
 | ERROR21 | More than one g-code command from same modal group found in block. Error in SD file at line XXX. | Multiple commands from the same modal group are incorrectly used in the code block (e.g., G1 and G0 exist in the same line). | 1.Check the code to ensure that only one command is used in the same modal group.<br>2.Learn and understand the concepts and usage rules of modal groups.<br>3.Check or replace the post-processor. |
 | ERROR21 | More than one g-code command from same modal group found in block. |  |  |
@@ -83,7 +83,7 @@
 | ERROR25 | Repeated g-code word found in block. |  |  |
 | ERROR26 | No axis words found in block for g-code command or current modal state which requires them. Error in SD file at line XXX. | The XYZ axis commands are omitted during code writing, and this issue commonly occurs in arc commands G2 and G3. | 1.Please check the G-code format and supplement the XYZ axis commands.<br>2.Check or replace the post-processor. |
 | ERROR26 | No axis words found in block for g-code command or current modal state which requires them. |  |  |
-| ERROR27 | Line number value is invalid. | 1.The N line number set during code writing is out of range.<br>2.An error occurred when the program generated the N line number. | 1.Adjust the N line numbers to keep them within the valid range.<br>2.Check or replace the post-processor. |
+| ERROR27 | Line number value is invalid. | 1.The N line number set during code writing is out of range.<br>2. An error occurred when the program generated the N line number. | 1.Adjust the N line numbers to keep them within the valid range.<br>2.Check or replace the post-processor. |
 | ERROR28 | G-code command is missing a required value word. Error in SD file at line XXX. |  | 1.Please check the G-code format and supplement the missing values.<br>2.Check or replace the post-processor. |
 | ERROR28 | G-code command is missing a required value word. |  |  |
 | ERROR29 | G59.x work coordinate systems are not supported. |  |  |
@@ -102,7 +102,7 @@
 | ERROR36 | There are unused, leftover G-code words that aren't used by any command in the block. Error in SD file at line XXX. | 1.The rapid traverse command G00 contains an extra H parameter.<br>2.The spindle start command M3 contains an extra D parameter.<br>3.The unit setting command G21 contains an extra P parameter.<br>4.The arc interpolation command G02 contains an extra S parameter. | 1.Please check the G-code format and delete redundant G-code parameters.<br>2.Check or replace the post-processor. |
 | ERROR36 | There are unused, leftover G-code words that aren't used by any command in the block. |  |  |
 | ERROR37 | The G43.1 dynamic tool length offset command cannot apply an offset to an axis other than its configured axis. The Grbl default axis is the Z-axis. |  |  |
-| ERROR38 | Tool number greater than max supported value or undefined tool selected. Error in SD file at line XXX. | The entered tool number does not exist or is incorrectly formatted. | 1.Check the entered tool number to ensure it is valid and correctly formatted.<br>2.It is recommended to set the tool number within T0~T8. |
+| ERROR38 | Tool number greater than max supported value or undefined tool selected. Error in SD file at line XXX. | The entered tool number does not exist or is incorrectly formatted. | 1.Check the entered tool number to ensure it is valid and correctly formatted.<br>2. It is recommended to set the tool number within T0~T8. |
 | ERROR38 | Tool number greater than max supported value or undefined tool selected. |  |  |
 | ERROR39 | Value out of range. Error in SD file at line XXX. |  |  |
 | ERROR39 | Value out of range. |  |  |
@@ -145,7 +145,7 @@
 | ERROR61 | Status_FileReadError | 1.Target file is corrupted.<br>2.The file path is incorrect.<br>3.The SD card connection was interrupted during reading.<br>4.The file content does not conform to the expected format. | 1.Please restart the device and try again.<br>2.If the issue persists, try formatting the SD card.<br>3.If formatting proves ineffective, refer to the tutorial for replacing the SD card. |
 | ERROR62 | Status_FsFailedOpenDir | 1.The directory name is incorrect.<br>2.The directory itself is corrupted. | 1.Please restart the device and try again.<br>2.If the issue persists, try formatting the SD card.<br>3.If formatting proves ineffective, refer to the tutorial for replacing the SD card. |
 | ERROR63 | Status_FSDirNotFound | 1.The directory path is incorrect.<br>2.The directory was accidentally deleted. | 1.Please restart the device and try again.<br>2.If the issue persists, try formatting the SD card.<br>3.If formatting proves ineffective, refer to the tutorial for replacing the SD card. |
-| ERROR64 | Status_SDNotMounted | 1.No SD card is inserted.<br>2.The mounting process was not triggered after the SD card was inserted.<br>3.No remount was performed after a previous mounting attempt failed.<br>4.Any operation on the SD card at this point (such as reading files or listing directories) will trigger this error. | 1.Please restart the device and try again.<br>2.If the issue persists, try formatting the SD card.<br>3.If formatting proves ineffective, refer to the tutorial for replacing the SD card. |
+| ERROR64 | Status_SDNotMounted | 1. No SD card is inserted.<br>2.The mounting process was not triggered after the SD card was inserted.<br>3. No remount was performed after a previous mounting attempt failed.<br>4.Any operation on the SD card at this point (such as reading files or listing directories) will trigger this error. | 1.Please restart the device and try again.<br>2.If the issue persists, try formatting the SD card.<br>3.If formatting proves ineffective, refer to the tutorial for replacing the SD card. |
 | ERROR65 | Status_FsNotMounted | The file system that the firmware needs to access is not fully mounted, resulting in the inability to perform file/directory operations. | 1.Please restart the device and try again.<br>2.If the issue persists, try formatting the SD card.<br>3.If formatting proves ineffective, refer to the tutorial for replacing the SD card. |
 | ERROR66 | Status_FsReadOnly | The file system is corrupted. | 1.Please restart the device and try again.<br>2.If the issue persists, try formatting the SD card.<br>3.If formatting proves ineffective, refer to the tutorial for replacing the SD card. |
 
