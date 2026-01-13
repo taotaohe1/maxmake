@@ -14,43 +14,24 @@
 
 ## Replacing the X-Axis Motor
 
-<iframe
-     src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"
-     width="100%"
-     height="500"
-     scrolling="no"
-     border="0"
-     frameborder="no"
-     framespacing="0"
-     allowfullscreen="true">
- </iframe>
+<a href="https://www.youtube.com/watch?v=q3iZoUVH9xI" target="_blank">
+    <img src="https://img.youtube.com/vi/q3iZoUVH9xI/0.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+</a>
 
 ---
 
 ## Replacing the Y-Axis Motor
 
-<iframe
-     src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"
-     width="100%"
-     height="500"
-     scrolling="no"
-     border="0"
-     frameborder="no"
-     framespacing="0"
-     allowfullscreen="true">
- </iframe>
+<a href="https://www.youtube.com/watch?v=ZaEBuxSvs7I" target="_blank">
+    <img src="https://img.youtube.com/vi/ZaEBuxSvs7I/0.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+</a>
 
 ---
 
 ## Replacing the Z-Axis Motor
 
-<iframe
-     src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"
-     width="100%"
-     height="500"
-     scrolling="no"
-     border="0"
-     frameborder="no"
-     framespacing="0"
-     allowfullscreen="true">
- </iframe>
+<a href="https://www.youtube.com/watch?v=rHFY5GD8X60" target="_blank">
+    <img src="https://img.youtube.com/vi/rHFY5GD8X60/0.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+</a>
+
+---
