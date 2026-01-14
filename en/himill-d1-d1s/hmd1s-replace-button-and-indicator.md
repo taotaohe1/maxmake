@@ -14,28 +14,14 @@
 
 ## Replacing the External Indicator Light
 
-<iframe
-     src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"
-     width="100%"
-     height="500"
-     scrolling="no"
-     border="0"
-     frameborder="no"
-     framespacing="0"
-     allowfullscreen="true">
- </iframe>
+<a href="https://www.youtube.com/watch?v=-E9Z34SCils" target="_blank">
+    <img src="https://img.youtube.com/vi/-E9Z34SCils/0.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+</a>
 
 ---
 
 ## Replacing the Internal Indicator Light
 
-<iframe
-     src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"
-     width="100%"
-     height="500"
-     scrolling="no"
-     border="0"
-     frameborder="no"
-     framespacing="0"
-     allowfullscreen="true">
- </iframe>
+<a href="https://www.youtube.com/watch?v=AS0oa72w3fk" target="_blank">
+    <img src="https://img.youtube.com/vi/AS0oa72w3fk/0.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+</a>

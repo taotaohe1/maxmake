@@ -14,28 +14,14 @@
 
 ## Replacing the Woodworking Base
 
-<iframe
-     src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"
-     width="100%"
-     height="500"
-     scrolling="no"
-     border="0"
-     frameborder="no"
-     framespacing="0"
-     allowfullscreen="true">
- </iframe>
+<a href="https://www.youtube.com/watch?v=C7ME7x9Wa9g" target="_blank">
+    <img src="https://img.youtube.com/vi/C7ME7x9Wa9g/0.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+</a>
 
 ---
 
 ## Replacing the Aluminum Base
 
-<iframe
-     src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"
-     width="100%"
-     height="500"
-     scrolling="no"
-     border="0"
-     frameborder="no"
-     framespacing="0"
-     allowfullscreen="true">
- </iframe>
+<a href="https://www.youtube.com/watch?v=e3mUZDZN554" target="_blank">
+    <img src="https://img.youtube.com/vi/e3mUZDZN554/0.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+</a>
