@@ -18,7 +18,7 @@
 
 ---
 
-## Replacing the Switching Power Supply
+## Replacing the Switching Power Supply.
 
 <a href="https://www.youtube.com/watch?v=3jVcQYAklAo" target="_blank">
     <img src="https://img.youtube.com/vi/3jVcQYAklAo/0.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
