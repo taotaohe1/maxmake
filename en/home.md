@@ -60,8 +60,6 @@ This is your one-stop resource containing all content related to MAXMAKE, includ
 
 </div>
 
-## Laser
-## Vacuum Former
 ## MaxmakeLAB
 <div style="display: flex; gap: 24px; margin-top: 16px;">
 
