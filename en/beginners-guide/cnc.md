@@ -3,6 +3,7 @@
 This guide provides comprehensive introductory knowledge for CNC beginners, helping you master the core content of CNC technology step by step from basic concepts to actual operations.
 
 ## Basic Concepts
+<<<<<<< HEAD
 * [What is CNC?](/eng/beginners-guide/what-is-cnc.md)
 * [What is CAM Software?](/eng/beginners-guide/what-is-cam.md)
 
@@ -11,6 +12,16 @@ This guide provides comprehensive introductory knowledge for CNC beginners, help
 * [Complete Guide to CNC Speed and Feed](/eng/beginners-guide/speed-and-feed.md)
 * [How to Choose CNC Clamping Methods? Essential Guide for Beginners](/eng/beginners-guide/clamping-guide.md)
 * [How to Choose CNC Processing Materials? Essential Guide for Beginners](/eng/beginners-guide/material-selection.md)
+=======
+* [What is CNC?](/en/beginners-guide/what-is-cnc.md)
+* [What is CAM Software?](/en/beginners-guide/what-is-cam.md)
+
+## Practical Guides
+* [Complete Guide to CNC Tool Selection](/en/beginners-guide/tool-selection.md)
+* [Complete Guide to CNC Speed and Feed](/en/beginners-guide/speed-and-feed.md)
+* [How to Choose CNC Clamping Methods? Essential Guide for Beginners](/en/beginners-guide/clamping-guide.md)
+* [How to Choose CNC Processing Materials? Essential Guide for Beginners](/en/beginners-guide/material-selection.md)
+>>>>>>> 9779fdc59c231bfafa968ab2813ff059fe417257
 
 ---
 
