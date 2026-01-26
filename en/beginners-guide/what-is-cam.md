@@ -225,7 +225,7 @@ There are many CAM software options on the market today, just like there are man
 
 ## 🎯 Our Software: MaxmakeLab
 
-<img src="/eng/beginners-guide/media/what-is-cam/Maxmakelab1.jpg" alt="MaxmakeLab Software Main Interface" style="width: 50%; height: auto; border-radius: 10px;" />
+<img src="/eng/beginners-guide/media/what-is-cam/maxmakelab1.jpg" alt="MaxmakeLab Software Main Interface" style="width: 50%; height: auto; border-radius: 10px;" />
 
 MaxmakeLab is a **"beginner-friendly" software specially designed for MAXMAKE CNC equipment**! It integrates CAD, CAM, and equipment control together, allowing you to complete everything from design to processing with just one software!
 
