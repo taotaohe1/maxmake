@@ -9,6 +9,7 @@ This guide provides comprehensive introductory knowledge for CNC beginners, help
 ## Practical Guides
 * [Complete Guide to CNC Tool Selection](/en/beginners-guide/tool-selection.md)
 * [Complete Guide to CNC Speed and Feed](/en/beginners-guide/speed-and-feed.md)
+* [Desktop CNC Feeds and Speeds Professional Guide](/en/beginners-guide/feeds-and-speeds-guide.md)
 * [How to Choose CNC Clamping Methods? Essential Guide for Beginners](/en/beginners-guide/clamping-guide.md)
 * [How to Choose CNC Processing Materials? Essential Guide for Beginners](/en/beginners-guide/material-selection.md)
 
