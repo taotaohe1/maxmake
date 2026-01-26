@@ -3,7 +3,7 @@
 The following video provides a comprehensive visual guide to help you master optimal feeds and speeds settings for processing aluminum, acrylic, pattern wood, and PCB materials with your desktop CNC machine.
 
 <a href="https://youtu.be/z5gLhoAfKHs?si=HwYS7Ze0VyiGUzsy" target="_blank">
-    <img src="https://img.youtube.com/vi/z5gLhoAfKHs/0.jpg" alt="Click to watch video" style="width: 100%; border-radius: 8px;">
+    <img src="https://img.youtube.com/vi/z5gLhoAfKHs/0.jpg" alt="Click to watch video" style="width: 50%; border-radius: 8px;">
 </a>
 
 <img src="/eng/beginners-guide/media/feeds-and-speeds-guide/标题.png" alt="Desktop CNC Feeds and Speeds Professional Guide" style="width: 80%; height: auto; border-radius: 10px;" />
