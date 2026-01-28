@@ -103,11 +103,7 @@ If you're completely new to CNC technology, welcome to start your CNC learning j
   <!-- Single Card: Border + Image + Text Hyperlink -->
   <div style="border: 1px solid #e0e0e0; border-radius: 6px; padding: 12px; text-align: center; width: 180px;">
     <a href="https://maxmake.com/" target="_blank" rel="noopener noreferrer">
-<<<<<<< HEAD
-      <img src="/en/himill-d1-d1s/media/icon/shop.png" alt="Official Store" style="width: auto; height: 80px; margin-bottom: 8px; border-radius: 6px;" />
-=======
       <img src="/eng/himill-d1-d1s/media/icon/shop.png" alt="Official Store" style="width: auto; height: 80px; margin-bottom: 8px; border-radius: 6px;" />
->>>>>>> 9779fdc59c231bfafa968ab2813ff059fe417257
       <br>
       Official Store
     </a>
