@@ -29,28 +29,28 @@ Before using the height map feature, please note the following:
 2. Install the 3D probe
 3. Complete automatic height measurement
 
-<img src="/eng/himill-d1-d1s/media/height-map/1.换测头并测高.webp" alt="1.Install probe and measure height" style="width: 100%; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/height-map/1.换测头并测高.webp" alt="1.Install probe and measure height" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ### Step 2: Complete Automatic Detection of Machining Origin
 
 1. Switch to the Probe page
 2. Complete automatic detection of the machining origin, including XYZ zero points
 
-<img src="/eng/himill-d1-d1s/media/height-map/2.probe页面.webp" alt="2.Probe page" style="width: 100%; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/height-map/2.probe页面.webp" alt="2.Probe page" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" /> 
 
 ### Step 3: Switch to Height Map Page and Import Machining File
 
 1. Switch to the height map page
 2. Import the machining file (can also be imported at the beginning)
 
-<img src="/eng/himill-d1-d1s/media/height-map/3.切换并导入文件.webp" alt="3.Switch and import file" style="width: 100%; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/height-map/3.切换并导入文件.webp" alt="3.Switch and import file" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ### Step 4: Create and Edit Detection Points
 
 1. Click the Create button, which will automatically open the Edit interface
 2. Create and edit detection points
 
-<img src="/eng/himill-d1-d1s/media/height-map/4.编辑探测点.webp" alt="4.Edit detection points" style="width: 100%; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/height-map/4.编辑探测点.webp" alt="4.Edit detection points" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 #### Editing Parameters Explanation
 
@@ -74,7 +74,7 @@ Before using the height map feature, please note the following:
 3. Subsequent detections will calculate Z coordinate differences based on this point
 4. You can click the Gcode list to view the detected differences
 
-<img src="/eng/himill-d1-d1s/media/height-map/5.点击开始探测.webp" alt="5.Click to start detection" style="width: 100%; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/height-map/5.点击开始探测.webp" alt="5.Click to start detection" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ### Step 6: Apply Height Map
 
@@ -82,7 +82,7 @@ Before using the height map feature, please note the following:
 2. Click Use Height Map to apply the just-detected values
 3. You can observe that the path has changed
 
-<img src="/eng/himill-d1-d1s/media/height-map/6.点击使用.webp" alt="6.Click to use" style="width: 100%; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/height-map/6.点击使用.webp" alt="6.Click to use" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ### Step 7: Change Tool and Start Machining
 
