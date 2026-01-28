@@ -225,12 +225,18 @@ After all settings are complete, click tool change to replace the first tool to 
 ## Precautions
 
 > ⚠️ **3D Probe Usage Safety Precautions**:
-> 
+>
 > - Centering is suitable for workpieces with regular shapes, such as circles or rectangles. Not recommended for irregular workpieces
 > - During Z-axis surface detection, select the highest surface of the workpiece
 > - When moving the 3D probe, keep the ball tip slightly below the workpiece, not too low
 > - Observe in advance if there are objects that may obstruct the 3D probe movement, avoid the 3D probe being hit and damaged before the probe contacts
 > - The 3D probe is a precision and easily damaged accessory, please move the 3D probe slowly
 > - If the alarm is triggered by accidental contact during movement, please remove the obstacle in time, return to zero and retry
-> 
+>
 > {.is-warning}
+
+## 6. Height Map Feature
+
+The 3D probe can also be used for the height map feature, which automatically adjusts the machining path by detecting height variations on the workpiece surface, resulting in more precise machining results.
+
+- [MaxmakeLAB 3D Probe Height Map Feature](/en/himill-d1-d1s/hmd1s-height-map.md)
