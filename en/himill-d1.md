@@ -10,6 +10,7 @@ Necessary and simple operation steps to help you quickly get started with HiMill
 * [HiMill D1 Unboxing Guide](/en/himill-d1-d1s/hmd1-unboxing-guide.md)
 * [MaxmakeLab Software Installation](/en/maxmakelab/maxmakelab-installation.md)
 * [HiMill D1 First Use](/en/himill-d1-d1s/hmd1-first-use.md)
+* [HiMill D1S Manual Download](/eng/himill-d1-d1s/media/d1-en.pdf)
 
 ## Usage Instructions
 Detailed operation instructions to help you correctly use HiMill D1.
@@ -28,6 +29,7 @@ Detailed operation instructions for MaxmakeLab software to help you correctly us
 * [MaxmakeLab Laser Processing](/en/himill-d1-d1s/hmd1s-laser-processing.md)
 * [MaxmakeLab Rotation Axis Processing](/en/himill-d1-d1s/hmd1-rotation-axis-processing.md)
 * [MaxmakeLab 3D Probe Usage](/en/himill-d1-d1s/hmd1s-3d-probe-using.md)
+* [MaxmakeLab 3D Probe Height Map Feature](/en/himill-d1-d1s/hmd1s-height-map.md)
 * [MaxmakeLab HiMill D1/D1S Firmware Upgrade](/en/himill-d1-d1s/hmd1s-firmware-upgrade.md)
 * [MaxmakeLab HiMill D1/D1S SD Card Formatting](/en/himill-d1-d1s/hmd1s-format-sd-card.md)
 * [MaxmakeLab HiMill D1/D1S Safe Door Setting](/en/himill-d1-d1s/hmd1s-safe-door-setting.md)
