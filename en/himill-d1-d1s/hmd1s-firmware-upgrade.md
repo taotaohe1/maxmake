@@ -50,7 +50,7 @@ After connecting the device, click the device settings button to open the device
 
 Click "Open" and select the downloaded firmware file.
 
->Note: The latest firmware can be downloaded on this page ([Jump to Firmware Release Page](/eng/himill-d1-d1s/hmd1s-firmware-release-record.md))
+>Note: The latest firmware can be downloaded on this page ([Jump to Firmware Release Page](/en/himill-d1-d1s/hmd1s-firmware-release-record.md))
 > {.is-info}
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/2.png" alt="Select Firmware File" style="max-width: 800px;">
