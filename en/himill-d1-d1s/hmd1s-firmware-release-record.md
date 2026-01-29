@@ -27,7 +27,7 @@ If you choose to manually flash the firmware, you can follow these steps:
 
 | File Type | Download Link |
 |----------|--------------|
-| Firmware File | [HiMill_D1_V1.0.34.bin](/eng/himill-d1-d1s/media/himill_d1-v1.0.34-20251222.bin) |
+| Firmware File | [HiMill_D1_V1.0.34.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.34-20251222.bin) |
 
 ---
 
