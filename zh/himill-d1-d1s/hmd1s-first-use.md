@@ -22,7 +22,7 @@
 - 📋 内容包括：材料准备 → 软件使用  → 刀具安装 → 第一把刀加工 → 刀具更换 → 完成加工
 
 <iframe 
-    src="//player.bilibili.com/player.html?isOutside=true&aid=115811897313649&bvid=BV1HWiTB2ELZ&cid=35090072779&p=1" 
+    src="https://player.bilibili.com/player.html?isOutside=true&aid=115811897313649&bvid=BV1HWiTB2ELZ&cid=35090072779&p=1" 
     width="100%" 
     height="500" 
     scrolling="no" 
