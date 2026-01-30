@@ -8,7 +8,7 @@
 
 ### 步骤1：开机完成，需要回零
 
-<img src="media/hmd1s-button-and-indicator/1-开机完成，需要回零.webp" alt="开机完成，需要回零" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-button-and-indicator/1-开机完成，需要回零.webp" alt="开机完成，需要回零" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📋 **状态说明**：
 > 
@@ -26,7 +26,7 @@
 
 ### 步骤2：设备处于空闲状态，可执行指令
 
-<img src="media/hmd1s-button-and-indicator/2-设备处于空闲状态，可执行指令.webp" alt="设备空闲状态" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-button-and-indicator/2-设备处于空闲状态，可执行指令.webp" alt="设备空闲状态" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📋 **状态说明**：
 > 
@@ -44,7 +44,7 @@
 
 ### 步骤3：设备处于报警状态，需要回零或者解锁
 
-<img src="media/hmd1s-button-and-indicator/3-设备处于报警状态，需要回零或者解锁.webp" alt="报警状态" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-button-and-indicator/3-设备处于报警状态，需要回零或者解锁.webp" alt="报警状态" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📋 **状态说明**：
 > 
@@ -62,7 +62,7 @@
 
 ### 步骤4：设备接受文件成功，处于就绪状态
 
-<img src="media/hmd1s-button-and-indicator/4-设备接受文件成功，处于就绪状态.webp" alt="文件就绪状态" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-button-and-indicator/4-设备接受文件成功，处于就绪状态.webp" alt="文件就绪状态" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📋 **状态说明**：
 > 
@@ -80,7 +80,7 @@
 
 ### 步骤5：长按后开始加工
 
-<img src="media/hmd1s-button-and-indicator/5-长按后开始加工.webp" alt="开始加工" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-button-and-indicator/5-长按后开始加工.webp" alt="开始加工" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚙️ **操作方法**：
 > 
@@ -102,7 +102,7 @@
 
 ### 步骤6：加工中显示绿色进度灯
 
-<img src="media/hmd1s-button-and-indicator/6-加工中显示加工进度灯.webp" alt="加工进度" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-button-and-indicator/6-加工中显示加工进度灯.webp" alt="加工进度" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📋 **状态说明**：
 > 
@@ -114,7 +114,7 @@
 
 ### 步骤7：加工中单击，设备暂停加工，显示橙色
 
-<img src="media/hmd1s-button-and-indicator/7-加工中单击，设备暂停加工，显示橙色.webp" alt="暂停加工" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-button-and-indicator/7-加工中单击，设备暂停加工，显示橙色.webp" alt="暂停加工" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚙️ **操作方法**：
 > 
@@ -126,7 +126,7 @@
 
 ### 步骤8：设备处于换刀状态
 
-<img src="media/hmd1s-button-and-indicator/8-设备处于换刀状态.webp" alt="换刀状态" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-button-and-indicator/8-设备处于换刀状态.webp" alt="换刀状态" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📋 **状态说明**：
 > 
@@ -146,7 +146,7 @@
 
 ### 步骤9：暂停状态下，长按按键，恢复加工
 
-<img src="media/hmd1s-button-and-indicator/9-暂停状态下，长按按键，恢复加工.webp" alt="恢复加工" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-button-and-indicator/9-暂停状态下，长按按键，恢复加工.webp" alt="恢复加工" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚙️ **操作方法**：
 > 
@@ -158,7 +158,7 @@
 
 ### 步骤10：单击显示WIFI连接状态，绿色表示已连接局域网，橙色表示热点模式
 
-<img src="media/hmd1s-button-and-indicator/10-单击显示wifi连接状态，绿色表示已连接局域网，橙色表示热点模式.webp" alt="WIFI状态显示" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-button-and-indicator/10-单击显示wifi连接状态，绿色表示已连接局域网，橙色表示热点模式.webp" alt="WIFI状态显示" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📋 **功能说明**：
 > 
@@ -177,7 +177,7 @@
 
 ### 步骤11：空闲状态下长按按键5s，恢复热点模式
 
-<img src="media/hmd1s-button-and-indicator/11-空闲状态下长按按键5s，重置wifi.webp" alt="WIFI重置" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-button-and-indicator/11-空闲状态下长按按键5s，重置wifi.webp" alt="WIFI重置" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚙️ **操作方法**：
 > 

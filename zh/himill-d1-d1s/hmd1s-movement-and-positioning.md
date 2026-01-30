@@ -9,21 +9,21 @@
 
 在移动控制中，点击此按钮，可以控制X轴左右移动。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-录屏-主轴向右移动.webp" alt="主轴向右移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-<img src="/zh/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-拍摄-主轴向右移动.webp" alt="主轴向右移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />  
+<img src="/chi/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-录屏-主轴向右移动.webp" alt="主轴向右移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-拍摄-主轴向右移动.webp" alt="主轴向右移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />  
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-录屏-主轴向左移动.webp" alt="主轴向左移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-<img src="/zh/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-拍摄-主轴向左移动.webp" alt="主轴向左移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-录屏-主轴向左移动.webp" alt="主轴向左移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-拍摄-主轴向左移动.webp" alt="主轴向左移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 2. Y轴移动控制
 
 点此按钮，可以控制Y轴前后移动。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-录屏-垫板向内移动.webp" alt="垫板向内移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-<img src="/zh/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-拍摄-垫板向内移动.webp" alt="垫板向内移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />  
+<img src="/chi/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-录屏-垫板向内移动.webp" alt="垫板向内移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-拍摄-垫板向内移动.webp" alt="垫板向内移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />  
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-录屏-垫板向外移动.webp" alt="垫板向外移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-<img src="/zh/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-拍摄-垫板向外移动.webp" alt="垫板向外移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />  
+<img src="/chi/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-录屏-垫板向外移动.webp" alt="垫板向外移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-拍摄-垫板向外移动.webp" alt="垫板向外移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />  
 
 > ⚠️ **Y轴移动说明**：
 > 
@@ -35,17 +35,17 @@
 
 点此按钮，可以控制Z轴上下移动。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-录屏-主轴向下移动.webp" alt="主轴向下移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-<img src="/zh/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-拍摄-主轴向下移动.webp" alt="主轴向下移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />  
+<img src="/chi/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-录屏-主轴向下移动.webp" alt="主轴向下移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-拍摄-主轴向下移动.webp" alt="主轴向下移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />  
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-录屏-主轴向上移动.webp" alt="主轴向上移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-<img src="/zh/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-拍摄-主轴向上移动.webp" alt="主轴向上移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-录屏-主轴向上移动.webp" alt="主轴向上移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-movement-and-positioning/1-移动操作-拍摄-主轴向上移动.webp" alt="主轴向上移动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 4. A轴（旋转轴）移动控制
 
 点此按钮，可以控制A轴（旋转轴）移动。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-movement-and-positioning/2-a轴移动.webp" alt="旋转轴移动" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-movement-and-positioning/2-a轴移动.webp" alt="旋转轴移动" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 5. 步距和进给率设置
 
@@ -53,19 +53,19 @@
 - 步距：主轴每次移动的距离
 - 进给率：主轴每次移动的速度（HiMill设备最大速度为1000mm/min，设置超过1000mm/min会按照1000mm/min运动）
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-movement-and-positioning/3-设置步距和进给率.webp" alt="步距和进给率设置" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-movement-and-positioning/3-设置步距和进给率.webp" alt="步距和进给率设置" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 6. 设置XY0点
 
 当刀具移动至工件的中心时，点此按钮，可设置XY0点。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-movement-and-positioning/4-设置xy0点.webp" alt="设置XY0点" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-movement-and-positioning/4-设置xy0点.webp" alt="设置XY0点" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 7. 设置Z0点
 
 当刀具刚刚接触工件时，点此按钮，可设置Z0点。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-movement-and-positioning/4-设置z0点.webp" alt="设置Z0点" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-movement-and-positioning/4-设置z0点.webp" alt="设置Z0点" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ---
 
@@ -75,21 +75,21 @@
 
 在激光加工时，同样可以使用移动按钮移动至物体上方。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-movement-and-positioning/5-2-激光移动界面截图.webp" alt="激光移动界面" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-movement-and-positioning/5-2-激光移动界面截图.webp" alt="激光移动界面" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 2. 快速移动定位
 
 也可以使用快速移动，左键点击画布中的位置，主轴就会移动到相应的坐标处。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-movement-and-positioning/5-3-快速移动.webp" alt="快速移动定位" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-movement-and-positioning/5-3-快速移动.webp" alt="快速移动定位" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 3. 激光边框定位
 
 激活激光按钮打开后，点击边框按钮，激光会以弱光走出加工范围。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-movement-and-positioning/5-4-激光激活+边框定位.webp" alt="激光激活+边框定位" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />  
+<img src="/chi/himill-d1-d1s/media/hmd1s-movement-and-positioning/5-4-激光激活+边框定位.webp" alt="激光激活+边框定位" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />  
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-movement-and-positioning/5-5-拍摄边框定位.webp" alt="边框定位效果" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-movement-and-positioning/5-5-拍摄边框定位.webp" alt="边框定位效果" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚠️ **激光边框定位注意事项**：
 > 
@@ -103,7 +103,7 @@
 
 激光加工需要调节焦距，遮光罩底部到材料5mm为激光加工的最佳焦距位置。可以使用激光配件盒中的对焦辅助块，降下Z轴，直到对焦辅助块刚好能通过间隙。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-movement-and-positioning/5-6-对焦辅助片.webp" alt="对焦辅助片" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-movement-and-positioning/5-6-对焦辅助片.webp" alt="对焦辅助片" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚠️ **激光焦距调节注意事项**：
 > 

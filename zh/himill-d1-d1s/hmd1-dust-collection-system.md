@@ -4,11 +4,11 @@
 
 吸尘罩采用旋转卡扣式安装，应当在加工前，上升主轴到最高处，安装吸尘罩。
 
-<img src="/zh/himill-d1-d1s/media/hmd1-dust-collection-system/1-安装吸尘毛刷.webp" alt="安装吸尘罩" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1-dust-collection-system/1-安装吸尘毛刷.webp" alt="安装吸尘罩" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 从支架上取下风管，插到吸尘器的转接管上。
 
-<img src="/zh/himill-d1-d1s/media/hmd1-dust-collection-system/2-插入风管.webp" alt="插入风管" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1-dust-collection-system/2-插入风管.webp" alt="插入风管" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 2. 换刀时的操作
 
@@ -23,13 +23,13 @@
 
 加工结束后，取下的风管可放置在支架上，等待下一次使用。也可以放置在右立柱上方。
 
-<img src="/zh/himill-d1-d1s/media/hmd1-dust-collection-system/3-放置风管.webp" alt="插入风管" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1-dust-collection-system/3-放置风管.webp" alt="插入风管" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 4. 吸尘器连接
 
 取出配件盒中的转接管和卡箍，如图安装。加工时打开吸尘器即可。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-dust-collection-system/2.webp" alt="转接管和卡箍安装" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-dust-collection-system/2.webp" alt="转接管和卡箍安装" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 5. 吸尘器选择与使用
 

@@ -57,8 +57,8 @@ CNC 机床的刀具是高速旋转的（每分钟几千转），硬怼上去的�
 是 CNC 机床台面的 "标配夹具"，长得像一个带两个钳口的铁盒子，拧扳手就能让钳口夹紧 / 松开。
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="/zh/beginners-guide/media/clamping-guide/平口钳.png" alt="平口钳" style="width: 30%; height: auto; border-radius: 10px;" />
-  <img src="/zh/beginners-guide/media/clamping-guide/平口钳2.png" alt="平口钳使用示例" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/clamping-guide/平口钳.png" alt="平口钳" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/clamping-guide/平口钳2.png" alt="平口钳使用示例" style="width: 30%; height: auto; border-radius: 10px;" />
 </div>
 
 - **优点**：操作超简单、夹得特别牢、价格便宜、能夹大部分规则工件；
@@ -72,8 +72,8 @@ CNC 机床的刀具是高速旋转的（每分钟几千转），硬怼上去的�
 长得像一个带三个爪子的圆盘，三个爪子会同时往中间收 / 往两边放，自动找正中心。
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="/zh/beginners-guide/media/clamping-guide/三爪卡盘.jpg" alt="三爪卡盘" style="width: 30%; height: auto; border-radius: 10px;" />
-  <img src="/zh/beginners-guide/media/clamping-guide/三爪卡盘2.jpg" alt="三爪卡盘使用示例" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/clamping-guide/三爪卡盘.jpg" alt="三爪卡盘" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/clamping-guide/三爪卡盘2.jpg" alt="三爪卡盘使用示例" style="width: 30%; height: auto; border-radius: 10px;" />
 </div>
 
 - **优点**：夹圆形工件自动对中（不用手动调位置）、夹得牢，操作简单；
@@ -85,8 +85,8 @@ CNC 机床的刀具是高速旋转的（每分钟几千转），硬怼上去的�
 就是一块扁平的铁板（压板），配合螺丝把工件压在机床台面上，属于 "简易夹持"。
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="/zh/beginners-guide/media/clamping-guide/压板螺丝.jpg" alt="压板螺丝" style="width: 30%; height: auto; border-radius: 10px;" />
-  <img src="/zh/beginners-guide/media/clamping-guide/压板螺丝2.jpg" alt="压板螺丝使用示例" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/clamping-guide/压板螺丝.jpg" alt="压板螺丝" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/clamping-guide/压板螺丝2.jpg" alt="压板螺丝使用示例" style="width: 30%; height: auto; border-radius: 10px;" />
 </div>
 
 - **优点**：灵活，能夹超大的板材 / 工件（比如 1 米的铝板），平口钳夹不下的都能用它；
@@ -100,8 +100,8 @@ CNC 机床的刀具是高速旋转的（每分钟几千转），硬怼上去的�
 是一种从侧面推动夹紧工件的夹具，通过螺丝调节推块的位置来夹紧工件，适合夹一些厚度较薄但面积较大的工件。
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="/zh/beginners-guide/media/clamping-guide/侧推钳.png" alt="侧推钳" style="width: 30%; height: auto; border-radius: 10px;" />
-  <img src="/zh/beginners-guide/media/clamping-guide/侧推钳2.png" alt="侧推钳使用示例" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/clamping-guide/侧推钳.png" alt="侧推钳" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/clamping-guide/侧推钳2.png" alt="侧推钳使用示例" style="width: 30%; height: auto; border-radius: 10px;" />
 </div>
 
 - **优点**：能从侧面均匀施力，适合夹薄板材而不夹变形，操作简单，价格适中；
@@ -115,8 +115,8 @@ CNC 机床的刀具是高速旋转的（每分钟几千转），硬怼上去的�
 是一种呈L形的夹具，通过两个垂直方向的钳口来夹紧工件，适合夹一些需要垂直定位的工件。
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="/zh/beginners-guide/media/clamping-guide/l型夹具.png" alt="L型夹具" style="width: 30%; height: auto; border-radius: 10px;" />
-  <img src="/zh/beginners-guide/media/clamping-guide/l型夹具2.jpg" alt="L型夹具使用示例" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/clamping-guide/l型夹具.png" alt="L型夹具" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/clamping-guide/l型夹具2.jpg" alt="L型夹具使用示例" style="width: 30%; height: auto; border-radius: 10px;" />
 </div>
 
 - **优点**：能同时从两个垂直方向夹紧工件，定位准确，夹得牢固，操作简单；
@@ -132,8 +132,8 @@ CNC 机床的刀具是高速旋转的（每分钟几千转），硬怼上去的�
 就是一个带很多小孔的平板，接上台泵后，小孔会产生强吸力，把工件吸在上面。
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="/zh/beginners-guide/media/clamping-guide/真空吸盘.jpg" alt="真空吸盘" style="width: 30%; height: auto; border-radius: 10px;" />
-  <img src="/zh/beginners-guide/media/clamping-guide/真空吸盘2.png" alt="真空吸盘使用示例" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/clamping-guide/真空吸盘.jpg" alt="真空吸盘" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/clamping-guide/真空吸盘2.png" alt="真空吸盘使用示例" style="width: 30%; height: auto; border-radius: 10px;" />
 </div>
 
 - **优点**：不夹伤工件表面、能夹薄工件（比如 0.5mm 的薄铝板）、脆工件（亚克力、玻璃），装夹速度快，适合批量加工；
@@ -147,8 +147,8 @@ CNC 机床的刀具是高速旋转的（每分钟几千转），硬怼上去的�
 靠磁铁的吸力吸工件，只适用于铁、钢等磁性金属，非磁性的（铝、塑料、木材）吸不了，优点和真空吸盘类似，新人用得少，了解即可。
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="/zh/beginners-guide/media/clamping-guide/磁力吸盘.jpg" alt="磁力吸盘" style="width: 30%; height: auto; border-radius: 10px;" />
-  <img src="/zh/beginners-guide/media/clamping-guide/磁力吸盘2.jpg" alt="磁力吸盘使用示例" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/clamping-guide/磁力吸盘.jpg" alt="磁力吸盘" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/clamping-guide/磁力吸盘2.jpg" alt="磁力吸盘使用示例" style="width: 30%; height: auto; border-radius: 10px;" />
 </div>
 
 - **优点**：不夹伤工件表面、能夹薄金属板、装夹速度快，不需要接外部设备（自带磁力）；
@@ -164,8 +164,8 @@ CNC 机床的刀具是高速旋转的（每分钟几千转），硬怼上去的�
 是一堆标准化的小零件（底座、夹板、螺丝、支撑块），可以像拼积木一样，根据工件的形状拼出合适的夹具，拼好后固定工件。
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="/zh/beginners-guide/media/clamping-guide/组合夹具.jpg" alt="组合夹具" style="width: 30%; height: auto; border-radius: 10px;" />
-  <img src="/zh/beginners-guide/media/clamping-guide/组合夹具2.jpg" alt="组合夹具使用示例" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/clamping-guide/组合夹具.jpg" alt="组合夹具" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/clamping-guide/组合夹具2.jpg" alt="组合夹具使用示例" style="width: 30%; height: auto; border-radius: 10px;" />
 </div>
 
 - **优点**：超灵活，能夹任何异形工件，拼一次能反复用；
@@ -177,8 +177,8 @@ CNC 机床的刀具是高速旋转的（每分钟几千转），硬怼上去的�
 根据某一个特定工件的形状定制的夹具，比如你要批量加工一个异形的无人机配件，就做一个和配件形状完全匹配的夹具，工件放进去刚好卡住。
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="/zh/beginners-guide/media/clamping-guide/专用夹具.jpg" alt="专用夹具" style="width: 30%; height: auto; border-radius: 10px;" />
-  <img src="/zh/beginners-guide/media/clamping-guide/专用夹具2.jpg" alt="专用夹具使用示例" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/clamping-guide/专用夹具.jpg" alt="专用夹具" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/clamping-guide/专用夹具2.jpg" alt="专用夹具使用示例" style="width: 30%; height: auto; border-radius: 10px;" />
 </div>
 
 - **优点**：装夹超快（工件放进去就行，不用调）、夹得超牢，适合大批量加工，能提高效率；
@@ -191,8 +191,8 @@ CNC 机床的刀具是高速旋转的（每分钟几千转），硬怼上去的�
 针对细长的轴类工件、空心件的专用装夹，不是单独的夹具，是 "夹具 + 辅助件" 的组合，新人入门一般用不到，了解名称和适用场景即可，后续加工轴类件再深究。
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="/zh/beginners-guide/media/clamping-guide/顶针卡盘.jpg" alt="顶针卡盘" style="width: 30%; height: auto; border-radius: 10px;" />
-  <img src="/zh/beginners-guide/media/clamping-guide/胀套夹具.png" alt="顶针卡盘使用示例" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/clamping-guide/顶针卡盘.jpg" alt="顶针卡盘" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/clamping-guide/胀套夹具.png" alt="顶针卡盘使用示例" style="width: 30%; height: auto; border-radius: 10px;" />
 </div>
 
 - **顶针 + 卡盘**：一端用三爪卡盘夹，另一端用顶针顶住，防止细长轴类工件切削时 "晃悠 / 弯掉"，适用：加工长轴（比如电机长轴、丝杆）；

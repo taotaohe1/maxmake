@@ -55,7 +55,7 @@
 
 **天线在主控板上的位置：**
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-cannot-connect-software-via-wifi/主控板.jpg" alt="天线未插" style="width: 50%; height: auto; margin-bottom: 8px; border-radius: 16px;" /> <img src="/zh/himill-d1-d1s/media/hmd1s-cannot-connect-software-via-wifi/wifi天线.png" alt="天线已插" style="width: 50%; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-cannot-connect-software-via-wifi/主控板.jpg" alt="天线未插" style="width: 50%; height: auto; margin-bottom: 8px; border-radius: 16px;" /> <img src="/chi/himill-d1-d1s/media/hmd1s-cannot-connect-software-via-wifi/wifi天线.png" alt="天线已插" style="width: 50%; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 7. **📧 如问题仍未解决，请联系 support@maxmake.com**
 

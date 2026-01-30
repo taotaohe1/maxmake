@@ -8,7 +8,7 @@
 
 安装刀具前，需要在软件中点击换刀按钮。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-tool-installation/1软件中点击换刀.gif" alt="软件中点击换刀按钮" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-tool-installation/1软件中点击换刀.gif" alt="软件中点击换刀按钮" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📋 **换刀准备要点**：
 > 
@@ -24,9 +24,9 @@
 
 设备进入换刀状态，主轴移动至方便换刀的位置（X140,Y0），等待换刀，此时指示灯显示黄色跳动灯效。
 
-<img src="/zh/himill-d1-d1s/media/hmd1-tool-installation/1-移动到合适的地方换刀.webp" alt="主轴移动至换刀位置" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1-tool-installation/1-移动到合适的地方换刀.webp" alt="主轴移动至换刀位置" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-tool-installation/2指示灯黄色跳动.webp" alt="指示灯黄色跳动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-tool-installation/2指示灯黄色跳动.webp" alt="指示灯黄色跳动" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📱 **设备状态确认**：
 > 
@@ -42,19 +42,19 @@
 
 用扳手拧松筒夹
 
-<img src="/zh/himill-d1-d1s/media/hmd1-tool-installation/2-用扳手拧松筒夹.webp" alt="拧松筒夹" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1-tool-installation/2-用扳手拧松筒夹.webp" alt="拧松筒夹" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 用手拧下筒夹
 
-<img src="/zh/himill-d1-d1s/media/hmd1-tool-installation/3-用手拧下筒夹.webp" alt="用手拧下筒夹" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1-tool-installation/3-用手拧下筒夹.webp" alt="用手拧下筒夹" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 将刀具插入筒夹，并用手初步拧紧
 
-<img src="/zh/himill-d1-d1s/media/hmd1-tool-installation/4-将刀具插入筒夹.webp" alt="将刀具插入筒夹" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1-tool-installation/4-将刀具插入筒夹.webp" alt="将刀具插入筒夹" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 用扳手将筒夹拧紧
 
-<img src="/zh/himill-d1-d1s/media/hmd1-tool-installation/5-用扳手将筒夹拧紧.webp" alt="用扳手将筒夹拧紧" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1-tool-installation/5-用扳手将筒夹拧紧.webp" alt="用扳手将筒夹拧紧" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚠️ **刀具安装安全要求**：
 > 
@@ -64,7 +64,7 @@
 > 
 > {.is-warning}
 
-<img src="/zh/himill-d1-d1s/media/hmd1-tool-installation/6-建议夹取长度大于15mm.webp" alt="刀具夹持大于等于15mm" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1-tool-installation/6-建议夹取长度大于15mm.webp" alt="刀具夹持大于等于15mm" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ---
 
@@ -72,9 +72,9 @@
 
 确认安装无误后，单击按键（内外部均可），主轴会移动到测高器上方，完成测高。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-tool-installation/4内外部均可.webp" alt="内外部按键均可" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-tool-installation/4内外部均可.webp" alt="内外部按键均可" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/zh/himill-d1-d1s/media/hmd1-tool-installation/7-自动测高.webp" alt="单击按键触发测高" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1-tool-installation/7-自动测高.webp" alt="单击按键触发测高" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚠️ **刀具测高注意事项**：
 > 

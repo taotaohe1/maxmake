@@ -4,7 +4,7 @@
 
 每次加工完成后，应清理干净台面。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-dust-cleaning/1.webp" alt="台面清洁" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-dust-cleaning/1.webp" alt="台面清洁" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 清理台面是保持设备良好运行状态的重要步骤。
 
@@ -12,7 +12,7 @@
 
 每次加工完后，检查丝杆和光轴有无碎屑，需要用干布擦拭。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-dust-cleaning/2.webp" alt="丝杆和光轴清洁" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-dust-cleaning/2.webp" alt="丝杆和光轴清洁" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 定期清洁丝杆和光轴可延长设备使用寿命。
 

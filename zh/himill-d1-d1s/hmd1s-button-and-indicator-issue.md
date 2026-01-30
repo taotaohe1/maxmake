@@ -26,16 +26,16 @@
 2. 检查设备是否正常运行，内外部指示灯和按键共用一路触发信号，若内部指示灯和按键正常工作，说明主控系统正常。
 3. 检查LED指示灯和按键的连接线是否松动或接触不良
 
-<img src="media/hmd1s-button-and-indicator-issue/外部按键指示灯连接线.jpg" alt="外部按键指示灯连接线" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-button-and-indicator-issue/外部按键指示灯连接线.jpg" alt="外部按键指示灯连接线" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 4. 检查按键是否有卡住或损坏
 
-<img src="media/hmd1s-button-and-indicator-issue/外部按键指示灯压板.jpg" alt="外部按键指示灯压板" style="width: 300px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-button-and-indicator-issue/外部按键指示灯压板.jpg" alt="外部按键指示灯压板" style="width: 300px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 5. 重启设备观察是否恢复正常
 6. 检查控制板与按键板的连接线是否松动，拆后盖步骤请参考更换主控板的视频 [HiMill D1/D1S 更换器件仓部件](/zh/himill-d1-d1s/hmd1s-replace-air-cabinet.md)
 
-<img src="media/hmd1s-button-and-indicator-issue/主控板未插线外.jpg" alt="主控板未插线" style="width: 350px; height: auto; margin-bottom: 8px; border-radius: 16px;" /> <img src="media/hmd1s-button-and-indicator-issue/主控板插线外.jpg" alt="主控板插线" style="width: 450px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-button-and-indicator-issue/主控板未插线外.jpg" alt="主控板未插线" style="width: 350px; height: auto; margin-bottom: 8px; border-radius: 16px;" /> <img src="/chi/himill-d1-d1s/media/hmd1s-button-and-indicator-issue/主控板插线外.jpg" alt="主控板插线" style="width: 450px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 7. 如问题持续，联系 support@maxmake.com
 
@@ -59,6 +59,6 @@
 2. 检查设备是否正常运行，内外部指示灯和按键共用一路触发信号，若外部指示灯和按键正常工作，说明主控系统正常。
 3. 检查主控板上的连接线是否松动或接触不良（出厂时，内部指示灯电路板上已全部打胶包裹，理论上不会松动，无需检查），拆后盖步骤请参考更换主控板的视频 [HiMill D1/D1S 更换器件仓部件](/zh/himill-d1-d1s/hmd1s-replace-air-cabinet.md)
 
-<img src="media/hmd1s-button-and-indicator-issue/主控板未插线内.jpg" alt="主控板未插线" style="width: 350px; height: auto; margin-bottom: 8px; border-radius: 16px;" /> <img src="media/hmd1s-button-and-indicator-issue/主控板插线内.jpg" alt="主控板插线" style="width: 450px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-button-and-indicator-issue/主控板未插线内.jpg" alt="主控板未插线" style="width: 350px; height: auto; margin-bottom: 8px; border-radius: 16px;" /> <img src="/chi/himill-d1-d1s/media/hmd1s-button-and-indicator-issue/主控板插线内.jpg" alt="主控板插线" style="width: 450px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 4. 如问题持续，联系 support@maxmake.com 

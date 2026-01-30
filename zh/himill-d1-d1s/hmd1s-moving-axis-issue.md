@@ -32,7 +32,7 @@
 
 ### 1. 排除限位开关异常
 - 开机后尝试回零操作，检查是否能正常移动
-- 若回零失败，参考[限位开关异常文档](./hmd1s-limit-switch-issue.md)进行排查
+- 若回零失败，参考[限位开关异常文档](/zh/himill-d1-d1s/hmd1s-limit-switch-issue.md)进行排查
 
 ### 2. 检查机械传动部分
 - 仔细检查传动路径是否有异物卡住
@@ -42,15 +42,15 @@
 
 #### X电机连接线
 需要将主轴移动至右侧进行检查,尝试重新拔插
-<img src="media/hmd1s-moving-axis-issue/x电机.jpg" alt="X电机" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" /> <img src="media/hmd1s-moving-axis-issue/x电机线.jpg" alt="X电机线" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-moving-axis-issue/x电机.jpg" alt="X电机" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" /> <img src="/chi/himill-d1-d1s/media/hmd1s-moving-axis-issue/x电机线.jpg" alt="X电机线" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 #### Y电机连接线
 需要将设备侧放进行检查,尝试重新拔插
-<img src="media/hmd1s-moving-axis-issue/y电机线.jpg" alt="Y电机线" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-moving-axis-issue/y电机线.jpg" alt="Y电机线" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 #### Z电机连接线
 检查位置如下,尝试重新拔插
-<img src="media/hmd1s-moving-axis-issue/z电机线.jpg" alt="Z电机线" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-moving-axis-issue/z电机线.jpg" alt="Z电机线" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 4. 检查润滑情况
 - 检查导轨和丝杠是否润滑不足
@@ -62,11 +62,11 @@
 
 ### 6. 恢复参数设置
 - 若移动仍然卡顿且声音异常，尝试恢复设备出厂参数。连接设备后，尝试在回零后点击恢复按键
-<img src="media/hmd1s-moving-axis-issue/恢复参数.png" alt="Z电机线" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-moving-axis-issue/恢复参数.png" alt="恢复参数" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 7. 恢复参数设置
 - 检查主控板上的电机连接线是否松动或接触不良，拆后盖步骤请参考更换主控板的视频 [HiMill D1/D1S 更换器件仓部件](/zh/himill-d1-d1s/hmd1s-replace-air-cabinet.md)
-<img src="media/hmd1s-moving-axis-issue/主控板未插线电机.jpg" alt="主控板未插线电机" style="width: 350px; height: auto; margin-bottom: 8px; border-radius: 16px;" /> <img src="media/hmd1s-moving-axis-issue/主控板插线电机.jpg" alt="主控板插线电机" style="width: 450px; height: auto; margin-bottom: 8px; border-radius: 16px;" /> 
+<img src="/chi/himill-d1-d1s/media/hmd1s-moving-axis-issue/主控板未插线电机.jpg" alt="主控板未插线电机" style="width: 350px; height: auto; margin-bottom: 8px; border-radius: 16px;" /> <img src="/chi/himill-d1-d1s/media/hmd1s-moving-axis-issue/主控板插线电机.jpg" alt="主控板插线电机" style="width: 450px; height: auto; margin-bottom: 8px; border-radius: 16px;" />     
 
 ### 8. 联系技术支持
 若以上方法均无效，请联系 support@maxmake.com 获取进一步帮助

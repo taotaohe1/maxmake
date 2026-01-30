@@ -15,19 +15,19 @@
 **缺点**：部分金属（如钢材、高温合金）加工难度大，需要专用刀具，成本较高。
 
 **轻合金材料**：主要是 铝、镁合金 ，特点是 轻、软，特别好切 ，铣床加工的 "入门级金属"
-<img src="/zh/beginners-guide/media/material-selection/铝合金.png" alt="铝合金材料" style="width: 40%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/material-selection/铝合金.png" alt="铝合金材料" style="width: 40%; height: auto; border-radius: 10px;" />
 - **应用场景**：手机 / 电脑外壳、无人机零件、小型机械配件、汽车轻量化零件，日常 CNC 加工最常见的材料。
 
 **钢及合金钢**：普通钢（软一点）、合金钢（硬一点，加了其他金属更结实），比轻合金硬，需要适配刀具
-<img src="/zh/beginners-guide/media/material-selection/钢材.png" alt="钢材材料" style="width: 40%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/material-selection/钢材.png" alt="钢材材料" style="width: 40%; height: auto; border-radius: 10px;" />
 - **应用场景**：机械设备的结构件、支架、螺丝、模具外壳，比如机床的固定零件、五金工具的底座。
 
 **铜及铜合金（黄铜、青铜）**：软、导电导热性好，切的时候不容易崩，就是会产生铜屑
-<img src="/zh/beginners-guide/media/material-selection/铜材.png" alt="铜材材料" style="width: 40%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/material-selection/铜材.png" alt="铜材材料" style="width: 40%; height: auto; border-radius: 10px;" />
 - **应用场景**：电线接头、导电零件、阀门、小五金摆件，比如电器里的导电铜片。
 
 **高温合金**：特别硬、耐高温，普通刀具切不动，需要专用镀层刀具，属于难加工的金属
-<img src="/zh/beginners-guide/media/material-selection/高温合金.jpg" alt="高温合金材料" style="width: 40%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/material-selection/高温合金.jpg" alt="高温合金材料" style="width: 40%; height: auto; border-radius: 10px;" />
 - **应用场景**：航空发动机叶片、燃气轮机部件、锅炉里的耐高温零件，只有精密加工会用到。
 
 ### 🧩 非金属材料
@@ -35,15 +35,15 @@
 **缺点**：强度和耐用性相对较低，部分材料（如陶瓷）脆性大，易开裂。
 
 **工程塑料**：比普通塑料硬、结实，比如亚克力、尼龙、ABS，不脆、易切削
-<img src="/zh/beginners-guide/media/material-selection/工程塑料.png" alt="工程塑料材料" style="width: 40%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/material-selection/工程塑料.png" alt="工程塑料材料" style="width: 40%; height: auto; border-radius: 10px;" />
 - **应用场景**：塑料外壳、玩具零件、设备的塑料配件、展示架，比如打印机的塑料外壳、亚克力展示牌。
 
 **陶瓷材料**：特别硬、耐磨，但 **特别脆** ，铣床能加工但要慢切，一不小心就崩裂
-<img src="/zh/beginners-guide/media/material-selection/陶瓷塑料.png" alt="陶瓷材料" style="width: 40%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/material-selection/陶瓷塑料.png" alt="陶瓷材料" style="width: 40%; height: auto; border-radius: 10px;" />
 - **应用场景**：耐磨的零件、陶瓷摆件、工业用的陶瓷垫片，比如机床里的耐磨陶瓷块。
 
 **其他非金属**：木材及复合板材（密度板、多层板）、石材（大理石、青石）、玻璃
-<img src="/zh/beginners-guide/media/material-selection/木材.jpg" alt="木材材料" style="width: 40%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/material-selection/木材.jpg" alt="木材材料" style="width: 40%; height: auto; border-radius: 10px;" />
 - **应用场景**：木材 / 复合板做家具板材、工艺摆件、木质模具；石材做台面、石雕摆件；玻璃做精密玻璃配件（需慢切，防碎）。
 
 ### 🎯 复合材料
@@ -53,11 +53,11 @@
 简单说就是 **两种材料混在一起做的** ，硬的 + 轻的 / 软的，铣床能加工但要慢切，避免材料分层、开裂
 
 **碳纤维增强塑料**：轻、特别硬、结实，比金属轻但强度高
-<img src="/zh/beginners-guide/media/material-selection/碳纤维.png" alt="碳纤维材料" style="width: 40%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/material-selection/碳纤维.png" alt="碳纤维材料" style="width: 40%; height: auto; border-radius: 10px;" />
 - **应用场景**：无人机机架、航模零件、汽车轻量化配件、运动器材（羽毛球拍、自行车架）。
 
 **玻璃纤维增强塑料**：比碳纤维便宜，硬度也够，性价比高
-<img src="/zh/beginners-guide/media/material-selection/玻璃纤维增强塑料.png" alt="玻璃纤维材料" style="width: 40%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/material-selection/玻璃纤维增强塑料.png" alt="玻璃纤维材料" style="width: 40%; height: auto; border-radius: 10px;" />
 - **应用场景**：玻璃钢外壳、水箱、通风管道、小型设备的防护壳。
 
 **其他混合复合材料**：金属 + 塑料混合、塑料 + 木材混合，兼顾两种材料的特性（比如金属硬 + 塑料轻）
@@ -68,11 +68,11 @@
 **缺点**：加工难度极大，成本高昂，需要专业刀具和工艺，日常加工很少使用。
 
 **硬质合金（比如碳化钨）**： **超硬** ，比钢硬很多，铣床能加工但必须用专用刀具，属于最难加工的材料之一
-<img src="/zh/beginners-guide/media/material-selection/硬质合金.png" alt="硬质合金材料" style="width: 40%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/material-selection/硬质合金.png" alt="硬质合金材料" style="width: 40%; height: auto; border-radius: 10px;" />
 - **应用场景**：做 CNC 刀具本身、耐磨的工业零件、机床的硬质配件。
 
 **软金属（金、银、铂）**：特别软，切的时候要轻，避免刮花、变形，属于精密加工
-<img src="/zh/beginners-guide/media/material-selection/贵金属.png" alt="贵金属材料" style="width: 40%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/material-selection/贵金属.png" alt="贵金属材料" style="width: 40%; height: auto; border-radius: 10px;" />
 - **应用场景**：金银首饰、贵金属摆件、精密贵金属导电零件。
 
 **高温合金**：核心就是耐高温、硬

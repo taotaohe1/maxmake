@@ -18,7 +18,7 @@
 6. 避免使用过长的USB延长线，如必须使用，建议使用带信号放大功能的延长线
 7. 检查主控板上的USB连接端子是否松动或接触不良，拆后盖步骤请参考更换主控板的视频 [HiMill D1/D1S 更换器件仓部件](/zh/himill-d1-d1s/hmd1s-replace-air-cabinet.md)
 
-<img src="media/hmd1s-cannot-connect-software-via-usb/主控板未插线usb.jpg" alt="主控板未插线" style="width: 350px; height: auto; margin-bottom: 8px; border-radius: 16px;" /> <img src="media/hmd1s-cannot-connect-software-via-usb/主控板插线usb.jpg" alt="主控板插线" style="width: 450px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-cannot-connect-software-via-usb/主控板未插线usb.jpg" alt="主控板未插线" style="width: 350px; height: auto; margin-bottom: 8px; border-radius: 16px;" /> <img src="/chi/himill-d1-d1s/media/hmd1s-cannot-connect-software-via-usb/主控板插线usb.jpg" alt="主控板插线" style="width: 450px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 8. 如问题持续，联系 support@maxmake.com
 

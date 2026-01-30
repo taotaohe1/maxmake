@@ -2,11 +2,11 @@
 
 ## 1. 连接设备后，点击设备设置按钮
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-detection-function/1-点击设备设置按钮.png" alt="点击设备设置按钮" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-detection-function/1-点击设备设置按钮.png" alt="点击设备设置按钮" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 2. 切换到检测窗口，可以检查硬件状态
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-detection-function/2-检测窗口界面.png" alt="检测窗口界面" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-detection-function/2-检测窗口界面.png" alt="检测窗口界面" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 硬件状态检测说明
 

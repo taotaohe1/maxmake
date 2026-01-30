@@ -11,8 +11,8 @@ MaxmakeLab是一款专为HiMill系列CNC设备设计的智能控制软件，提�
 MaxmakeLab采用模块化的界面设计，主要分为以下功能区域：
 
 <div style="display: flex; gap: 16px; flex-wrap: wrap;">
-  <img src="/zh/maxmakelab/media/software-manual/main-interface1.png" alt="主界面整体布局1" style="width: calc(50% - 8px); height: auto; border-radius: 8px;" />
-  <img src="/zh/maxmakelab/media/software-manual/main-interface2.png" alt="主界面整体布局2" style="width: calc(50% - 8px); height: auto; border-radius: 8px;" />
+  <img src="/chi/maxmakelab/media/software-manual/main-interface1.png" alt="主界面整体布局1" style="width: calc(50% - 8px); height: auto; border-radius: 8px;" />
+  <img src="/chi/maxmakelab/media/software-manual/main-interface2.png" alt="主界面整体布局2" style="width: calc(50% - 8px); height: auto; border-radius: 8px;" />
 </div>
 
 ### 界面功能分区

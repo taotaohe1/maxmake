@@ -18,13 +18,13 @@
 
 连接设备后，点击设备设置按钮，打开设备设置界面。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-format-sd-card/open_settings.png" alt="打开设备设置界面" style="max-width: 800px;">
+<img src="/chi/himill-d1-d1s/media/hmd1s-format-sd-card/open_settings.png" alt="打开设备设置界面" style="max-width: 800px;">
 
 ### 步骤 2：执行格式化操作
 
 点击格式化按钮后，按钮会变灰，表示正在进行格式化操作。大约10秒后，会弹出格式化成功的提示框。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-format-sd-card/format_in_progress.png" alt="格式化成功" style="max-width: 800px;">
+<img src="/chi/himill-d1-d1s/media/hmd1s-format-sd-card/format_in_progress.png" alt="格式化成功" style="max-width: 800px;">
 
 ### 步骤 3：重启设备
 

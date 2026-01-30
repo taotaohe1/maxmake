@@ -1,6 +1,6 @@
 # MaxmakeLab 软件
 
-<img src="/zh/himill-d1-d1s/media/icon/maxmakelab.png" alt="MaxmakeLab 主界面" style="width: 100px; height: auto; margin-bottom: 8px; border-radius: 6px;" />
+<img src="/chi/himill-d1-d1s/media/icon/maxmakelab.png" alt="MaxmakeLab 主界面" style="width: 100px; height: auto; margin-bottom: 8px; border-radius: 6px;" />
 
 ## 快速入门
 必要和简单的操作步骤，帮助您快速上手使用MaxmakeLab。

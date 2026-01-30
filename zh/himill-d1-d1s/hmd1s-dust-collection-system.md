@@ -4,7 +4,7 @@
 
 吸尘罩采用磁吸安装方式，应当在加工前，上升主轴到最高处，安装吸尘罩。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-dust-collection-system/1.webp" alt="磁吸安装吸尘罩" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-dust-collection-system/1.webp" alt="磁吸安装吸尘罩" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 2. 换刀时的操作
 
@@ -21,7 +21,7 @@
 
 取出配件盒中的转接管和卡箍，如图安装。加工时打开吸尘器即可。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-dust-collection-system/2.webp" alt="转接管和卡箍安装" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-dust-collection-system/2.webp" alt="转接管和卡箍安装" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 4. 吸尘器选择与使用
 

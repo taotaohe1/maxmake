@@ -4,7 +4,7 @@
 
 电脑和设备用数据线连接，在首次打开软件时，可以自动查找HiMill设备并连接。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-connection/1-自动连接，点击回零.webp" alt="自动连接设备" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-connection/1-自动连接，点击回零.webp" alt="自动连接设备" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📋 **连接提示**：
 > 
@@ -20,7 +20,7 @@
 
 在自动查找失效时，尝试使用串口号连接。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-connection/2-手动连接.webp" alt="手动连接设备" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-connection/2-手动连接.webp" alt="手动连接设备" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚠️ **连接注意事项**：
 > 

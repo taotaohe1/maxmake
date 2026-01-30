@@ -28,7 +28,7 @@ CNC 技术可以应用在很多不同类型的机器上，下面是最常见的�
 
 ### 3D 打印机
 
-<img src="/zh/beginners-guide/media/what-is-cnc/3d.jpg" alt="3D 打印机" style="width: 50%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/what-is-cnc/3d.jpg" alt="3D 打印机" style="width: 50%; height: auto; border-radius: 10px;" />
 
 - **工作原理**：通过逐层堆积材料（如塑料丝）来创建 3D 物体
 - **应用**：原型制作、个性化产品、模型制作
@@ -36,7 +36,7 @@ CNC 技术可以应用在很多不同类型的机器上，下面是最常见的�
 
 ### 激光切割机
 
-<img src="/zh/beginners-guide/media/what-is-cnc/激光切割机.jpg" alt="激光切割机" style="width: 50%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/what-is-cnc/激光切割机.jpg" alt="激光切割机" style="width: 50%; height: auto; border-radius: 10px;" />
 
 - **工作原理**：使用高能量激光束切割或雕刻材料
 - **应用**：广告制作、工艺品、精密零件
@@ -44,7 +44,7 @@ CNC 技术可以应用在很多不同类型的机器上，下面是最常见的�
 
 ### CNC 雕刻机
 
-<img src="/zh/beginners-guide/media/what-is-cnc/雕刻机.jpg" alt="cnc雕刻机" style="width: 50%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/what-is-cnc/雕刻机.jpg" alt="cnc雕刻机" style="width: 50%; height: auto; border-radius: 10px;" />
 
 
 - **工作原理**：使用旋转的刀具在材料表面雕刻图案或文字
@@ -53,7 +53,7 @@ CNC 技术可以应用在很多不同类型的机器上，下面是最常见的�
 
 ### CNC 铣床
 
-<img src="/zh/beginners-guide/media/what-is-cnc/铣床.jpg" alt="CNC 铣床" style="width: 50%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/what-is-cnc/铣床.jpg" alt="CNC 铣床" style="width: 50%; height: auto; border-radius: 10px;" />
 
 - **工作原理**：刀具旋转，工件固定，刀具在工件上移动进行切削
 - **应用**：机械零件、模具制造、航空航天部件
@@ -61,7 +61,7 @@ CNC 技术可以应用在很多不同类型的机器上，下面是最常见的�
 
 ### CNC 车床
 
-<img src="/zh/beginners-guide/media/what-is-cnc/车床.jpg" alt="CNC 车床" style="width: 50%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/what-is-cnc/车床.jpg" alt="CNC 车床" style="width: 50%; height: auto; border-radius: 10px;" />
 
 - **工作原理**：工件旋转，刀具固定，刀具在工件上移动进行切削
 - **应用**：轴类零件、螺纹加工、圆形零件
@@ -81,7 +81,7 @@ CNC 技术可以应用在很多不同类型的机器上，下面是最常见的�
 
 ### 三轴 CNC
 
-<img src="/zh/beginners-guide/media/what-is-cnc/三轴.jpg" alt="三轴 CNC" style="width: 50%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/what-is-cnc/三轴.jpg" alt="三轴 CNC" style="width: 50%; height: auto; border-radius: 10px;" />
 
 - **移动方向**：X 轴（左右）、Y 轴（前后）、Z 轴（上下）
 - **特点**：最基础、最常见的 CNC 设备
@@ -90,7 +90,7 @@ CNC 技术可以应用在很多不同类型的机器上，下面是最常见的�
 
 ### 四轴 CNC
 
-<img src="/zh/beginners-guide/media/what-is-cnc/四轴.jpg" alt="四轴 CNC" style="width: 50%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/what-is-cnc/四轴.jpg" alt="四轴 CNC" style="width: 50%; height: auto; border-radius: 10px;" />
 
 - **移动方向**：X、Y、Z 轴 + 一个旋转轴（通常是 A 轴）
 - **特点**：可以加工圆柱形或复杂曲面工件
@@ -99,7 +99,7 @@ CNC 技术可以应用在很多不同类型的机器上，下面是最常见的�
 
 ### 五轴 CNC
 
-<img src="/zh/beginners-guide/media/what-is-cnc/五轴.jpg" alt="五轴 CNC" style="width: 50%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/what-is-cnc/五轴.jpg" alt="五轴 CNC" style="width: 50%; height: auto; border-radius: 10px;" />
 
 - **移动方向**：X、Y、Z 轴 + 两个旋转轴（通常是 A 轴和 B 轴）
 - **特点**：可以从任何角度加工工件，功能最强大

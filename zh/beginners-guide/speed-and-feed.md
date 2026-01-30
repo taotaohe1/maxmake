@@ -25,7 +25,7 @@
 
 **简单来说：CNC 机床里装切削刀具的那个 "旋转部件"，每分钟能转多少圈，单位是 r/min（转/分钟）**
 
-<img src="/zh/beginners-guide/media/speed-and-feed/主轴转速.jpg" alt="主轴转速示意图" style="width: 40%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/speed-and-feed/主轴转速.jpg" alt="主轴转速示意图" style="width: 40%; height: auto; border-radius: 10px;" />
 
 用一个你肯定见过的东西类比就懂了：
 你家里的手电钻，夹钻头的那个金属头，通电后会转 —— 这个金属头就相当于 CNC 的主轴；你开电钻时，钻头转得快或慢，就是转速；拧螺丝时你会把电钻调慢档，钻木头时调快档，这个 "快慢调节"，和 CNC 调主轴转速是一个道理。
@@ -65,7 +65,7 @@
 
 **简单来说：CNC 加工时，刀具在零件表面 "往前走" 的速度，单位一般是 mm/min（毫米 / 每分钟） 或者 mm/r（毫米 / 每转，指主轴转 1 圈，刀具往前走的距离）**
 
-<img src="/zh/beginners-guide/media/speed-and-feed/切削进给率.jpg" alt="切削进给率示意图" style="width: 50%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/speed-and-feed/切削进给率.jpg" alt="切削进给率示意图" style="width: 50%; height: auto; border-radius: 10px;" />
 
 用生活里的例子就能秒懂：
 你拿一把菜刀切黄瓜，主轴转速 就是菜刀刀刃每分钟 "划" 的圈数；切削进给率 就是你手推着菜刀往前移动的速度。
@@ -115,7 +115,7 @@
 
 **简单来说：CNC 加工时，刀具垂直扎进零件材料里的速度，单位和切削进给率一样，是 mm/min（毫米 / 每分钟） 或 mm/r（毫米 / 每转）**
 
-<img src="/zh/beginners-guide/media/speed-and-feed/下切进给率.jpg" alt="下切进给率示意图" style="width: 40%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/speed-and-feed/下切进给率.jpg" alt="下切进给率示意图" style="width: 40%; height: auto; border-radius: 10px;" />
 
 咱们用之前切黄瓜的例子延伸一下，你马上就懂：
 普通切削进给率 = 你拿着菜刀水平往前推的速度（切薄片的过程）；
@@ -180,7 +180,7 @@
 
 **简单来说：CNC 铣削加工时，刀具切完一刀后，横向挪到下一刀的距离，也叫行距或切削宽度，单位是 mm（毫米）**
 
-<img src="/zh/beginners-guide/media/speed-and-feed/步距.jpg" alt="步距示意图" style="width: 50%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/speed-and-feed/步距.jpg" alt="步距示意图" style="width: 50%; height: auto; border-radius: 10px;" />
 
 用拖地的例子你一下就懂了：
 你拿拖把拖地，拖把就相当于 CNC 的铣刀；拖完客厅第一遍，你得把拖把往旁边挪一段距离再拖第二遍 ——这个 "挪的距离" 就是步距。
@@ -245,7 +245,7 @@
 
 **简单来说：CNC 加工里，下切步距是个垂直方向的 "分层间距"，当要加工的总深度比较深时，刀具分多层往下切，每一层之间的垂直距离就是下切步距，单位是 mm（毫米）**
 
-<img src="/zh/beginners-guide/media/speed-and-feed/下切步距.jpg" alt="下切步距示意图" style="width: 40%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/speed-and-feed/下切步距.jpg" alt="下切步距示意图" style="width: 40%; height: auto; border-radius: 10px;" />
 
 咱们用挖小土坑的例子，保证你秒懂：
 你要挖一个 10cm 深的坑，要是一次性挖 10cm，铁锹会特别沉、压得手疼，还容易把土块铲得乱飞；但你分 2 次挖，每次挖 5cm，就轻松多了。这里的 5cm，就是 "挖地的下切步距"；对应到 CNC 里，总切深 10mm，分 2 层切，每层切 5mm，这个 5mm 就是下切步距。
@@ -380,7 +380,7 @@
 
 **简单来说：CNC 加工时，刀具垂直扎进零件材料里的 "深浅程度"，单位是 mm（毫米）**
 
-<img src="/zh/beginners-guide/media/speed-and-feed/切削深度.jpg" alt="切削深度示意图" style="width: 40%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/speed-and-feed/切削深度.jpg" alt="切削深度示意图" style="width: 40%; height: auto; border-radius: 10px;" />
 
 咱们继续用切黄瓜的例子，保证你秒懂：
 你拿菜刀切黄瓜，一刀下去，刀刃埋进黄瓜的深度（比如切 5mm 深的槽，这个 5mm 就是切深）；哪怕你慢慢扎或者快速扎，这个 5mm 的深度是不变的 —— 这就是切深的核心：只看 "深浅"，不看 "快慢"。

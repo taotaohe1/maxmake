@@ -8,7 +8,7 @@
 
 使用压板装夹时，应保持压板平行下压工件，图为正确的安装方式。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-workpiece-installation/1正确安装方式.webp" alt="正确压板装夹方式" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-workpiece-installation/1正确安装方式.webp" alt="正确压板装夹方式" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📋 **装夹要点**：
 > 
@@ -25,7 +25,7 @@
 选择合适长度的螺丝，固定后，应不接触底部面板。防止平台移动时，刮伤底部面板。
 下图为错误安装图示
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-workpiece-installation/2 选择合适长度螺丝1.webp" alt="螺丝长度选择1" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-workpiece-installation/2 选择合适长度螺丝1.webp" alt="螺丝长度选择1" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 🔧 **螺丝选择原则**：
 > 
@@ -41,7 +41,7 @@
 
 装夹大物体时，应保证边缘装夹牢固，若压板无法正确装夹，请更换其他固定方式。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-workpiece-installation/3装夹大物体.webp" alt="大物体装夹方式" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-workpiece-installation/3装夹大物体.webp" alt="大物体装夹方式" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚙️ **大物体装夹策略**：
 > 
@@ -57,7 +57,7 @@
 
 装夹前，应熟知加工范围，也就是加工刀路的长度宽度高度，压板应避开所有刀具路径，防止加工时刀具撞击压板。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-workpiece-installation/4熟知加工范围.webp" alt="加工范围示意图" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-workpiece-installation/4熟知加工范围.webp" alt="加工范围示意图" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 📐 **加工范围规划**：
 > 
@@ -73,7 +73,7 @@
 
 木工基板的拆装如下图，用扳手拧紧或拧松对应的沉头螺丝。
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-workpiece-installation/5木工基板拆装.webp" alt="木工基板拆装" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-workpiece-installation/5木工基板拆装.webp" alt="木工基板拆装" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚠️ **基板装夹注意事项**：
 > 
@@ -88,7 +88,7 @@
 
 靠山使用时，固定方式如下：
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-workpiece-installation/6l型靠山.webp" alt="L型靠山固定方式" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-workpiece-installation/6l型靠山.webp" alt="L型靠山固定方式" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 🛠️ **靠山使用指南**：
 > 

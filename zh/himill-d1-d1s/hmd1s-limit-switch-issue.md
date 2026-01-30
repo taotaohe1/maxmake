@@ -3,13 +3,13 @@
 ## 限位开关位置示意图
 
 X限位开关位置：
-<img src="media/hmd1s-limit-switch-issue/x限位.jpg" alt="X限位开关" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-limit-switch-issue/x限位.jpg" alt="X限位开关" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 Y限位开关位置：
-<img src="media/hmd1s-limit-switch-issue/y限位.jpg" alt="Y限位开关" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-limit-switch-issue/y限位.jpg" alt="Y限位开关" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 Z限位开关位置：
-<img src="media/hmd1s-limit-switch-issue/z限位.jpg" alt="Z限位开关" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-limit-switch-issue/z限位.jpg" alt="Z限位开关" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ---
 
@@ -33,7 +33,7 @@ Z限位开关位置：
 4. 尝试按压限位开关，观察回弹是否正常
 5. 检查限位开关连接线是否松动，尝试重新拔插，具体请参考更换XY限位的视频 [HiMill D1/D1S 更换限位开关](/zh/himill-d1-d1s/hmd1s-replace-limit-switch.md)
 6. 检查主控板上的限位连接端子是否连接正常，尝试重新拔插，拆后盖步骤请参考更换主控板的视频 [HiMill D1/D1S 更换器件仓部件](/zh/himill-d1-d1s/hmd1s-replace-air-cabinet.md)
-<img src="media/hmd1s-limit-switch-issue/主控板未插线限位.jpg" alt="主控板未插线限位" style="width: 350px; height: auto; margin-bottom: 8px; border-radius: 16px;" /> <img src="media/hmd1s-limit-switch-issue/主控板插线限位.jpg" alt="主控板插线限位" style="width: 450px; height: auto; margin-bottom: 8px; border-radius: 16px;" /> 
+<img src="/chi/himill-d1-d1s/media/hmd1s-limit-switch-issue/主控板未插线限位.jpg" alt="主控板未插线限位" style="width: 350px; height: auto; margin-bottom: 8px; border-radius: 16px;" /> <img src="/chi/himill-d1-d1s/media/hmd1s-limit-switch-issue/主控板插线限位.jpg" alt="主控板插线限位" style="width: 450px; height: auto; margin-bottom: 8px; border-radius: 16px;" /> 
 
 7. 检查传动部件是否需要上油
 8. 重启设备后重试

@@ -6,7 +6,7 @@
 
 ### 🎨 CAD：计算机辅助设计 (Computer-Aided Design)
 
-<img src="/zh/beginners-guide/media/what-is-cam/cad软件.jpg" alt="CAD软件界面" style="width: 50%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/what-is-cam/cad软件.jpg" alt="CAD软件界面" style="width: 50%; height: auto; border-radius: 10px;" />
 
 **简单来说：CAD 就是「电脑上的超级画图本」**
 
@@ -37,7 +37,7 @@
 
 ### 🛠️ CAM：计算机辅助制造 (Computer-Aided Manufacturing)
 
-<img src="/zh/beginners-guide/media/what-is-cam/cam.png" alt="CAM软件界面" style="width: 50%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/what-is-cam/cam.png" alt="CAM软件界面" style="width: 50%; height: auto; border-radius: 10px;" />
 
 **简单来说：CAM 就是「给机器的做饭菜谱」**
 
@@ -78,7 +78,7 @@ CAM 就像是给 CNC 机器的「菜谱」：
 
 ## 🔄 CAD 与 CAM 的关系和区别
 
-<img src="/zh/beginners-guide/media/what-is-cam/cad-cam.jpg" alt="CAD到CAM工作流程" style="width: 50%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/what-is-cam/cad-cam.jpg" alt="CAD到CAM工作流程" style="width: 50%; height: auto; border-radius: 10px;" />
 
 **一句话总结：CAD 是「画画」，CAM 是「做饭」**
 
@@ -225,7 +225,7 @@ CAM 就像是给 CNC 机器的「菜谱」：
 
 ## 🎯 我们的软件：MaxmakeLab
 
-<img src="/zh/beginners-guide/media/what-is-cam/maxmakelab1.jpg" alt="MaxmakeLab软件主界面" style="width: 50%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/what-is-cam/maxmakelab1.jpg" alt="MaxmakeLab软件主界面" style="width: 50%; height: auto; border-radius: 10px;" />
 
 MaxmakeLab 是 **专门为 MAXMAKE CNC 设备打造的「新手友好型」软件**！它把 CAD、CAM 和设备控制都整合在一起，让你从设计到加工，只用一个软件就能搞定！
 

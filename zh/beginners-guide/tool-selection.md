@@ -22,7 +22,7 @@
 
 **简单来说：刀具的粗细**
 
-<img src="/zh/beginners-guide/media/tool-selection/直径.jpg" alt="刀具直径示意图" style="width: 20%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/tool-selection/直径.jpg" alt="刀具直径示意图" style="width: 20%; height: auto; border-radius: 10px;" />
 
 直径是刀具最基本的参数，通常用**毫米(mm)**表示。
 
@@ -37,7 +37,7 @@
 
 **简单来说：真正用来「切东西」的部分的直径**
 
-<img src="/zh/beginners-guide/media/tool-selection/切削直径.jpg" alt="切削直径示意图" style="width: 30%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/tool-selection/切削直径.jpg" alt="切削直径示意图" style="width: 30%; height: auto; border-radius: 10px;" />
 
 有些刀具的柄部和切削部分直径不一样，这时候就要看切削直径了。
 
@@ -51,7 +51,7 @@
 
 **简单来说：刀具的「身高」，从刀头到刀柄末端的总长度**
 
-<img src="/zh/beginners-guide/media/tool-selection/总长.jpg" alt="刀具总长示意图" style="width: 30%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/tool-selection/总长.jpg" alt="刀具总长示意图" style="width: 30%; height: auto; border-radius: 10px;" />
 
 总长通常用**毫米(mm)**表示，一般在50-100mm之间。
 
@@ -64,7 +64,7 @@
 
 **简单来说：刀具上有「螺旋纹」的部分的长度**
 
-<img src="/zh/beginners-guide/media/tool-selection/刃长.jpg" alt="刀具刃长示意图" style="width: 30%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/tool-selection/刃长.jpg" alt="刀具刃长示意图" style="width: 30%; height: auto; border-radius: 10px;" />
 
 刃长决定了刀具能切多深。
 
@@ -79,7 +79,7 @@
 
 **简单来说：刀具上有几个「刀刃」**
 
-<img src="/zh/beginners-guide/media/tool-selection/刃数.jpg" alt="不同刃数的刀具" style="width: 30%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/tool-selection/刃数.jpg" alt="不同刃数的刀具" style="width: 30%; height: auto; border-radius: 10px;" />
 
 常见的刃数有：1刃、2刃、3刃、4刃等。
 
@@ -99,7 +99,7 @@
 
 **简单来说：刀刃上的螺旋纹的倾斜角度**
 
-<img src="/zh/beginners-guide/media/tool-selection/螺旋角.jpg" alt="螺旋角示意图" style="width: 30%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/tool-selection/螺旋角.jpg" alt="螺旋角示意图" style="width: 30%; height: auto; border-radius: 10px;" />
 
 - 小螺旋角（0-20°）：适合加工硬材料，更耐用
 - 大螺旋角（30-60°）：适合加工软材料，切削更顺畅
@@ -108,7 +108,7 @@
 
 **简单来说：刀刃「锋利」的程度**
 
-<img src="/zh/beginners-guide/media/tool-selection/前角.jpg" alt="前角示意图" style="width: 30%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/tool-selection/前角.jpg" alt="前角示意图" style="width: 30%; height: auto; border-radius: 10px;" />
 
 - 正前角：刀刃更锋利，适合软材料
 - 负前角：刀刃更坚固，适合硬材料
@@ -117,7 +117,7 @@
 
 **简单来说：刀刃后面的倾斜角度**
 
-<img src="/zh/beginners-guide/media/tool-selection/后角.jpg" alt="后角示意图" style="width: 30%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/tool-selection/后角.jpg" alt="后角示意图" style="width: 30%; height: auto; border-radius: 10px;" />
 
 后角的作用是减少刀具和材料之间的摩擦，让切削更顺畅。
 
@@ -125,7 +125,7 @@
 
 **简单来说：刀具插入机器的那部分的直径**
 
-<img src="/zh/beginners-guide/media/tool-selection/柄径.jpg" alt="刀具柄径示意图" style="width: 30%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/tool-selection/柄径.jpg" alt="刀具柄径示意图" style="width: 30%; height: auto; border-radius: 10px;" />
 
 常见的柄径有：3mm、6mm、8mm、12mm等。
 
@@ -140,7 +140,7 @@
 
 **简单来说：刀具尖端的圆角大小**
 
-<img src="/zh/beginners-guide/media/tool-selection/刀尖半径.jpg" alt="刀尖半径示意图" style="width: 50%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/tool-selection/刀尖半径.jpg" alt="刀尖半径示意图" style="width: 50%; height: auto; border-radius: 10px;" />
 
 - 尖锐的刀尖（半径0）：适合雕刻精细线条
 - 圆角的刀尖（半径>0）：适合切割平面，表面更光滑
@@ -157,7 +157,7 @@
 
 **简单来说：「万能刀」，最常用的 CNC 刀具**
 
-<img src="/zh/beginners-guide/media/tool-selection/螺旋铣刀.jpg" alt="螺旋铣刀" style="width: 30%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/tool-selection/螺旋铣刀.jpg" alt="螺旋铣刀" style="width: 30%; height: auto; border-radius: 10px;" />
 
 螺旋铣刀是 CNC 加工中最常用的刀具，它的刀刃是螺旋状的，像一个「旋转的钻头」。
 
@@ -176,7 +176,7 @@
 
 **简单来说：「圆头刀」，能雕刻3D曲面**
 
-<img src="/zh/beginners-guide/media/tool-selection/球头刀.jpg" alt="球头铣刀" style="width: 30%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/tool-selection/球头刀.jpg" alt="球头铣刀" style="width: 30%; height: auto; border-radius: 10px;" />
 
 球头铣刀的刀尖是圆形的，像一个「小钢球」。
 
@@ -195,7 +195,7 @@
 
 **简单来说：「尖嘴刀」，能雕刻精细文字和花纹**
 
-<img src="/zh/beginners-guide/media/tool-selection/v型刀.jpg" alt="V型刀" style="width: 30%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/tool-selection/v型刀.jpg" alt="V型刀" style="width: 30%; height: auto; border-radius: 10px;" />
 
 V型刀的刀尖是尖锐的V字形，像一个「锥子」。
 
@@ -214,7 +214,7 @@ V型刀的刀尖是尖锐的V字形，像一个「锥子」。
 
 **简单来说：「锯齿刀」，适合切割硬材料和复合材料**
 
-<img src="/zh/beginners-guide/media/tool-selection/玉米铣刀.jpg" alt="玉米铣刀" style="width: 30%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/tool-selection/玉米铣刀.jpg" alt="玉米铣刀" style="width: 30%; height: auto; border-radius: 10px;" />
 
 玉米铣刀的刀刃上有很多锯齿，像「玉米棒」一样。
 
@@ -233,7 +233,7 @@ V型刀的刀尖是尖锐的V字形，像一个「锥子」。
 
 **简单来说：「打孔专家」，专门用来钻孔**
 
-<img src="/zh/beginners-guide/media/tool-selection/钻头.jpg" alt="钻头" style="width: 40%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/tool-selection/钻头.jpg" alt="钻头" style="width: 40%; height: auto; border-radius: 10px;" />
 
 钻头的形状像一个「螺丝」，专门用来在材料上钻孔。
 
@@ -251,7 +251,7 @@ V型刀的刀尖是尖锐的V字形，像一个「锥子」。
 
 **简单来说：「锥形刀」，能做斜面和倒边**
 
-<img src="/zh/beginners-guide/media/tool-selection/锥度铣刀.jpg" alt="锥度铣刀" style="width: 30%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/tool-selection/锥度铣刀.jpg" alt="锥度铣刀" style="width: 30%; height: auto; border-radius: 10px;" />
 
 锥度铣刀的形状是锥形的，像一个「金字塔」。
 
@@ -269,7 +269,7 @@ V型刀的刀尖是尖锐的V字形，像一个「锥子」。
 
 **简单来说：「裁剪刀」，专门用来切割材料**
 
-<img src="/zh/beginners-guide/media/tool-selection/切割刀.jpg" alt="切割刀" style="width: 50%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/tool-selection/切割刀.jpg" alt="切割刀" style="width: 50%; height: auto; border-radius: 10px;" />
 
 切割刀的刀刃比较锋利，专门用来切割板材。
 
@@ -287,7 +287,7 @@ V型刀的刀尖是尖锐的V字形，像一个「锥子」。
 
 **简单来说：「平头刀」，刀刃末端是平的，适合平面加工**
 
-<img src="/zh/beginners-guide/media/tool-selection/平底尖刀.jpg" alt="平底尖刀" style="width: 30%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/tool-selection/平底尖刀.jpg" alt="平底尖刀" style="width: 30%; height: auto; border-radius: 10px;" />
 
 平底尖刀的刀刃末端是平的，像一个「平头螺丝」，是最基础的铣刀类型。
 

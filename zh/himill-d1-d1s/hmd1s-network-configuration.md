@@ -16,7 +16,7 @@ HiMill设备内置WiFi模块，支持无线控制功能。通过网络配置连�
 2. 使用USB数据线连接设备与电脑
 3. 等待设备完成自动复位，确保设备状态正常后再进行下一步操作
 
-<img src="/zh/himill-d1-d1s/media/network-configuration/usb连接.webp" alt="USB连接设备" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
+<img src="/chi/himill-d1-d1s/media/network-configuration/usb连接.webp" alt="USB连接设备" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ### 步骤2：选择STA模式并配置WiFi参数
 
@@ -29,7 +29,7 @@ HiMill设备内置WiFi模块，支持无线控制功能。通过网络配置连�
 > 
 > {.is-warning}
 
-<img src="/zh/himill-d1-d1s/media/network-configuration/切换sta.webp" alt="选择STA模式并配置WiFi" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
+<img src="/chi/himill-d1-d1s/media/network-configuration/切换sta.webp" alt="选择STA模式并配置WiFi" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ### 步骤3：点击Config按钮进行配置
 
@@ -38,7 +38,7 @@ HiMill设备内置WiFi模块，支持无线控制功能。通过网络配置连�
 3. 配置成功后，软件会弹出「正在重启网络模块」的提示
 4. 点击「确认」后，等待15-30秒让设备完成网络模块重启
 
-<img src="/zh/himill-d1-d1s/media/network-configuration/点击config.webp" alt="点击Config进行配置" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
+<img src="/chi/himill-d1-d1s/media/network-configuration/点击config.webp" alt="点击Config进行配置" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ### 步骤4：查看设备IP地址
 
@@ -53,7 +53,7 @@ HiMill设备内置WiFi模块，支持无线控制功能。通过网络配置连�
 > 
 > {.is-warning}
 
-<img src="/zh/himill-d1-d1s/media/network-configuration/查看sta_ip地址.webp" alt="查看IP地址" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
+<img src="/chi/himill-d1-d1s/media/network-configuration/查看sta_ip地址.webp" alt="查看IP地址" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ### 步骤5：通过IP地址连接设备
 
@@ -69,7 +69,7 @@ HiMill设备内置WiFi模块，支持无线控制功能。通过网络配置连�
 > 
 > {.is-warning}
 
-<img src="/zh/himill-d1-d1s/media/network-configuration/通过sta连接设备.webp" alt="通过IP地址连接" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
+<img src="/chi/himill-d1-d1s/media/network-configuration/通过sta连接设备.webp" alt="通过IP地址连接" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ---
 
@@ -93,7 +93,7 @@ HiMill设备内置WiFi模块，支持无线控制功能。通过网络配置连�
 2. 使用USB数据线连接设备与电脑
 3. 等待设备完成自动复位，确保设备状态正常
 
-<img src="/zh/himill-d1-d1s/media/network-configuration/usb连接.webp" alt="USB连接设备" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
+<img src="/chi/himill-d1-d1s/media/network-configuration/usb连接.webp" alt="USB连接设备" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ### 步骤2：选择AP模式并准备配置
 
@@ -105,7 +105,7 @@ HiMill设备内置WiFi模块，支持无线控制功能。通过网络配置连�
 > 
 > {.is-info}
 
-<img src="/zh/himill-d1-d1s/media/network-configuration/切换ap.webp" alt="选择AP模式并点击配置" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
+<img src="/chi/himill-d1-d1s/media/network-configuration/切换ap.webp" alt="选择AP模式并点击配置" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ### 步骤3：点击Config按钮进行配置
 
@@ -114,7 +114,7 @@ HiMill设备内置WiFi模块，支持无线控制功能。通过网络配置连�
 3. 配置成功后，软件会弹出「正在重启网络模块」的提示
 4. 点击「确认」后，等待15-30秒让设备完成网络模块重启
 
-<img src="/zh/himill-d1-d1s/media/network-configuration/点击config2.webp" alt="点击Config进行配置" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
+<img src="/chi/himill-d1-d1s/media/network-configuration/点击config2.webp" alt="点击Config进行配置" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ### 步骤4：重启设备并确认热点模式
 
@@ -127,7 +127,7 @@ HiMill设备内置WiFi模块，支持无线控制功能。通过网络配置连�
 > 
 > {.is-warning}
 
-<img src="/zh/himill-d1-d1s/media/network-configuration/通过ap连接设备.webp" alt="查看IP地址" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
+<img src="/chi/himill-d1-d1s/media/network-configuration/通过ap连接设备.webp" alt="查看IP地址" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ### 步骤5：电脑连接设备热点
 
@@ -153,7 +153,7 @@ HiMill设备内置WiFi模块，支持无线控制功能。通过网络配置连�
 > 
 > {.is-warning}
 
-<img src="/zh/himill-d1-d1s/media/network-configuration/通过ap连接设备.webp" alt="通过IP地址连接" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
+<img src="/chi/himill-d1-d1s/media/network-configuration/通过ap连接设备.webp" alt="通过IP地址连接" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ---
 

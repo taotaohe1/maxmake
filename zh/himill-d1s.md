@@ -1,5 +1,5 @@
 # Himill D1S
-<img src="/zh/himill-d1-d1s/media/himill-d1s.png" alt="" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 6px;" />
+<img src="/chi/himill-d1-d1s/media/himill-d1s.png" alt="" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 6px;" />
 
 > CNC使用具有一定危险性，请仔细阅读使用说明，避免错误操作造成危险。[查看详情](#使用说明)
 {.is-danger}

@@ -21,7 +21,7 @@
 - 移动X轴到最右侧，继续涂抹适量的润滑脂
 - 再次移动X轴到最左侧即可
 
-<img src="/zh/himill-d1-d1s/media/hmd1-guide-rail-lead-screw-maintenance/1-x轴.webp" alt="X轴保养" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1-guide-rail-lead-screw-maintenance/1-x轴.webp" alt="X轴保养" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 3. Z轴保养
 
@@ -29,7 +29,7 @@
 - 移动Z轴到最低处，继续涂抹适量的润滑脂
 - 再次移动Z轴到最高处即可
 
-<img src="/zh/himill-d1-d1s/media/hmd1-guide-rail-lead-screw-maintenance/2-z轴.webp" alt="Z轴保养" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1-guide-rail-lead-screw-maintenance/2-z轴.webp" alt="Z轴保养" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 4. Y轴保养
 
@@ -39,4 +39,4 @@ Y轴保养需要将设备侧放。侧放前，先控制Y轴移动到中间位置
 
 正放设备后，开机正常运行即可。
 
-<img src="/zh/himill-d1-d1s/media/hmd1-guide-rail-lead-screw-maintenance/3-y轴.webp" alt="Y轴保养" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1-guide-rail-lead-screw-maintenance/3-y轴.webp" alt="Y轴保养" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />

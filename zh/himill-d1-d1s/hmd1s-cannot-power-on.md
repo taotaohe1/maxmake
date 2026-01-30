@@ -18,11 +18,11 @@
 1. 检查电源线是否有明显损坏或断线
 2. 更换电源插座，确认插座是否有正常供电,正常供电的情况下，内部电源指示灯应亮起，拆后盖步骤请参考更换主控板的视频 [HiMill D1/D1S 更换器件仓部件](/zh/himill-d1-d1s/hmd1s-replace-air-cabinet.md)
 
-<img src="media/hmd1s-cannot-power-on/开关电源指示灯.jpg" alt="开关电源指示灯" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-cannot-power-on/开关电源指示灯.jpg" alt="开关电源指示灯" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 3. 检查电源模块的电压是否调整正确,调节位置在如下图片所示位置
 
-<img src="media/hmd1s-cannot-power-on/电压调节位置.jpg" alt="电源模块电压调节位置" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" /> <img src="media/hmd1s-cannot-power-on/电压调节位置内部.jpg" alt="电源模块电压调节位置" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-cannot-power-on/电压调节位置.jpg" alt="电源模块电压调节位置" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" /> <img src="/chi/himill-d1-d1s/media/hmd1s-cannot-power-on/电压调节位置内部.jpg" alt="电源模块电压调节位置" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 
 

@@ -29,28 +29,28 @@ MaxmakeLAB的3D测头高度图功能允许您通过3D测头自动探测工件表
 2. 安装3D测头
 3. 完成自动测高
 
-<img src="/zh/himill-d1-d1s/media/height-map/1.换测头并测高.webp" alt="1.换测头并测高" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/height-map/1.换测头并测高.webp" alt="1.换测头并测高" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 步骤2：完成加工原点的自动探测
 
 1. 切换到Probe页面
 2. 完成加工原点的自动探测，包括XYZ零点
 
-<img src="/zh/himill-d1-d1s/media/height-map/2.probe页面.webp" alt="2.probe页面" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/height-map/2.probe页面.webp" alt="2.probe页面" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 步骤3：切换到高度图页面并导入加工文件
 
 1. 切换到高度图页面
 2. 导入加工文件（也可一开始导入）
 
-<img src="/zh/himill-d1-d1s/media/height-map/3.切换并导入文件.webp" alt="3.切换并导入文件" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/height-map/3.切换并导入文件.webp" alt="3.切换并导入文件" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 步骤4：创建并编辑探测点位
 
 1. 点击Create按钮，自动打开Edit界面
 2. 创建并编辑探测点位
 
-<img src="/zh/himill-d1-d1s/media/height-map/4.编辑探测点.webp" alt="4.编辑探测点" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/height-map/4.编辑探测点.webp" alt="4.编辑探测点" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 #### 编辑参数说明
 
@@ -74,7 +74,7 @@ MaxmakeLAB的3D测头高度图功能允许您通过3D测头自动探测工件表
 3. 后续的探测会以此点计算Z坐标差值
 4. 可以点击Gcode列表查看探测的差值
 
-<img src="/zh/himill-d1-d1s/media/height-map/5.点击开始探测.webp" alt="5.点击开始探测" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/height-map/5.点击开始探测.webp" alt="5.点击开始探测" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 步骤6：应用高度图
 
@@ -82,7 +82,7 @@ MaxmakeLAB的3D测头高度图功能允许您通过3D测头自动探测工件表
 2. 点击Use Height Map，应用刚刚的探测值
 3. 可观察到路径发生了变化
 
-<img src="/zh/himill-d1-d1s/media/height-map/6.点击使用.webp" alt="6.点击使用" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/height-map/6.点击使用.webp" alt="6.点击使用" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 步骤7：更换刀具并开始加工
 

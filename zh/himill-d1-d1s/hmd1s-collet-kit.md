@@ -9,7 +9,7 @@
 
 配件内容如下：
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-collet-kit/1-展示配件.webp" alt="配件展示" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-collet-kit/1-展示配件.webp" alt="配件展示" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 2. 夹头安装
 
@@ -17,19 +17,19 @@
 
 首先需要取下主轴上的原有夹头：
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-collet-kit/2-取下旧夹头.webp" alt="取下旧夹头" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-collet-kit/2-取下旧夹头.webp" alt="取下旧夹头" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 2.2 拿出新夹头
 
 从包装中取出新的6mm夹头：
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-collet-kit/3-拿出新夹头.webp" alt="拿出新夹头" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-collet-kit/3-拿出新夹头.webp" alt="拿出新夹头" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 2.3 拧紧夹头
 
 将新夹头安装到主轴上，使用扳手拧紧固定：
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-collet-kit/4-拧紧夹头.webp" alt="拧紧夹头" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-collet-kit/4-拧紧夹头.webp" alt="拧紧夹头" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 3. 刀具夹取
 
@@ -37,13 +37,13 @@
 
 6mm夹头专门用于夹取6mm直径的刀具：
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-collet-kit/5-6mm夹头可夹取6mm刀具.webp" alt="6mm夹头夹取6mm刀具" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-collet-kit/5-6mm夹头可夹取6mm刀具.webp" alt="6mm夹头夹取6mm刀具" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 3.2 使用变径套
 
 使用变径套可以夹取不同尺寸的刀具，扩展夹头的适用范围：
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-collet-kit/6-用变径套夹取不同尺寸的刀具.webp" alt="用变径套夹取不同尺寸的刀具" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-collet-kit/6-用变径套夹取不同尺寸的刀具.webp" alt="用变径套夹取不同尺寸的刀具" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 4. 注意事项
 

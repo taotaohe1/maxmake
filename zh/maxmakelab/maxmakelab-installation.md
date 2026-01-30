@@ -41,19 +41,19 @@ MaxmakeLab是一款专为HiMill系列CNC设备设计的智能控制软件，提�
 
 #### 1. 双击安装包安装软件
 
-<img src="/zh/maxmakelab/media/maxmakelab-installation/1-双击安装软件.webp" alt="双击安装包安装软件" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/maxmakelab/media/maxmakelab-installation/1-双击安装软件.webp" alt="双击安装包安装软件" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 #### 2. 打开软件
 
-<img src="/zh/maxmakelab/media/maxmakelab-installation/2-打开软件.webp" alt="打开软件" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/maxmakelab/media/maxmakelab-installation/2-打开软件.webp" alt="打开软件" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 #### 3. 点击自动连接查找设备，连接后点击回零
 
-<img src="/zh/maxmakelab/media/maxmakelab-installation/3-自动连接，点击回零.webp" alt="自动连接查找设备" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/maxmakelab/media/maxmakelab-installation/3-自动连接，点击回零.webp" alt="自动连接查找设备" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 #### 4. 也可以选择设备，手动选择串口号连接
 
-<img src="/zh/maxmakelab/media/maxmakelab-installation/4-手动连接.webp" alt="手动连接设备" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/maxmakelab/media/maxmakelab-installation/4-手动连接.webp" alt="手动连接设备" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 <!-- ### macOS系统安装使用步骤
 

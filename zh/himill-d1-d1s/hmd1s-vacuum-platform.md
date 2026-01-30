@@ -11,35 +11,35 @@
 
 配件盒内容如下：
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-vacuum-platform/1-配件-展示.webp" alt="配件展示" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/1-配件-展示.webp" alt="配件展示" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 2. 固定吸附平台
 
 使用配件中的螺丝按照图示位置固定吸附平台：
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-vacuum-platform/1-配件-底板丝印.webp" alt="底板丝印" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/1-配件-底板丝印.webp" alt="底板丝印" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 3. 胶条安装
 
 根据工件大小，确定吸附面积，取出胶条，塞入到槽中。如图所示其中的三种塞入方式，面积越大，吸附力越强：
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-vacuum-platform/2-胶条安装-方式1.webp" alt="胶条塞入方式1" style="width: 320px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/2-胶条安装-方式1.webp" alt="胶条塞入方式1" style="width: 320px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-vacuum-platform/2-胶条安装-方式2.webp" alt="胶条塞入方式2" style="width: 320px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/2-胶条安装-方式2.webp" alt="胶条塞入方式2" style="width: 320px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-vacuum-platform/2-胶条安装-方式3.webp" alt="胶条塞入方式3" style="width: 320px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/2-胶条安装-方式3.webp" alt="胶条塞入方式3" style="width: 320px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 4. 气管连接
 
 用刀划开设备后方的气管接口：
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-vacuum-platform/3-气管连接-划开接口.webp" alt="划开气管接口" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/3-气管连接-划开接口.webp" alt="划开气管接口" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 取出8mm气管，穿过接口，一端插入到真空吸附平台的接口上：
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-vacuum-platform/3-气管连接-穿过接口.webp" alt="气管穿过接口" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/3-气管连接-穿过接口.webp" alt="气管穿过接口" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-vacuum-platform/3-气管连接-插入平台.webp" alt="气管插入到平台接口处" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/3-气管连接-插入平台.webp" alt="气管插入到平台接口处" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 5. 两种连接方式
 
@@ -49,13 +49,13 @@
 
 空压机示意图：
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-有空压机-设备.webp" alt="空压机" style="width: 300px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-有空压机-设备.webp" alt="空压机" style="width: 300px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 另一端先连接真空发生器，再将空压机的气管接入到进气口，如图所示：
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-有空压机-连接发生器.webp" alt="连接真空发生器" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-有空压机-连接发生器.webp" alt="连接真空发生器" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-有空压机-接入进气口.webp" alt="空压机气管接入进气口" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-有空压机-接入进气口.webp" alt="空压机气管接入进气口" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 5.2 第二种：使用配件中的真空气泵（预装了过滤系统，可避免加工碎屑损坏气泵）
 
@@ -66,17 +66,17 @@
 
 配件展示：
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-真空气泵-配件展示.webp" alt="配件展示" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-真空气泵-配件展示.webp" alt="配件展示" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 取出真空气泵和电源，将电源插入到电路板的接口处：
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-真空气泵-气泵电源.webp" alt="真空气泵和电源" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-真空气泵-气泵电源.webp" alt="真空气泵和电源" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 将另一端的气管插入到过滤器的接口中。打开电源即可抽气使用：
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-真空气泵-插入过滤器.webp" alt="气管插入过滤器中" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-真空气泵-插入过滤器.webp" alt="气管插入过滤器中" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-真空气泵-打开开关.webp" alt="打开开关" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-真空气泵-打开开关.webp" alt="打开开关" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 6. 滤芯替换方法
 
@@ -84,19 +84,19 @@
 
 如图所示，旋转拧下螺帽：
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-vacuum-platform/6-滤芯替换-拧下螺帽.webp" alt="拧下螺帽" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/6-滤芯替换-拧下螺帽.webp" alt="拧下螺帽" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 取出滤芯：
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-vacuum-platform/6-滤芯替换-取出滤芯.webp" alt="取出滤芯" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/6-滤芯替换-取出滤芯.webp" alt="取出滤芯" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 放入新的滤芯：
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-vacuum-platform/6-滤芯替换-放入新滤芯.webp" alt="放入新的滤芯" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/6-滤芯替换-放入新滤芯.webp" alt="放入新的滤芯" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 拧回螺帽：
 
-<img src="/zh/himill-d1-d1s/media/hmd1s-vacuum-platform/6-滤芯替换-拧回螺母.webp" alt="拧回螺母" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/6-滤芯替换-拧回螺母.webp" alt="拧回螺母" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 7. 注意事项
 
