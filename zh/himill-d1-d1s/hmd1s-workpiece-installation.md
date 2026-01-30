@@ -25,7 +25,7 @@
 选择合适长度的螺丝，固定后，应不接触底部面板。防止平台移动时，刮伤底部面板。
 下图为错误安装图示
 
-<img src="/chi/himill-d1-d1s/media/hmd1s-workpiece-installation/2 选择合适长度螺丝1.webp" alt="螺丝长度选择1" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-workpiece-installation/2_选择合适长度螺丝1.webp" alt="螺丝长度选择1" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 🔧 **螺丝选择原则**：
 > 

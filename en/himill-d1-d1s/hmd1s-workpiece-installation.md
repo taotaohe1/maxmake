@@ -25,7 +25,7 @@ When using clamping plates, keep the clamping plates parallel and press down on 
 Choose screws of appropriate length. After fixing, they should not contact the bottom panel. This prevents scratching the bottom panel when the platform moves.
 The diagram below shows incorrect installation
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-workpiece-installation/2 选择合适长度螺丝1.webp" alt="Screw Length Selection 1" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-workpiece-installation/2_选择合适长度螺丝1.webp" alt="Screw Length Selection 1" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > 🔧 **Screw Selection Principles**:
 > 

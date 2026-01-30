@@ -52,7 +52,7 @@
 
 点击开始加工按钮，传输加工文件至设备SD卡。
 
-<img src="/chi/himill-d1-d1s/media/hmd1s-processing-control/5--开始.webp" alt="开始加工" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/chi/himill-d1-d1s/media/hmd1s-processing-control/5-开始.webp" alt="开始加工" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 根据提示，等到指示灯显示彩虹旋转灯效时，长按设备按键2s，启动加工。
 

@@ -10,7 +10,7 @@
 * [HiMill D1S 开箱指南](/zh/himill-d1-d1s/hmd1s-unboxing-guide.md)
 * [MaxmakeLab 软件安装](/zh/maxmakelab/maxmakelab-installation.md)
 * [HiMill D1S 第一次使用](/zh/himill-d1-d1s/hmd1s-first-use.md)
-* [HiMill D1S 说明书下载](/zh/himill-d1-d1s/media/d1s产品说明书cn.pdf)
+* [HiMill D1S 说明书下载](/chi/himill-d1-d1s/media/d1s产品说明书cn.pdf)
 
 ## 使用说明
 详细的操作说明，帮助您正确使用HiMill D1S。
