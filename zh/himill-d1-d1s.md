@@ -1,19 +1,5 @@
 # 欢迎来到 MAXMAKE WiKi！
 这是您的一站式资源，包含 MAXMAKE 相关的所有内容，包括教程、文档、常见问题解答和社区贡献。
-
-# 新手指南
-如果您对CNC技术完全不了解，欢迎通过以下指南开始您的CNC学习之旅：
-
-<div style="display: flex; gap: 24px; margin-top: 16px;">
-  <div style="border: 1px solid #e0e0e0; border-radius: 6px; padding: 24px; text-align: center; width: 240px; background-color: #f9f9f9;">
-    <div>
-      <h3 style="margin-bottom: 12px; color: #2c3e50;">认识CNC</h3>
-      <p style="margin-bottom: 16px; color: #666;">从基础概念到实操指南，全面了解CNC技术</p>
-      <a href="/zh/beginners-guide/cnc.md" style="color: #3498db; text-decoration: underline;">开始学习</a>
-    </div>
-  </div>
-</div>
-
 # WiKi使用指南
 
 ## 📖 如何浏览
@@ -73,15 +59,17 @@
 
 </div>
 
+## Laser
+## Vacuum Former
 ## MaxmakeLAB
 <div style="display: flex; gap: 24px; margin-top: 16px;">
 
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; display: flex; gap: 48px; align-items: center; min-width: 300px;">
   <!-- 左侧图片区 -->
   <div style="width: 50%;"> <!-- 图片占比可调整 -->
-    <a href="/zh/maxmakelab.md"><img src="/zh/himill-d1-d1s/media/icon/maxmakelab.png" alt="MaxmakeLab" style="width: 100%; max-width: 100px; height: auto; border-radius: 6px;" /></a>
+    <a href="/zh/maxmakelab/maxmakelab-introduction.md"><img src="/zh/himill-d1-d1s/media/icon/maxmakelab.png" alt="MaxmakeLab" style="width: 100%; max-width: 100px; height: auto; border-radius: 6px;" /></a>
     <br>
-        <strong><a href="/zh/maxmakelab.md" style="display: block; margin-bottom: 2px; color: #2c3e50; text-align: center;">MaxmakeLab</a></strong>
+        <strong><a href="/zh/maxmakelab/maxmakelab-introduction.md" style="display: block; margin-bottom: 2px; color: #2c3e50; text-align: center;">MaxmakeLab</a></strong>
     <br>
   </div>
 
@@ -90,6 +78,7 @@
     <!-- <p style="margin: 0 0 2px 0; font-weight: bold;">相关链接：</p> -->
     <a href="/zh/maxmakelab/maxmakelab-introduction.md" style="display: block; margin-bottom: 2px; color: #60a0e0ff;">软件介绍</a>
     <a href="/zh/maxmakelab/maxmakelab-installation.md" style="display: block; margin-bottom: 2px; color: #51ad65ff;">软件安装</a>
+    <a href="/zh/maxmakelab/maxmakelab-introduction.md" style="display: block; margin-bottom: 2px; color: #af4979ff;">快速入门</a>
     <a href="/zh/maxmakelab/maxmakelab-software-manual.md" style="display: block; margin-bottom: 2px; color: #aa730eff;">进阶功能</a>
     <!-- 可继续添加更多链接 -->
   </div>
