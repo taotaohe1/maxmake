@@ -22,10 +22,15 @@ MaxmakeLab is an intelligent control software designed specifically for HiMill s
 - **USB Port**: USB 2.0 or higher version
 
 ## 📥 Software Download
-You can download the latest version of MaxmakeLab software through the following link. Choose the appropriate version according to your operating system:
+You can download MaxmakeLab software through the following links. Choose the appropriate version according to your operating system and needs:
 
-**[MaxmakeLab Software Download Link(Windows)](https://wiki.maxmake.com/downloads/MaxmakeLAB_v0.9.14.exe)**
-**[MaxmakeLab Software Download Link(macOS)](https://wiki.maxmake.com/downloads/MaxmakeLAB_v0.9.14.dmg)**
+### Latest Version (v0.9.15)
+**[MaxmakeLab Software Download Link(Windows)]**
+**[MaxmakeLab Software Download Link(macOS)]**
+
+### Previous Version (v0.9.14)
+**[MaxmakeLab Software Download Link(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.14.exe)**
+**[MaxmakeLab Software Download Link(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.14.dmg)**
 
 > Recommendation: Please always download the latest version of the software for the best functional experience and stability.
 {.is-info}

@@ -36,7 +36,7 @@ Before using the height map feature, please note the following:
 1. Switch to the Probe page
 2. Complete automatic detection of the machining origin, including XYZ zero points
 
-<img src="/eng/himill-d1-d1s/media/height-map/2.probe页面.webp" alt="2.Probe page" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" /> 
+<img src="/eng/himill-d1-d1s/media/height-map/2.probe页面.webp" alt="2.Probe page" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ### Step 3: Switch to Height Map Page and Import Machining File
 
@@ -94,10 +94,10 @@ Before using the height map feature, please note the following:
 
 ## ⚠️ Notes
 
-> ⚠️ **Disconnection Handling**：
-> - If a disconnection problem occurs after clicking the Create button or Edit button to enter the detection interface
-> - After reconnecting, do not directly click Grid Probe
-> - You need to cancel Edit and then click Create to re-enter the detection interface
+> ⚠️ **Gcode File Import Requirement**：
+> - When using the height map feature, you must first import a Gcode file before clicking Create, editing detection points, and then clicking Grid Probe
+> - If you switch files midway or enter the height map first and then import a file, clicking Grid Probe will directly start machining the imported file
+> - In such cases, you need to cancel Edit and then click Create to re-enter the editing interface
 > - This issue will be fixed in future versions
 > 
 > {.is-warning}
@@ -133,7 +133,7 @@ A: Increase the number of detection points, ensure the detection range covers th
 ## 📅 Future Updates
 
 - **Interpolation Feature**：Future versions will implement the interpolation function to further improve the accuracy of the height map
-- **Disconnection Issue Fix**：Resolve the operation flow issue after reconnection
+- **Gcode File Import Flow Optimization**：Optimize the interaction flow between Gcode file import and height map feature to avoid directly machining when clicking Grid Probe
 - **Operation Optimization**：Simplify the detection process and reduce user operation steps
 
 ---

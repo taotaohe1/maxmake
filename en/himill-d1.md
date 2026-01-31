@@ -1,7 +1,7 @@
 # HiMill D1
 <img src="/eng/himill-d1-d1s/media/himill-d1.png" alt="" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 6px;" />
 
-> CNC usage carries certain risks. Please carefully read the usage instructions to avoid dangers caused by improper operation. [View Details](/en/himill-d1-d1s/hmd1-introduction.md)
+> CNC usage carries certain risks. Please carefully read the usage instructions to avoid dangers caused by improper operation. [View Details](#usage-instructions)
 {.is-danger}
 
 ## Quick Start
