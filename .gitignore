@@ -7,6 +7,7 @@ zh/himill-d1-d1s/media/
 *.gif
 *.jpg
 *.png
+*.webp
 
 # 文档文件
 test.md
