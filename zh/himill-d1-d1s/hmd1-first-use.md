@@ -21,14 +21,7 @@
 - ⏱️ 视频时长：约6分钟
 - 📋 内容包括：材料准备 → 软件使用  → 刀具安装 → 第一把刀加工 → 刀具更换 → 完成加工
 
-<iframe 
-    src="https://player.bilibili.com/player.html?isOutside=true&aid=115811897313649&bvid=BV1HWiTB2ELZ&cid=35090072779&p=1" 
-    width="100%" 
-    height="500" 
-    scrolling="no" 
-    border="0" 
-    frameborder="no" 
-    framespacing="0" 
-    allowfullscreen="true">
-</iframe>
+
+<a href="https://www.bilibili.com/video/BV1HWiTB2ELZ" target="_blank">点击观看视频</a>
+
 ---
