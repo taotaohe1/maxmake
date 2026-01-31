@@ -35,6 +35,14 @@ When automatic search fails, try using serial port connection.
 
 Connect to device via WiFi, need to connect to device hotspot, or configure network for device, connect in LAN (support pending firmware update).
 
+>  **Network Configuration Guide**:
+> 
+> - For detailed network configuration methods, please refer to [Network Configuration Instructions](./hmd1s-network-configuration.md)
+> - Supports both LAN connection and hotspot connection
+> - After configuration, device can be connected via IP address
+> 
+> {.is-info}
+
 > 🔄 **Function Status**:
 > 
 > - WiFi connection function is under development
