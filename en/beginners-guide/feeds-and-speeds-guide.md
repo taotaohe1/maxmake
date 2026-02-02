@@ -38,7 +38,7 @@ We highly recommend using the **3-Flute Tungsten Steel Milling Cutter**. This cu
 
 ### Professional Practical Tips
 
-Always use cutting fluid for cooling or high-pressure air blast for chip clearing during machining to avoid chip recutting.
+During metal processing, always pay attention to chip clearing. You can use a vacuum device or high-pressure air blast to clear chips, and try to avoid chip recutting.
 
 ---
 
@@ -106,7 +106,8 @@ The Maxmaker D1S achieves a repeatability accuracy of ±0.02mm, performing excep
 
 ### Tool Selection
 
-**Corn Milling Cutter** (Specially designed for creating clear PCB circuit traces)
+**Flat Bottom Pointed Cutter** (≤45°, for precise routing)
+**Corn Milling Cutter** (for easy cutting)
 
 <img src="/eng/beginners-guide/media/feeds-and-speeds-guide/玉米铣刀.png" alt="Corn Milling Cutter" style="width: 50%; height: auto; border-radius: 10px;" />
 
