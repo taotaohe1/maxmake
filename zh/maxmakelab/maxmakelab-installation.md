@@ -25,8 +25,8 @@ MaxmakeLab是一款专为HiMill系列CNC设备设计的智能控制软件，提�
 您可以通过以下链接下载MaxmakeLab软件，根据您的操作系统和需要选择相应版本：
 
 ### 最新版本 (v0.9.15)
-**[MaxmakeLab 软件下载链接(Windows)]**
-**[MaxmakeLab 软件下载链接(macOS)]**
+**[MaxmakeLab 软件下载链接(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.15.exe)**
+**[MaxmakeLab 软件下载链接(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.15.dmg)**
 
 ### 历史版本 (v0.9.14)
 **[MaxmakeLab 软件下载链接(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.14.exe)**
