@@ -17,29 +17,29 @@ This document provides reference parameters for laser processing with HiMill ser
 
 ---
 
-## 📊 Laser Processing Reference Parameters
+## 📊 Engraving Parameters Recommendation
 
 | Material | Recommended Parameters |
 |----------|------------------------|
 | Wood Board | 25~35%+2000mm/min |
-| Acrylic | 20~30%+2000mm/min |
-| Translucent Organic Board | 20~30%+2000mm/min |
+| Solid Wood | 20~30%+2000mm/min |
+| Non-transparent Plastic | 20~30%+2000mm/min |
 | Paper | 5~10%+2000mm/min |
-| Leather | 25~35%+2000mm/min |
-| Fabric | 8~15%+2000mm/min |
+| Rock Plate | 25~35%+2000mm/min |
+| Leather | 8~15%+2000mm/min |
 
 > 💡 **Tip**：Different brands and batches of materials may vary, so it's recommended to test parameters on scrap materials before formal processing.
 {.is-info}
 
-## 📏 Thick Material Cutting Parameters
+## 📏 Cutting Parameters Recommendation
 
 | Material | Recommended Parameters |
 |----------|------------------------|
-| 3mm Wood Board | 100%+250mm/min |
-| 3mm Two-color Board (MDF) | 100%+150mm/min |
-| 3mm Acrylic | 100%+180mm/min |
-| Thin Paper | 40%+1200mm/min |
-| Copper Plate Paper | 50%+1200mm/min |
+| 3mm Basswood Board | 100%+250mm/min |
+| 3mm Black Acrylic | 100%+150mm/min |
+| 3mm MDF Board | 100%+180mm/min |
+| Cardstock | 40%+1200mm/min |
+| Kraft Paper | 50%+1200mm/min |
 
 > ⚠️ **Note**：When cutting thick materials, it's recommended to conduct multiple tests to determine the optimal parameters, ensuring cutting quality and equipment safety.
 {.is-warning}
