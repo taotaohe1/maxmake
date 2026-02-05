@@ -10,6 +10,7 @@ This document provides download services for post-processors compatible with MAX
 | Vectric Postprocessor | Vectric VCarve / Aspire / Cut2D | <a href="/eng/himill-d1-d1s/media/post/vectric.zip" target="_blank" rel="noopener noreferrer">Download</a> |
 | Kiri:moto Postprocessor | Kiri:moto | <a href="/eng/himill-d1-d1s/media/post/kiri-moto.zip" target="_blank" rel="noopener noreferrer">Download</a> |
 | Estlcam Postprocessor | Estlcam | <a href="/eng/himill-d1-d1s/media/post/estlcam-maxmake.zip" target="_blank" rel="noopener noreferrer">Download</a> |
+| NX Postprocessor | Siemens NX | <a href="/eng/himill-d1-d1s/media/post/nx.zip" target="_blank" rel="noopener noreferrer">Download</a> · <a href="/en/himill-d1-d1s/hmd1-nx-postprocessor-installation.md" target="_blank" rel="noopener noreferrer">Installation Guide</a> |
 
 ## 4-Axis Post-Processors List
 

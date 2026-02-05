@@ -10,6 +10,7 @@
 | Vectric 后处理器 | Vectric VCarve / Aspire / Cut2D | <a href="/chi/himill-d1-d1s/media/post/vectric.zip" target="_blank" rel="noopener noreferrer">下载</a> |
 | Kiri:moto 后处理器 | Kiri:moto | <a href="/chi/himill-d1-d1s/media/post/kiri-moto.zip" target="_blank" rel="noopener noreferrer">下载</a> |
 | Estlcam 后处理器 | Estlcam | <a href="/chi/himill-d1-d1s/media/post/estlcam-maxmake.zip" target="_blank" rel="noopener noreferrer">下载</a> |
+| NX 后处理器 | Siemens NX | <a href="/chi/himill-d1-d1s/media/post/nx.zip" target="_blank" rel="noopener noreferrer">下载</a> · <a href="/zh/himill-d1-d1s/hmd1-nx-postprocessor-installation.md" target="_blank" rel="noopener noreferrer">安装教程</a> |
 
 ## 四轴后处理器列表
 
