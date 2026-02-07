@@ -14,43 +14,13 @@
 
 ## 更换电路板.
 
-<iframe
-     src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"
-     width="100%"
-     height="500"
-     scrolling="no"
-     border="0"
-     frameborder="no"
-     framespacing="0"
-     allowfullscreen="true">
- </iframe>
-
 ---
 
 ## 更换开关电源
 
-<iframe
-     src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"
-     width="100%"
-     height="500"
-     scrolling="no"
-     border="0"
-     frameborder="no"
-     framespacing="0"
-     allowfullscreen="true">
- </iframe>
+<a href="https://www.bilibili.com/video/BV1S6F6z7Eas" target="_blank">点击观看视频</a>
 
 ---
 
 ## 更换电机驱动板
 
-<iframe
-     src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"
-     width="100%"
-     height="500"
-     scrolling="no"
-     border="0"
-     frameborder="no"
-     framespacing="0"
-     allowfullscreen="true">
- </iframe>

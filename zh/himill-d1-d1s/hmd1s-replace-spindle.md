@@ -12,60 +12,19 @@
 
 ---
 
-## 更换主轴
+## 更换主轴或主轴灯板
 
-<iframe
-     src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"
-     width="100%"
-     height="500"
-     scrolling="no"
-     border="0"
-     frameborder="no"
-     framespacing="0"
-     allowfullscreen="true">
- </iframe>
+<a href="https://www.bilibili.com/video/BV186F6z7EhA" target="_blank">点击观看视频</a>
 
 ---
 
 ## 更换主轴背部电路板
 
-<iframe
-     src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"
-     width="100%"
-     height="500"
-     scrolling="no"
-     border="0"
-     frameborder="no"
-     framespacing="0"
-     allowfullscreen="true">
- </iframe>
+<a href="https://www.bilibili.com/video/BV1S6F6z7EfA" target="_blank">点击观看视频</a>
 
 ---
 
 ## 更换主轴散热风扇
 
-<iframe
-     src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"
-     width="100%"
-     height="500"
-     scrolling="no"
-     border="0"
-     frameborder="no"
-     framespacing="0"
-     allowfullscreen="true">
- </iframe>
+<a href="https://www.bilibili.com/video/BV1DBF6zUESN" target="_blank">点击观看视频</a>
 
----
-
-## 更换主轴灯
-
-<iframe
-     src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"
-     width="100%"
-     height="500"
-     scrolling="no"
-     border="0"
-     frameborder="no"
-     framespacing="0"
-     allowfullscreen="true">
- </iframe>

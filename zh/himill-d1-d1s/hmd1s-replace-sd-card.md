@@ -14,13 +14,4 @@
 
 ## 更换SD卡
 
-<iframe
-     src="//player.bilibili.com/player.html?isOutside=true&aid=115811897312367&bvid=BV1HWiTB2E8p&cid=35090075608&p=1"
-     width="100%"
-     height="500"
-     scrolling="no"
-     border="0"
-     frameborder="no"
-     framespacing="0"
-     allowfullscreen="true">
- </iframe>
+<a href="https://www.bilibili.com/video/BV1S6F6z7EaT" target="_blank">点击观看视频</a>
