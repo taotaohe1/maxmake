@@ -33,8 +33,8 @@
 **缺点**：压块会遮挡材料局部区域，影响大尺寸材料的整体加工；重压易导致薄款硬质板材（如薄亚克力）翘曲，影响平整性；加工过程中若激光气流过大，易导致轻量材料被吹起。
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-  <img src="/chi/beginners-guide/media/clamping-guide/压块式固定.png" alt="压块式固定示例" style="width: 50%; height: auto; border-radius: 10px;" />
-  <img src="/chi/beginners-guide/media/clamping-guide/压块式固定2.png" alt="压块式固定示例2" style="width: 50%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/laser-clamping-guide/压块式固定.png" alt="压块式固定示例" style="width: 50%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/laser-clamping-guide/压块式固定2.png" alt="压块式固定示例2" style="width: 50%; height: auto; border-radius: 10px;" />
 </div>
 
 ### 2. 美纹纸粘贴式固定
@@ -53,8 +53,8 @@
 **缺点**：粘合力有限，无法固定重量较大、尺寸较大的硬质板材；加工高温可能导致美纹纸局部烤焦，需避开加工区域粘贴。
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-  <img src="/chi/beginners-guide/media/clamping-guide/美纹纸固定.jpg" alt="美纹纸粘贴式固定示例" style="width: 50%; height: auto; border-radius: 10px;" />
-  <img src="/chi/beginners-guide/media/clamping-guide/美纹纸固定2.png" alt="美纹纸粘贴式固定示例2" style="width: 50%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/laser-clamping-guide/美纹纸固定.jpg" alt="美纹纸粘贴式固定示例" style="width: 50%; height: auto; border-radius: 10px;" />
+  <img src="/chi/beginners-guide/media/laser-clamping-guide/美纹纸固定2.png" alt="美纹纸粘贴式固定示例2" style="width: 50%; height: auto; border-radius: 10px;" />
 </div>
 
 ### 3. 磁吸式固定
