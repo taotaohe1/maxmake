@@ -225,7 +225,7 @@ Start
   ▼
 Determine Material Core Type
   │
-  ├─── Rigid Plates ───────────────────────────────────────────────────────────────────────┐
+  ├─── Rigid Plates ──────────────────────────────────────────────────────────────┐
   │   │                                                                                    │
   │   ├─── Flat Regular Size → Weighted Block / Masking Tape                               │
   │   │                                                                                    │
@@ -233,7 +233,7 @@ Determine Material Core Type
   │   │                                                                                    │
   │   └─── Ferromagnetic Metal Sheets → Magnetic (with anti-slip pad)                      │
   │                                                                                        │
-  ├─── Flexible Materials ─────────────────────────────────────────────────────────────────┤
+  ├─── Flexible Materials ────────────────────────────────────────────────────────┤
   │   │                                                                                    │
   │   ├─── Ultra-thin (e.g., thin paper / non-woven fabric) → Electrostatic + Masking Tape │
   │   │                                                                                    │
@@ -241,7 +241,7 @@ Determine Material Core Type
   │   │                                                                                    │
   │   └─── Thick Flexible Materials (e.g., thick felt) → Weighted Block                    │
   │                                                                                        │
-  └─── Special Materials ──────────────────────────────────────────────────────────────────┤
+  └─── Special Materials ───────────────────────  ────────────────────────────────┤
       │                                                                                    │
       ├─── Reflective Materials → Non-metallic Block + Low-tack Masking Tape               │
       │                                                                                    │
