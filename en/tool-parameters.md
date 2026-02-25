@@ -10,7 +10,7 @@
 
 | Software Name | Tool Library File | Download Link |
 |--------------|------------------|---------------|
-| Fusion 360 | Fusion360-Tools.zip | <a href="/eng/himill-d1-d1s/fusion360-tools.zip" target="_blank" rel="noopener noreferrer">Download</a> |
+| Fusion 360 | Fusion360-Tools.zip | <a href="/eng/himill-d1-d1s/media/fusion360-tools.zip" target="_blank" rel="noopener noreferrer">Download</a> |
 
 > 💡 **Tip**：Tool libraries for other software will be added gradually. Please stay tuned for updates on this page.
 {.is-info}

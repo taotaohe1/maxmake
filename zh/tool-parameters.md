@@ -10,7 +10,7 @@
 
 | 软件名称 | 刀具库文件 | 下载链接 |
 |---------|-----------|----------|
-| Fusion 360 | Fusion360-Tools.zip | <a href="/chi/himill-d1-d1s/fusion360-tools.zip" target="_blank" rel="noopener noreferrer">下载</a> |
+| Fusion 360 | Fusion360-Tools.zip | <a href="/chi/himill-d1-d1s/media/fusion360-tools.zip" target="_blank" rel="noopener noreferrer">下载</a> |
 
 > 💡 **提示**：其他软件的刀具库将陆续添加，请持续关注本页面更新。
 {.is-info}
