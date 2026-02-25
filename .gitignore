@@ -8,6 +8,8 @@ zh/himill-d1-d1s/media/
 *.jpg
 *.png
 *.webp
+*.zip
+*.7z
 
 # 文档文件
 test.md

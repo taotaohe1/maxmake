@@ -4,6 +4,19 @@
 - RPM: Spindle Speed (RPM) / Feed: Cutting Speed (mm/min)
 - PFeed: Plunge Feed (mm/min) / DOC: Depth of Cut (mm) / Step: Stepover (mm)
 
+---
+
+## 📦 Tool Library Downloads
+
+| Software Name | Tool Library File | Download Link |
+|--------------|------------------|---------------|
+| Fusion 360 | Fusion360-Tools.zip | <a href="/eng/himill-d1-d1s/fusion360-tools.zip" target="_blank" rel="noopener noreferrer">Download</a> |
+
+> 💡 **Tip**：Tool libraries for other software will be added gradually. Please stay tuned for updates on this page.
+{.is-info}
+
+---
+
 ## 📑 Table of Contents
 1. [🔩 Flat End Mill (Metal)](#1-flat-end-mill-metal)
 2. [🌳 Flat End Mill (Non-Metal)](#2-flat-end-mill-non-metal)

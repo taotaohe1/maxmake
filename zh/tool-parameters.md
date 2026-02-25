@@ -4,6 +4,19 @@
 - RPM: 主轴转速 (RPM) / Feed: 切削速度 (mm/min)
 - PFeed: 下切速度 (mm/min) / DOC: 切削深度 (mm) / Step: 步距 (mm)
 
+---
+
+## 📦 刀具参数库下载
+
+| 软件名称 | 刀具库文件 | 下载链接 |
+|---------|-----------|----------|
+| Fusion 360 | Fusion360-Tools.zip | <a href="/chi/himill-d1-d1s/fusion360-tools.zip" target="_blank" rel="noopener noreferrer">下载</a> |
+
+> 💡 **提示**：其他软件的刀具库将陆续添加，请持续关注本页面更新。
+{.is-info}
+
+---
+
 ## 📑 目录
 1. [🔩 平底铣刀（金属）](#1-平底铣刀金属)
 2. [🌳 平底铣刀（非金属）](#2-平底铣刀非金属)
