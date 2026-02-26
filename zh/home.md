@@ -12,6 +12,13 @@
       <a href="/zh/beginners-guide/cnc.md" style="color: #3498db; text-decoration: underline;">开始学习</a>
     </div>
   </div>
+  <div style="border: 1px solid #e0e0e0; border-radius: 6px; padding: 24px; text-align: center; width: 240px; background-color: #f9f9f9;">
+    <div>
+      <h3 style="margin-bottom: 12px; color: #2c3e50;">认识激光</h3>
+      <p style="margin-bottom: 16px; color: #666;">从基础概念到参数设置，全面掌握激光加工技术</p>
+      <a href="/zh/beginners-guide/laser.md" style="color: #3498db; text-decoration: underline;">开始学习</a>
+    </div>
+  </div>
 </div>
 
 # WiKi使用指南

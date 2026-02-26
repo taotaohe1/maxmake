@@ -12,6 +12,13 @@ If you're completely new to CNC technology, welcome to start your CNC learning j
       <a href="/en/beginners-guide/cnc.md" style="color: #3498db; text-decoration: underline;">Start Learning</a>
     </div>
   </div>
+  <div style="border: 1px solid #e0e0e0; border-radius: 6px; padding: 24px; text-align: center; width: 240px; background-color: #f9f9f9;">
+    <div>
+      <h3 style="margin-bottom: 12px; color: #2c3e50;">Understanding LASER</h3>
+      <p style="margin-bottom: 16px; color: #666;">From basic concepts to parameter settings, master laser processing technology</p>
+      <a href="/en/beginners-guide/laser.md" style="color: #3498db; text-decoration: underline;">Start Learning</a>
+    </div>
+  </div>
 </div>
 
 # WiKi Usage Guide
