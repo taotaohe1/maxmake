@@ -1,5 +1,21 @@
 # MaxmakeLab 3D Probe Usage
 
+## Precautions
+
+> ⚠️ **3D Probe Usage Safety Precautions**:
+>
+> - Centering is suitable for workpieces with regular shapes, such as circles or rectangles. Not recommended for irregular workpieces
+> - During Z-axis surface detection, select the highest surface of the workpiece
+> - When moving the 3D probe, keep the ball tip slightly below the workpiece, not too low
+> - Observe in advance if there are objects that may obstruct the 3D probe movement, avoid the 3D probe being hit and damaged before the probe contacts
+> - The 3D probe is a precision and easily damaged accessory, please move the 3D probe slowly
+> - If the alarm is triggered by accidental contact during movement, please remove the obstacle in time, return to zero and retry
+> - The 3D probe will alarm if triggered before movement
+> - The 3D probe will also alarm if triggered during movement (i.e., G0, G1, G2)
+> - The 3D probe will alarm if no object is detected within the detection distance
+>
+> {.is-warning}
+
 ## 1. Installing 3D Probe
 
 After installing the 3D probe, switch to the tool setting (3D probe) interface in the software. You need to click the "Tool Change" button and wait for the 3D probe to complete automatic height measurement before proceeding with subsequent operations.
@@ -221,19 +237,6 @@ After all settings are complete, click tool change to replace the first tool to 
 > Rectangular internal centering and circular internal centering operations are similar.
 > 
 > {.is-info}
-
-## Precautions
-
-> ⚠️ **3D Probe Usage Safety Precautions**:
->
-> - Centering is suitable for workpieces with regular shapes, such as circles or rectangles. Not recommended for irregular workpieces
-> - During Z-axis surface detection, select the highest surface of the workpiece
-> - When moving the 3D probe, keep the ball tip slightly below the workpiece, not too low
-> - Observe in advance if there are objects that may obstruct the 3D probe movement, avoid the 3D probe being hit and damaged before the probe contacts
-> - The 3D probe is a precision and easily damaged accessory, please move the 3D probe slowly
-> - If the alarm is triggered by accidental contact during movement, please remove the obstacle in time, return to zero and retry
->
-> {.is-warning}
 
 ## 6. Height Map Feature
 
