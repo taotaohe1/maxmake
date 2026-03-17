@@ -21,6 +21,10 @@ MaxmakeLab is an intelligent control software designed specifically for HiMill s
 - **Display**: Resolution 1920x1080 or higher
 - **USB Port**: USB 2.0 or higher version
 
+> ⚠️ **Processor Compatibility Note**:
+> Only supports Apple Silicon M-series chips, not Intel series chips.
+> {.is-warning}
+
 ## 📥 Software Download
 You can download MaxmakeLab software through the following links. Choose the appropriate version according to your operating system and needs:
 
