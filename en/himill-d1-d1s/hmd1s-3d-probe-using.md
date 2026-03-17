@@ -11,8 +11,9 @@
 > - The 3D probe is a precision and easily damaged accessory, please move the 3D probe slowly
 > - If the alarm is triggered by accidental contact during movement, please remove the obstacle in time, return to zero and retry
 > - The 3D probe will alarm if triggered before movement
-> - The 3D probe will also alarm if triggered during movement (i.e., G0, G1, G2)
-> - The 3D probe will alarm if no object is detected within the detection distance
+>- The 3D probe will also alarm if triggered during movement (i.e., G0, G1, G2)
+>- The 3D probe will alarm if no object is detected within the detection distance
+>- The 3D probe will not trigger an alarm during zero return, so please ensure there are no obstacles in the zero return path to avoid damage to the 3D probe
 >
 > {.is-warning}
 
