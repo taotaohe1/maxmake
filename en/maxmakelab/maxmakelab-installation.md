@@ -28,6 +28,13 @@ MaxmakeLab is an intelligent control software designed specifically for HiMill s
 ## 📥 Software Download
 You can download MaxmakeLab software through the following links. Choose the appropriate version according to your operating system and needs:
 
+> ⚠️ **Urgent Update Notice**:
+> Due to potential incorrect movement of the 3D probe caused by G-code issues, we have added new code to protect the 3D probe. Please use the following v0.9.16 preview version (Windows only) for better 3D probe protection.
+> {.is-warning}
+
+### v0.9.16 Preview Version (Windows only)
+**[MaxmakeLab v0.9.16 Preview Version Download Link](https://drive.google.com/drive/folders/1Gb-SWAFe8RE6lq0btQwnII0xnihwDA6Z?usp=sharing)**
+
 ### Latest Version (v0.9.15)
 **[MaxmakeLab Software Download Link(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.15.exe)**
 **[MaxmakeLab Software Download Link(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.15.dmg)**
