@@ -48,7 +48,7 @@ Detailed accessory operation instructions to help you correctly use HiMill D1 ac
 ## Daily Maintenance
 Necessary daily maintenance operations to help you keep HiMill D1 running normally.
 * [HiMill D1 Dust Cleaning](/en/himill-d1-d1s/hmd1s-dust-cleaning.md)
-* [HiMill D1 Spindle Maintenance](/en/himill-d1-d1s/hmd1s-spindle-maintenance.md)
+* [HiMill D1 Spindle Maintenance](/en/himill-d1-d1s/hmd1-spindle-maintenance.md)
 * [HiMill D1 Guide Rail Lead Screw Maintenance](/en/himill-d1-d1s/hmd1-guide-rail-lead-screw-maintenance.md)
 
 ## Troubleshooting

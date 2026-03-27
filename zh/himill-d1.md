@@ -47,7 +47,7 @@ MaxmakeLab 软件的详细操作说明，帮助您正确使用HiMill D1。
 ## 日常维护
 必要的日常维护操作，帮助您保持HiMill D1的正常运行。
 * [HiMill D1 灰尘清洁](/zh/himill-d1-d1s/hmd1s-dust-cleaning.md)<!-- 灰尘清洁 -->
-* [HiMill D1 主轴保养](/zh/himill-d1-d1s/hmd1s-spindle-maintenance.md)<!-- 主轴保养 -->
+* [HiMill D1 主轴保养](/zh/himill-d1-d1s/hmd1-spindle-maintenance.md)<!-- 主轴保养 -->
 * [HiMill D1 光轴丝杆保养](/zh/himill-d1-d1s/hmd1-guide-rail-lead-screw-maintenance.md)<!-- 光轴丝杆保养 -->
 
 ## 故障排除
