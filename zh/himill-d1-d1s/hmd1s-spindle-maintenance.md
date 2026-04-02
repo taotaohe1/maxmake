@@ -1,8 +1,8 @@
 # HiMill D1S 主轴保养
 
-## D1S设备保养完整视频
+## 保养视频
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DeBYRHOCmUc" title="机器保养完整视频" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=DeBYRHOCmUc" target="_blank">点击观看视频</a>
 
 ---
 

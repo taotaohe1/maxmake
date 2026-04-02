@@ -2,7 +2,7 @@
 
 ## Maintenance Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DeBYRHOCmUc" title="Complete Machine Maintenance Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=DeBYRHOCmUc" target="_blank">Click to watch video</a>
 
 ---
 
