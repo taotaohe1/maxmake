@@ -1,5 +1,9 @@
 # HiMill D1S 灰尘清洁
 
+## D1S设备保养完整视频
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DeBYRHOCmUc" title="机器保养完整视频" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 1. 台面清洁
 
 每次加工完成后，应清理干净台面。

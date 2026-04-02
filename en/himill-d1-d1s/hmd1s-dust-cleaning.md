@@ -1,6 +1,10 @@
 # HiMill D1S Dust Cleaning
 
-## 1. Table Cleaning
+## Maintenance Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DeBYRHOCmUc" title="Complete Machine Maintenance Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 1. Tabletop Cleaning
 
 After each processing is completed, the table should be cleaned thoroughly.
 

@@ -1,5 +1,9 @@
 # 光轴丝杆保养
 
+## D1S设备保养完整视频
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DeBYRHOCmUc" title="机器保养完整视频" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 1. 定期保养说明
 
 丝杆和光轴需定期涂抹润滑脂，以保证最佳运行效果。
