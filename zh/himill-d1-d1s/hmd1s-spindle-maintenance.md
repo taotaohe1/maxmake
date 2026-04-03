@@ -2,7 +2,7 @@
 
 ## 保养视频
 
-<a href="https://www.youtube.com/watch?v=DeBYRHOCmUc" target="_blank">点击观看视频</a>
+<a href="https://www.bilibili.com/video/BV1Uu9NBFEA1/" target="_blank">点击观看视频</a>
 
 ---
 
@@ -20,7 +20,7 @@
 
 定期清理主轴夹头可以保持夹头的清洁度，确保刀具夹持的稳定性，延长夹头使用寿命。
 
-<a href="https://www.bilibili.com/video/BV1HWiTB2E8p" target="_blank">点击观看视频</a>
+<a href="https://www.bilibili.com/video/BV1Uu9NBFEeS/" target="_blank">点击观看视频</a>
 
 ### 清理步骤
 
