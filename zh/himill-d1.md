@@ -53,6 +53,10 @@ MaxmakeLab 软件的详细操作说明，帮助您正确使用HiMill D1。
 ## 故障排除
 详细的故障排除操作，帮助您解决HiMill D1的问题。
 * [HiMill D1 软件报错查询](/zh/himill-d1-d1s/hmd1s-software-error-query.md)<!-- 软件报错查询 -->
+* [HiMill D1 软件报错Alarm2查询](/zh/himill-d1-d1s/hmd1s-alarm2-error.md)<!-- Alarm2报错问题 -->
+* [加工中出现断刀问题](/zh/himill-d1-d1s/hmd1s-cutting-issue-handling.md)<!-- 加工中出现断刀问题 -->
+* [加工中因问题导致加工停止](/zh/himill-d1-d1s/hmd1s-processing-stop-issue-handling.md)<!-- 加工中因问题导致加工停止 -->
+* [HiMill D1 检测功能说明](/zh/himill-d1-d1s/hmd1s-detection-function.md)<!-- 检测功能说明 -->
 * [HiMill D1 按键和指示灯异常](/zh/himill-d1-d1s/hmd1s-button-and-indicator-issue.md)<!-- 按键指示灯异常 -->
 * [HiMill D1 主轴异常](/zh/himill-d1-d1s/hmd1s-spindle-issue.md)<!-- 主轴异常 -->
 * [HiMill D1 移动轴运行异常](/zh/himill-d1-d1s/hmd1s-moving-axis-issue.md)<!-- 移动轴运行异常 -->

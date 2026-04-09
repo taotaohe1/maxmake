@@ -56,6 +56,7 @@ Detailed troubleshooting operations to help you solve HiMill D1S problems.
 * [Software Error Query](/en/himill-d1-d1s/hmd1s-software-error-query.md)
 * [Tool Breakage During Processing](/en/himill-d1-d1s/hmd1s-cutting-issue-handling.md)
 * [Processing Stop Due to Issues](/en/himill-d1-d1s/hmd1s-processing-stop-issue-handling.md)
+* [HiMill D1S Software Alarm2 Error Query](/en/himill-d1-d1s/hmd1s-alarm2-error.md)
 * [HiMill D1S Button and Indicator Issues](/en/himill-d1-d1s/hmd1s-button-and-indicator-issue.md)
 * [HiMill D1S Detection Function Description](/en/himill-d1-d1s/hmd1s-detection-function.md)<!-- Detection function description -->
 * [HiMill D1S Spindle Issues](/en/himill-d1-d1s/hmd1s-spindle-issue.md)

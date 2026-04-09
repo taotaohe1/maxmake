@@ -54,6 +54,10 @@ Necessary daily maintenance operations to help you keep HiMill D1 running normal
 ## Troubleshooting
 Detailed troubleshooting operations to help you solve HiMill D1 problems.
 * [HiMill D1 Software Error Query](/en/himill-d1-d1s/hmd1s-software-error-query.md)
+* [HiMill D1 Software Alarm2 Error Query](/en/himill-d1-d1s/hmd1s-alarm2-error.md)
+* [HiMill D1 Cutting Issue Handling](/en/himill-d1-d1s/hmd1s-cutting-issue-handling.md)
+* [HiMill D1 Processing Stop Issue Handling](/en/himill-d1-d1s/hmd1s-processing-stop-issue-handling.md)
+* [HiMill D1 Detection Function](/en/himill-d1-d1s/hmd1s-detection-function.md)
 * [HiMill D1 Button and Indicator Issues](/en/himill-d1-d1s/hmd1s-button-and-indicator-issue.md)
 * [HiMill D1 Spindle Issues](/en/himill-d1-d1s/hmd1s-spindle-issue.md)
 * [HiMill D1 Moving Axis Issues](/en/himill-d1-d1s/hmd1s-moving-axis-issue.md)
