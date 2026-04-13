@@ -23,15 +23,11 @@ After unboxing, please first check if the following accessories are complete:
 - ✅ Dust Collection Cover × 1
 - ✅ Tool Accessory Box × 1
 - ✅ USB Data Cable × 1
-- ✅ Lubricating Grease × 1
 - ✅ Manual × 1
 - ✅ Clamp × 1
 - ✅ Dust Collector Adapter × 1
 - ✅ Substitute Wood × 2
 - ✅ Power Cord × 1
-- ✅ Lanyard × 1
-- ✅ Wood Wax Oil × 1
-- ✅ Boxwood Blocks × 2
 - ✅ Wooden Substrate × 1
 
 ---

@@ -11,10 +11,7 @@ This laser is a 10W 450nm blue laser. Please verify that the following accessori
 - ✅ Focus assist block × 1
 - ✅ Air hose adapter × 1
 - ✅ Cable ties × Several
-- ✅ Protective glasses × 1
 - ✅ 6mm Air hose × 1
-
-<img src="/eng/himill-d1-d1s/media/hmd1s-laser-module/配件.webp" alt="Laser Module Accessories" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 2. Laser Module Usage Specifications
 
@@ -28,7 +25,7 @@ The following are laser module usage specifications. Please read them carefully:
 > - Do not stack cutting consumables (for example, cutting two or more sheets at once, multiple sheets will burn more easily);
 > - Regularly clean processing debris to prevent fires caused by debris residue;
 > - High temperature is generated when the laser is working, do not touch to avoid burns;
-> - Do not observe the laser output point with naked eyes for extended periods to avoid eye discomfort; wear protective glasses;
+> - Do not observe the laser output point with naked eyes for extended periods to avoid eye discomfort; wear protective glasses (Protective glasses need to be prepared by yourself);
 > - Do not process PVC and other chlorine-containing materials, polycarbonate, glass fiber, carbon fiber, uncoated metals, or materials containing halogens or heavy metals. Be sure to confirm material safety before processing.
 > 
 > {.is-warning}

@@ -6,7 +6,7 @@
 
 ## 1. Regular Maintenance Instructions
 
-The lead screw and guide rails need regular application of grease to ensure optimal operation.
+The lead screw and guide rails need regular application of grease to ensure optimal operation. (Grease needs to be prepared by yourself)
 
 ## Precautions
 
@@ -21,7 +21,7 @@ The lead screw and guide rails need regular application of grease to ensure opti
 
 ## 2. X-axis Maintenance
 
-- First move the X-axis to the left side, take out the grease from the accessory box, and apply evenly and appropriately to the guide rails and lead screw
+- First move the X-axis to the left side, take out the prepared grease, and apply evenly and appropriately to the guide rails and lead screw
 - Move the X-axis to the far right, continue applying appropriate amount of grease
 - Move the X-axis back to the far left
 

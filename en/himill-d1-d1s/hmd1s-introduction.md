@@ -80,15 +80,11 @@ After unpacking, please check if the following accessories are complete:
 - ✅ Dust Cover × 1
 - ✅ Tool Accessory Box × 1
 - ✅ USB Data Cable × 1
-- ✅ Grease × 1
 - ✅ Manual × 1
 - ✅ Hose Clamp × 1
 - ✅ Vacuum Cleaner Adapter × 1
 - ✅ MDF Wood × 2
 - ✅ Power Cable × 1
-- ✅ Lanyard × 1
-- ✅ Wood Wax Oil × 1
-- ✅ Boxwood Block × 2
 - ✅ Wood Working Base Plate × 1
 
 ## Accessories & Extensions
