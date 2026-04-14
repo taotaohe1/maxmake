@@ -75,7 +75,7 @@
     <tr>
       <td>**Select 选择**</td>
       <td>进入选择模式，可选择图元，移动图元</td>
-      <td><img src="/chi/maxmakelab/media/software-manual/design-panel-Select.gif" alt="Select选择" style="width: 100%; height: auto; border-radius: 8px;" /></td>
+      <td><img src="/chi/maxmakelab/media/software-manual/design-panel-select.gif" alt="Select选择" style="width: 100%; height: auto; border-radius: 8px;" /></td>
     </tr>
     <tr>
       <td>**Image 图片**</td>
