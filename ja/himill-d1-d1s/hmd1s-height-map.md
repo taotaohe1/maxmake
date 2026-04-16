@@ -71,7 +71,7 @@ MaxmakeLABの3Dプローブハイトマップ機能を使用すると、3Dプロ
   - **Zt（安全高さ）**：ワークピースの最高点より高い値に設定してください。プローブが移動中にワークピースと衝突しないようにするためです
   - **Zb（下方プロービング距離）**：ワークピースの最低点より低い値に設定してください。ワークピースの最低位置を検出できるようにするためです
 
-  <img src="/eng/himill-d1-d1s/media/height-map/zt_zb_setting.webp" alt="ZtとZbのパラメータ設定図" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+  <img src="/eng/himill-d1-d1s/media/height-map/zt_zb_setting.webp" alt="ZtとZbのパラメータ設定図" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### ステップ5：検出を開始する
 
