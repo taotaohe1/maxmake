@@ -73,7 +73,7 @@ Before using the height map feature, please note the following:
 > 
 > {.is-warning}
 > 
-> <img src="/eng/himill-d1-d1s/media/hmd1s-height-map/zt-zb-setting.png" alt="Zt and Zb parameter settings diagram" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+> <img src="/eng/himill-d1-d1s/media/hmd1s-height-map/zt_zb_setting.png" alt="Zt and Zb parameter settings diagram" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### Step 5: Start Detection
 

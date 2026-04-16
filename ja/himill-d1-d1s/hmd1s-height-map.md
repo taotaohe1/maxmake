@@ -73,7 +73,7 @@ MaxmakeLABの3Dプローブハイトマップ機能を使用すると、3Dプロ
 > 
 > {.is-warning}
 > 
-> <img src="/eng/himill-d1-d1s/media/hmd1s-height-map/zt-zb-setting.png" alt="ZtとZbのパラメータ設定図" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+> <img src="/eng/himill-d1-d1s/media/hmd1s-height-map/zt_zb_setting.png" alt="ZtとZbのパラメータ設定図" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### ステップ5：検出を開始する
 
