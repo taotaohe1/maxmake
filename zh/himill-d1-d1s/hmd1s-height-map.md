@@ -67,13 +67,11 @@ MaxmakeLAB的3D测头高度图功能允许您通过3D测头自动探测工件表
 - **Interpolation**：
   此功能暂未实现，现在只能更改数值但无实际效果。后续更新会补充此功能
 
-> ⚠️ **Zt/Zb参数设置**：
-> - **Zt（安全高度）**：请设置为高于工件最高点的数值，确保测头在移动过程中不会碰撞工件
-> - **Zb（下探距离）**：请设置为低于工件最低点的数值，确保能够探测到工件的最低位置
-> 
-> {.is-warning}
-> 
-> <img src="/chi/himill-d1-d1s/media/hmd1s-height-map/zt_zb_setting.png" alt="Zt和Zb参数设置示意图" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+- **Zt/Zb参数设置**：
+  - **Zt（安全高度）**：请设置为高于工件最高点的数值，确保测头在移动过程中不会碰撞工件
+  - **Zb（下探距离）**：请设置为低于工件最低点的数值，确保能够探测到工件的最低位置
+
+  <img src="/chi/himill-d1-d1s/media/hmd1s-height-map/zt_zb_setting.png" alt="Zt和Zb参数设置示意图" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 步骤5：开始探测
 

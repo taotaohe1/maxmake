@@ -67,13 +67,11 @@ Before using the height map feature, please note the following:
 - **Interpolation**：
   This function is not yet implemented. Currently, you can only change the value but it has no actual effect. This function will be added in future updates
 
-> ⚠️ **Zt/Zb Parameter Settings**：
-> - **Zt (Safe Height)**: Set to a value higher than the highest point of the workpiece to ensure the probe does not collide with the workpiece during movement
-> - **Zb (Downward Probing Distance)**: Set to a value lower than the lowest point of the workpiece to ensure the lowest position of the workpiece can be detected
-> 
-> {.is-warning}
-> 
-> <img src="/eng/himill-d1-d1s/media/hmd1s-height-map/zt_zb_setting.png" alt="Zt and Zb parameter settings diagram" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+- **Zt/Zb Parameter Settings**：
+  - **Zt (Safe Height)**: Set to a value higher than the highest point of the workpiece to ensure the probe does not collide with the workpiece during movement
+  - **Zb (Downward Probing Distance)**: Set to a value lower than the lowest point of the workpiece to ensure the lowest position of the workpiece can be detected
+
+  <img src="/eng/himill-d1-d1s/media/hmd1s-height-map/zt-zb-setting.png" alt="Zt and Zb parameter settings diagram" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### Step 5: Start Detection
 
