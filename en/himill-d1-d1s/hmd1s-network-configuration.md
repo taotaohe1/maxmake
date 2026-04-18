@@ -25,7 +25,8 @@ Local network connection allows the HiMill device to connect directly to your ho
 3. Enter your router's WiFi name (SSID) and password
 
 > ⚠️ **Important Notice**：
-> - Please ensure the WiFi name and password are entered correctly, as this process will directly write the configuration information to the device's WiFi module. Incorrect input will result in connection failure
+> - Please ensure the WiFi name (SSID) and password are entered correctly, as this process will directly write the configuration information to the device's WiFi module. Incorrect input will result in connection failure
+> - WiFi name (SSID) and password should not contain spaces or special characters, as this may cause configuration failure
 > 
 > {.is-warning}
 
