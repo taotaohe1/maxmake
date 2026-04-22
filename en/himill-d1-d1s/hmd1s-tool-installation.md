@@ -48,7 +48,7 @@ Pull down the handle, insert the tool, tool clamping must be ≥15mm. Slowly rel
 
 > ⚠️ **Tool Installation Safety Requirements**:
 > 
-> - Tool clamping depth should be ≥15mm
+> - Tool clamping depth should be between 15mm and 34mm (maximum insertion depth is 34mm)
 > - Ensure tool installation is firm
 > - Avoid tool misalignment or loosening
 > 

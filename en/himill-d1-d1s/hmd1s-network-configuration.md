@@ -9,7 +9,7 @@ The HiMill device is equipped with a built-in WiFi module that supports wireless
 ## 🏠 Local Network Connection
 
 Local network connection allows the HiMill device to connect directly to your home or office router, enabling computers on the same local network to access the device (the computer must also be connected to the same router).
-
+    
 ### Step 1: Connect Device via USB and Complete Reset
 
 1. Launch the MaxmakeLab software

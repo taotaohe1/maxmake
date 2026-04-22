@@ -60,7 +60,7 @@ Tighten the collet with a wrench
 
 > ⚠️ **Tool Installation Safety Requirements**:
 > 
-> - Tool clamping depth should be ≥15mm
+> - Tool clamping depth should be between 15mm and 19mm (maximum insertion depth is 19mm)
 > - Ensure tool installation is firm
 > - Avoid tool misalignment or loosening
 > 
