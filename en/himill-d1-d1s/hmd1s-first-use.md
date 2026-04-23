@@ -12,6 +12,14 @@ Before starting your first machining, please ensure the following preparations a
 - ✅ **Machine unboxing completed**, and device voltage confirmed to meet local standards, equipment powers on normally
   > For detailed operations, please refer to: [Unboxing Guide](./hmd1s-unboxing-guide.md)
 
+> ⚠️ **Important Notice**：
+> - Before first use, please be sure to remove the transport pin from the spindle collet to prevent the pin from getting stuck inside the spindle when installing tools
+> - If the pin is already stuck in the spindle, first pull down the tool change handle, then use a wrench to remove the collet, and push the pin out from the other end of the collet
+> 
+> {.is-warning}
+> 
+> <img src="/eng/himill-d1-d1s/media/hmd1s-first-use/remove-pin2.png" alt="Remove transport pin diagram" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+
 ### 2. Software Installation & Connection  
 - ✅ **Computer has software installed**, and device is connected with data cable
   > For detailed operations, please refer to: [MaxmakeLab Software Installation Guide](../maxmakelab/maxmakelab-installation.md)

@@ -14,4 +14,6 @@
 
 ## 更换SD卡
 
-<a href="https://www.bilibili.com/video/BV1S6F6z7EaT" target="_blank">点击观看视频</a>
+<a href="https://www.bilibili.com/video/BV1S6F6z7EaT" target="_blank">
+    <img src="http://i1.hdslb.com/bfs/archive/bb5c1a0b954870b5392ee9bbe8f93167a1e6ef67.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+</a>

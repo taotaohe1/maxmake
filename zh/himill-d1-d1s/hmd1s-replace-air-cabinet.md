@@ -18,7 +18,9 @@
 
 ## 更换开关电源
 
-<a href="https://www.bilibili.com/video/BV1S6F6z7Eas" target="_blank">点击观看视频</a>
+<a href="https://www.bilibili.com/video/BV1S6F6z7Eas" target="_blank">
+    <img src="http://i2.hdslb.com/bfs/archive/676a96fbe73baa140b6920ea62c4a993a2164485.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+</a>
 
 ---
 

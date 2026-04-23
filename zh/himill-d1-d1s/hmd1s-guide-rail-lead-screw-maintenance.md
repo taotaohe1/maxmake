@@ -2,7 +2,9 @@
 
 ## 保养视频
 
-<a href="https://www.bilibili.com/video/BV1Uu9NBFEA1/" target="_blank">点击观看视频</a>
+<a href="https://www.bilibili.com/video/BV1Uu9NBFEA1/" target="_blank">
+    <img src="http://i2.hdslb.com/bfs/archive/f201008df39fa1579fb3e0c75cd64891eee5dbcb.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+</a>
 
 ## 1. 定期保养说明
 

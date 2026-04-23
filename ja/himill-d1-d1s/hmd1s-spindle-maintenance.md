@@ -2,7 +2,9 @@
 
 ## メンテナンス動画
 
-<a href="https://www.youtube.com/watch?v=DeBYRHOCmUc" target="_blank">動画を視聴する</a>
+<a href="https://www.youtube.com/watch?v=DeBYRHOCmUc" target="_blank">
+    <img src="https://img.youtube.com/vi/DeBYRHOCmUc/0.jpg" alt="動画を視聴する" style="width: 50%; border-radius: 8px;">
+</a>
 
 ---
 
@@ -20,7 +22,9 @@
 
 主軸コレットを定期的に清掃することで、その清潔さを維持し、工具の保持安定性を確保し、コレットの寿命を延ばすことができます。
 
-<a href="https://www.youtube.com/watch?v=kU1k7iBTnJY" target="_blank">動画を視聴する</a>
+<a href="https://www.youtube.com/watch?v=kU1k7iBTnJY" target="_blank">
+    <img src="https://img.youtube.com/vi/kU1k7iBTnJY/0.jpg" alt="動画を視聴する" style="width: 50%; border-radius: 8px;">
+</a>
 
 ### 清掃手順
 

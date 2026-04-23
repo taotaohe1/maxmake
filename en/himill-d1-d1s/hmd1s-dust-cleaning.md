@@ -2,7 +2,9 @@
 
 ## Maintenance Video
 
-<a href="https://www.youtube.com/watch?v=DeBYRHOCmUc" target="_blank">Click to watch video</a>
+<a href="https://www.youtube.com/watch?v=DeBYRHOCmUc" target="_blank">
+    <img src="https://img.youtube.com/vi/DeBYRHOCmUc/0.jpg" alt="Click to watch video" style="width: 50%; border-radius: 8px;">
+</a>
 
 ## 1. Tabletop Cleaning
 

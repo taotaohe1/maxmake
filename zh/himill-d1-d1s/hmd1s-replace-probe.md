@@ -14,10 +14,14 @@
 
 ## 更换对刀器
 
-<a href="https://www.bilibili.com/video/BV1S6F6z7E5n" target="_blank">点击观看视频</a>
+<a href="https://www.bilibili.com/video/BV1S6F6z7E5n" target="_blank">
+    <img src="http://i1.hdslb.com/bfs/archive/ae9c7b673f922816a88a89dc3958f0cd4603a0af.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+</a>
 
 ---
 
 ## 更换对刀器电路板
 
-<a href="https://www.bilibili.com/video/BV1b6F6z7E14" target="_blank">点击观看视频</a>
+<a href="https://www.bilibili.com/video/BV1b6F6z7E14" target="_blank">
+    <img src="http://i2.hdslb.com/bfs/archive/e69dbc4440f26d95da45609da2eba33c9a3eb4e8.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+</a>

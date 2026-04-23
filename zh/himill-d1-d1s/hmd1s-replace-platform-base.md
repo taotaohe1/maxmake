@@ -14,10 +14,14 @@
 
 ## 更换木工基板
 
-<a href="https://www.bilibili.com/video/BV1b6F6z7EZd" target="_blank">点击观看视频</a>
+<a href="https://www.bilibili.com/video/BV1b6F6z7EZd" target="_blank">
+    <img src="http://i1.hdslb.com/bfs/archive/cde84806d29427c59562d1fcdb59fc217fdfb960.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+</a>
 
 ---
 
 ## 更换铝制基板
 
-<a href="https://www.bilibili.com/video/BV1h6F6zEEKG" target="_blank">点击观看视频</a>
+<a href="https://www.bilibili.com/video/BV1h6F6zEEKG" target="_blank">
+    <img src="http://i2.hdslb.com/bfs/archive/3e075bb685fc15e2d85060973fc48572ce885004.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+</a>

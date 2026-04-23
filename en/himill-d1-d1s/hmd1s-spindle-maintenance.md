@@ -2,7 +2,9 @@
 
 ## Maintenance Video
 
-<a href="https://www.youtube.com/watch?v=DeBYRHOCmUc" target="_blank">Click to watch video</a>
+<a href="https://www.youtube.com/watch?v=DeBYRHOCmUc" target="_blank">
+    <img src="https://img.youtube.com/vi/DeBYRHOCmUc/0.jpg" alt="Click to watch video" style="width: 50%; border-radius: 8px;">
+</a>
 
 ---
 
@@ -20,7 +22,9 @@
 
 Regularly cleaning the spindle collet can maintain its cleanliness, ensure tool holding stability, and extend the collet's service life.
 
-<a href="https://www.youtube.com/watch?v=kU1k7iBTnJY" target="_blank">Click to Watch Video</a>
+<a href="https://www.youtube.com/watch?v=kU1k7iBTnJY" target="_blank">
+    <img src="https://img.youtube.com/vi/kU1k7iBTnJY/0.jpg" alt="Click to Watch Video" style="width: 50%; border-radius: 8px;">
+</a>
 
 ### Cleaning Steps
 

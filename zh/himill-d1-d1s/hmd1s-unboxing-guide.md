@@ -9,7 +9,9 @@
   <source src="/zh/himill-d1-d1s/media/unboxing/unboxing.mp4" type="video/mp4">
 </video> -->
 
-<a href="https://www.bilibili.com/video/BV1HWiTB2E8p" target="_blank">点击观看视频</a>
+<a href="https://www.bilibili.com/video/BV1HWiTB2E8p" target="_blank">
+    <img src="http://i0.hdslb.com/bfs/archive/2dac0dfae57190fdac78895a7aa59a0d83b84b08.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+</a>
 
 ---
 

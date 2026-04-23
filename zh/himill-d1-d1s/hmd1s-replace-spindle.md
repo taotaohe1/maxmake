@@ -14,17 +14,23 @@
 
 ## 更换主轴或主轴灯板
 
-<a href="https://www.bilibili.com/video/BV186F6z7EhA" target="_blank">点击观看视频</a>
+<a href="https://www.bilibili.com/video/BV186F6z7EhA" target="_blank">
+    <img src="http://i2.hdslb.com/bfs/archive/d2691cd6297ae441b69b9b6009c009065ad78c82.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+</a>
 
 ---
 
 ## 更换主轴背部电路板
 
-<a href="https://www.bilibili.com/video/BV1S6F6z7EfA" target="_blank">点击观看视频</a>
+<a href="https://www.bilibili.com/video/BV1S6F6z7EfA" target="_blank">
+    <img src="http://i2.hdslb.com/bfs/archive/4f723e61e2cf10469a6b5ff5d2d247b5bcc55d5c.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+</a>
 
 ---
 
 ## 更换主轴散热风扇
 
-<a href="https://www.bilibili.com/video/BV1DBF6zUESN" target="_blank">点击观看视频</a>
+<a href="https://www.bilibili.com/video/BV1DBF6zUESN" target="_blank">
+    <img src="http://i0.hdslb.com/bfs/archive/c3b3173b5c403e180f7fd9060f9cb1c1f3022099.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+</a>
 
