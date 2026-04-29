@@ -18,20 +18,20 @@
 ---
 
 ## 📑 目次
-1. [🔩 フラットエンドミル（金属）](#1-flat-end-mill-metal)
-2. [🌳 フラットエンドミル（非金属）](#2-flat-end-mill-non-metal)
-3. [⚪ ボールノーズミル（金属）](#3-ball-nose-mill-metal)
-4. [🔵 ボールノーズミル（非金属）](#4-ball-nose-mill-non-metal)
-5. [🕳️ ドリルビット](#5-drill-bit)
-6. [🖨️ PCBドリルビット](#6-pcb-drill-bit)
-7. [🔷 フラットノーズVカッター（金属）](#7-flat-nose-v-cutter-metal)
-8. [🔶 フラットノーズVカッター（非金属）](#8-flat-nose-v-cutter-non-metal)
+1. [🔩 フラットエンドミル（金属）](#flat-end-mill-metal)
+2. [🌳 フラットエンドミル（非金属）](#flat-end-mill-non-metal)
+3. [⚪ ボールノーズミル（金属）](#ball-nose-mill-metal)
+4. [🔵 ボールノーズミル（非金属）](#ball-nose-mill-non-metal)
+5. [🕳️ ドリルビット](#drill-bit)
+6. [🖨️ PCBドリルビット](#pcb-drill-bit)
+7. [🔷 フラットノーズVカッター（金属）](#flat-nose-v-cutter-metal)
+8. [🔶 フラットノーズVカッター（非金属）](#flat-nose-v-cutter-non-metal)
 
 ---
 
 ## 1. 🔩 フラットエンドミル（金属）
 
-<span id="1-flat-end-mill-metal"></span>
+<span id="flat-end-mill-metal"></span>
 
 ### フラットエンドミル（金属）加工パラメーター表
 
@@ -47,7 +47,7 @@
 
 ## 2. 🌳 フラットエンドミル（非金属）
 
-<span id="2-flat-end-mill-non-metal"></span>
+<span id="flat-end-mill-non-metal"></span>
 
 ### フラットエンドミル（非金属）加工パラメーター表
 
@@ -66,7 +66,7 @@
 
 ## 3. ⚪ ボールノーズミル（金属）
 
-<span id="3-ball-nose-mill-metal"></span>
+<span id="ball-nose-mill-metal"></span>
 
 ### ボールノーズミル（金属）加工パラメーター表
 
@@ -78,11 +78,14 @@
 | 2.5*7.5mm ボールノーズ(金属) | RPM:13000<br>Feed:500<br>Step:1.25<br>PFeed:200<br>DOC:0.2 | RPM:13000<br>Feed:400<br>Step:1.25<br>PFeed:200<br>DOC:0.2 | - | RPM:13000<br>Feed:500<br>Step:1.25<br>PFeed:200<br>DOC:0.2 | RPM:13000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:1 | - | RPM:10000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:1 | RPM:13000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:2 |
 | 3.175*10mm ボールノーズ(金属) | RPM:13000<br>Feed:500<br>Step:1.5<br>PFeed:200<br>DOC:0.2 | RPM:13000<br>Feed:400<br>Step:1.5<br>PFeed:200<br>DOC:0.2 | - | RPM:13000<br>Feed:500<br>Step:1.5<br>PFeed:200<br>DOC:0.2 | RPM:13000<br>Feed:600<br>Step:1.5<br>PFeed:300<br>DOC:1 | - | RPM:10000<br>Feed:600<br>Step:1.5<br>PFeed:300<br>DOC:1 | RPM:13000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:2 |
 
+> 💡 **ヒント**：仕上げ加工時には、ボールノーズミルのステップオーバーは0.2mm以下にする必要があります
+{.is-info}
+
 ---
 
 ## 4. 🔵 ボールノーズミル（非金属）
 
-<span id="4-ball-nose-mill-non-metal"></span>
+<span id="ball-nose-mill-non-metal"></span>
 
 ### ボールノーズミル（非金属）加工パラメーター表
 
@@ -94,11 +97,14 @@
 | 2.5*15mm ボールノーズ | - | - | - | - | RPM:13000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:1 | - | RPM:10000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:1 | RPM:13000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:2 |
 | 3.175*22mm ボールノーズ | - | - | - | - | RPM:13000<br>Feed:600<br>Step:1.5<br>PFeed:300<br>DOC:1 | - | RPM:10000<br>Feed:600<br>Step:1.5<br>PFeed:300<br>DOC:1 | RPM:13000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:2 |
 
+> 💡 **ヒント**：仕上げ加工時には、ボールノーズミルのステップオーバーは0.2mm以下にする必要があります
+{.is-info}
+
 ---
 
 ## 5. 🕳️ ドリルビット
 
-<span id="5-drill-bit"></span>
+<span id="drill-bit"></span>
 
 ### ドリルビット加工パラメーター表
 
@@ -129,7 +135,7 @@
 
 ## 6. 🖨️ PCBドリルビット
 
-<span id="6-pcb-drill-bit"></span>
+<span id="pcb-drill-bit"></span>
 
 ### PCBドリルビット加工パラメーター表
 
@@ -170,7 +176,7 @@
 
 ## 7. 🔷 フラットノーズVカッター（金属）
 
-<span id="7-flat-nose-v-cutter-metal"></span>
+<span id="flat-nose-v-cutter-metal"></span>
 
 ### フラットノーズVカッター（金属）加工パラメーター表
 
@@ -186,7 +192,7 @@
 
 ## 8. 🔶 フラットノーズVカッター（非金属）
 
-<span id="8-flat-nose-v-cutter-non-metal"></span>
+<span id="flat-nose-v-cutter-non-metal"></span>
 
 ### フラットノーズVカッター（非金属）加工パラメーター表
 

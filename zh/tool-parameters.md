@@ -18,20 +18,20 @@
 ---
 
 ## 📑 目录
-1. [🔩 平底铣刀（金属）](#1-平底铣刀金属)
-2. [🌳 平底铣刀（非金属）](#2-平底铣刀非金属)
-3. [⚪ 球头铣刀（金属）](#3-球头铣刀金属)
-4. [🔵 球头铣刀（非金属）](#4-球头铣刀非金属)
-5. [🕳️ 钻头](#5-钻头)
-6. [🖨️ PCB钻头](#6-pcb钻头)
-7. [🔷 平底尖刀（金属）](#7-平底尖刀金属)
-8. [🔶 平底尖刀（非金属）](#8-平底尖刀非金属)
+1. [🔩 平底铣刀（金属）](#flat-end-mill-metal)
+2. [🌳 平底铣刀（非金属）](#flat-end-mill-non-metal)
+3. [⚪ 球头铣刀（金属）](#ball-nose-mill-metal)
+4. [🔵 球头铣刀（非金属）](#ball-nose-mill-non-metal)
+5. [🕳️ 钻头](#drill-bit)
+6. [🖨️ PCB钻头](#pcb-drill-bit)
+7. [🔷 平底尖刀（金属）](#flat-nose-v-cutter-metal)
+8. [🔶 平底尖刀（非金属）](#flat-nose-v-cutter-non-metal)
 
 ---
 
 ## 1. 🔩 平底铣刀（金属）
 
-<span id="1-平底铣刀金属"></span>
+<span id="flat-end-mill-metal"></span>
 
 ### 平底铣刀（金属）加工参数表
 
@@ -47,7 +47,7 @@
 
 ## 2. 🌳 平底铣刀（非金属）
 
-<span id="2-平底铣刀非金属"></span>
+<span id="flat-end-mill-non-metal"></span>
 
 ### 平底铣刀（非金属）加工参数表
 
@@ -66,7 +66,7 @@
 
 ## 3. ⚪ 球头铣刀（金属）
 
-<span id="3-球头铣刀金属"></span>
+<span id="ball-nose-mill-metal"></span>
 
 ### 球头铣刀（金属）加工参数表
 
@@ -78,11 +78,14 @@
 | 2.5*7.5mm ball nose(Metal) | RPM:13000<br>Feed:500<br>Step:1.25<br>PFeed:200<br>DOC:0.2 | RPM:13000<br>Feed:400<br>Step:1.25<br>PFeed:200<br>DOC:0.2 | - | RPM:13000<br>Feed:500<br>Step:1.25<br>PFeed:200<br>DOC:0.2 | RPM:13000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:1 | - | RPM:10000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:1 | RPM:13000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:2 |
 | 3.175*10mm ball nose(Metal) | RPM:13000<br>Feed:500<br>Step:1.5<br>PFeed:200<br>DOC:0.2 | RPM:13000<br>Feed:400<br>Step:1.5<br>PFeed:200<br>DOC:0.2 | - | RPM:13000<br>Feed:500<br>Step:1.5<br>PFeed:200<br>DOC:0.2 | RPM:13000<br>Feed:600<br>Step:1.5<br>PFeed:300<br>DOC:1 | - | RPM:10000<br>Feed:600<br>Step:1.5<br>PFeed:300<br>DOC:1 | RPM:13000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:2 |
 
+> 💡 **提示**：在精加工时，球头铣刀的步距应小于等于0.2mm
+{.is-info}
+
 ---
 
 ## 4. 🔵 球头铣刀（非金属）
 
-<span id="4-球头铣刀非金属"></span>
+<span id="ball-nose-mill-non-metal"></span>
 
 ### 球头铣刀（非金属）加工参数表
 
@@ -94,11 +97,14 @@
 | 2.5*15mm ball nose | - | - | - | - | RPM:13000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:1 | - | RPM:10000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:1 | RPM:13000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:2 |
 | 3.175*22mm ball nose | - | - | - | - | RPM:13000<br>Feed:600<br>Step:1.5<br>PFeed:300<br>DOC:1 | - | RPM:10000<br>Feed:600<br>Step:1.5<br>PFeed:300<br>DOC:1 | RPM:13000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:2 |
 
+> 💡 **提示**：在精加工时，球头铣刀的步距应小于等于0.2mm
+{.is-info}
+
 ---
 
 ## 5. 🕳️ 钻头
 
-<span id="5-钻头"></span>
+<span id="drill-bit"></span>
 
 ### 钻头加工参数表
 
@@ -129,7 +135,7 @@
 
 ## 6. 🖨️ PCB钻头
 
-<span id="6-pcb钻头"></span>
+<span id="pcb-drill-bit"></span>
 
 ### PCB钻头加工参数表
 
@@ -170,7 +176,7 @@
 
 ## 7. 🔷 平底尖刀（金属）
 
-<span id="7-平底尖刀金属"></span>
+<span id="flat-nose-v-cutter-metal"></span>
 
 ### 平底尖刀（金属）加工参数表
 
@@ -186,7 +192,7 @@
 
 ## 8. 🔶 平底尖刀（非金属）
 
-<span id="8-平底尖刀非金属"></span>
+<span id="flat-nose-v-cutter-non-metal"></span>
 
 ### 平底尖刀（非金属）加工参数表
 

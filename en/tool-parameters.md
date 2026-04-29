@@ -18,20 +18,20 @@
 ---
 
 ## 📑 Table of Contents
-1. [🔩 Flat End Mill (Metal)](#1-flat-end-mill-metal)
-2. [🌳 Flat End Mill (Non-Metal)](#2-flat-end-mill-non-metal)
-3. [⚪ Ball Nose Mill (Metal)](#3-ball-nose-mill-metal)
-4. [🔵 Ball Nose Mill (Non-Metal)](#4-ball-nose-mill-non-metal)
-5. [🕳️ Drill Bit](#5-drill-bit)
-6. [🖨️ PCB Drill Bit](#6-pcb-drill-bit)
-7. [🔷 Flat Nose V-Cutter (Metal)](#7-flat-nose-v-cutter-metal)
-8. [🔶 Flat Nose V-Cutter (Non-Metal)](#8-flat-nose-v-cutter-non-metal)
+1. [🔩 Flat End Mill (Metal)](#flat-end-mill-metal)
+2. [🌳 Flat End Mill (Non-Metal)](#flat-end-mill-non-metal)
+3. [⚪ Ball Nose Mill (Metal)](#ball-nose-mill-metal)
+4. [🔵 Ball Nose Mill (Non-Metal)](#ball-nose-mill-non-metal)
+5. [🕳️ Drill Bit](#drill-bit)
+6. [🖨️ PCB Drill Bit](#pcb-drill-bit)
+7. [🔷 Flat Nose V-Cutter (Metal)](#flat-nose-v-cutter-metal)
+8. [🔶 Flat Nose V-Cutter (Non-Metal)](#flat-nose-v-cutter-non-metal)
 
 ---
 
 ## 1. 🔩 Flat End Mill (Metal)
 
-<span id="1-flat-end-mill-metal"></span>
+<span id="flat-end-mill-metal"></span>
 
 ### Flat End Mill (Metal) Processing Parameters Table
 
@@ -47,7 +47,7 @@
 
 ## 2. 🌳 Flat End Mill (Non-Metal)
 
-<span id="2-flat-end-mill-non-metal"></span>
+<span id="flat-end-mill-non-metal"></span>
 
 ### Flat End Mill (Non-Metal) Processing Parameters Table
 
@@ -66,7 +66,7 @@
 
 ## 3. ⚪ Ball Nose Mill (Metal)
 
-<span id="3-ball-nose-mill-metal"></span>
+<span id="ball-nose-mill-metal"></span>
 
 ### Ball Nose Mill (Metal) Processing Parameters Table
 
@@ -78,11 +78,14 @@
 | 2.5*7.5mm ball nose(Metal) | RPM:13000<br>Feed:500<br>Step:1.25<br>PFeed:200<br>DOC:0.2 | RPM:13000<br>Feed:400<br>Step:1.25<br>PFeed:200<br>DOC:0.2 | - | RPM:13000<br>Feed:500<br>Step:1.25<br>PFeed:200<br>DOC:0.2 | RPM:13000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:1 | - | RPM:10000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:1 | RPM:13000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:2 |
 | 3.175*10mm ball nose(Metal) | RPM:13000<br>Feed:500<br>Step:1.5<br>PFeed:200<br>DOC:0.2 | RPM:13000<br>Feed:400<br>Step:1.5<br>PFeed:200<br>DOC:0.2 | - | RPM:13000<br>Feed:500<br>Step:1.5<br>PFeed:200<br>DOC:0.2 | RPM:13000<br>Feed:600<br>Step:1.5<br>PFeed:300<br>DOC:1 | - | RPM:10000<br>Feed:600<br>Step:1.5<br>PFeed:300<br>DOC:1 | RPM:13000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:2 |
 
+> 💡 **Tip**: For finishing operations, the stepover of ball nose mills should be ≤ 0.2mm
+{.is-info}
+
 ---
 
 ## 4. 🔵 Ball Nose Mill (Non-Metal)
 
-<span id="4-ball-nose-mill-non-metal"></span>
+<span id="ball-nose-mill-non-metal"></span>
 
 ### Ball Nose Mill (Non-Metal) Processing Parameters Table
 
@@ -94,11 +97,14 @@
 | 2.5*15mm ball nose | - | - | - | - | RPM:13000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:1 | - | RPM:10000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:1 | RPM:13000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:2 |
 | 3.175*22mm ball nose | - | - | - | - | RPM:13000<br>Feed:600<br>Step:1.5<br>PFeed:300<br>DOC:1 | - | RPM:10000<br>Feed:600<br>Step:1.5<br>PFeed:300<br>DOC:1 | RPM:13000<br>Feed:600<br>Step:1.25<br>PFeed:300<br>DOC:2 |
 
+> 💡 **Tip**: For finishing operations, the stepover of ball nose mills should be ≤ 0.2mm
+{.is-info}
+
 ---
 
 ## 5. 🕳️ Drill Bit
 
-<span id="5-drill-bit"></span>
+<span id="drill-bit"></span>
 
 ### Drill Bit Processing Parameters Table
 
@@ -129,7 +135,7 @@
 
 ## 6. 🖨️ PCB Drill Bit
 
-<span id="6-pcb-drill-bit"></span>
+<span id="pcb-drill-bit"></span>
 
 ### PCB Drill Bit Processing Parameters Table
 
@@ -170,7 +176,7 @@
 
 ## 7. 🔷 Flat Nose V-Cutter (Metal)
 
-<span id="7-flat-nose-v-cutter-metal"></span>
+<span id="flat-nose-v-cutter-metal"></span>
 
 ### Flat Nose V-Cutter (Metal) Processing Parameters Table
 
@@ -186,7 +192,7 @@
 
 ## 8. 🔶 Flat Nose V-Cutter (Non-Metal)
 
-<span id="8-flat-nose-v-cutter-non-metal"></span>
+<span id="flat-nose-v-cutter-non-metal"></span>
 
 ### Flat Nose V-Cutter (Non-Metal) Processing Parameters Table
 
