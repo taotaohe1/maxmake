@@ -27,11 +27,21 @@ If you choose to manually flash the firmware, you can follow these steps:
 
 | File Type | Download Link |
 |----------|--------------|
-| Firmware File | [HiMill_D1_V1.0.34.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.34-20251222.bin) |
+| Latest Firmware | [HiMill_D1_V1.0.36.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.36-20260507.bin) |
+| Previous Version | [HiMill_D1_V1.0.34.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.34-20251222.bin) |
 
 ---
 
 ## Latest Version
+
+### V1.0.36 (2026-05-07)
+
+#### 🎉 Official Release
+- Fixed the issue where G20 mode was not restored after switching to G21 during tool change
+
+---
+
+## Previous Versions
 
 ### V1.0.34 (2025-12-22)
 

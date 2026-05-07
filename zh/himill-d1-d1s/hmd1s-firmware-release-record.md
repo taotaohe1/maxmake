@@ -26,11 +26,21 @@
 
 | 文件类型 | 下载链接 |
 |---------|---------|
-| 固件文件 | [HiMill_D1_V1.0.34.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.34-20251222.bin) |
+| 最新固件 | [HiMill_D1_V1.0.36.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.36-20260507.bin) |
+| 以往版本 | [HiMill_D1_V1.0.34.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.34-20251222.bin) |
 
 ---
 
 ## 最新版本
+
+### V1.0.36 (2026-05-07)
+
+#### 🎉 正式发布
+- 修复了在G20模态下，在换刀过程中，切换为G21后没有还原回G20的问题
+
+---
+
+## 以往版本
 
 ### V1.0.34 (2025-12-22)
 
