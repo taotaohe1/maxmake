@@ -32,4 +32,13 @@
 <a href="https://www.bilibili.com/video/BV1HWiTB2ELZ" target="_blank">
     <img src="http://i1.hdslb.com/bfs/archive/1bda95fb5031c7608b22ebfa652e2ec0bf292b62.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
 </a>
+
+> 📁 **配套加工文件**：
+> 
+> **案例文件下载**：[mermaid.nc](/chi/himill-d1-d1s/media/hmd1s-first-use/Wood%20Block-mermaid.nc)
+>
+> 下载后请在MaxmakeLab软件中打开此文件进行加工
+>
+> {.is-info}
+
 ---
