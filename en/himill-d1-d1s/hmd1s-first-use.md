@@ -36,7 +36,7 @@ We have prepared a detailed first-use tutorial video covering the complete proce
 
 > 📁 **Matching Machining File**:
 > 
-> **Download Sample File**: [mermaid.nc](/en/himill-d1-d1s/media/hmd1s-first-use/Wood_Block-mermaid.nc)
+> **Download Sample File**: [mermaid.nc](/eng/himill-d1-d1s/media/Wood_Block-mermaid.nc)
 >
 > After downloading, please open this file in MaxmakeLab software for machining
 >
