@@ -28,7 +28,9 @@
 
 > 📁 **配套加工文件**：
 > 
-> **案例文件下载**：[mermaid.nc](/chi/himill-d1-d1s/media/Wood_Block-mermaid.nc)
+> **案例文件下载**：[mermaid.nc](/chi/himill-d1-d1s/media/wood_block-mermaid.nc)
+> 
+> **狮子浮雕雕刻**：[lion_relief_carving.nc](/chi/himill-d1-d1s/media/lion_relief_carving.nc)
 >
 > 下载后请在MaxmakeLab软件中打开此文件进行加工
 >
