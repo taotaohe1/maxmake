@@ -9,8 +9,8 @@
   <source src="/en/himill-d1-d1s/media/unboxing/unboxing.mp4" type="video/mp4">
 </video> -->
 
-<a href="https://www.youtube.com/watch?v=28sX656NdHs" target="_blank">
-    <img src="https://img.youtube.com/vi/28sX656NdHs/0.jpg" alt="動画を見る" style="width: 50%; border-radius: 8px;">
+<a href="https://www.youtube.com/watch?v=TsZgOtS98dU" target="_blank">
+    <img src="https://img.youtube.com/vi/TsZgOtS98dU/0.jpg" alt="動画を見る" style="width: 50%; border-radius: 8px;">
 </a>
 
 ---
