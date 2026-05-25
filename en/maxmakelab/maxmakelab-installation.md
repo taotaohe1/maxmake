@@ -29,12 +29,20 @@ MaxmakeLab is an intelligent control software designed specifically for HiMill s
 You can download MaxmakeLab software through the following links. Choose the appropriate version according to your operating system and needs:
 
 > ℹ️ **Update Notice**:
-> Optimized 2D renderer to solve lag issues and fix various rendering problems
-> Fixed Probe function data acquisition failure issue caused by switching main interface
-> Fixed issue where Probe function might return to origin after probing
+> 1. Improved console macro command functionality
+> 2. Fixed issue where images could not be rendered after clicking "Fit" when importing images
+> 3. Added feature to offset and set origin by clicking XYZ coordinates in CNC workflow, including absolute and relative positions
+> 4. Added VC_redist.x64.exe runtime library installer
+> 5. Fixed issue where null values were generated after applying height map
+> 6. Fixed firmware flashing disconnection issue on Mac
+> 7. CAM functionality is still being improved, related CAM features do not represent the final software effect
 > {.is-info}
 
-### Latest Version (v0.9.16)
+### Latest Version (v0.9.17)
+**[MaxmakeLab Software Download Link(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.17.exe)**
+**[MaxmakeLab Software Download Link(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.17.dmg)**
+
+### Previous Version (v0.9.16)
 **[MaxmakeLab Software Download Link(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.16.exe)**
 **[MaxmakeLab Software Download Link(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.16.dmg)**
 
