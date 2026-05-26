@@ -9,6 +9,18 @@
 >    - Do not turn off the power during the upgrade process
 >
 > {.is-warning}
+>
+> **Starting from Software Version 0.9.17**:
+>
+> Firmware updates open in a new pop-up window.
+>
+> - **Auto Update**: Follow the prompts to proceed.
+> - **Manual Update**: Please follow these steps:
+>   1. Select the device serial port: On Windows, typically select COM**, on Mac, typically select cu.usbmodem*** or tty.usbmodem***
+>   2. After selecting the correct serial port, click Open. The message <Boot|Ver:1.4> will appear below indicating successful connection
+>   3. Click Select to manually choose the firmware file
+>   4. Click Flash and wait for the flashing progress to complete
+>   5. Restart the device
 
 ---
 
