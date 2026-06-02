@@ -1,4 +1,6 @@
-# MaxmakeLab Laser Processing
+# HiMill D1S Laser Processing Guide: Mode Switching & Parameter Settings
+
+Learn how to use laser processing with [10W laser module](https://maxmake.com/products/10w-laser-module) on [MAXMAKE HiMill D1S](https://www.maxmake.com/products/himill-d1s) CNC machine. This guide covers laser mode switching, file import, parameter settings, border positioning, and focus adjustment.
 
 ## ⚠️ Usage Reminder
 
@@ -12,19 +14,19 @@ Please be sure to check the laser usage specifications before use!!!
 
 Click the laser mode option in the software interface:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-laser-processing/1-切换激光模式.webp" alt="Switch to Laser Mode" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-laser-processing/1-切换激光模式.webp" alt="MAXMAKE HiMill D1/D1S Switch to Laser Mode" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 2. Add Files
 
 You can design your own graphics or import graphics from the material library or add images:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-laser-processing/1-导入文件.webp" alt="Import Files" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-laser-processing/1-导入文件.webp" alt="MAXMAKE HiMill D1/D1S Import Files" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 3. Activate Laser Mode
 
 Click the activate laser button to enable laser mode:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-laser-processing/1-点击激光模式.webp" alt="Click Laser Mode" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-laser-processing/1-点击激光模式.webp" alt="MAXMAKE HiMill D1/D1S Click Laser Mode" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚠️ **Laser Activation Notes**:
 > 
@@ -37,7 +39,7 @@ Click the activate laser button to enable laser mode:
 
 In laser mode, the maximum speed is 2000mm/min (approximately 33mm/s). Adjust the power reasonably based on test results:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-laser-processing/2-设置参数.webp" alt="Parameter Settings" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-laser-processing/2-设置参数.webp" alt="MAXMAKE HiMill D1/D1S Laser Parameter Settings" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 5. Movement and Positioning
 
@@ -49,23 +51,23 @@ Control the laser to move above the material:
 
 Click the border button, and the laser will trace the processing range with weak light:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-laser-processing/4-边框定位.webp" alt="Border Positioning" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-laser-processing/4-边框定位.webp" alt="MAXMAKE HiMill D1/D1S Laser Border Positioning" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 7. Adjust Focus
 
 5mm from the bottom of the light shield to the material is the optimal focal position for laser processing. You can use the focus assist block from the laser accessories box and slowly lower the Z-axis until the focus assist block just passes through the gap:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-laser-processing/5-对焦辅助片.webp" alt="Focus Assist Block" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-laser-processing/5-对焦辅助片.webp" alt="MAXMAKE HiMill D1/D1S Laser Focus Assist Block" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 8. Transfer File and Start Processing
 
 Click the start processing button to transfer the processing file to the device SD card. Long press the button for 2 seconds to start processing:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-laser-processing/6-点击开始.webp" alt="Click Start" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-laser-processing/6-点击开始.webp" alt="MAXMAKE HiMill D1/D1S Click Start Processing" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 <br>
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-laser-processing/6-接受文件开始加工.webp" alt="Accept File and Start Processing" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-laser-processing/6-接受文件开始加工.webp" alt="MAXMAKE HiMill D1/D1S Accept File and Start Processing" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 > ⚠️ **Processing Notes**:
 > 

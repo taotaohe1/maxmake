@@ -1,4 +1,6 @@
-# MaxmakeLab HiMill D1/D1S Firmware Upgrade
+# HiMill D1/D1S Firmware Upgrade Guide: Auto & Manual Flashing Tutorial
+
+Learn how to upgrade firmware on HiMill D1/D1S CNC machine. This guide covers automatic update process, manual flashing steps, bootloader mode, and important precautions during firmware installation.
 
 ## ⚠️ Important Notes
 

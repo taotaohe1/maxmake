@@ -1,6 +1,6 @@
-# Laser Equipment Basic Concepts
+# What is Laser Cutting? | MAXMAKE Wiki
 
-This article will provide you with a comprehensive introduction to the fundamentals of laser equipment, from definitions and principles to equipment types, core components, and key parameters, helping you systematically understand laser processing technology and lay a solid foundation for subsequent learning and use of laser equipment.
+Learn laser cutting and engraving fundamentals for [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) [10W laser module](https://maxmake.com/products/10w-laser-module). Understand laser technology, working principles, and how to achieve precise cutting on various materials.
 
 ## 📡 1. Definition and Principles of Laser Equipment
 
@@ -333,6 +333,59 @@ Through the above introduction to lasers, you should now have a certain understa
 - Pursuing processing precision → Pay attention to spot diameter parameters
 
 We hope this article helps you better understand the basic knowledge of laser equipment and lays a solid foundation for your laser journey!
+
+---
+
+## FAQPage Schema Markup
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is laser equipment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Laser equipment is an industrial machine that uses laser as a processing tool. It controls the laser's irradiation path and energy level to cut, engrave, mark, and weld various materials like metal, plastic, and wood. It belongs to non-contact processing - the laser beam only illuminates the material surface without needing hard tools or molds."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does laser equipment work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Laser equipment generates intense, highly directional laser light, focuses it into an extremely small spot through mirrors and lenses, uses the concentrated energy to melt or vaporize material, then controls the spot to move along a preset path to complete cutting, engraving, or marking operations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the main types of laser equipment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Laser equipment is classified by laser medium (fiber laser, CO₂ laser, semiconductor laser), by power (low ≤100W, medium 100W-1000W, high ≥1000W), and by application (cutting, marking/engraving, welding)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What laser equipment should I choose?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose fiber laser for metals, CO₂ laser for non-metals, low power for fine marking, high power for thick materials, and pay attention to spot diameter for precision requirements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are key laser equipment parameters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three key parameters: wavelength determines suitable materials (1064nm for metals, 10.6μm for non-metals), spot diameter determines precision (smaller = higher precision), and peak power determines penetration ability for processing depth."
+      }
+    }
+  ]
+}
+</script>
 
 ---
 

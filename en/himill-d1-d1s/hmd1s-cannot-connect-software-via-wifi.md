@@ -1,4 +1,6 @@
-# MaxmakeLab HiMill D1/D1S Cannot Connect to Software via WiFi
+# HiMill D1/D1S WiFi Connection Issues: Network Setup & Troubleshooting
+
+Learn how to fix WiFi connection problems with [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) CNC machine. This guide covers connection failures, IP configuration, router settings, antenna checks, and step-by-step wireless troubleshooting solutions.
 
 ---
 
@@ -60,6 +62,49 @@
 7. **📧 If the problem persists, please contact support@maxmake.com**
 
 ---
+
+## FAQPage Schema Markup
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why won't my HiMill D1S connect to WiFi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common causes include incorrect WiFi password, device not restarted/homed, IP address configuration error, router blocking the device, or poor antenna connection. Try restarting the device, verifying WiFi credentials, checking router settings (MAC filtering, 2.4GHz band), testing hotspot mode, and inspecting the antenna connection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does HiMill D1S support 5GHz WiFi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, HiMill D1/D1S CNC machines only support 2.4GHz WiFi frequency band. Ensure your router is configured to broadcast on 2.4GHz for proper connection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How to check if HiMill WiFi module is working?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Switch the device to hotspot mode and try connecting your computer to the device hotspot. If successful, the WiFi module is working properly and the issue is likely with your router configuration or network settings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What to do if WiFi antenna is disconnected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Remove the back cover and check if the antenna on the main control board is loose or disconnected. Reconnect the antenna securely. Refer to official maintenance videos for proper cover removal procedures."
+      }
+    }
+  ]
+}
+</script>
 
 ## 📶 Interference Issues
 

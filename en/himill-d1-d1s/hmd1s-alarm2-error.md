@@ -1,8 +1,6 @@
-# Alarm2 Error Issue
+# HiMill D1/D1S Alarm2 Error Troubleshooting: Z-axis Travel Issue Fix
 
-## Problem Description
-
-When the device shows an Alarm2 error during processing, it is usually caused by insufficient Z-axis travel. This guide will detail how to troubleshoot and resolve this issue.
+Learn how to fix Alarm2 error on HiMill D1/D1S CNC machine. This guide explains the Z-axis travel issue, troubleshooting steps, and preventive measures to avoid processing errors. This guide will detail how to troubleshoot and resolve this issue.
 
 ## Troubleshooting Steps
 

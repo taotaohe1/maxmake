@@ -1,4 +1,6 @@
-# Guide Rail Lead Screw Maintenance
+# HiMill D1 Guide Rail & Lead Screw Maintenance: Step-by-Step Lubrication Guide
+
+Learn how to maintain HiMill D1 guide rails and lead screws for optimal performance. This guide covers XYZ axis lubrication procedures, maintenance frequency, and troubleshooting tips.
 
 ## 1. Regular Maintenance Instructions
 
@@ -40,3 +42,44 @@ Apply grease evenly to the guide rails and lead screw.
 After returning the equipment to upright position, power on and operate normally.
 
 <img src="/eng/himill-d1-d1s/media/hmd1-guide-rail-lead-screw-maintenance/3-y轴.webp" alt="Y-axis Maintenance" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+
+---
+
+## HowTo Schema Markup
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Maintain HiMill D1 Guide Rails and Lead Screws",
+  "description": "Complete guide for lubricating and maintaining MAXMAKE HiMill D1 CNC machine guide rails and lead screws for optimal performance and extended equipment life.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Prepare for Maintenance",
+      "text": "Gather grease lubricant. Before maintenance, wipe the guide rails and lead screws clean to remove dust and debris."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "X-axis Maintenance",
+      "text": "Move X-axis to the left side. Apply grease evenly to guide rails and lead screw. Move X-axis to far right, continue applying grease. Move X-axis back to far left to distribute grease."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Z-axis Maintenance",
+      "text": "Move Z-axis to highest position. Apply grease evenly to lead screw and guide rails. Move Z-axis to lowest position, continue applying grease. Move Z-axis back to highest position."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Y-axis Maintenance",
+      "text": "Move Y-axis to middle position, power off. Lay equipment on its side. Apply grease evenly to guide rails and lead screw. Return equipment to upright position, power on and operate normally."
+    }
+  ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Lubricating Grease"
+    }
+  ]
+}
+</script>

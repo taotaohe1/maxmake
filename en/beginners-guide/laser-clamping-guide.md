@@ -1,6 +1,6 @@
 # Laser Material Clamping Guide
 
-This document provides a detailed introduction to material clamping methods for laser processing, helping beginners systematically understand the core principles of material clamping, common clamping methods and their applicable scenarios, clamping scheme optimizations for desktop devices, and special material clamping techniques. This ensures materials remain stable and flat during processing, achieving precise processing results.
+This document provides a detailed introduction to material clamping methods for laser processing with [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) [10W laser module](https://maxmake.com/products/10w-laser-module), helping beginners systematically understand the core principles of material clamping, common clamping methods and their applicable scenarios, clamping scheme optimizations for desktop devices, and special material clamping techniques. This ensures materials remain stable and flat during processing, achieving precise processing results.
 
 ## 📋 I. Core Principles of Material Clamping
 
@@ -33,8 +33,8 @@ The following are common material clamping methods with strong versatility for d
 **Disadvantages**: Weights may block local areas of large materials, affecting overall processing; heavy pressure can cause warping in thin rigid plates (such as thin acrylic), affecting flatness; if laser airflow is too strong, lightweight materials may be blown up during processing.
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-  <img src="/eng/beginners-guide/media/laser-clamping-guide/压块式固定.png" alt="Weighted Block Clamping Example" style="width: 50%; height: auto; border-radius: 10px;" />
-  <img src="/eng/beginners-guide/media/laser-clamping-guide/压块式固定2.png" alt="Weighted Block Clamping Example 2" style="width: 50%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/laser-clamping-guide/压块式固定.png" alt="MAXMAKE HiMill D1/D1S Laser Weighted Block Clamping" style="width: 50%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/laser-clamping-guide/压块式固定2.png" alt="MAXMAKE HiMill D1/D1S Laser Weighted Block Clamping Example" style="width: 50%; height: auto; border-radius: 10px;" />
 </div>
 
 ### 2. Masking Tape Adhesion Clamping
@@ -53,8 +53,8 @@ The following are common material clamping methods with strong versatility for d
 **Disadvantages**: Limited adhesive force, unable to fix heavy or large-sized rigid plates; high processing temperatures may cause local burning of masking tape, requiring adhesion to avoid processing areas.
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-  <img src="/eng/beginners-guide/media/laser-clamping-guide/美纹纸固定.jpg" alt="Masking Tape Clamping Example" style="width: 50%; height: auto; border-radius: 10px;" />
-  <img src="/eng/beginners-guide/media/laser-clamping-guide/美纹纸固定2.png" alt="Masking Tape Clamping Example 2" style="width: 50%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/laser-clamping-guide/美纹纸固定.jpg" alt="MAXMAKE HiMill D1/D1S Laser Masking Tape Clamping" style="width: 50%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/laser-clamping-guide/美纹纸固定2.png" alt="MAXMAKE HiMill D1/D1S Laser Masking Tape Clamping Example" style="width: 50%; height: auto; border-radius: 10px;" />
 </div>
 
 ### 3. Magnetic Clamping
@@ -73,8 +73,8 @@ The following are common material clamping methods with strong versatility for d
 **Disadvantages**: Only applicable to ferromagnetic materials, not usable for non-magnetic materials; thin metal sheets may experience slight sliding under strong laser airflow; magnetic accessories may pose laser reflection risks when contacting highly reflective metals.
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-  <img src="/eng/beginners-guide/media/laser-clamping-guide/磁吸式固定.png" alt="Magnetic Clamping Example" style="width: 50%; height: auto; border-radius: 10px;" />
-  <img src="/eng/beginners-guide/media/laser-clamping-guide/磁吸式固定2.png" alt="Magnetic Clamping Example 2" style="width: 50%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/laser-clamping-guide/磁吸式固定.png" alt="MAXMAKE HiMill D1/D1S Laser Magnetic Clamping" style="width: 50%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/laser-clamping-guide/磁吸式固定2.png" alt="MAXMAKE HiMill D1/D1S Laser Magnetic Clamping Example" style="width: 50%; height: auto; border-radius: 10px;" />
 </div>
 
 ### 4. Fixture Clamping
@@ -93,8 +93,8 @@ The following are common material clamping methods with strong versatility for d
 **Disadvantages**: Operation is slightly more complex than weight and adhesive methods, requiring fixture position adjustment; excessive clamping force may cause warping of thin rigid plates or cracking of brittle materials; fixtures block some processing areas, and applicable material sizes are limited by fixture stroke.
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-  <img src="/eng/beginners-guide/media/laser-clamping-guide/夹具式固定.png" alt="Fixture Clamping Example" style="width: 50%; height: auto; border-radius: 10px;" />
-  <img src="/eng/beginners-guide/media/laser-clamping-guide/夹具式固定2.png" alt="Fixture Clamping Example 2" style="width: 50%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/laser-clamping-guide/夹具式固定.png" alt="MAXMAKE HiMill D1/D1S Laser Fixture Clamping" style="width: 50%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/laser-clamping-guide/夹具式固定2.png" alt="MAXMAKE HiMill D1/D1S Laser Fixture Clamping Example" style="width: 50%; height: auto; border-radius: 10px;" />
 </div>
 
 ### 5. Electrostatic Adsorption Clamping
@@ -113,8 +113,8 @@ The following are common material clamping methods with strong versatility for d
 **Disadvantages**: Limited adsorption force, only applicable to ultra-thin, lightweight materials; high requirements for workbench and material surface cleanliness, as dust and oil can significantly reduce adsorption effectiveness; high processing temperatures may cause static electricity to dissipate, reducing adsorption force.
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-  <img src="/eng/beginners-guide/media/laser-clamping-guide/静电吸附式固定.png" alt="Electrostatic Adsorption Clamping Example" style="width: 50%; height: auto; border-radius: 10px;" />
-  <img src="/eng/beginners-guide/media/laser-clamping-guide/静电吸附式固定2e.png" alt="Electrostatic Adsorption Clamping Example 2" style="width: 50%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/laser-clamping-guide/静电吸附式固定.png" alt="MAXMAKE HiMill D1/D1S Laser Electrostatic Adsorption Clamping" style="width: 50%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/laser-clamping-guide/静电吸附式固定2e.png" alt="MAXMAKE HiMill D1/D1S Laser Electrostatic Adsorption Clamping Example" style="width: 50%; height: auto; border-radius: 10px;" />
 </div>
 
 ---
@@ -269,6 +269,73 @@ Material clamping is the foundation of laser processing. Its core logic is to ma
 Beginners are advised to start practicing with the most basic weighted block and masking tape adhesion methods. These methods have zero operation thresholds, wide applicability, and allow quick mastery of basic material clamping skills. After gaining familiarity, gradually try magnetic and fixture methods based on processing material types, and make simple optimizations. For special materials such as reflective, ultra-thin, and curved materials, there's no need to rush to try them. Beginners can first practice special clamping techniques with small samples, focusing on the three key points: "prevent displacement, prevent damage, prevent safety risks."
 
 Overall, there is no fixed formula for material clamping in laser processing. The core is flexible adjustment and attention to detail. Even with basic clamping methods, ensuring flatness and stability checks can guarantee processing precision. At the same time, standardized clamping operations not only improve finished product effectiveness but also fundamentally avoid safety accidents such as equipment damage, laser reflection, and material fires. This is a core basic skill that laser processing beginners must master.
+
+---
+
+## HowTo Schema Markup
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Clamp Materials for Laser Processing",
+  "description": "Complete guide for clamping materials on MAXMAKE laser engravers, covering clamping principles, methods for different materials, safety precautions, and optimization techniques.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Choose Clamping Method Based on Material Type",
+      "text": "Select clamping method according to material characteristics: weighted blocks for rigid plates, masking tape for flexible materials, magnetic for ferromagnetic metals, and fixtures for irregular shapes."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Prepare Workbench and Materials",
+      "text": "Clean the workbench surface, remove dust and debris. Lay material flat on the workbench within the processing area."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Apply Selected Clamping Method",
+      "text": "For rigid plates: place weighted blocks evenly on non-processing areas. For flexible materials: use masking tape at edges. For metal sheets: use magnetic clamps with anti-slip pads."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Verify Stability and Flatness",
+      "text": "Gently push material to check for displacement. Ensure material surface is flat with no warping or protrusions. Adjust clamping if needed."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Check Safety and Alignment",
+      "text": "Ensure no metal accessories near processing area for reflective materials. Align laser head with processing start point and verify position in software."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Complete Clamping and Start Processing",
+      "text": "Confirm all clamping accessories are secure and non-blocking. Turn on anti-reflection protection if available, then start laser processing."
+    }
+  ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Weighted Blocks"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Masking Tape"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Magnetic Clamps"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Fixtures"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Anti-slip Pads"
+    }
+  ]
+}
+</script>
 
 ---
 

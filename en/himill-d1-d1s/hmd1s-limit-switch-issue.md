@@ -1,15 +1,17 @@
-# HiMill D1/D1S Limit Switch Issues
+# HiMill D1/D1S Limit Switch Troubleshooting: XYZ Homing Sensor Issues Fix
+
+Learn how to troubleshoot limit switch issues on [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) CNC machine. This guide covers XY and Z axis homing problems, collision detection, wiring checks, and step-by-step repair solutions.
 
 ## Limit Switch Position Diagram
 
 X Limit Switch Position:
-<img src="/eng/himill-d1-d1s/media/hmd1s-limit-switch-issue/x限位.jpg" alt="X Limit Switch" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-limit-switch-issue/x限位.jpg" alt="MAXMAKE HiMill D1/D1S X Limit Switch" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 Y Limit Switch Position:
-<img src="/eng/himill-d1-d1s/media/hmd1s-limit-switch-issue/y限位.jpg" alt="Y Limit Switch" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-limit-switch-issue/y限位.jpg" alt="MAXMAKE HiMill D1/D1S Y Limit Switch" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 Z Limit Switch Position:
-<img src="/eng/himill-d1-d1s/media/hmd1s-limit-switch-issue/z限位.jpg" alt="Z Limit Switch" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-limit-switch-issue/z限位.jpg" alt="MAXMAKE HiMill D1/D1S Z Limit Switch" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ---
 
@@ -64,3 +66,48 @@ Z Limit Switch Position:
 7. Check if the transmission parts need oiling
 8. Restart the device and try again
 9. If the issue persists, contact support@maxmake.com
+
+---
+
+## FAQPage Schema Markup
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why won't my HiMill D1S home properly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Homing issues are often caused by limit switch problems. Check if limit switches are triggered but not sending signals, axes get stuck without rebounding, or there are foreign objects blocking movement. Inspect limit switch wiring, check for mechanical jams, and ensure proper lubrication."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What to do if XY axis keeps colliding during homing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immediately stop the device to prevent damage. Check for obstructions, manually adjust axis position to disengage limit switch, verify limit switch rebound is normal, inspect connection wires for looseness, and check main control board terminals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is Z-axis stuck at the top during homing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Z-axis getting stuck at top indicates limit switch trigger without signal return. Check Z-limit switch wiring for loose connections, verify limit switch isn't blocked by debris, ensure proper lubrication, and inspect main control board connections."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How to check limit switch wiring on HiMill CNC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Check limit switch connection wires for tightness and reconnection. Also verify limit connection terminals on main control board are properly connected. Refer to official maintenance videos for cover removal procedures."
+      }
+    }
+  ]
+}
+</script>

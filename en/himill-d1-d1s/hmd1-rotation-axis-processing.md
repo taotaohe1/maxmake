@@ -1,4 +1,6 @@
-# MaxmakeLab Rotation Axis Processing - NC Program Import Processing Workflow
+# HiMill D1 Rotation Axis Processing Guide: 4th Axis Setup & Machining Tutorial
+
+Learn how to process with rotation axis on HiMill D1 CNC machine. This guide covers CNC mode switching, NC program import, spindle adjustment, origin setting, and processing control.
 
 ## 1. Switch to CNC Mode
 

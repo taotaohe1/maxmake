@@ -1,4 +1,6 @@
-# HiMill D1S Dust Cleaning
+# HiMill D1S Dust Cleaning Guide: Tabletop, Lead Screw & Guide Rail Maintenance
+
+Learn how to clean your HiMill D1S CNC machine. This guide covers tabletop debris removal, lead screw cleaning, guide rail maintenance, and post-processing cleanup procedures for optimal performance.
 
 ## Maintenance Video
 

@@ -1,4 +1,6 @@
-﻿# HiMill D1S Detection Function Description
+# HiMill D1S Hardware Detection Guide: Limit Switch & Sensor Diagnostics
+
+Learn how to use the hardware detection function on HiMill D1S CNC machine. This guide covers limit switch testing, safety door verification, probe status checks, and diagnostic procedures for troubleshooting.
 
 ## 1. After connecting the device, click the device settings button
 

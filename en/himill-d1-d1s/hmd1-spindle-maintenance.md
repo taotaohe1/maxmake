@@ -1,3 +1,3 @@
-# HiMill D1 Spindle Maintenance
+# HiMill D1 Spindle Maintenance | MAXMAKE Wiki
 
-<!-- Please add HiMill D1 spindle maintenance related content here -->
+Learn essential spindle maintenance tips for [MAXMAKE HiMill D1](https://www.maxmake.com/products/himill-d1) CNC machine. Proper maintenance ensures optimal performance, extends spindle life, and prevents unexpected downtime.

@@ -1,4 +1,6 @@
-# MaxmakeLab Software
+# MaxmakeLab Software: HiMill CNC Control & Design Tool
+
+MaxmakeLab is the official control software for [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) CNC machines. This page provides quick access to installation guides, feature introductions, software manuals, and safety information for CNC and laser processing.
 
 <img src="/eng/himill-d1-d1s/media/icon/maxmakelab.png" alt="MaxmakeLab Main Interface" style="width: 100px; height: auto; margin-bottom: 8px; border-radius: 6px;" />
 

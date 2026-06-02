@@ -1,6 +1,6 @@
-# What is CNC?
+# What is CNC? | MAXMAKE Wiki
 
-For beginners who know nothing about CNC, this might sound like a professional and complex term. But actually, CNC isn't that mysterious! This article will explain what CNC is, its origins, and its various types in the simplest language.
+Learn what CNC (Computer Numerical Control) is and how [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) brings this technology to your desktop. Comprehensive guide for CNC beginners covering basics, history, and types.
 
 ## 🤔 What Exactly is CNC?
 
@@ -154,6 +154,59 @@ CNC is actually a technology that "uses computers to control machines". It enabl
 From simple desktop 3D printers to complex 5-axis machining centers, CNC technology has become an important tool in modern manufacturing and creative design. For beginners, starting with basic 3-axis CNC equipment is a good choice.
 
 Now, do you have a clearer understanding of CNC? If you want to learn more, welcome to read our other CNC introductory articles!
+
+---
+
+## FAQPage Schema Markup
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is CNC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CNC stands for Computer Numerical Control. It is a technology that uses computers to control machines, enabling them to work automatically according to preset programs without manual operation throughout the process."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What types of CNC machines are there?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common CNC machine types include 3D printers, laser cutters, CNC engraving machines, and CNC milling machines. They differ in working principles and applications."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the different CNC axis configurations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CNC machines are categorized by axes: 3-axis (X, Y, Z) is the most basic and common; 4-axis adds one rotation axis; 5-axis adds two rotation axes for processing from any angle."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is MAXMAKE HiMill D1/D1S suitable for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "HiMill D1/D1S is suitable for CNC beginners, creative enthusiasts, small entrepreneurs, and educational institutions. It combines CNC engraving, milling, and laser cutting functions in one compact desktop device."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What materials can HiMill D1/D1S process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "HiMill D1/D1S can process wood, plastic, acrylic, soft metals, and other materials. It's a versatile desktop CNC device for various creative and small-scale production needs."
+      }
+    }
+  ]
+}
+</script>
 
 ---
 

@@ -1,4 +1,6 @@
-# MaxmakeLab Software Installation
+# MaxmakeLab Software Installation Guide: Download & Setup Tutorial
+
+Learn how to install MaxmakeLab software for HiMill CNC machines. This guide covers system requirements, download links for Windows and macOS, installation steps, and troubleshooting tips.
 
 ## 📖 Software Introduction
 MaxmakeLab is an intelligent control software designed specifically for HiMill series CNC equipment, providing an intuitive operation interface and rich processing functions to help users easily complete various creative processing tasks.
@@ -63,19 +65,19 @@ You can download MaxmakeLab software through the following links. Choose the app
 
 #### 1. Double-click the installer to install the software
 
-<img src="/eng/maxmakelab/media/maxmakelab-installation/1-双击安装软件.webp" alt="Double-click installer to install software" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/maxmakelab/media/maxmakelab-installation/1-双击安装软件.webp" alt="MAXMAKE MaxmakeLab Double-click Installer to Install Software" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 #### 2. Open the software
 
-<img src="/eng/maxmakelab/media/maxmakelab-installation/2-打开软件.webp" alt="Open software" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/maxmakelab/media/maxmakelab-installation/2-打开软件.webp" alt="MAXMAKE MaxmakeLab Open Software" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 #### 3. Click auto-connect to find device, and click return to zero after connection
 
-<img src="/eng/maxmakelab/media/maxmakelab-installation/3-自动连接，点击回零.webp" alt="Auto-connect to find device" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/maxmakelab/media/maxmakelab-installation/3-自动连接，点击回零.webp" alt="MAXMAKE MaxmakeLab Auto-connect to Find Device" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 #### 4. You can also select device and manually select serial port to connect
 
-<img src="/eng/maxmakelab/media/maxmakelab-installation/4-手动连接.webp" alt="Manual device connection" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/maxmakelab/media/maxmakelab-installation/4-手动连接.webp" alt="MAXMAKE MaxmakeLab Manual Device Connection" style="width: 800px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 <!-- ### macOS System Installation and Usage Steps
 

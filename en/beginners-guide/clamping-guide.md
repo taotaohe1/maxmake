@@ -1,6 +1,6 @@
-# 🤔 How to Choose CNC Clamping Methods? Essential Guide for Beginners
+# CNC Clamping Guide for HiMill D1/D1S | MAXMAKE Wiki
 
-For CNC beginners, choosing the right clamping method directly affects the success rate and safety of processing. Correct clamping allows the tool to only cut the workpiece, avoiding collisions; incorrect clamping may lead to tool damage, workpiece scrapping, or even machine damage. This article will use the most easy-to-understand language to introduce how to select and use different clamping methods, turning you from a "clamping novice" to a "clamping master"!
+Learn essential CNC clamping techniques for [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products). This guide covers clamping principles, fixtures, collision prevention, and material-specific strategies for safe and precise machining.
 
 ## 📌 The Concept of Clamping: What Exactly is Clamping?
 
@@ -57,8 +57,8 @@ Core principle: Tighten the fixture with screws and wrenches, using hard clampin
 It's the "standard fixture" for CNC machine tables, looks like an iron box with two jaws, twist the wrench to clamp / release the jaws.
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="/eng/beginners-guide/media/clamping-guide/平口钳.png" alt="Bench Vise" style="width: 30%; height: auto; border-radius: 10px;" />
-  <img src="/eng/beginners-guide/media/clamping-guide/平口钳2.png" alt="Bench Vise Usage Example" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/clamping-guide/平口钳.png" alt="MAXMAKE HiMill D1/D1S Bench Vise for CNC Workholding" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/clamping-guide/平口钳2.png" alt="MAXMAKE Flat Jaw Clamping Module Usage Example" style="width: 30%; height: auto; border-radius: 10px;" />
 </div>
 
 - **Advantages**: Super easy to operate, clamps very firmly, cheap, can clamp most regular workpieces;
@@ -66,14 +66,14 @@ It's the "standard fixture" for CNC machine tables, looks like an iron box with 
 - **Notes**: Don't clamp too brittle workpieces (like acrylic, ceramics), over-tightening will crack / indent the workpiece; place a thin rubber pad when clamping to prevent surface damage;
 - **Applicable scenarios**: Processing square / rectangular metal blocks (aluminum, steel), plastic plates, wood. The first choice fixture for newcomers.
 
-> 📖 **Reference Link**: [Bench Vise Operation Instructions](/eng/himill-d1-d1s/hmd1s-jaw-vise.md) - This is our MaxMake's detailed bench vise operation instructions
+> 📖 **Reference Link**: [Bench Vise](https://maxmake.com/products/flat-jaw-clamping-module) - This is our MaxMake's flat jaw clamping module product page
 
 #### 2. Three-Jaw Chuck
 Looks like a disk with three claws, the three claws simultaneously close to the center / open to the sides, automatically centering.
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="/eng/beginners-guide/media/clamping-guide/三爪卡盘.jpg" alt="Three-Jaw Chuck" style="width: 30%; height: auto; border-radius: 10px;" />
-  <img src="/eng/beginners-guide/media/clamping-guide/三爪卡盘2.jpg" alt="Three-Jaw Chuck Usage Example" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/clamping-guide/三爪卡盘.jpg" alt="MAXMAKE HiMill D1/D1S Three-Jaw Chuck for Round Workpieces" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/clamping-guide/三爪卡盘2.jpg" alt="MAXMAKE Three-Jaw Chuck Usage Example" style="width: 30%; height: auto; border-radius: 10px;" />
 </div>
 
 - **Advantages**: Automatically centers round workpieces (no manual position adjustment), clamps firmly, easy to operate;
@@ -85,8 +85,8 @@ Looks like a disk with three claws, the three claws simultaneously close to the 
 A flat iron plate (pressure plate) used with screws to press the workpiece onto the machine table,is "simple clamping".
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="/eng/beginners-guide/media/clamping-guide/压板螺丝.jpg" alt="Pressure Plate + Screws" style="width: 30%; height: auto; border-radius: 10px;" />
-  <img src="/eng/beginners-guide/media/clamping-guide/压板螺丝2.jpg" alt="Pressure Plate + Screws Usage Example" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/clamping-guide/压板螺丝.jpg" alt="MAXMAKE HiMill D1/D1S Clamping Plate with Screws" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/clamping-guide/压板螺丝2.jpg" alt="MAXMAKE Clamping Plate Installation Example" style="width: 30%; height: auto; border-radius: 10px;" />
 </div>
 
 - **Advantages**: Flexible, can clamp super large plates / workpieces (like 1-meter aluminum plates) that bench vises can't hold;
@@ -94,14 +94,14 @@ A flat iron plate (pressure plate) used with screws to press the workpiece onto 
 - **Notes**: Press the pressure plate on the thick / solid part of the workpiece, not the thin part, otherwise it will deform the workpiece; don't tighten screws too much, just enough;
 - **Applicable scenarios**: Processing super large square / rectangular plates, irregular large workpieces, like large plastic plates, wooden countertops, thick steel plates.
 
-> 📖 **Reference Link**: [Pressure Plate + Screws Operation Instructions](/eng/himill-d1-d1s/hmd1s-workpiece-installation.md) - This is our MaxMake's detailed pressure plate + screws operation instructions
+> 📖 **Reference Link**: [Clamping Plate](https://maxmake.com/products/clamping-plate) - This is our MaxMake's clamping plate product page
 
 #### 4. Side Clamp
 A fixture that clamps the workpiece by pushing from the side, adjusts the push block position with screws to clamp the workpiece. Suitable for clamping thin but large-area workpieces.
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="/eng/beginners-guide/media/clamping-guide/侧推钳.png" alt="Side Clamp" style="width: 30%; height: auto; border-radius: 10px;" />
-  <img src="/eng/beginners-guide/media/clamping-guide/侧推钳2.png" alt="Side Clamp Usage Example" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/clamping-guide/侧推钳.png" alt="MAXMAKE HiMill D1/D1S Side Clamp Frog Wrench" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/clamping-guide/侧推钳2.png" alt="MAXMAKE Frog Wrench Side Clamp Usage Example" style="width: 30%; height: auto; border-radius: 10px;" />
 </div>
 
 - **Advantages**: Can apply uniform force from the side, suitable for clamping thin plates without deformation, easy to operate, moderate price;
@@ -109,14 +109,14 @@ A fixture that clamps the workpiece by pushing from the side, adjusts the push b
 - **Notes**: When clamping thin workpieces, evenly adjust the thrust on both sides to avoid workpiece deformation due to uneven force; better place a soft material between the push block and workpiece to prevent surface damage;
 - **Applicable scenarios**: Processing thin aluminum plates, thin steel plates, plastic plates and other thin sheets, especially suitable for workpieces that need to maintain flatness.
 
-> 📖 **Reference Link**: [Side Clamp Operation Instructions](/eng/himill-d1-d1s/hmd1s-side-clamp.md) - This is our MaxMake's detailed side clamp operation instructions
+> 📖 **Reference Link**: [Side Clamp](https://maxmake.com/products/frog-wrench) - This is our MaxMake's frog wrench product page
 
 #### 5. L-shaped Fixture
 An L-shaped fixture that clamps workpieces through two vertical jaws, suitable for clamping workpieces that need vertical positioning.
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="/eng/beginners-guide/media/clamping-guide/l型夹具.png" alt="L-shaped Fixture" style="width: 30%; height: auto; border-radius: 10px;" />
-  <img src="/eng/beginners-guide/media/clamping-guide/l型夹具2.jpg" alt="L-shaped Fixture Usage Example" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/clamping-guide/l型夹具.png" alt="MAXMAKE HiMill D1/D1S L-shaped Fixture" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/clamping-guide/l型夹具2.jpg" alt="MAXMAKE L-shaped Fixture Usage Example" style="width: 30%; height: auto; border-radius: 10px;" />
 </div>
 
 - **Advantages**: Can clamp workpieces from two vertical directions simultaneously, accurate positioning, clamps firmly, easy to operate;
@@ -132,8 +132,8 @@ Core principle: Use vacuum suction / magnetic force to suck the workpiece onto t
 A flat plate with many small holes, when connected to a pump, the small holes generate strong suction to suck the workpiece on top.
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="/eng/beginners-guide/media/clamping-guide/真空吸盘.jpg" alt="Vacuum Chuck" style="width: 30%; height: auto; border-radius: 10px;" />
-  <img src="/eng/beginners-guide/media/clamping-guide/真空吸盘2.png" alt="Vacuum Chuck Usage Example" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/clamping-guide/真空吸盘.jpg" alt="MAXMAKE HiMill D1/D1S Vacuum Suction Platform" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/clamping-guide/真空吸盘2.png" alt="MAXMAKE Vacuum Suction Platform Usage Example" style="width: 30%; height: auto; border-radius: 10px;" />
 </div>
 
 - **Advantages**: No damage to workpiece surface, can clamp thin workpieces (like 0.5mm thin aluminum plates), brittle workpieces (acrylic, glass), fast clamping speed, suitable for batch processing;
@@ -141,14 +141,14 @@ A flat plate with many small holes, when connected to a pump, the small holes ge
 - **Notes**: The contact surface between workpiece and chuck must be flat and clean, iron chips / gaps will leak vacuum and can't suck firmly; don't use it to clamp heavy thick metal blocks, they will be carried away by the tool's cutting force;
 - **Applicable scenarios**: Processing thin plates (thin aluminum, thin steel, thin plastic), brittle materials (acrylic, glass, ceramic), precision workpieces with scratch-free surfaces (like phone casings, gold and silver parts).
 
-> 📖 **Reference Link**: [Vacuum Chuck Operation Instructions](/eng/himill-d1-d1s/hmd1s-vacuum-platform.md) - This is our MaxMake's detailed vacuum chuck operation instructions
+> 📖 **Reference Link**: [Vacuum Chuck](https://maxmake.com/products/vacuum-suction-platform) - This is our MaxMake's vacuum suction platform product page
 
 #### 2. Magnetic Chuck
 Uses magnetism to suck workpieces, only applicable to magnetic metals like iron and steel, can't suck non-magnetic materials (aluminum, plastic, wood). Advantages similar to vacuum chucks, newcomers use it less, just understand it.
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="/eng/beginners-guide/media/clamping-guide/磁力吸盘.jpg" alt="Magnetic Chuck" style="width: 30%; height: auto; border-radius: 10px;" />
-  <img src="/eng/beginners-guide/media/clamping-guide/磁力吸盘2.jpg" alt="Magnetic Chuck Usage Example" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/clamping-guide/磁力吸盘.jpg" alt="MAXMAKE HiMill D1/D1S Magnetic Chuck" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/clamping-guide/磁力吸盘2.jpg" alt="MAXMAKE Magnetic Chuck Usage Example" style="width: 30%; height: auto; border-radius: 10px;" />
 </div>
 
 - **Advantages**: No damage to workpiece surface, can clamp thin metal plates, fast clamping speed, no need for external equipment (built-in magnetism);
@@ -164,8 +164,8 @@ This category solves problems of irregular workpieces and batch processing, divi
 A pile of standardized small parts (base, clamping plates, screws, support blocks), can be assembled like building blocks according to the workpiece shape to create suitable fixtures, then fix the workpiece after assembly.
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="/eng/beginners-guide/media/clamping-guide/组合夹具.jpg" alt="Combination Fixtures" style="width: 30%; height: auto; border-radius: 10px;" />
-  <img src="/eng/beginners-guide/media/clamping-guide/组合夹具2.jpg" alt="Combination Fixtures Usage Example" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/clamping-guide/组合夹具.jpg" alt="MAXMAKE HiMill D1/D1S Combination Fixtures" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/clamping-guide/组合夹具2.jpg" alt="MAXMAKE Combination Fixtures Usage Example" style="width: 30%; height: auto; border-radius: 10px;" />
 </div>
 
 - **Advantages**: Super flexible, can clamp any irregular workpiece, can be used repeatedly after assembly;
@@ -177,8 +177,8 @@ A pile of standardized small parts (base, clamping plates, screws, support block
 Custom-made fixtures according to the shape of a specific workpiece. For example, if you need to batch process irregular drone accessories, make a fixture that perfectly matches the accessory shape — the workpiece just fits in.
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="/eng/beginners-guide/media/clamping-guide/专用夹具.jpg" alt="Special Fixtures" style="width: 30%; height: auto; border-radius: 10px;" />
-  <img src="/eng/beginners-guide/media/clamping-guide/专用夹具2.jpg" alt="Special Fixtures Usage Example" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/clamping-guide/专用夹具.jpg" alt="MAXMAKE HiMill D1/D1S Special Fixtures" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/clamping-guide/专用夹具2.jpg" alt="MAXMAKE Special Fixtures Usage Example" style="width: 30%; height: auto; border-radius: 10px;" />
 </div>
 
 - **Advantages**: Ultra-fast clamping (just put the workpiece in, no adjustment needed), ultra-firm clamping, suitable for mass production, improves efficiency;
@@ -191,8 +191,8 @@ Custom-made fixtures according to the shape of a specific workpiece. For example
 Special clamping for slender shaft workpieces and hollow parts, not separate fixtures but "fixture + auxiliary parts" combinations. Newcomers generally don't use them when starting, just understand the names and applicable scenarios, delve deeper later when processing shaft parts.
 
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="/eng/beginners-guide/media/clamping-guide/顶针卡盘.jpg" alt="Center + Chuck" style="width: 30%; height: auto; border-radius: 10px;" />
-  <img src="/eng/beginners-guide/media/clamping-guide/胀套夹具.png" alt="Expansion Sleeve Fixture" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/clamping-guide/顶针卡盘.jpg" alt="MAXMAKE HiMill D1/D1S Center Chuck for Rotation Axis" style="width: 30%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/clamping-guide/胀套夹具.png" alt="MAXMAKE HiMill D1/D1S Expansion Sleeve Fixture" style="width: 30%; height: auto; border-radius: 10px;" />
 </div>
 
 - **Center + Chuck**: One end clamped with three-jaw chuck, the other end supported with center, preventing slender shaft workpieces from "shaking / bending" during cutting. Application: Processing long shafts (like long motor shafts, lead screws);
@@ -242,6 +242,69 @@ A common mistake for newcomers is over-tightening the fixture "for fear of loose
 ## 🎯 Summary
 
 CNC clamping is essentially **"finding a suitable tool to firmly fix the workpiece on the table, letting the tool only cut the workpiece without hitting other things"**. Newcomers start by mastering these 5 most common fixtures: bench vise, vacuum chuck, side clamp, pressure plate + screws. Select methods according to the table, follow the principle of "clamp firmly but not damage", do collision pre-check, and clamping won't have problems.
+
+---
+
+## HowTo Schema Markup
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Clamp Workpieces on HiMill CNC Machine",
+  "description": "Complete guide for CNC clamping techniques on MAXMAKE HiMill D1/D1S, including fixture selection, collision prevention, and proper clamping force for safe and precise machining.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Prepare Machine Table",
+      "text": "Clean the machine table thoroughly, removing all iron chips, screws, and small tools to ensure workpiece sits flat without obstruction."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Select Appropriate Fixture",
+      "text": "Choose fixture based on workpiece type: bench vise for square/rectangular parts, vacuum chuck for thin plates, three-jaw chuck for round parts, pressure plate + screws for large parts."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Position Workpiece Correctly",
+      "text": "Place workpiece on fixture, ensuring only the cutting area is exposed. Avoid extending workpiece beyond table/fixture to prevent tool collisions."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Clamp Firmly but Gently",
+      "text": "Tighten fixture evenly. Hand-tighten until workpiece doesn't move, then gently twist half a turn with wrench. Avoid over-tightening to prevent deformation."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Perform Collision Check",
+      "text": "Run border test to verify tool path won't hit fixtures or table. Adjust workpiece/fixture position if collisions are detected."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Verify Clamping Stability",
+      "text": "Shake workpiece by hand to confirm it's securely fixed. Ensure workpiece center of gravity stays on machine table."
+    }
+  ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Bench Vise"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Vacuum Chuck"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Three-Jaw Chuck"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Pressure Plate and Screws"
+    }
+  ]
+}
+</script>
 
 Clamping is the foundation of CNC processing. When you practice it well, subsequent parameter adjustment and cutting will be smoother. Newcomers don't need to be greedy — master the basics first, then slowly learn combination fixtures and special fixtures. Remember, safety first, avoiding collision is always the primary task of clamping!
 

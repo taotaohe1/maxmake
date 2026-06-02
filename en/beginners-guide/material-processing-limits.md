@@ -1,6 +1,6 @@
-# Material Compatibility and Limitations Guide
+# Laser Material Compatibility & Processing Limits Guide for HiMill D1/D1S
 
-This document provides a detailed overview of material compatibility, processing limitations, and safety precautions for desktop low-power laser engravers. It helps beginners systematically understand which materials can be safely processed, which are strictly prohibited, and how to improve processing results through pretreatment techniques, ensuring both equipment and personal safety.
+Learn what materials you can and cannot process with HiMill D1/D1S laser module. This guide covers recommended materials (acrylic, wood, leather), prohibited materials (PVC, reflective metals), processing limitations, and pretreatment techniques for optimal laser cutting and engraving.
 
 ## 📊 I. Recommended Materials (Exclusive for Desktop Low-Power Laser Engravers)
 
@@ -257,6 +257,59 @@ Core laser processing safety risks relate to materials, environment, and operati
 - Clean slag and dust from laser heads and workbenches after processing to prevent slag from adhering to laser head lenses and affecting laser emission.
 - Regularly lubricate equipment rails to prevent dust-induced wear and maintain processing precision.
 - Avoid prolonged continuous processing. Allow the equipment to cool periodically to prevent laser overheating and damage, extending equipment lifespan.
+
+---
+
+## FAQPage Schema Markup
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What materials can HiMill D1/D1S laser module process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "HiMill D1/D1S laser module is suitable for processing non-metallic materials including acrylic, MDF/multiplex (knot-free), basswood, bamboo, epoxy resin boards, leather, paper, non-woven fabric, canvas, felt, gypsum board, resin ornaments, and matte ceramics. It can also mark coated or pretreated thin metal sheets like galvanized iron and stainless steel."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What materials are prohibited for laser processing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Four categories are strictly prohibited: chlorine-containing plastics (PVC, vinyl), highly reflective pure metals (mirror aluminum, copper), composite materials with unknown composition, and flammable/explosive materials. These pose risks of toxic gas emissions, fire, equipment damage, or personal injury."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can laser engravers cut thick materials?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Desktop low-power laser engravers have limited cutting thickness due to power constraints. They are suitable for thin non-metallic materials only. Cutting thickness correlates positively with laser power; exceeding the power-compatible thickness results in incomplete cuts or material burning."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How to process reflective materials safely?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For reflective materials like glossy metals and ceramics, use pretreatment techniques: apply laser marking fluid or black marker as a coating, or sand the surface to a matte finish. Ensure no metal accessories near the processing area and wear laser safety goggles."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What precautions should beginners take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Always test new materials with small samples first, monitor processing closely to prevent fires, ensure proper ventilation, wear laser safety goggles, keep a dry powder fire extinguisher nearby, and never process prohibited materials."
+      }
+    }
+  ]
+}
+</script>
 
 ---
 

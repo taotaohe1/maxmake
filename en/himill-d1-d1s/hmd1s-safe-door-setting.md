@@ -37,3 +37,39 @@ The safe door indicator in the workflow status bar only indicates the status of 
 
 - **Indicator light is on**: Indicates that the safe door is closed
 - **Indicator light is gray**: Indicates that the front cover is not detected as closed
+
+---
+
+## HowTo Schema Markup
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Set Up HiMill D1/D1S Safe Door Function",
+  "description": "Complete guide for enabling and configuring the safety door function on MAXMAKE HiMill D1/D1S CNC machine using MaxmakeLab software.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Open Device Settings Interface",
+      "text": "Connect the HiMill device to computer via USB or WiFi. Click the device settings button in MaxmakeLab software to open the settings interface."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Toggle Safe Door Function",
+      "text": "In the device settings interface, locate the safe door switch. Toggle it on to enable or off to disable the safety door function as needed."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Verify Safe Door Status",
+      "text": "Check the safe door status indicator in the workflow status bar. When enabled, opening front cover during processing will pause operations. Press and hold button for 2 seconds to resume after closing."
+    }
+  ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "MaxmakeLab Software"
+    }
+  ]
+}
+</script>

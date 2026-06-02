@@ -1,6 +1,6 @@
-# NX Post-Processor Installation Guide
+# HiMill NX Post-Processor Installation Guide: Siemens NX Setup Tutorial
 
-This document provides detailed steps for installing the HiMill series post-processor in Siemens NX software.
+Learn how to install the HiMill post-processor for Siemens NX software. This comprehensive guide covers file extraction, directory setup, template configuration, and verification steps.
 
 ---
 

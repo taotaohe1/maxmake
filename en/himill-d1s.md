@@ -1,5 +1,8 @@
-# HiMill D1S
-<img src="/eng/himill-d1-d1s/media/himill-d1s.png" alt="" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 6px;" />
+# HiMill D1S Advanced CNC Machine | MAXMAKE Wiki
+
+Discover the [MAXMAKE HiMill D1S](https://www.maxmake.com/products/himill-d1s) advanced desktop CNC machine with 3D probe. Learn setup, features, maintenance, and troubleshooting for your HiMill D1S.
+
+<img src="/eng/himill-d1-d1s/media/himill-d1s.png" alt="HiMill D1S Advanced Desktop CNC Machine" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 6px;" />
 
 > CNC usage carries certain risks. Please carefully read the usage instructions to avoid dangers caused by improper operation. [View Details](#usage-instructions)
 {.is-danger}

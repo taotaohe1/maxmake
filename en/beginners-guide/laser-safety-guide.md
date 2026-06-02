@@ -1,6 +1,6 @@
 # Laser Safety Guide
 
-This document provides detailed safety precautions for laser processing, helping beginners systematically understand laser radiation safety, smoke and harmful gas management, fire prevention and response, mechanical and electrical safety, as well as standardized operating procedures. It ensures laser processing is conducted safely and standardized, avoiding safety accidents.
+This document provides detailed safety precautions for laser processing with [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) [10W laser module](https://maxmake.com/products/10w-laser-module), helping beginners systematically understand laser radiation safety, smoke and harmful gas management, fire prevention and response, mechanical and electrical safety, as well as standardized operating procedures. It ensures laser processing is conducted safely and standardized, avoiding safety accidents.
 
 ## 📋 I. Laser Radiation Safety
 
@@ -23,8 +23,8 @@ Wearing dedicated personal protective equipment is the last barrier for laser ra
 - **Auxiliary Protection**: When processing materials that generate a lot of dust or smoke, wear a protective face shield to prevent laser scattered light from irradiating the face and block dust from entering the eyes. Long-haired operators should tie up their hair to avoid it approaching optical paths and moving parts.
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-  <img src="/eng/beginners-guide/media/laser-safety/激光防护装备.png" alt="Laser protective equipment example" style="width: 50%; height: auto; border-radius: 10px;" />
-  <img src="/eng/beginners-guide/media/laser-safety/激光防护镜.png" alt="Laser safety glasses example" style="width: 50%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/laser-safety/激光防护装备.png" alt="MAXMAKE HiMill D1/D1S Laser Protective Equipment" style="width: 50%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/laser-safety/激光防护镜.png" alt="MAXMAKE HiMill D1/D1S Laser Safety Glasses" style="width: 50%; height: auto; border-radius: 10px;" />
 </div>
 
 ---
@@ -46,9 +46,9 @@ Controlling the use of toxic materials from the source is the fundamental way to
 Desktop civilian processing scenarios do not require professional gas detection equipment. Sensory monitoring + simple auxiliary monitoring can meet safety needs, while also properly handling the environment after processing: Continuously observe smoke and odor changes during processing, immediately stop the machine and increase ventilation if abnormalities occur. In spaces where laser processing is conducted for a long time, place simple air quality detectors to real-time monitor indoor dust and harmful gas concentrations. When concentrations exceed standards, immediately stop processing and open windows for ventilation until indicators return to normal. After processing, do not immediately turn off ventilation equipment. Continue ventilation for several minutes to exhaust residual smoke and harmful gases in the space before performing subsequent cleaning work.
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-  <img src="/eng/beginners-guide/media/laser-safety/通风系统e.png" alt="Ventilation system example" style="width: auto; height: 300px; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/laser-safety/通风系统e.png" alt="MAXMAKE HiMill D1/D1S Laser Ventilation System" style="width: auto; height: 300px; border-radius: 10px;" />
 
-  <img src="/eng/beginners-guide/media/laser-safety/烟雾处理.png" alt="Smoke treatment example" style="width: auto; height: 300px; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/laser-safety/烟雾处理.png" alt="MAXMAKE HiMill D1/D1S Laser Smoke Treatment" style="width: auto; height: 300px; border-radius: 10px;" />
 </div>
 
 ---
@@ -70,8 +70,8 @@ Through simple flame retardant protective measures, reduce the probability of fi
 Prepare appropriate fire extinguishing equipment in advance and master correct usage methods—this is the core of responding to sudden fires. Never use incorrect fire extinguishing methods for laser equipment fires: The equipment must be equipped with dry powder fire extinguishers (suitable for electrical fires and solid material fires) nearby. Never use water-based fire extinguishers, as laser equipment is electrical equipment, and using water can cause equipment short circuits and may even lead to electric shock accidents. Also equip fire blankets for covering small flames to isolate oxygen and extinguish fires, suitable for handling initial small fires on processing materials or workbenches. If small flames appear during processing, immediately press the equipment's emergency stop button and cover the fire source with a fire blanket. If the fire expands, immediately evacuate the scene and call the fire department—never attempt to extinguish it yourself. Smoldering fires caused by slag are not easy to detect. After processing, inspect materials, workbenches, and surrounding areas to confirm no smoldering hazards before leaving.
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-  <img src="/eng/beginners-guide/media/laser-safety/灭火器.png" alt="Fire extinguisher example" style="width: 50%; height: auto; border-radius: 10px;" />
-  <img src="/eng/beginners-guide/media/laser-safety/灭火毯.png" alt="Fire blanket example" style="width: 50%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/laser-safety/灭火器.png" alt="MAXMAKE HiMill D1/D1S Laser Fire Extinguisher" style="width: 50%; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/laser-safety/灭火毯.png" alt="MAXMAKE HiMill D1/D1S Laser Fire Blanket" style="width: 50%; height: auto; border-radius: 10px;" />
 </div>
 
 ---
@@ -93,8 +93,8 @@ Electrical system failures can easily cause electric shocks, equipment short cir
 Familiarize yourself with the equipment's emergency operation components in advance and establish standardized emergency response procedures to quickly and correctly handle sudden situations: Remember the location of the equipment's emergency stop button, which is a prominent red button usually located on the front of the equipment body or on the operation panel. In any emergency situation (such as fire, abnormal noise, personal injury, or equipment jamming), press the emergency stop button first to cut off laser emission and equipment movement. If the equipment has electrical faults such as abnormal noise, smoke, or strange odors, first press the emergency stop button, then turn off the equipment's main power switch. Never continue operation or attempt to disassemble and repair the equipment yourself—contact official after-sales service for inspection and handling. If an electric shock accident occurs, immediately cut off the on-site power supply before providing first aid to the injured—never touch the injured person without disconnecting the power.
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-  <img src="/eng/beginners-guide/media/laser-safety/急停按钮.png" alt="Emergency stop button example" style="width: 400px; height: auto; border-radius: 10px;" />
-  <img src="/eng/beginners-guide/media/laser-safety/电气安全.png" alt="Electrical safety example" style="width: 400px; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/laser-safety/急停按钮.png" alt="MAXMAKE HiMill D1/D1S Laser Emergency Stop Button" style="width: 400px; height: auto; border-radius: 10px;" />
+  <img src="/eng/beginners-guide/media/laser-safety/电气安全.png" alt="MAXMAKE HiMill D1/D1S Laser Electrical Safety" style="width: 400px; height: auto; border-radius: 10px;" />
 </div>
 
 ---
@@ -137,6 +137,73 @@ The key to laser radiation protection is enclosing optical paths, avoiding refle
 For laser processing beginners, mastering safety knowledge is more important than mastering processing skills. During the entry stage, spend time familiarizing with the equipment's safety components, protective measures, and operating procedures, then gradually accumulate experience through sample processing. Never take chances by attempting to process prohibited materials, operating in enclosed spaces, or leaving during processing—any non-standard operation could cause irreversible safety accidents.
 
 As long as you strictly follow the safety precautions and operating procedures in this document, properly protect yourself, operate standardizedly, and keep emergency measures ready, you can achieve safe laser processing, allowing the equipment to meet personalized processing needs while always remaining in a safe operating state.
+
+---
+
+## HowTo Schema Markup
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Operate Laser Machines Safely",
+  "description": "Complete safety guide for operating MAXMAKE laser engravers, covering laser radiation protection, smoke management, fire prevention, mechanical/electrical safety, and standardized operating procedures.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Prepare Personal Protective Equipment",
+      "text": "Wear laser safety glasses matching your equipment's wavelength, heat-resistant gloves, and protective face shield if processing dusty materials."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Set Up Ventilation System",
+      "text": "Ensure proper ventilation by installing exhaust fans or ducting to remove smoke and harmful gases. Avoid processing in enclosed spaces."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Inspect Equipment Before Processing",
+      "text": "Check laser head, guide rails, protective cover, emergency stop button, and power connections. Ensure good grounding and no damaged components."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Prepare Processing Area",
+      "text": "Remove flammable materials and high-reflective objects from the work area. Secure materials properly and keep protective cover closed during operation."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Monitor Processing Continuously",
+      "text": "Stay by the equipment during processing. Watch for fires, unusual smoke, or abnormal sounds. Know the emergency stop button location."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Complete Post-Processing Procedures",
+      "text": "After processing, continue ventilation to clear residual smoke, clean work area wearing gloves, inspect equipment, and confirm no fire hazards before leaving."
+    }
+  ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Laser Safety Glasses"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Heat-Resistant Gloves"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Exhaust Fan/Ventilation System"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Dry Powder Fire Extinguisher"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Fire Blanket"
+    }
+  ]
+}
+</script>
 
 ---
 

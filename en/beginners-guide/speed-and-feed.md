@@ -1,6 +1,8 @@
-# Complete Guide to CNC Speed and Feed
+# CNC Speed and Feed Guide for HiMill D1/D1S | MAXMAKE Wiki
 
-For CNC beginners, "speed and feed" may sound like very professional terms. But actually, they are like the "throttle and gear" of a CNC machine, directly affecting processing results and tool life! This article will explain speed and feed related knowledge in the simplest language, turning you from a "novice" to a "pro"!
+Learn CNC speed and feed fundamentals for [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) desktop CNC machines. Understand spindle RPM, feed rates, tool coating, and best practices for optimal cutting performance and tool longevity.
+
+For CNC beginners using HiMill D1/D1S, "speed and feed" may sound like very professional terms. But actually, they are like the "throttle and gear" of your MAXMAKE CNC machine, directly affecting processing results and tool life! This article will explain speed and feed related knowledge in the simplest language, turning you from a "novice" to a "pro"!
 
 ## 📑 Table of Contents
 
@@ -25,7 +27,7 @@ Simply put, **speed** is how fast the tool rotates, and **feed** is how fast the
 
 **Simply put: The "rotating part" in the CNC machine that holds the cutting tool, how many revolutions it can make per minute, unit is r/min (revolutions/minute)**
 
-<img src="/eng/beginners-guide/media/speed-and-feed/主轴转速.jpg" alt="Spindle Speed Diagram" style="width: 40%; height: auto; border-radius: 10px;" />
+<img src="/eng/beginners-guide/media/speed-and-feed/主轴转速.jpg" alt="MAXMAKE HiMill D1/D1S CNC Spindle Speed Diagram" style="width: 40%; height: auto; border-radius: 10px;" />
 
 You'll definitely understand with an analogy to something you've seen:
 Your home electric drill, the metal head that holds the drill bit, rotates when powered on - this metal head is equivalent to the CNC spindle; when you turn on the drill, how fast the drill bit rotates is the speed; when screwing in screws, you'll set the drill to low gear, and when drilling wood, set it to high gear - this "speed adjustment" is the same principle as adjusting the CNC spindle speed.
@@ -65,7 +67,7 @@ It's like using a kitchen knife to cut meat: cutting tender tofu requires a fast
 
 **Simply put: The speed at which the tool "moves forward" on the part surface during CNC processing, usually in mm/min (millimeters/minute) or mm/r (millimeters/revolution, meaning the distance the tool moves forward when the spindle rotates 1 revolution)**
 
-<img src="/eng/beginners-guide/media/speed-and-feed/切削进给率.jpg" alt="Cutting Feed Rate Diagram" style="width: 50%; height: auto; border-radius: 10px;" />
+<img src="/eng/beginners-guide/media/speed-and-feed/切削进给率.jpg" alt="MAXMAKE HiMill D1/D1S CNC Cutting Feed Rate Diagram" style="width: 50%; height: auto; border-radius: 10px;" />
 
 You'll understand immediately with a daily life example:
 When you use a kitchen knife to cut cucumbers, the spindle speed is the number of "strokes" the knife blade makes per minute; the cutting feed rate is the speed at which you push the knife forward with your hand.
@@ -115,7 +117,7 @@ When the two are matched well, you can process qualified parts quickly and well 
 
 **Simply put: The speed at which the tool vertically penetrates into the part material during CNC processing, same unit as cutting feed rate, mm/min (millimeters/minute) or mm/r (millimeters/revolution)**
 
-<img src="/eng/beginners-guide/media/speed-and-feed/下切进给率.jpg" alt="Plunge Rate Diagram" style="width: 40%; height: auto; border-radius: 10px;" />
+<img src="/eng/beginners-guide/media/speed-and-feed/下切进给率.jpg" alt="MAXMAKE HiMill D1/D1S CNC Plunge Rate Diagram" style="width: 40%; height: auto; border-radius: 10px;" />
 
 Let's extend the previous cucumber cutting example, and you'll understand immediately:
 Normal cutting feed rate = the speed at which you push the kitchen knife horizontally forward (the process of cutting thin slices);
@@ -180,7 +182,7 @@ Plunge rate is the speed at which the tool vertically penetrates into the materi
 
 **Simply put: During CNC milling, the distance the tool moves laterally to the next cut after finishing one cut, also called line spacing or cutting width, unit is mm (millimeters)**
 
-<img src="/eng/beginners-guide/media/speed-and-feed/步距.jpg" alt="Stepover Diagram" style="width: 50%; height: auto; border-radius: 10px;" />
+<img src="/eng/beginners-guide/media/speed-and-feed/步距.jpg" alt="MAXMAKE HiMill D1/D1S CNC Stepover Diagram" style="width: 50%; height: auto; border-radius: 10px;" />
 
 You'll understand immediately with a mopping example:
 You use a mop to clean the floor, the mop is equivalent to the CNC milling tool; after mopping the living room once, you need to move the mop aside a distance and mop again - this "moved distance" is the stepover.
@@ -246,7 +248,7 @@ Stepover is the lateral spacing between each tool pass, choosing a large stepove
 
 **Simply put: In CNC processing, stepdown is a vertical "layer spacing", when the total depth to be processed is relatively deep, the tool cuts down in multiple layers, and the vertical distance between each layer is the stepdown, unit is mm (millimeters)**
 
-<img src="/eng/beginners-guide/media/speed-and-feed/下切步距.jpg" alt="Stepdown Diagram" style="width: 40%; height: auto; border-radius: 10px;" />
+<img src="/eng/beginners-guide/media/speed-and-feed/下切步距.jpg" alt="MAXMAKE HiMill D1/D1S CNC Stepdown Diagram" style="width: 40%; height: auto; border-radius: 10px;" />
 
 Let's use a small pit digging example, guaranteed to make you understand in seconds:
 You need to dig a 10cm deep pit, if you dig 10cm at once, the shovel will be very heavy, hurt your hands, and easily fly dirt clods; but if you dig twice, 5cm each time, it's much easier. Here, 5cm is the "stepdown for digging"; corresponding to CNC, total cutting depth 10mm, cut in 2 layers, 5mm each layer, this 5mm is the stepdown.
@@ -381,7 +383,7 @@ Cutting speed is the linear distance the cutting edge travels per minute, and it
 
 **Simply put: The "depth" that the tool vertically penetrates into the part material during CNC processing, unit is mm (millimeters)**
 
-<img src="/eng/beginners-guide/media/speed-and-feed/切削深度.jpg" alt="Cutting Depth Diagram" style="width: 40%; height: auto; border-radius: 10px;" />
+<img src="/eng/beginners-guide/media/speed-and-feed/切削深度.jpg" alt="MAXMAKE HiMill D1/D1S CNC Cutting Depth Diagram" style="width: 40%; height: auto; border-radius: 10px;" />
 
 Let's continue with the cucumber cutting example, guaranteed to make you understand in seconds:
 You use a kitchen knife to cut a cucumber, with one cut, the depth the blade is buried in the cucumber (e.g., cutting a 5mm deep groove, this 5mm is the cutting depth); even if you penetrate slowly or quickly, this 5mm depth remains unchanged - this is the core of cutting depth: only looking at "depth", not "speed".
@@ -714,6 +716,59 @@ Speed and feed are the most basic and important parameters in CNC processing, ma
 3. **Record diligently**: Record suitable parameters for different materials
 4. **Practice more**: Accumulate experience through actual operation
 5. **Ensure safety**: Protect tools and machines, do not overload operation
+
+---
+
+## FAQPage Schema Markup
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is my CNC tool chipping?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tool chipping is often caused by plunge rate too fast, stepdown too deep, unsuitable spindle speed, or hard objects in material. Solutions: reduce plunge rate and stepdown, adjust spindle speed to appropriate range, check tool quality, clean hard objects on material surface, and use slower speed for hard materials."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How to fix surface vibration marks on CNC parts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vibration marks are caused by mismatched spindle speed and feed rate, stepover too large, tool clamping not firm, or insufficient machine rigidity. Solutions: adjust speed/feed ratio, reduce stepover, ensure tool clamping is firm, strengthen material fixation, and use slower more stable speed for precision work."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is my CNC processing time too long?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Long processing time can result from feed rate too slow, stepover too small, stepdown too shallow, unreasonable tool path, or spindle speed too low. Solutions: increase feed rate (while ensuring quality), increase stepover during roughing, optimize tool path to reduce empty travel, and adjust spindle speed to optimal range."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How to improve surface finish on CNC parts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rough surfaces are caused by stepover too large, unsuitable feed rate, tool wear, or spindle speed too low. Solutions: reduce stepover (especially during finishing), adjust feed rate appropriately, replace worn tools, increase spindle speed, and use slower speed with smaller stepover for hard materials."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is my CNC tool overheating?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tool overheating is caused by spindle speed too high, feed rate too slow, lack of cooling, or poor material thermal conductivity. Solutions: reduce spindle speed, increase feed rate appropriately, use coolant or air cooling, increase processing gaps for cooling, and use slower speed for materials with poor thermal conductivity."
+      }
+    }
+  ]
+}
+</script>
 
 Speed and feed adjustment have no absolute standards, need to be flexibly mastered according to specific conditions. With the accumulation of experience, you will become more and more proficient in finding the most suitable parameters, allowing your CNC machine to exert its best performance!
 

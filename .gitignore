@@ -10,9 +10,11 @@ zh/himill-d1-d1s/media/
 *.webp
 *.zip
 *.7z
+*.pdf
 
 # 文档文件
 test.md
+Wiki修改落地执行操作.md
 
 # 开发工具
 .vscode/

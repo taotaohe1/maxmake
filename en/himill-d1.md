@@ -1,5 +1,8 @@
-# HiMill D1
-<img src="/eng/himill-d1-d1s/media/himill-d1.png" alt="" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 6px;" />
+# HiMill D1 Desktop CNC Machine | MAXMAKE Wiki
+
+Learn about the [MAXMAKE HiMill D1](https://www.maxmake.com/products/himill-d1) desktop CNC machine specifications, setup, maintenance, and troubleshooting. Your complete guide to the HiMill D1 engraving and milling machine.
+
+<img src="/eng/himill-d1-d1s/media/himill-d1.png" alt="HiMill D1 Desktop CNC Machine" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 6px;" />
 
 > CNC usage carries certain risks. Please carefully read the usage instructions to avoid dangers caused by improper operation. [View Details](#usage-instructions)
 {.is-danger}

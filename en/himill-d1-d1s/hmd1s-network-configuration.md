@@ -1,4 +1,6 @@
-# 📡 MaxmakeLab HiMill D1/D1S Network Configuration
+# HiMill D1/D1S Network Configuration Guide: WiFi Setup & IP Connection Tutorial
+
+Learn how to configure WiFi connection for HiMill D1/D1S CNC machine. This guide covers STA mode (local network), AP mode (hotspot), IP address setup, and wireless connection troubleshooting.
 
 ## 🌟 Feature Introduction
 
@@ -16,7 +18,7 @@ Local network connection allows the HiMill device to connect directly to your ho
 2. Connect the device to your computer using a USB cable
 3. Wait for the device to complete automatic reset, and ensure the device status is normal before proceeding to the next step
 
-<img src="/eng/himill-d1-d1s/media/network-configuration/usb连接.webp" alt="Connect Device via USB" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
+<img src="/eng/himill-d1-d1s/media/network-configuration/usb连接.webp" alt="MAXMAKE HiMill D1/D1S Connect Device via USB" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ### Step 2: Select STA Mode and Configure WiFi Parameters
 
@@ -30,7 +32,7 @@ Local network connection allows the HiMill device to connect directly to your ho
 > 
 > {.is-warning}
 
-<img src="/eng/himill-d1-d1s/media/network-configuration/切换sta.webp" alt="Select STA Mode and Configure WiFi" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
+<img src="/eng/himill-d1-d1s/media/network-configuration/切换sta.webp" alt="MAXMAKE HiMill D1/D1S Select STA Mode and Configure WiFi" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ### Step 3: Click Config Button to Configure
 
@@ -39,7 +41,7 @@ Local network connection allows the HiMill device to connect directly to your ho
 3. After successful configuration, the software will display a "Restarting network module" prompt
 4. Click "Confirm" and wait 15-30 seconds for the device to complete the network module restart
 
-<img src="/eng/himill-d1-d1s/media/network-configuration/点击config.webp" alt="Click Config to Configure" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
+<img src="/eng/himill-d1-d1s/media/network-configuration/点击config.webp" alt="MAXMAKE HiMill D1/D1S Click Config to Configure" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ### Step 4: View Device IP Address
 
@@ -54,7 +56,7 @@ Local network connection allows the HiMill device to connect directly to your ho
 > 
 > {.is-warning}
 
-<img src="/eng/himill-d1-d1s/media/network-configuration/查看sta_ip地址.webp" alt="View IP Address" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
+<img src="/eng/himill-d1-d1s/media/network-configuration/查看sta_ip地址.webp" alt="MAXMAKE HiMill D1/D1S View IP Address" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ### Step 5: Connect to Device via IP Address
 
@@ -70,7 +72,7 @@ Local network connection allows the HiMill device to connect directly to your ho
 > 
 > {.is-warning}
 
-<img src="/eng/himill-d1-d1s/media/network-configuration/通过sta连接设备.webp" alt="Connect via IP Address" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
+<img src="/eng/himill-d1-d1s/media/network-configuration/通过sta连接设备.webp" alt="MAXMAKE HiMill D1/D1S Connect via IP Address" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ---
 
@@ -94,7 +96,7 @@ If the device has been configured for network connection and you want to switch 
 2. Connect the device to your computer using a USB cable
 3. Wait for the device to complete automatic reset, and ensure the device status is normal
 
-<img src="/eng/himill-d1-d1s/media/network-configuration/usb连接.webp" alt="Connect Device via USB" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
+<img src="/eng/himill-d1-d1s/media/network-configuration/usb连接.webp" alt="MAXMAKE HiMill D1/D1S Connect Device via USB" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ### Step 2: Select AP Mode and Prepare Configuration
 
@@ -106,7 +108,7 @@ If the device has been configured for network connection and you want to switch 
 > 
 > {.is-info}
 
-<img src="/eng/himill-d1-d1s/media/network-configuration/切换ap.webp" alt="Select AP Mode and Prepare Configuration" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
+<img src="/eng/himill-d1-d1s/media/network-configuration/切换ap.webp" alt="MAXMAKE HiMill D1/D1S Select AP Mode and Prepare Configuration" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ### Step 3: Click Config Button to Configure
 
@@ -115,7 +117,7 @@ If the device has been configured for network connection and you want to switch 
 3. After successful configuration, the software will display a "Restarting network module" prompt
 4. Click "Confirm" and wait 15-30 seconds for the device to complete the network module restart
 
-<img src="/eng/himill-d1-d1s/media/network-configuration/点击config2.webp" alt="Click Config to Configure" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
+<img src="/eng/himill-d1-d1s/media/network-configuration/点击config2.webp" alt="MAXMAKE HiMill D1/D1S Click Config to Configure" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ### Step 4: Restart Device and Confirm Hotspot Mode
 
@@ -128,7 +130,57 @@ If the device has been configured for network connection and you want to switch 
 > 
 > {.is-warning}
 
-<img src="/eng/himill-d1-d1s/media/network-configuration/通过ap连接设备.webp" alt="View IP Address" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
+<img src="/eng/himill-d1-d1s/media/network-configuration/通过ap连接设备.webp" alt="MAXMAKE HiMill D1/D1S View IP Address" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
+
+---
+
+## HowTo Schema Markup
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Configure HiMill D1/D1S WiFi Network",
+  "description": "Complete guide for configuring WiFi connection on MAXMAKE HiMill D1/D1S CNC machine, including STA mode (local network) and AP mode (hotspot) setup.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Connect Device via USB",
+      "text": "Launch MaxmakeLab software, connect HiMill device to computer using USB cable, wait for automatic reset and confirm normal device status."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Select Connection Mode",
+      "text": "Click Device Settings button. Choose STA Mode for connecting to home/office router, or AP Mode for device hotspot connection."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Configure WiFi Parameters",
+      "text": "For STA Mode: Enter router SSID and password (no spaces or special characters). For AP Mode: Select AP Mode option in settings interface."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Apply Configuration",
+      "text": "Click Config button to transfer settings to device. Wait for 'Restarting network module' prompt, click Confirm, and wait 15-30 seconds for restart."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Verify Connection",
+      "text": "For STA Mode: Reopen Device Settings to view assigned IP address. For AP Mode: Device creates 'HiMill-AP' hotspot. Disconnect USB cable before wireless control."
+    }
+  ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "MaxmakeLab Software"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "USB Data Cable"
+    }
+  ]
+}
+</script>
 
 ### Step 5: Connect Computer to Device Hotspot
 
@@ -154,7 +206,7 @@ If the device has been configured for network connection and you want to switch 
 > 
 > {.is-warning}
 
-<img src="/eng/himill-d1-d1s/media/network-configuration/通过ap连接设备.webp" alt="Connect via IP Address" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
+<img src="/eng/himill-d1-d1s/media/network-configuration/通过ap连接设备.webp" alt="MAXMAKE HiMill D1/D1S Connect via IP Address" style="width: 80%; height: auto; margin-bottom: 8px; border-radius: 0px;" />
 
 ---
 

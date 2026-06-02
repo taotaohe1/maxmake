@@ -1,6 +1,6 @@
-# HiMill D1/D1S Component Chamber Parts Replacement
+# HiMill D1/D1S Air Cabinet Component Replacement: Circuit Board & Power Supply Guide
 
----
+Learn how to replace air cabinet components on [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) CNC machine. This guide covers main circuit board, switching power supply, and motor driver board replacement procedures.
 
 ## Safety Precautions
 
@@ -21,7 +21,7 @@
 ## Replacing the Switching Power Supply.
 
 <a href="https://www.youtube.com/watch?v=3jVcQYAklAo" target="_blank">
-    <img src="https://img.youtube.com/vi/3jVcQYAklAo/0.jpg" alt="点击观看视频" style="width: 50%; border-radius: 8px;">
+    <img src="https://img.youtube.com/vi/3jVcQYAklAo/0.jpg" alt="MAXMAKE HiMill D1/D1S Air Cabinet Replacement Video" style="width: 50%; border-radius: 8px;">
 </a>
 
 ---

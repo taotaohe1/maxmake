@@ -1,4 +1,6 @@
-# HiMill D1/D1S Firmware Release Record
+# HiMill D1/D1S Firmware Release Notes: Version History & Download Links
+
+View firmware version history for HiMill D1/D1S CNC machine. This page contains release notes, update instructions, download links for latest and previous firmware versions, and changelog information.
 
 ## Firmware Update Instructions
 

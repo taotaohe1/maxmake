@@ -1,4 +1,6 @@
-# 🛠️ Tool Parameters Table
+# CNC Tool Parameters Guide | MAXMAKE Wiki
+
+Complete tool parameter reference for MAXMAKE HiMill D1/D1S CNC machines. Spindle speeds, feed rates, depth of cut, and settings for various tool types and materials.
 
 ## 📝 Processing Parameter Explanation
 - RPM: Spindle Speed (RPM) / Feed: Cutting Speed (mm/min)

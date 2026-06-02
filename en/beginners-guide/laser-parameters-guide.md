@@ -1,6 +1,6 @@
 # Laser Processing Parameters Guide
 
-This document provides a detailed introduction to the core parameters in laser processing, helping beginners systematically understand the definition, impact, and application scenarios of each parameter. By mastering the adjustment rules of these parameters, you can quickly get started with laser equipment and achieve ideal processing results.
+This document provides a detailed introduction to the core parameters in laser processing for [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) [10W laser module](https://maxmake.com/products/10w-laser-module), helping beginners systematically understand the definition, impact, and application scenarios of each parameter. By mastering the adjustment rules of these parameters, you can quickly get started with laser equipment and achieve ideal processing results.
 
 ## 📊 Core Parameters Overview
 
@@ -32,7 +32,7 @@ Desktop models mainly use small/medium power, no high power, precisely matched b
 | 30W-60W    | General Purpose     | Regular engraving + thin material cutting (acrylic ≤3mm, wood board ≤2mm, thin metal sheet ≤0.5mm) |
 | 60W-100W   | Desktop High Power  | Slightly thicker non-metals (acrylic ≤5mm, wood board ≤4mm), some can cut thin stainless steel sheets ≤1mm |
 
-<img src="/eng/beginners-guide/media/laser-parameters-guide/功率影响示意图2.png" alt="Impact of Power on Processing Effects" style="width: 75%; height: auto; border-radius: 10px;" />
+<img src="/eng/beginners-guide/media/laser-parameters-guide/功率影响示意图2.png" alt="MAXMAKE HiMill D1/D1S Laser Power Impact Diagram" style="width: 75%; height: auto; border-radius: 10px;" />
 
 ## 2. Speed
 
@@ -61,7 +61,7 @@ Desktop models determine speed by processing type, not exceeding equipment limit
 | Deep Engraving | 30-100mm/s              | Materials requiring depth such as acrylic, wood boards |
 | Thin Material Cutting | 50-200mm/s           | Thicker materials require lower speeds |
 
-<img src="/eng/beginners-guide/media/laser-parameters-guide/速度影响示意图2.png" alt="Impact of Speed on Processing Effects" style="width: 75%; height: auto; border-radius: 10px;" />
+<img src="/eng/beginners-guide/media/laser-parameters-guide/速度影响示意图2.png" alt="MAXMAKE HiMill D1/D1S Laser Speed Impact Diagram" style="width: 75%; height: auto; border-radius: 10px;" />
 
 ## 3. Focal Length
 
@@ -87,7 +87,7 @@ Focal length determines laser spot size, energy density, processing precision, a
 | 63.5mm      | General Purpose     | Can do marking, engraving, and thin cutting, beginner's first choice, no need to frequently replace focusing lenses |
 | 100mm       | Large Area Processing | Whole board acrylic/wood engraving, batch processing of large-size workpieces, precision meets daily needs |
 
-<img src="/eng/beginners-guide/media/laser-parameters-guide/焦距对比示意图.png" alt="Comparison of Different Focal Length Effects" style="width:75%; height: auto; border-radius: 10px;" />
+<img src="/eng/beginners-guide/media/laser-parameters-guide/焦距对比示意图.png" alt="MAXMAKE HiMill D1/D1S Laser Focal Length Comparison" style="width:75%; height: auto; border-radius: 10px;" />
 
 ## 4. Wavelength
 
@@ -118,7 +118,7 @@ The core function of wavelength is to determine material absorption characterist
 | 1064nm (Fiber) | Metals | Metal processing special, focused on metal marking/thin cutting, poor non-metal processing effect |
 | 10600nm (CO₂) | Non-metals | Non-metal processing main force, focused on non-metal engraving/cutting (depth and efficiency are much higher than blue light), cannot process metals |
 
-<img src="/eng/beginners-guide/media/laser-parameters-guide/波长吸收特性2.png" alt="Material Absorption Characteristics of Different Wavelengths" style="width: 75%; height: auto; border-radius: 10px;" />
+<img src="/eng/beginners-guide/media/laser-parameters-guide/波长吸收特性2.png" alt="MAXMAKE HiMill D1/D1S Laser Wavelength Absorption Characteristics" style="width: 75%; height: auto; border-radius: 10px;" />
 
 ## 5. Pulse Frequency
 
@@ -143,7 +143,7 @@ Pulse frequency determines the energy distribution, fineness, and heat-affected 
 | Medium Frequency (100kHz-300kHz) | Regular Processing | Most marking, engraving, thin cutting, balancing efficiency and fineness, desktop general gear |
 | High Frequency (300kHz-500kHz) | Fast Batch Processing | Large area simple patterns, thin material fast cutting, high efficiency, suitable for scenarios with low fineness requirements |
 
-<img src="/eng/beginners-guide/media/laser-parameters-guide/脉冲频率影响2.png" alt="Impact of Pulse Frequency on Processing Effects" style="width: 75%; height: auto; border-radius: 10px;" />
+<img src="/eng/beginners-guide/media/laser-parameters-guide/脉冲频率影响2.png" alt="MAXMAKE HiMill D1/D1S Laser Pulse Frequency Impact" style="width: 75%; height: auto; border-radius: 10px;" />
 
 ## 6. Parameter Coordination and Optimization Strategy
 
@@ -195,6 +195,65 @@ The core of laser processing parameters is not "how high/low to adjust", but "ma
 4. **Must do for beginners**: Test samples first, then process finished products, make good use of the equipment software's preset parameter library
 
 Laser parameter adjustment is not complicated. Beginners can use scrap materials for trial and error, then try different materials later, summarize the rules of "what materials match what parameters", and gradually achieve "one glance to determine parameters". The core is to practice more, test more, don't be afraid to adjust incorrectly, and the cost of sample trial and error is extremely low.
+
+---
+
+## HowTo Schema Markup
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Set Laser Processing Parameters for MAXMAKE Laser Machines",
+  "description": "Complete guide for adjusting laser parameters including power, speed, focal length, wavelength, and pulse frequency for optimal processing results on MAXMAKE laser equipment.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Determine Fixed Parameters",
+      "text": "Confirm wavelength (determined by equipment type: 450nm for all-round, 1064nm for metals, 10600nm for non-metals) and focal length (63.5mm recommended for beginners)."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Set Power Based on Material",
+      "text": "Select power according to material thickness and processing depth: 10-30W for shallow marking, 30-60W for general engraving and thin cutting, 60-100W for thicker materials."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Match Speed to Power",
+      "text": "Higher power allows faster speed; lower power requires slower speed. Typical ranges: 200-500mm/s for marking, 50-150mm/s for cutting."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Adjust Pulse Frequency",
+      "text": "Select frequency based on processing precision: 20-100kHz for fine processing, 100-300kHz for regular processing, 300-500kHz for fast batch processing."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Test on Sample Material",
+      "text": "Test parameters on a sample piece first. If incomplete cutting, increase power or decrease speed. If burning occurs, decrease power or increase speed."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Fine-tune and Save Parameters",
+      "text": "Make small adjustments based on sample results, then save the optimal parameters for future use with similar materials."
+    }
+  ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "MAXMAKE Laser Machine"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Laser Control Software"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Material Samples"
+    }
+  ]
+}
+</script>
 
 ---
 

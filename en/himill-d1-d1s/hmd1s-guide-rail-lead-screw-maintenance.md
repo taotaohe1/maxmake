@@ -1,9 +1,11 @@
-# Guide Rail and Lead Screw Maintenance
+# HiMill D1S Guide Rail Maintenance | MAXMAKE Wiki
+
+Learn how to maintain [MAXMAKE HiMill D1S](https://www.maxmake.com/products/himill-d1s) guide rails and lead screws. This guide covers XYZ axis lubrication, maintenance frequency, grease application, and troubleshooting tips.
 
 ## Maintenance Video
 
 <a href="https://www.youtube.com/watch?v=DeBYRHOCmUc" target="_blank">
-    <img src="https://img.youtube.com/vi/DeBYRHOCmUc/0.jpg" alt="Click to watch video" style="width: 50%; border-radius: 8px;">
+    <img src="https://img.youtube.com/vi/DeBYRHOCmUc/0.jpg" alt="MAXMAKE HiMill D1/D1S Guide Rail Maintenance Video" style="width: 50%; border-radius: 8px;">
 </a>
 
 ## 1. Regular Maintenance Instructions
@@ -27,7 +29,7 @@ The lead screw and guide rails need regular application of grease to ensure opti
 - Move the X-axis to the far right, continue applying appropriate amount of grease
 - Move the X-axis back to the far left
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-guide-rail-lead-screw-maintenance/1-x轴.webp" alt="X-axis Maintenance" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-guide-rail-lead-screw-maintenance/1-x轴.webp" alt="MAXMAKE HiMill D1/D1S X-axis Guide Rail Maintenance" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 3. Z-axis Maintenance
 
@@ -35,7 +37,7 @@ The lead screw and guide rails need regular application of grease to ensure opti
 - Move the Z-axis to the lowest position, continue applying appropriate amount of grease
 - Move the Z-axis back to the highest position
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-guide-rail-lead-screw-maintenance/2-z轴.webp" alt="Z-axis Maintenance" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-guide-rail-lead-screw-maintenance/2-z轴.webp" alt="MAXMAKE HiMill D1/D1S Z-axis Guide Rail Maintenance" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 4. Y-axis Maintenance
 
@@ -45,4 +47,4 @@ Apply grease evenly to the guide rails and lead screw.
 
 After returning the equipment to upright position, power on and operate normally.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-guide-rail-lead-screw-maintenance/3-y轴.webp" alt="Y-axis Maintenance" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-guide-rail-lead-screw-maintenance/3-y轴.webp" alt="MAXMAKE HiMill D1/D1S Y-axis Guide Rail Maintenance" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />

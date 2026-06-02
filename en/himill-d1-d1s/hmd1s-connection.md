@@ -1,5 +1,6 @@
-# MaxmakeLab HiMill D1/D1S Connection
+# HiMill D1S Connection Guide | MAXMAKE Wiki
 
+Learn how to connect MAXMAKE HiMill D1/D1S CNC machine to MaxmakeLab software. This guide covers USB connection, WiFi setup, and wireless control configuration.
 
 ## 1. Automatic Connection
 

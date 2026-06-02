@@ -1,4 +1,6 @@
-# MaxmakeLab 3D Probe Usage
+# How to Use HiMill D1S 3D Probe | MAXMAKE Wiki
+
+Learn how to use the 3D probe for MAXMAKE HiMill D1S CNC machine. This guide covers corner detection, centering, Z-axis setting, and height map features for precise machining.
 
 ## Precautions
 
@@ -244,3 +246,58 @@ After all settings are complete, click tool change to replace the first tool to 
 The 3D probe can also be used for the height map feature, which automatically adjusts the machining path by detecting height variations on the workpiece surface, resulting in more precise machining results.
 
 - [MaxmakeLAB 3D Probe Height Map Feature](/en/himill-d1-d1s/hmd1s-height-map.md)
+
+---
+
+## HowTo Schema Markup
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Use HiMill D1S 3D Touch Probe",
+  "description": "Complete guide for using the 3D touch probe on MAXMAKE HiMill D1S CNC machine, including installation, corner detection, centering, Z-axis setting, and height map features.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Install 3D Probe",
+      "text": "Install the 3D probe into the spindle collet. Switch to tool setting (3D probe) interface in MaxmakeLab software. Click 'Tool Change' button and wait for automatic height measurement to complete."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Understand Interface Functions",
+      "text": "Learn interface button functions: Tool Change for installation/removal, Set XY0 for manual XY origin setting, Set Z0 for manual Z origin setting, Detect for automatic workpiece detection."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Perform Corner Detection",
+      "text": "Select corner detection mode in software. Move probe to corner position using movement function. Click detect button and wait for detection to complete. The detected position will be automatically set as origin."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Complete Rectangular External Centering",
+      "text": "Select rectangular external centering mode. Detect left and right sides of workpiece on X-axis without moving Y-axis. Click Zero X to calculate center. Repeat for Y-axis. Detect Z-plane surface to set Z0."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Complete Circular Internal Centering",
+      "text": "Select circular internal centering mode. Move probe inside workpiece near left side. Detect left and right sides on X-axis, click Zero X. Repeat for Y-axis. Detect Z-plane surface to set Z0."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Replace Tool and Start Machining",
+      "text": "After completing all origin settings, click tool change to replace with first machining tool. Complete automatic height measurement. Start machining with precise origin coordinates."
+    }
+  ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "HiMill D1S 3D Touch Probe"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "MaxmakeLab Software"
+    }
+  ]
+}
+</script>

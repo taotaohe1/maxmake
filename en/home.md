@@ -1,21 +1,24 @@
-# Welcome to MAXMAKE WiKi!
-This is your one-stop resource for all things MAXMAKE, including tutorials, documentation, FAQs, and community contributions.
+# MAXMAKE Wiki | CNC Machine Guides for HiMill D1/D1S
 
-# Beginner's Guide
+Welcome to MAXMAKE Wiki - your comprehensive resource for [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) CNC machine guides, tutorials, and troubleshooting. Learn CNC basics, laser processing, and get expert tips for your MAXMAKE desktop CNC.
+
+This is your one-stop resource for all things [MAXMAKE](https://www.maxmake.com), including tutorials, documentation, FAQs, and community contributions.
+
+# CNC Beginner Guide - Learn CNC Technology
 If you're completely new to CNC technology, welcome to start your CNC learning journey through the following guide:
 
 <div style="display: flex; gap: 24px; margin-top: 16px;">
   <div style="border: 1px solid #e0e0e0; border-radius: 6px; padding: 24px; text-align: center; width: 240px; background-color: #f9f9f9;">
     <div>
       <h3 style="margin-bottom: 12px; color: #2c3e50;">Understanding CNC</h3>
-      <p style="margin-bottom: 16px; color: #666;">From basic concepts to practical guides, fully understand CNC technology</p>
+      <p style="margin-bottom: 16px; color: #666;">Learn CNC basics, how it works, and get started with HiMill D1/D1S</p>
       <a href="/en/beginners-guide/cnc.md" style="color: #3498db; text-decoration: underline;">Start Learning</a>
     </div>
   </div>
   <div style="border: 1px solid #e0e0e0; border-radius: 6px; padding: 24px; text-align: center; width: 240px; background-color: #f9f9f9;">
     <div>
-      <h3 style="margin-bottom: 12px; color: #2c3e50;">Understanding LASER</h3>
-      <p style="margin-bottom: 16px; color: #666;">From basic concepts to parameter settings, master laser processing technology</p>
+      <h3 style="margin-bottom: 12px; color: #2c3e50;">Understanding Laser Cutting</h3>
+      <p style="margin-bottom: 16px; color: #666;">Master laser engraving and cutting with HiMill laser module</p>
       <a href="/en/beginners-guide/laser.md" style="color: #3498db; text-decoration: underline;">Start Learning</a>
     </div>
   </div>

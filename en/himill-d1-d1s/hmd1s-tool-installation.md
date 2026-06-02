@@ -1,6 +1,6 @@
-# HiMill D1S Tool Installation Guide
+# HiMill D1S Tool Installation | MAXMAKE Wiki
 
-This document details tool installation methods for HiMill D1S equipment, ensuring safe and accurate tool change operations.
+Learn how to install tools on [MAXMAKE HiMill D1S](https://www.maxmake.com/products/himill-d1s) CNC machine. This guide covers software tool change preparation, [collet kit](https://maxmake.com/products/collet-kit) installation, tool clamping depth, and automatic height measurement procedures.
 
 ---
 
@@ -100,3 +100,53 @@ If D1S is equipped with a 6mm collet, 6mm tools should be installed.
 > - Follow tool specification matching principles
 > 
 > {.is-warning}
+
+---
+
+## HowTo Schema Markup
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Install Tools on HiMill D1S CNC Machine",
+  "description": "Step-by-step guide to install tools on MAXMAKE HiMill D1S CNC machine, including software preparation, tool change mode, installation, height measurement, and collet matching.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Software Tool Change Preparation",
+      "text": "Click the tool change button in the MaxmakeLab software interface. Ensure software displays normally, check equipment connection status, and confirm no current machining tasks in progress."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Wait for Equipment Tool Change Status",
+      "text": "The equipment enters tool change mode and spindle moves to tool change position (X140, Y0). Indicator light shows yellow flashing, indicating tool change available. Ensure tool change area is obstacle-free."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Install the Tool",
+      "text": "Pull down the handle, insert the tool ensuring clamping depth is ≥15mm and ≤34mm. Slowly release the handle. Ensure tool installation is firm and avoid misalignment or loosening."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Complete Tool Height Measurement",
+      "text": "Click the button (internal or external) to trigger height measurement. The spindle moves above the height measurer. Complete height measurement before setting Z0 to avoid tool compensation errors."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Match Collet and Tool Specifications",
+      "text": "Ensure collet matches tool specifications. For 6mm collet, install 6mm tools. For 4mm or 3.175mm tools, use appropriate reducing sleeves. Do not mix specifications."
+    }
+  ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "MaxmakeLab Software"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "HiMill D1S CNC Machine"
+    }
+  ]
+}
+</script>

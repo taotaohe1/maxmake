@@ -1,4 +1,6 @@
-# MaxmakeLab Rotation Axis Processing - NC Program Import Processing Workflow
+# HiMill D1S Rotation Axis Processing Guide: 4th Axis Setup & Machining Tutorial
+
+Learn how to use the [rotation axis](https://maxmake.com/products/4th-axis-module) for 4th axis machining on [MAXMAKE HiMill D1S](https://www.maxmake.com/products/himill-d1s) CNC machine.
 
 ## 1. Switch to CNC Mode
 

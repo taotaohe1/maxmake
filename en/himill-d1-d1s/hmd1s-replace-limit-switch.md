@@ -1,4 +1,6 @@
-# HiMill D1/D1S Limit Switch Replacement
+# HiMill D1/D1S Limit Switch Replacement Guide: XYZ Axis Switch Swap
+
+Learn how to replace X, Y, and Z axis limit switches on [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) CNC machine. This guide covers safety precautions, switch removal steps, and installation procedures for each axis homing sensor.
 
 ---
 

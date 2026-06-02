@@ -1,4 +1,6 @@
-# Understanding CNC
+# CNC Machine Basics - A Complete Guide for Beginners
+
+> Learn CNC fundamentals, from basic concepts to practical operations. Complete guide for HiMill D1/D1S CNC beginners.
 
 This guide provides comprehensive introductory knowledge for CNC beginners, helping you master the core content of CNC technology step by step from basic concepts to actual operations.
 
@@ -9,9 +11,9 @@ This guide provides comprehensive introductory knowledge for CNC beginners, help
 ## Practical Guides
 * [Complete Guide to CNC Tool Selection](/en/beginners-guide/tool-selection.md)
 * [Complete Guide to CNC Speed and Feed](/en/beginners-guide/speed-and-feed.md)
-* [Desktop CNC Feeds and Speeds Professional Guide](/en/beginners-guide/feeds-and-speeds-guide.md)
-* [How to Choose CNC Clamping Methods? Essential Guide for Beginners](/en/beginners-guide/clamping-guide.md)
-* [How to Choose CNC Processing Materials? Essential Guide for Beginners](/en/beginners-guide/material-selection.md)
+* [Desktop CNC Feeds and Speeds Professional Guide: Aluminum, Acrylic & PCB Edition](/en/beginners-guide/feeds-and-speeds-guide.md)
+* [CNC Clamping Methods Guide: Essential Techniques for Beginners](/en/beginners-guide/clamping-guide.md)
+* [CNC Material Selection Guide: Best Materials for HiMill D1/D1S Processing](/en/beginners-guide/material-selection.md)
 
 ---
 

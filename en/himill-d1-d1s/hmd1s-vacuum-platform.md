@@ -1,4 +1,6 @@
-# Vacuum Suction Platform
+# HiMill D1S Vacuum Platform | MAXMAKE Wiki
+
+Learn how to install and use the [vacuum suction platform](https://maxmake.com/products/vacuum-suction-platform) for MAXMAKE HiMill D1S CNC machine. This guide covers installation, air pipe connection, and filter maintenance.
 
 ## 1. Parts List
 

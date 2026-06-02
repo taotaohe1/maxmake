@@ -1,4 +1,6 @@
-# MaxmakeLab Software Getting Started
+# MaxmakeLab Software Getting Started Guide: Interface & Features Overview
+
+Learn the basics of MaxmakeLab software for HiMill CNC machines. This guide covers software overview, main interface functions, design tools, device control, and core features for CNC and laser processing.
 
 ## 📖 Software Overview
 
@@ -12,8 +14,8 @@ The software supports both CNC processing and laser processing modes, with compl
 MaxmakeLab adopts a modular interface design, mainly divided into the following functional areas:
 
 <div style="display: flex; gap: 16px; flex-wrap: wrap;">
-  <img src="/eng/maxmakelab/media/software-manual/main-interface1.png" alt="Main Interface Layout 1" style="width: calc(50% - 8px); height: auto; border-radius: 8px;" />
-  <img src="/eng/maxmakelab/media/software-manual/main-interface2.png" alt="Main Interface Layout 2" style="width: calc(50% - 8px); height: auto; border-radius: 8px;" />
+  <img src="/eng/maxmakelab/media/software-manual/main-interface1.png" alt="MAXMAKE MaxmakeLab Software Main Interface Layout 1" style="width: calc(50% - 8px); height: auto; border-radius: 8px;" />
+  <img src="/eng/maxmakelab/media/software-manual/main-interface2.png" alt="MAXMAKE MaxmakeLab Software Main Interface Layout 2" style="width: calc(50% - 8px); height: auto; border-radius: 8px;" />
 </div>
 
 ### Interface Function Partition

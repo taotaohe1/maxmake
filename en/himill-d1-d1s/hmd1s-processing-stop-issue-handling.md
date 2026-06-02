@@ -1,6 +1,7 @@
-# ⚠️ Processing Stop Due to Issues Handling Guide
+# HiMill D1S Processing Stop Recovery | MAXMAKE Wiki
 
-> This page provides handling methods and solutions for HiMill D1/D1s equipment when processing stops due to various issues during processing.
+Learn how to recover from processing stops on [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) CNC machine. This guide covers power-off recovery, tool change scenarios, and multi-tool processing resume.
+
 
 ---
 
@@ -64,6 +65,51 @@
 <td>Open NC file with computer, delete all code before TXM6 (keep TXM6 and all subsequent code)<br><br>After homing, import modified code, can start processing directly</td>
 </tr>
 </table>
+
+---
+
+## FAQPage Schema Markup
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What to do when HiMill CNC processing stops unexpectedly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "First troubleshoot the issue to rule out hardware problems. Origin information is retained after power off, but tool compensation resets. For single tool without tool change code: home, re-import file and restart. For tool change codes: use software tool change button for auto height measurement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How to recover from processing stop with power off?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Restart equipment, perform homing, then re-import NC file. For tools with T1M6 code, click tool change button for auto height measurement and reset Z0. For multi-tool processing where tool X stopped, modify NC file to remove code before TXM6."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How to resume processing with power still on?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After homing, simply re-import the NC file and start processing. The tool typically isn't broken during normal stops, so no need to change tools - just resume from where you left off."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to change tool after processing stops?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In most cases, the tool is not broken when processing stops. After clicking tool change, there's no need to actually change the tool - just press the button to let it complete automatic height measurement, then resume processing."
+      }
+    }
+  ]
+}
+</script>
 
 ---
 

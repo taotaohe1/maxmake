@@ -1,4 +1,6 @@
-# HiMill D1/D1S Moving Axis Motor Replacement
+# HiMill D1/D1S Moving Axis Motor Replacement Guide: XYZ Motor Swap Tutorial
+
+Learn how to replace X, Y, and Z axis motors on [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) CNC machine. This guide covers safety precautions, motor removal steps, and installation procedures for each axis.
 
 ---
 

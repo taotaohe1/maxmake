@@ -1,4 +1,6 @@
-# HiMill D1S Dust Collection System
+# HiMill D1S Dust Collection | MAXMAKE Wiki
+
+Learn how to install and use the dust collection system for MAXMAKE HiMill D1S CNC machine. This guide covers magnetic hood attachment, vacuum connection, and usage recommendations for different materials.
 
 ## 1. Dust Hood Installation
 

@@ -1,4 +1,6 @@
-﻿# 3D Probe
+# HiMill D1S 3D Probe Installation Guide: Bracket Setup & Probe Connection
+
+Learn how to install the [3D probe](https://maxmake.com/products/3d-probe) accessory for HiMill D1S CNC machine. This guide covers bracket installation, spindle adjustment, probe connection, cable direction, and proper storage methods.
 
 ## 1. 3D Probe Accessory List
 

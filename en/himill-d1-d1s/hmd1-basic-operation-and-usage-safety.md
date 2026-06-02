@@ -1,6 +1,6 @@
-# HiMill D1 Basic Operation and Usage Safety
+# HiMill D1 Basic Operation & Safety Guide: Power, Connection & Machining Safety
 
-This document introduces the basic operation methods and safety usage specifications for HiMill D1 equipment. Please read carefully and comply with all safety regulations before use.
+Learn essential safety procedures for HiMill D1 CNC machine operation. This guide covers voltage settings, USB connection, clamping safety, safety door requirements, and power-off maintenance procedures.
 
 ---
 

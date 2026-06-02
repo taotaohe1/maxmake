@@ -1,6 +1,6 @@
-# HiMill D1 Introduction
+# HiMill D1 Introduction | MAXMAKE Wiki
 
-HiMill D1 is a high-performance desktop CNC engraving/milling machine designed for individual creators, DIY enthusiasts, and small workshops. It integrates precision mechanical structure, intelligent control system, and user-friendly operation interface, providing users with a complete solution from creative design to physical processing.
+MAXMAKE HiMill D1 is a high-performance desktop CNC engraving and milling machine for creators and workshops. Learn key features, technical specifications, application scenarios, and safety tips for your HiMill D1.
 
 ## Main Features
 

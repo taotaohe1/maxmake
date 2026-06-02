@@ -1,4 +1,6 @@
-# Collet Kit
+# HiMill D1S Collet Kit Guide: 6mm Collet & Reduction Sleeve Installation
+
+Learn how to install and use the [collet kit](https://maxmake.com/products/collet-kit) for HiMill D1S CNC machine. This guide covers 6mm collet installation, reduction sleeve usage, tool clamping methods, and proper tool securing techniques.
 
 ## 1. Accessory List
 

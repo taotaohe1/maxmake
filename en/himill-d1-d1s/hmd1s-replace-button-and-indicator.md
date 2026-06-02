@@ -1,4 +1,6 @@
-# HiMill D1/D1S Button and Indicator Replacement
+# HiMill D1/D1S Button & Indicator Replacement Guide: LED & Switch Swap
+
+Learn how to replace external and internal buttons and indicators on HiMill D1/D1S CNC machine. This guide covers safety precautions, component removal, and installation steps for control interface repair.
 
 ---
 
