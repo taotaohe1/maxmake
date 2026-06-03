@@ -2,459 +2,459 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Home Page -->
   <url>
-    <loc>https://www.maxmake.com/eng/en/home</loc>
+    <loc>https://wiki.maxmake.com/en/home</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>1.0</priority>
   </url>
 
   <!-- HiMill D1/D1S Product Pages -->
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1s</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1s</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.9</priority>
   </url>
 
   <!-- MaxmakeLab -->
   <url>
-    <loc>https://www.maxmake.com/eng/en/maxmakelab</loc>
+    <loc>https://wiki.maxmake.com/en/maxmakelab</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.8</priority>
   </url>
 
   <!-- FAQ -->
   <url>
-    <loc>https://www.maxmake.com/eng/en/faq</loc>
+    <loc>https://wiki.maxmake.com/en/faq</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
 
   <!-- Parameters -->
   <url>
-    <loc>https://www.maxmake.com/eng/en/tool-parameters</loc>
+    <loc>https://wiki.maxmake.com/en/tool-parameters</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/laser-parameters</loc>
+    <loc>https://wiki.maxmake.com/en/laser-parameters</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/post-processors</loc>
+    <loc>https://wiki.maxmake.com/en/post-processors</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
 
   <!-- Package Damage Guide -->
   <url>
-    <loc>https://www.maxmake.com/eng/en/package-damage-guide</loc>
+    <loc>https://wiki.maxmake.com/en/package-damage-guide</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
 
   <!-- Beginners Guide -->
   <url>
-    <loc>https://www.maxmake.com/eng/en/beginners-guide/cnc</loc>
+    <loc>https://wiki.maxmake.com/en/beginners-guide/cnc</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/beginners-guide/laser</loc>
+    <loc>https://wiki.maxmake.com/en/beginners-guide/laser</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/beginners-guide/what-is-cnc</loc>
+    <loc>https://wiki.maxmake.com/en/beginners-guide/what-is-cnc</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/beginners-guide/what-is-cam</loc>
+    <loc>https://wiki.maxmake.com/en/beginners-guide/what-is-cam</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/beginners-guide/what-is-laser</loc>
+    <loc>https://wiki.maxmake.com/en/beginners-guide/what-is-laser</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/beginners-guide/clamping-guide</loc>
+    <loc>https://wiki.maxmake.com/en/beginners-guide/clamping-guide</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/beginners-guide/speed-and-feed</loc>
+    <loc>https://wiki.maxmake.com/en/beginners-guide/speed-and-feed</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/beginners-guide/tool-selection</loc>
+    <loc>https://wiki.maxmake.com/en/beginners-guide/tool-selection</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/beginners-guide/material-selection</loc>
+    <loc>https://wiki.maxmake.com/en/beginners-guide/material-selection</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/beginners-guide/feeds-and-speeds-guide</loc>
+    <loc>https://wiki.maxmake.com/en/beginners-guide/feeds-and-speeds-guide</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/beginners-guide/laser-clamping-guide</loc>
+    <loc>https://wiki.maxmake.com/en/beginners-guide/laser-clamping-guide</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/beginners-guide/material-processing-limits</loc>
+    <loc>https://wiki.maxmake.com/en/beginners-guide/material-processing-limits</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/beginners-guide/laser-parameters-guide</loc>
+    <loc>https://wiki.maxmake.com/en/beginners-guide/laser-parameters-guide</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/beginners-guide/laser-safety-guide</loc>
+    <loc>https://wiki.maxmake.com/en/beginners-guide/laser-safety-guide</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
 
   <!-- HiMill D1/D1S Guides -->
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1-introduction</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1-introduction</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-introduction</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-introduction</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1-unboxing-guide</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1-unboxing-guide</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-unboxing-guide</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-unboxing-guide</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1-first-use</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1-first-use</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-first-use</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-first-use</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1-tool-installation</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1-tool-installation</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-tool-installation</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-tool-installation</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1-spindle-maintenance</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1-spindle-maintenance</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-spindle-maintenance</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-spindle-maintenance</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1-guide-rail-lead-screw-maintenance</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1-guide-rail-lead-screw-maintenance</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-guide-rail-lead-screw-maintenance</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-guide-rail-lead-screw-maintenance</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1-dust-collection-system</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1-dust-collection-system</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-dust-collection-system</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-dust-collection-system</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-connection</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-connection</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-movement-and-positioning</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-movement-and-positioning</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-processing-control</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-processing-control</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-height-map</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-height-map</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-3d-probe</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-3d-probe</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-3d-probe-using</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-3d-probe-using</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-rotation-axis</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-rotation-axis</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-rotation-axis-processing</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-rotation-axis-processing</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1-rotation-axis-processing</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1-rotation-axis-processing</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-laser-module</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-laser-module</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-laser-processing</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-laser-processing</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-jaw-vise</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-jaw-vise</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-side-clamp</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-side-clamp</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-vacuum-platform</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-vacuum-platform</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-safe-door-setting</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-safe-door-setting</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-network-configuration</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-network-configuration</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-firmware-upgrade</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-firmware-upgrade</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-firmware-release-record</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-firmware-release-record</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
 
   <!-- Troubleshooting -->
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-cannot-power-on</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-cannot-power-on</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-cannot-connect-software-via-usb</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-cannot-connect-software-via-usb</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-cannot-connect-software-via-wifi</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-cannot-connect-software-via-wifi</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-spindle-issue</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-spindle-issue</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-moving-axis-issue</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-moving-axis-issue</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-limit-switch-issue</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-limit-switch-issue</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-cutting-issue-handling</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-cutting-issue-handling</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-processing-stop-issue-handling</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-processing-stop-issue-handling</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-button-and-indicator-issue</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-button-and-indicator-issue</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-alarm2-error</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-alarm2-error</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-software-error-query</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-software-error-query</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
 
   <!-- Replacement Guides -->
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1-replace-spindle</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1-replace-spindle</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-replace-spindle</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-replace-spindle</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-replace-limit-switch</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-replace-limit-switch</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-replace-probe</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-replace-probe</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-replace-sd-card</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-replace-sd-card</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-replace-button-and-indicator</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-replace-button-and-indicator</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-replace-air-cabinet</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-replace-air-cabinet</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-replace-platform-base</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-replace-platform-base</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-replace-moving-axis-motor</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-replace-moving-axis-motor</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
 
   <!-- Other Guides -->
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1-basic-operation-and-usage-safety</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1-basic-operation-and-usage-safety</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-basic-operation-and-usage-safety</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-basic-operation-and-usage-safety</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1-nx-postprocessor-installation</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1-nx-postprocessor-installation</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-collet-kit</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-collet-kit</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-button-and-indicator</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-button-and-indicator</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-detection-function</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-detection-function</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-dust-cleaning</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-dust-cleaning</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-format-sd-card</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-format-sd-card</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/himill-d1-d1s/hmd1s-workpiece-installation</loc>
+    <loc>https://wiki.maxmake.com/en/himill-d1-d1s/hmd1s-workpiece-installation</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
 
   <!-- MaxmakeLab Guides -->
   <url>
-    <loc>https://www.maxmake.com/eng/en/maxmakelab/maxmakelab-introduction</loc>
+    <loc>https://wiki.maxmake.com/en/maxmakelab/maxmakelab-introduction</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/maxmakelab/maxmakelab-installation</loc>
+    <loc>https://wiki.maxmake.com/en/maxmakelab/maxmakelab-installation</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.maxmake.com/eng/en/maxmakelab/maxmakelab-software-manual</loc>
+    <loc>https://wiki.maxmake.com/en/maxmakelab/maxmakelab-software-manual</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.7</priority>
   </url>
