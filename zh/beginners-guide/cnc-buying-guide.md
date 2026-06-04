@@ -23,7 +23,7 @@
 80mm 的 Z 轴行程，让你在装夹 30-50mm 厚度木料时，依然有充足的空间退刀，进行深腔加工或 3D 浮雕游刃有余。
 
 <img src="/chi/beginners-guide/media/cnc-buying-guide/加工范围.png" alt="HiMill D1S 有效加工区域" style="width: 70%; height: auto; border-radius: 10px;" />
-<img src="/chi/beginners-guide/media/cnc-buying-guide/加工范围Z.png" alt="HiMill D1S 极限尺寸工件加工" style="width: 70%; height: auto; border-radius: 10px;" />
+<img src="/chi/beginners-guide/media/cnc-buying-guide/加工范围z.png" alt="HiMill D1S 极限尺寸工件加工" style="width: 70%; height: auto; border-radius: 10px;" />
 
 ## 二、机架刚性与结构稳定性：精度的生命线
 
