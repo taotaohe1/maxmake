@@ -1,8 +1,8 @@
-# HiMill D1S Collet Kit: Unlock Unlimited Multi-Material Machining Possibilities
+# HiMill D1S Collet Kit | MAXMAKE Wiki
 
 In CNC machining, the collet is not just a tool-holding component; it is the "precision bridge" connecting spindle power to the cutting end.
 
-While the standard collet system that comes with HiMill D1S is already excellent, the **6mm Professional Collet Kit** is a must-have upgrade for every advanced maker looking to tackle heavier cutting tasks (such as high-feed aluminum alloy cutting) or complex process transitions (like quickly switching between probe and milling tools).
+While the standard collet system that comes with **MAXMAKE HiMill D1S** is already excellent, the **6mm Professional Collet Kit** is a must-have upgrade for every advanced maker using **MAXMAKE HiMill D1/D1S** looking to tackle heavier cutting tasks (such as high-feed aluminum alloy cutting) or complex process transitions (like quickly switching between probe and milling tools). Get your [MAXMAKE Collet Kit](https://maxmake.com/products/collet-kit) today.
 
 ## 1. Accessory List & Core Functions
 
@@ -15,7 +15,7 @@ This kit is more than just a collection of parts - it forms a **"Universal Clamp
 
 Accessory contents as follows:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/1-展示配件.webp" alt="Accessory Display" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/1-展示配件.webp" alt="MAXMAKE HiMill D1S 6mm Collet Kit Accessories Display" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 2. Why Do You Need This Expansion Kit? (Advanced Users Must Read)
 
@@ -33,15 +33,15 @@ By using the 6mm collet as the "permanent base" on the spindle, combined with re
 
 ### 2.2 Perfect Compatibility with 3D Probe
 
-Finding the workpiece origin is crucial before precision machining. MAXMAKE's **3D Touch Probe (Digital Probe)** typically uses a standard shank diameter.
+Finding the workpiece origin is crucial before precision machining. **MAXMAKE**'s **3D Touch Probe (Digital Probe)** typically uses a standard shank diameter. Learn more about the [MAXMAKE 3D Probe](https://maxmake.com/products/3d-probe).
 
-Using the **6mm to 3.175mm reduction sleeve**, you can instantly mount the precision probe into the 6mm base.
+Using the **6mm to 3.175mm reduction sleeve**, you can instantly mount the precision probe into the **HiMill D1S** 6mm base.
 
 This combination ensures probe mounting concentricity, elevating automatic tool setting and surface mapping (Auto-leveling) precision to the micron level.
 
 ### 2.3 Enhanced Heavy Cutting Stability
 
-When cutting 6061 aluminum alloy or deep slotting in hardwood, 3.175mm shank tools tend to deflect or vibrate. Using 6mm shank tools with this collet kit significantly improves **cutting rigidity**, eliminates resonance, and achieves "mirror-like" surface finish.
+When cutting 6061 aluminum alloy or deep slotting in hardwood on your **MAXMAKE HiMill D1S**, 3.175mm shank tools tend to deflect or vibrate. Using 6mm shank tools with this **MAXMAKE** collet kit significantly improves **cutting rigidity**, eliminates resonance, and achieves "mirror-like" surface finish.
 
 ## 3. Collet Installation
 
@@ -49,19 +49,19 @@ When cutting 6061 aluminum alloy or deep slotting in hardwood, 3.175mm shank too
 
 First, you need to remove the existing collet from the spindle:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/2-取下旧夹头.webp" alt="Remove Old Collet" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/2-取下旧夹头.webp" alt="MAXMAKE HiMill D1S Remove Old Collet from Spindle" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 3.2 Take Out New Collet
 
 Remove the new 6mm collet from the package:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/3-拿出新夹头.webp" alt="Take Out New Collet" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/3-拿出新夹头.webp" alt="MAXMAKE HiMill D1S Take Out New 6mm Collet" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 3.3 Tighten Collet
 
 Install the new collet onto the spindle and tighten with wrench:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/4-拧紧夹头.webp" alt="Tighten Collet" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/4-拧紧夹头.webp" alt="MAXMAKE HiMill D1S Tighten New Collet with Wrench" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 4. Tool Clamping
 
@@ -69,13 +69,13 @@ Install the new collet onto the spindle and tighten with wrench:
 
 The 6mm collet is specifically designed for clamping 6mm diameter tools:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/5-6mm夹头可夹取6mm刀具.webp" alt="6mm Collet Clamps 6mm Tool" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/5-6mm夹头可夹取6mm刀具.webp" alt="MAXMAKE HiMill D1S 6mm Collet Clamps 6mm Tool" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ### 4.2 Using Reduction Sleeve
 
 Using the reduction sleeve allows clamping tools of different sizes, expanding the collet's range of application:
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/6-用变径套夹取不同尺寸的刀具.webp" alt="Use Reduction Sleeve to Clamp Different Size Tools" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+<img src="/eng/himill-d1-d1s/media/hmd1s-collet-kit/6-用变径套夹取不同尺寸的刀具.webp" alt="MAXMAKE HiMill D1S Use Reduction Sleeve for Different Size Tools" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 ## 5. Expert Precautions (⚠️ Must Read)
 
@@ -93,6 +93,6 @@ Using the reduction sleeve allows clamping tools of different sizes, expanding t
 
 ## 6. Conclusion: The Cornerstone of Advanced Machining
 
-This collet kit is not just an accessory expansion for HiMill D1S; it marks your **transition from "beginner making" to "precision engineering"**. It not only enables clamping larger tools but also establishes a closed-loop workflow encompassing **high-speed milling, precision probing, and rapid tool changes** through the reduction sleeve system.
+This collet kit is not just an accessory expansion for **MAXMAKE HiMill D1S**; it marks your **transition from "beginner making" to "precision engineering"**. It not only enables clamping larger tools but also establishes a closed-loop workflow encompassing **high-speed milling, precision probing, and rapid tool changes** through the reduction sleeve system. Discover more about the [MAXMAKE HiMill D1S](https://maxmake.com/products/himill-d1s).
 
 If you pursue professional cutting results or are preparing to use a 3D probe for high-precision tool setting, this 6mm collet expansion kit will be your indispensable assistant.
