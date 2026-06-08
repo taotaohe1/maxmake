@@ -43,11 +43,11 @@ Take out the 8mm air pipe, pass through the interface, and insert one end into t
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-vacuum-platform/3-气管连接-插入平台.webp" alt="Air Pipe Inserted into Platform Interface" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-## 5. Two Connection Methods
+## 5. Connection Methods
 
 The other end has two connection methods:
 
-### 5.1 Method 1: With air compressor (recommended specification ≥-90kpa)
+### With air compressor (recommended specification ≥-90kpa)
 
 Air compressor diagram:
 
@@ -59,46 +59,14 @@ First connect the vacuum generator to the other end, then connect the air pipe o
 
 <img src="/eng/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-有空压机-接入进气口.webp" alt="Air Compressor Pipe Connected to Air Inlet" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-### 5.2 Method 2: Use the vacuum air pump from the accessories (pre-installed with a filter system to avoid damage to the air pump from processing debris)
+### Use a vacuum air pump
 
-Accessory contents:
-- ✅ Power supply × 1
-- ✅ Vacuum air pump × 1
-- ✅ Filter element × 2
+You can also use a vacuum air pump (recommended specification ≥-75kpa). Please note:
 
-Accessory display:
-
-<img src="/eng/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-真空气泵-配件展示.webp" alt="Accessory Display" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-
-Take out the vacuum air pump and power supply, and insert the power supply into the interface of the circuit board:
-
-<img src="/eng/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-真空气泵-气泵电源.webp" alt="Vacuum Air Pump and Power Supply" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-
-Insert the other end of the air pipe into the interface of the filter. Turn on the power to start pumping air for use:
-
-<img src="/eng/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-真空气泵-插入过滤器.webp" alt="Air Pipe Inserted into Filter" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-
-<img src="/eng/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-真空气泵-打开开关.webp" alt="Turn On Switch" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-
-## 6. Filter Element Replacement Method
-
-Filter element replacement steps:
-
-As shown in the figure, rotate to unscrew the nut:
-
-<img src="/eng/himill-d1-d1s/media/hmd1s-vacuum-platform/6-滤芯替换-拧下螺帽.webp" alt="Unscrew Nut" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-
-Take out the filter element:
-
-<img src="/eng/himill-d1-d1s/media/hmd1s-vacuum-platform/6-滤芯替换-取出滤芯.webp" alt="Take Out Filter Element" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-
-Put in the new filter element:
-
-<img src="/eng/himill-d1-d1s/media/hmd1s-vacuum-platform/6-滤芯替换-放入新滤芯.webp" alt="Put in New Filter Element" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-
-Screw back the nut:
-
-<img src="/eng/himill-d1-d1s/media/hmd1s-vacuum-platform/6-滤芯替换-拧回螺母.webp" alt="Screw Back Nut" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+> 💡 **Usage Tips**
+> - The vacuum air pump must be pre-installed with a filter system to prevent processing debris from damaging the pump
+> - When installing, connect directly to the air source interface; no need to connect to the vacuum generator
+> {.is-info}
 
 ## 7. Notes
 

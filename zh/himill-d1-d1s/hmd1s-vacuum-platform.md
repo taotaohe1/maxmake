@@ -41,11 +41,10 @@
 
 <img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/3-气管连接-插入平台.webp" alt="气管插入到平台接口处" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-## 5. 两种连接方式
+## 5. 连接方式
 
-另一端有两种连接方式：
 
-### 5.1 第一种：有空压机（规格推荐≥-90kpa）
+### 有空压机（规格推荐≥-90kpa）
 
 空压机示意图：
 
@@ -57,48 +56,14 @@
 
 <img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-有空压机-接入进气口.webp" alt="空压机气管接入进气口" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
-### 5.2 第二种：使用配件中的真空气泵（预装了过滤系统，可避免加工碎屑损坏气泵）
+也可以使用真空气泵（规格推荐≥-75kpa）。使用时请注意：
 
-配件内容：
-- ✅ 电源 × 1
-- ✅ 真空气泵 × 1
-- ✅ 滤芯 × 2
+> 💡 **使用提示**
+> - 真空气泵需预装过滤系统，防止加工碎屑损坏气泵
+> - 安装时直接连接到气源接口即可，无需连接真空发生器
+> {.is-info}
 
-配件展示：
-
-<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-真空气泵-配件展示.webp" alt="配件展示" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-
-取出真空气泵和电源，将电源插入到电路板的接口处：
-
-<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-真空气泵-气泵电源.webp" alt="真空气泵和电源" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-
-将另一端的气管插入到过滤器的接口中。打开电源即可抽气使用：
-
-<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-真空气泵-插入过滤器.webp" alt="气管插入过滤器中" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-
-<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/5-连接方式-真空气泵-打开开关.webp" alt="打开开关" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-
-## 6. 滤芯替换方法
-
-滤芯替换步骤：
-
-如图所示，旋转拧下螺帽：
-
-<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/6-滤芯替换-拧下螺帽.webp" alt="拧下螺帽" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-
-取出滤芯：
-
-<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/6-滤芯替换-取出滤芯.webp" alt="取出滤芯" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-
-放入新的滤芯：
-
-<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/6-滤芯替换-放入新滤芯.webp" alt="放入新的滤芯" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-
-拧回螺帽：
-
-<img src="/chi/himill-d1-d1s/media/hmd1s-vacuum-platform/6-滤芯替换-拧回螺母.webp" alt="拧回螺母" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
-
-## 7. 注意事项
+## 6. 注意事项
 
 > ⚠️ **安全提醒**
 > - 在加工完成后，请先关闭真空气泵后，等待1~2分钟，再取下工件并及时清理真空平台
