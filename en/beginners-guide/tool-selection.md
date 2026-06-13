@@ -34,7 +34,7 @@ Common shank sizes include 1/8", 4mm, 6mm, 1/4", etc.
 
 Cutting diameter is the diameter of the part that actually cuts the material. This is often the key parameter for machining detail and accuracy—not the shank diameter.
 
-<img src="/eng/beginners-guide/media/tool-selection/切削直径.jpg" alt="Cutting Diameter Diagram" style="width: 30%; height: auto; border-radius: 10px;" />
+<img src="/eng/beginners-guide/media/tool-selection/直径.jpg" alt="Cutting Diameter Diagram" style="width: 30%; height: auto; border-radius: 10px;" />
 
 Some tools have a different cutting diameter than their shank diameter. In that case, you must look at the cutting diameter.
 
