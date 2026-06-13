@@ -1,724 +1,875 @@
-# CNC Tool Selection Guide for HiMill D1/D1S | MAXMAKE Wiki
+# CNC Tool Selection Complete Guide
 
-Learn how to choose the right CNC tools for [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products). This guide covers tool types, sizes, materials, and selection criteria for optimal machining results.
+In CNC machining, the machine provides the power, but the tool is what truly "goes head-to-head" with the material. Choosing the right tool often determines 80% of your machining success. It directly affects your cutting speed, surface finish, tool life, and even machine wear.
 
-For beginners just starting with [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) CNC, choosing the right tool can be confusing. There are various shapes, sizes, and materials of tools on the market - they all look similar, but actually each has its own purpose! This article will explain CNC tool knowledge in the simplest language, turning you from a "tool novice" to a "tool expert"!
+Tool selection is not magic or guesswork—it follows a rigorous matching logic based on material, process, and size. This article breaks down CNC tool selection using four core dimensions:
 
-## 🤔 Why is Tool Selection So Important?
+- **Understand key parameters**: Learn the "ID card" of a tool—shank diameter, cutting diameter, overall length, flute length, number of flutes, angles (helix angle/rake angle/clearance angle), and corner radius—all of which define the tool's capability limits.
+- **Recognize shape and purpose**: Review 9 most common tool types and their dedicated use cases: end mill, ball nose end mill, V-bit, corn mill, drill bit, taper end mill, cutting tool, flat end mill, bull nose end mill.
+- **Read coating "armor"**: Explain the protective principles behind uncoated, TiN (gold), TiCN (bronze/bronze-like), AlTiN (purple-black), and DLC (rainbow-colored).
+- **Beginner tool recommendations**: Provide a ready-to-use set of 9 beginner "go-to" tools that covers 90% of everyday machining needs: corn mill, double-flute ball nose, DLC single-flute end mill, DLC three-flute end mill, 6mm three-flute end mill, TiN flat end mill, drill bit, chamfer tool, and thread mill.
 
-Imagine this: what would happen if you tried to cut hair with a kitchen knife, or cut vegetables with scissors? It would definitely be slow, ineffective, and might even damage the tool!
+Once you master this logic—choose coatings and flutes by material, choose tool geometry by process, and set dimensions by your machine and drawing—you will no longer feel tool-selection anxiety. You can start producing high-quality CNC work confidently.
 
-Similarly, **choosing the right CNC tool** directly affects:
-- ✅ Processing speed: A good tool helps you complete your work faster
-- ✅ Processing quality: Smoother surfaces, clearer details
-- ✅ Tool lifespan: Using the right tool makes it last longer
-- ✅ Material cost: Reduce waste, lower costs
-- ✅ Machine wear: Proper tool selection protects the spindle, motor and transmission
+## 📏 Tool Basic Parameters
 
-Therefore, understanding basic tool knowledge and learning to choose the right tool is a necessary skill for CNC beginners!
+Before choosing a tool, you must understand what the numbers and symbols on the tool mean. These parameters are like the tool's "ID," telling you what it can do and how it performs. Each parameter defines the upper limit of tool capability.
 
-## 📏 Basic Tool Parameters
+### 🛡️ Shank Diameter
 
-Before selecting a tool, we need to understand what those "numbers and symbols" on the tool mean. These parameters are like the tool's "ID card", telling us what it can do and how to use it.
+The shank diameter is simply the diameter of the part of the tool that inserts into the machine. It primarily relates to collet/holder compatibility, and it has little direct impact on machining precision.
 
-### 📏 Diameter
+<img src="/eng/beginners-guide/media/tool-selection/柄径.jpg" alt="Tool Shank Diameter Diagram" style="width: 30%; height: auto; border-radius: 10px;" />
 
-**Simply put: The thickness of the tool**
+Common shank sizes include 1/8", 4mm, 6mm, 1/4", etc.
 
-<img src="/eng/beginners-guide/media/tool-selection/直径.jpg" alt="Tool Diameter Diagram" style="width: 20%; height: auto; border-radius: 10px;" />
+**Why it matters:**
+- The shank diameter must match your CNC machine's collet/toolholder system.
+- If your machine only supports 4mm shanks, you cannot use a 6mm-shank tool.
+- A mismatch can lead to poor clamping, misalignment, excessive runout, vibration, and even tool breakage.
 
-Diameter is the most basic parameter of a tool, usually expressed in **millimeters (mm)**.
-
-- **Small diameter tools (1-3mm)**: Less rigid, smaller cutting depth, but can carve extremely fine patterns, small characters and narrow grooves
-- **Medium diameter tools (4-6mm)**: Balanced rigidity and detail, ideal for daily processing
-- **Large diameter tools (8-12mm)**: Very rigid, large cutting depth, suitable for quickly cutting large materials and large area surface milling
-
-**Beginner Tip:**
-- Use small diameter tools (1-3mm) for fine patterns
-- Use large diameter tools (6-12mm) for cutting large materials
-- **Never use small tools for large materials, or large tools for fine details**
+**Beginner tip:** Many desktop CNC machines use 4mm shanks, and "step-down" adapters (e.g., 4mm shank / cutting at 3mm) exist to fit desktop designs.
 
 ### ✂️ Cutting Diameter
 
-**Simply put: The diameter of the part that actually "cuts things"**
+Cutting diameter is the diameter of the part that actually cuts the material. This is often the key parameter for machining detail and accuracy—not the shank diameter.
 
 <img src="/eng/beginners-guide/media/tool-selection/切削直径.jpg" alt="Cutting Diameter Diagram" style="width: 30%; height: auto; border-radius: 10px;" />
 
-Some tools have different diameters for the shank and cutting part, so we need to look at the cutting diameter.
+Some tools have a different cutting diameter than their shank diameter. In that case, you must look at the cutting diameter.
 
-For example: Some tools have a 6mm shank but only a 3mm cutting part, so their cutting diameter is 3mm.
-
-**Why is it important?**
-- Cutting diameter determines how wide the tool can cut and how fine it can carve
-- When selecting cutting diameter, consider the material thickness and processing detail requirements
-- If the cutting diameter is larger than the line width you want to carve, it will cause loss of detail
+**Why it matters:**
+- Cutting diameter determines how wide the tool can cut and how finely it can trace details.
+- If the cutting diameter is larger than the width of the detail you need, you will lose definition.
 
 ### 📐 Overall Length
 
-**Simply put: The tool's "height", total length from the tip to the end of the shank**
+Overall length is essentially the "height" of the tool—from the very tip to the end of the shank. It is typically 50–100mm.
 
 <img src="/eng/beginners-guide/media/tool-selection/总长.jpg" alt="Tool Overall Length Diagram" style="width: 30%; height: auto; border-radius: 10px;" />
 
-Overall length is usually expressed in **millimeters (mm)**, generally between 50-100mm.
+**Why it matters:**
+- Overall length must fit your machine's spindle nose and your Z-axis travel.
+- If the tool is too long, it increases the overhang length, causing tool "wobble," vibration, worse precision, and shorter tool life.
+- If it is too short, it may not reach the material or could collide.
 
-**Why is it important?**
-- Overall length must be suitable for your CNC machine's tool holder length and Z-axis travel
-- Too long tools are prone to "vibration", affecting processing precision and tool life
-- Too short tools may not reach the material to be processed
-
-**Beginner Golden Rule:** Always choose short tools over long ones; only use extended tools for deep cavity or thick material processing
+**Beginner golden rule:** Choose a shorter tool whenever possible. Only use longer tools for deep pocketing or thick material machining.
 
 ### 📏 Flute Length
 
-**Simply put: The length of the part with "spiral grooves" on the tool**
+Flute length is the length of the cutting portion (the helical/grooved area). It determines the maximum effective cutting depth.
 
 <img src="/eng/beginners-guide/media/tool-selection/刃长.jpg" alt="Tool Flute Length Diagram" style="width: 30%; height: auto; border-radius: 10px;" />
 
-Flute length determines the maximum effective cutting depth of the tool.
+**Key idea:**
+- If a tool has 10mm flute length, you generally cannot cut the full 10mm depth; you should reserve a safety margin.
+- As a rule of thumb: flute length should be 1–2mm longer than the depth you intend to cut.
 
-- For example: A tool with 10mm flute length can cut up to 9mm deep, leaving 1mm safety margin
-- For example: A tool with 20mm flute length can cut up to 19mm deep
+**Why it matters:**
+- Too long flute length reduces rigidity and increases vibration risk.
+- Too short flute length can increase friction between the holder/shank and the workpiece, causing heat and discoloration.
 
-**Beginner Tip:**
-- Flute length should be 1-2mm longer than the depth you need to cut
-- For example: To cut 8mm deep material, a tool with 10mm flute length is sufficient
-- Too long flute length reduces rigidity and causes vibration; too short flute length causes shank friction and burns
+### 🔪 Number of Flutes (Teeth/Edges)
 
-### 🔪 Number of Flutes
-
-**Simply put: How many "cutting edges" the tool has**
+Number of flutes is one of the most common "beginner traps." Tools can have 1, 2, 3, or 4 flutes, and the number strongly affects:
+- chip evacuation space,
+- rigidity,
+- surface finish quality.
 
 <img src="/eng/beginners-guide/media/tool-selection/刃数.jpg" alt="Tools with Different Number of Flutes" style="width: 30%; height: auto; border-radius: 10px;" />
 
-Common flute counts include: 1-flute, 2-flute, 3-flute, 4-flute, etc.
+**Typical guidance:**
+- **1 flute**: best chip space and very sharp cutting, but the weakest rigidity.
+- **2 flutes**: best balance between chip evacuation and rigidity; usually the highest tolerance.
+- **3 flutes**: common for light metal cutting; balanced performance.
+- **4 flutes**: strongest rigidity and wear resistance, but chip evacuation can be worse.
 
-- **1-flute**: Largest chip evacuation space, sharpest cutting edge, but weakest rigidity
-- **2-flute**: Best balance between chip evacuation and rigidity, highest fault tolerance
-- **3-flute**: Specialized for light metal cutting, balances efficiency and finish
-- **4-flute**: Strongest rigidity, highest wear resistance, but worst chip evacuation
-
-**Beginner Tip:**
+**Beginner tip:**
+- Soft materials (wood, plastic, acrylic): use 1–2 flutes.
+- Hard materials (metal, aluminum, steel): use 3–4 flutes.
+- More flutes generally suits fine finishing; fewer flutes suits roughing.
 - Use 1-2 flute tools for soft materials (wood, plastic, acrylic)
 - Use 3-4 flute tools for hard materials (metal, aluminum alloy, steel)
 - More flutes = better for finishing; fewer flutes = better for roughing
 
 ### 🔺 Angle Parameters
 
-There are several important angle parameters on tools, which sound complex but are actually easy to understand:
+Tool angles may sound complex, but they affect cutting sharpness, durability, and cutting behavior. These are the most important ones:
 
 #### 🔺 Helix Angle
 
-**Simply put: The tilt angle of the spiral grooves on the cutting edge**
+Helix angle is the inclination of the helical cutting edge.
 
 <img src="/eng/beginners-guide/media/tool-selection/螺旋角.jpg" alt="Helix Angle Diagram" style="width: 30%; height: auto; border-radius: 10px;" />
 
-- Small helix angle (0-20°): Stronger tool body, wear-resistant and impact-resistant, suitable for hard materials and roughing
-- Large helix angle (30-60°): Sharper cutting, faster chip evacuation, suitable for soft materials and finishing
+- Small helix (0–20°): more rigid tool body; better for hard materials and roughing
+- Larger helix (30–60°): sharper cutting and faster chip evacuation; better for soft materials and finishing
 
 #### 🔺 Rake Angle
 
-**Simply put: The "sharpness" of the cutting edge**
+Rake angle describes how "sharp" the cutting edge is.
 
 <img src="/eng/beginners-guide/media/tool-selection/前角.jpg" alt="Rake Angle Diagram" style="width: 30%; height: auto; border-radius: 10px;" />
 
-- Positive rake angle: Sharper cutting edge, lower cutting resistance, suitable for soft materials, but lower strength
-- Negative rake angle: Stronger cutting edge, impact-resistant, suitable for hard materials, but higher cutting resistance
+- Positive rake: sharper cutting and lower cutting resistance, but weaker edge strength
+- Negative rake: stronger and more impact-resistant, but higher cutting resistance
 
 #### 🔺 Clearance Angle
 
-**Simply put: The tilt angle behind the cutting edge**
+Clearance angle reduces friction between the tool and the material.
 
 <img src="/eng/beginners-guide/media/tool-selection/后角.jpg" alt="Clearance Angle Diagram" style="width: 30%; height: auto; border-radius: 10px;" />
 
-The role of clearance angle is to reduce friction between the tool and material, making cutting smoother.
+- Larger clearance angle → less friction and smoother surface, but more fragile cutting edge
+- Smaller clearance angle → stronger tool edge, but higher friction and more risk of overheating/burning
 
-- Larger clearance angle = less friction = smoother surface, but weaker cutting edge
-- Smaller clearance angle = stronger cutting edge, but more friction = material burning
+### 🎯 Corner Radius (Tool Tip Radius)
 
-### 🛡️ Shank Diameter
-
-**Simply put: The diameter of the part where the tool is inserted into the machine**
-
-<img src="/eng/beginners-guide/media/tool-selection/柄径.jpg" alt="Tool Shank Diameter Diagram" style="width: 30%; height: auto; border-radius: 10px;" />
-
-Common shank diameters include: 3mm, 6mm, 8mm, 12mm, etc.
-
-**Why is it important?**
-- Shank diameter must match your CNC machine's tool holder
-- For example: If your machine can only hold 6mm tool holders, you cannot use tools with 8mm shank diameter
-- Mismatched shank diameter causes clamping issues, eccentricity, vibration, and tool breakage
-
-**Beginner Tip:**
-- Most desktop CNC machines use 6mm shank diameter tools
-- Reduced shank tools (6mm shank, 3mm cutting) are designed for desktop machines
-
-### 🎯 Corner Radius
-
-**Simply put: The fillet size at the tool tip**
+Corner radius determines how the tool transitions at the tip and how well it cuts fine features.
 
 <img src="/eng/beginners-guide/media/tool-selection/刀尖半径.jpg" alt="Corner Radius Diagram" style="width: 50%; height: auto; border-radius: 10px;" />
 
-- Sharp tip (radius 0): Suitable for carving fine lines, text and right angles, sharp corners
-- Rounded tip (radius > 0): Suitable for cutting flat and curved surfaces, smoother surfaces, less chipping
-- Ball nose (radius = half cutting diameter): Specialized for 3D curved surfaces and relief processing
+- Sharp tip (radius = 0): best for engraving crisp lines, letters, and sharp corners
+- Radius > 0: better for cutting flat surfaces and curves, smoother finish, and lower chipping risk
+- Ball nose: when the radius equals half the cutting diameter, it is specifically for 3D surfaces and relief carving
 
-**Beginner Tip:**
-- Use sharp tips for carving text and patterns
-- Use rounded tips for cutting flat surfaces and large areas
-- Use ball nose tools for 3D relief and curved surface processing
+**Beginner tip:**
+- Letters and patterns: sharp tip tools
+- Flat and large surfaces: radius tools
+- 3D relief and curves: ball nose tools
 
 ## 🔧 Introduction to Common Tools
 
-Now that we understand the basic parameters of tools, let's look at common CNC tools on the market and their respective uses!
+Now that you understand the basic tool parameters, here are common CNC tool types and what each is best at, including key suitability notes.
 
 ### 🌀 End Mill
 
-**Simply put: "Universal tool", the most commonly used CNC tool**
+"Universal tool"—one of the most common CNC tools and the foundation of most machining.
 
 <img src="/eng/beginners-guide/media/tool-selection/螺旋铣刀.jpg" alt="End Mill" style="width: 50%; height: auto; border-radius: 10px;" />
 
-End mill is the most commonly used tool in CNC processing. Its cutting edge is spiral, like a "rotating drill".
+**Basic characteristics:**
+- Spiral flutes like a "rotating drill"
+- Capable of cutting, engraving, and milling
+- Available in multiple flute counts (1/2/3/4) for different needs
 
-**Features:**
-- ✅ Can cut, carve, and mill, versatile
-- ✅ Suitable for processing wood, plastic, metal and other materials
-- ✅ Available in different flute counts (1-flute, 2-flute, 3-flute, 4-flute)
+#### 1-Flute End Mill
 
-#### 1-flute End Mill
+Structure: a large single helical chip flute; very sharp cutting edge.
 
 <img src="/eng/beginners-guide/media/tool-selection/单刃螺旋铣刀.png" alt="1-flute End Mill" style="width: 50%; height: auto; border-radius: 10px;" />
 <img src="/eng/beginners-guide/media/tool-selection/单刃螺旋铣刀加工效果.png" alt="1-flute Cutting Effect" style="width: 70%; height: auto; border-radius: 10px;" />
 
-**Structural Features:** Single large spiral chip groove, extremely sharp cutting edge
+**Core advantages:**
+- For acrylic: cleaner cuts, less whitening, and mirror-like edges
+- For plastics: fewer burrs, reduced sticking
+- Chips are unlikely to clog and burn during cutting
 
-**Core Advantages:** Acrylic cutting without chipping, whitening or melting; mirror finish edges; plastic processing without burrs; no chip clogging or burning
+**Best for:** Acrylic, PVC, PP, ABS, resin, foam, and other soft/brittle materials
 
-**Suitable Materials:** Acrylic, PVC, PP, ABS, resin, foam and other soft and brittle materials
+**Shortcomings:**
+- Lower material removal rate per unit time
+- More sensitive to high feed rates and may cause vibration if not matched properly
 
 **Recommended:** [Single Flute Spiral End Mill for Non-Metallic Use](https://maxmake.com/products/single-flute-spiral-end-mill-for-non-metallic-use) | [Single Flute Spiral End Mill for Metal Use](https://maxmake.com/products/single-flute-spiral-end-mill-for-metal-use)
 
-#### 2-flute End Mill
+#### 2-Flute End Mill
+
+Structure: symmetric double helical flutes; balanced rigidity.
 
 <img src="/eng/beginners-guide/media/tool-selection/双刃螺旋铣刀.png" alt="2-flute End Mill" style="width: 50%; height: auto; border-radius: 10px;" />
 <img src="/eng/beginners-guide/media/tool-selection/双刃螺旋铣刀加工效果.png" alt="2-flute Cutting Effect" style="width: 70%; height: auto; border-radius: 10px;" />
 
-**Structural Features:** Symmetrical double spiral flutes, large chip evacuation space, balanced rigidity
+**Core advantages:**
+- Works across soft and hard materials
+- Wood cuts cleanly without chipping
+- Plastics do not burn easily
+- Light aluminum cutting is possible
+- Better stability: fewer vibrations and fewer breakages (high tolerance)
 
-**Core Advantages:** Versatile for both soft and hard materials; wood without chipping, plastic without burning; light aluminum processing possible; less vibration, less breakage, highest fault tolerance
+**Best for:** Solid wood, MDF, plywood, multilayer boards, plastics, soft aluminum, foams
 
-**Suitable Materials:** Solid wood, MDF, plywood, plastic, soft aluminum, foam materials
-
-**Limitations:** Finishing accuracy on high-density steel not as good as 4-flute; metal finishing not as good
-
-**Recommended Parameters:** 6mm shank, 35° helix angle, TiN coating (essential for beginners)
+**Shortcomings:**
+- Fine finishing on high-hardness steel is typically not as good as 3–4 flute tools
+- High-gloss metal finish may not be ideal
 
 **Recommended:** [Double Flute Ball End Mill for Non-Metallic Use](https://maxmake.com/products/double-flute-ball-end-mill-for-non-metallic-use)
 
-#### 3-flute End Mill
+#### 3-Flute End Mill
+
+Structure: equally spaced 3 cutting edges; chip evacuation, rigidity, and smoothness are balanced.
 
 <img src="/eng/beginners-guide/media/tool-selection/三刃螺旋铣刀.png" alt="3-flute End Mill" style="width: 50%; height: auto; border-radius: 10px;" />
 <img src="/eng/beginners-guide/media/tool-selection/三刃螺旋铣刀加工效果.png" alt="3-flute Cutting Effect" style="width: 70%; height: auto; border-radius: 10px;" />
 
-**Structural Features:** Three equally distributed flutes, perfect balance of chip evacuation, rigidity and smoothness
+**Core advantages:**
+- Optimized for aluminum cutting
+- Less sticking and lower risk of pulling/snagging
+- Very small cutting vibration; flatness on metal can be excellent
 
-**Core Advantages:** Specially optimized for aluminum alloy; no sticking, no pulling, no burrs; minimal cutting vibration; excellent surface finish
+**Best for:** Aluminum alloys, aluminum profiles, copper alloys, magnesium alloys, hard wood, high-density composites
 
-**Suitable Materials:** Aluminum alloy, aluminum profile, copper, magnesium alloy, hardwood, high-density composite board
-
-**Forbidden:** Not suitable for acrylic (vibration marks), not suitable for steel (insufficient hardness)
-
-**Recommended Parameters:** 6mm shank, 30° helix angle, TiCN coating
-
-#### 4-flute End Mill
-
-<img src="/eng/beginners-guide/media/tool-selection/四刃螺旋铣刀.png" alt="4-flute End Mill" style="width: 50%; height: auto; border-radius: 10px;" />
-<img src="/eng/beginners-guide/media/tool-selection/四刃螺旋铣刀加工效果.png" alt="4-flute Cutting Effect" style="width: 50%; height: auto; border-radius: 10px;" />
-
-**Structural Features:** Four densely distributed flutes, maximum rigidity and wear resistance
-
-**Core Advantages:** High-speed processing without vibration or runout; highest dimensional accuracy; extremely wear-resistant; fine surface finish without secondary polishing
-
-**Suitable Materials:** Carbon steel, stainless steel, mold steel, carbide, high-strength composites
-
-**Limitations:** Small chip grooves, prone to heat buildup and clogging in heavy roughing; not suitable for soft materials
-
-**Recommended Parameters:** 6mm shank, 25° helix angle, AlTiN coating
-
-**Common uses:**
-- Cutting sheet materials
-- Carving simple patterns
-- Milling flat surfaces
-- Processing grooves and steps
+**Taboo:**
+- Not ideal for acrylic (vibration artifacts may appear)
+- Not suitable for steel (insufficient hardness capability)
 
 ### ⚽ Ball Nose End Mill
 
-**Simply put: "Round head tool", can carve 3D curved surfaces**
+A "round-tip tool" for 3D carving. It is the go-to tool for relief and 3D surface machining.
 
 <img src="/eng/beginners-guide/media/tool-selection/球头刀.jpg" alt="Ball Nose End Mill" style="width: 50%; height: auto; border-radius: 10px;" />
 <img src="/eng/beginners-guide/media/tool-selection/球头铣刀加工效果.png" alt="Ball Nose Cutting Effect" style="width: 70%; height: auto; border-radius: 10px;" />
 
-The tip of a ball nose end mill is round, like a "small steel ball".
+**Key characteristics:**
+- A rounded tip like a small ball
 
-**Features:**
-- ✅ Can process complex 3D curved surfaces
-- ✅ Carved surfaces are smoother, no step marks
-- ✅ Suitable for relief and three-dimensional patterns
+**Core capabilities:**
+- Machining complex 3D surfaces
+- Smoother surface with fewer steps compared to flat tools
+- Relief and 3D textures become feasible
 
-**Core Knowledge:** The smoothness and detail of the workpiece surface **depends entirely on the ball radius size**
+**Core concept:** Surface detail and smoothness depend on the ball radius.
 
 <img src="/eng/beginners-guide/media/tool-selection/小球头半径加工效果.png" alt="Small Ball Radius Effect" style="width: 70%; height: auto; border-radius: 10px;" />
 <img src="/eng/beginners-guide/media/tool-selection/大球头半径加工效果.png" alt="Large Ball Radius Effect" style="width: 70%; height: auto; border-radius: 10px;" />
 
-- **Smaller ball radius**: More details, smoother surfaces, fewer dead corners, but slower processing
-- **Larger ball radius**: Flatter surfaces, smoother transitions, faster processing, but loses details
+- Smaller ball radius: finer detail and smoother curvature, but slower
+- Larger ball radius: faster and smoother overall blending, but fewer tiny details
 
-**Standard Processing Flow:**
-1. Rough mill with large diameter flat end mill to quickly remove excess material
-2. Change to small diameter ball nose tool
-3. Run finishing toolpath with reduced stepover and feed rate for mirror surface
+**Common process workflow:**
+1. Use a larger flat end mill for rough removal
+2. Switch to a smaller ball nose
+3. Run finishing toolpaths with smaller stepovers/feeds for mirror-like curves
 
-**Common uses:**
-- Carving 3D portraits
-- Making relief patterns
-- Processing curved surface parts
-- Making molds and models
+**Typical uses:**
+- 3D portraits
+- Relief patterns
+- Curved parts
+- Molds and models
 
 ### 🔺 V-Bit
 
-**Simply put: "Pointed tool", can carve fine text and patterns**
+A "V-shaped engraving tool" for fine lettering and line patterns.
 
 <img src="/eng/beginners-guide/media/tool-selection/v型刀.jpg" alt="V-Bit" style="width: 50%; height: auto; border-radius: 10px;" />
 <img src="/eng/beginners-guide/media/tool-selection/v型刀加工效果.png" alt="V-Bit Cutting Effect" style="width: 70%; height: auto; border-radius: 10px;" />
 
-The tip of a V-bit is a sharp V-shape, like a "awl".
+**Key characteristics:**
+- Sharp V tip
+- Available in angles such as 30°, 45°, 60°
 
-**Features:**
-- ✅ Can carve very fine text and lines
-- ✅ Can create "intaglio" and "relief" effects
-- ✅ Available in different angles (30°, 45°, 60°, etc.)
+**Core advantages:**
+- Very fine letters and lines
+- Can produce both V-groove (V-shaped) effects for "engraving"
+- Different angles provide different line widths and depth profiles
 
-**Core Knowledge:** Carving clarity and fine text sharpness depend on **tip sharpness and tool angle**
+**Angle guidance:**
+- 30°: ultra-fine lines and very small text (often under ~5mm)
+- 45°: balanced, generally the beginner best choice
+- 60°: thicker lines, larger bevels, and deeper signage grooves
 
-- **30°**: Ultra-fine lines, extra small fonts (less than 5mm)
-- **45°**: General purpose carving, best balance (beginner's choice)
-- **60°**: Thick lines, large area bevels, sign grooves
-
-**Essential Process:** All text carving must use **finishing toolpath** to remove serrations and step marks
+**Required process:** All text engraving should use a "finishing/cleaning" strategy ("finish pass") to remove scallops and tool marks.
 
 **Common uses:**
-- Carving small font text
-- Making stamps and signs
-- Carving fine patterns
-- Making fillets and bevels
+- Small text and engraving
+- Stamps and nameplates
+- Fine patterns
+- Bevels and small chamfer-like effects
 
-### 🌽 Corn Mill
+### 🌽 Corn Mill (Serrated Tool)
 
-**Simply put: "Sawtooth tool", suitable for cutting hard materials and composites**
+A "serrated cutter" designed for cutting hard or composite materials and preventing delamination and clogging.
 
 <img src="/eng/beginners-guide/media/tool-selection/玉米铣刀.jpg" alt="Corn Mill" style="width: 50%; height: auto; border-radius: 10px;" />
 <img src="/eng/beginners-guide/media/tool-selection/玉米铣刀加工效果.png" alt="Corn Mill Cutting Effect" style="width: 70%; height: auto; border-radius: 10px;" />
 
-Corn mill has many sawteeth on its cutting edge, like a "corn cob".
+**Key characteristics:**
+- Many serrated cutting edges like a corn cob
 
-**Features:**
-- ✅ Can effectively cut hard materials
-- ✅ Excellent chip evacuation, not easy to clog
-- ✅ No delamination or tearing when processing multi-layer boards
+**Advantages:**
+- Break-up cutting helps cut hard materials
+- Excellent chip evacuation; low risk of chip packing and burnt chips
+- Helps avoid delamination on multi-layer boards and prevents tearing
 
 **Common uses:**
-- Cutting PCB circuit boards
-- Processing carbon fiber materials
-- Cutting multi-layer composite boards
-- Handling hard plastics
+- Cutting PCB boards
+- Carbon fiber machining
+- Cutting multilayer composite boards
+- Hard plastic processing
 
-**Recommended:** [Corn Milling Cutter](https://maxmake.com/products/corn-milling-cutter) | [PCB Drill](https://maxmake.com/products/pcb-drill)
+**Recommended:** [Corn Milling Cutter](https://maxmake.com/products/corn-milling-cutter)
 
 ### 🚪 Drill Bit
 
-**Simply put: "Drilling expert", specially used for drilling**
+A "drilling specialist" used for holes only. It should not be used for milling slots or side cutting.
 
 <img src="/eng/beginners-guide/media/tool-selection/钻头.jpg" alt="Drill Bit" style="width: 50%; height: auto; border-radius: 10px;" />
 <img src="/eng/beginners-guide/media/tool-selection/钻头加工效果.png" alt="Drill Bit Cutting Effect" style="width: 70%; height: auto; border-radius: 10px;" />
 
-Drill bit looks like a "screw", specially used for drilling holes in materials.
+**Key characteristics:**
+- Screw-like body with cutting lips
 
-**Features:**
-- ✅ Fast drilling speed, precise centering
-- ✅ High hole precision, smooth inner wall
-- ✅ Suitable for drilling various materials
+**Advantages:**
+- Fast and stable drilling
+- Good center guidance and hole accuracy
+- Suitable for many materials
 
-**Note:** Drill bits can only be used for vertical drilling, not for side cutting, profiling or grooving
+**Important restriction:**
+- Drill bits must be used for vertical drilling only.
+- Lateral cutting/contouring with a drill bit will quickly cause tool breakage.
 
 **Common uses:**
-- Drilling holes in wood boards
-- Drilling holes in plastic boards
-- Processing positioning holes for assembly
+- Drilling holes in wood
+- Drilling plastic sheets
+- Producing assembly locating holes
 
 ### 📐 Taper End Mill
 
-**Simply put: "Tapered tool", can make bevels and edges**
+A "taper tool" for chamfers and side slopes.
 
 <img src="/eng/beginners-guide/media/tool-selection/锥度铣刀.jpg" alt="Taper End Mill" style="width: 50%; height: auto; border-radius: 10px;" />
 <img src="/eng/beginners-guide/media/tool-selection/锥度铣刀加工效果.png" alt="Taper End Mill Cutting Effect" style="width: 70%; height: auto; border-radius: 10px;" />
 
-Taper end mill has a conical shape, like a "pyramid".
+**Key characteristics:**
+- A cone/taper shape like a small pyramid
 
-**Features:**
-- ✅ Can process bevels and edges
-- ✅ Suitable for making draft angles for molds
-- ✅ Available in different taper angles
+**Advantages:**
+- Produces slopes and chamfers in one pass
+- Useful for mold draft angles
+- Available in multiple taper angles
 
 **Common uses:**
-- Making bevels and fillets for parts
-- Processing draft angles for molds
-- Making tapered holes
+- Sloped surfaces and rounded transitions
+- Mold draft angles
+- Taper holes
 
 ### ✂️ Cutting Tool
 
-**Simply put: "Cutting scissors", specially used for cutting thin sheets**
+A "thin-sheet cutter" with a very narrow kerf and low material waste.
 
 <img src="/eng/beginners-guide/media/tool-selection/切割刀.jpg" alt="Cutting Tool" style="width: 50%; height: auto; border-radius: 10px;" />
 <img src="/eng/beginners-guide/media/tool-selection/切割刀加工效果.png" alt="Cutting Tool Cutting Effect" style="width: 70%; height: auto; border-radius: 10px;" />
 
-Cutting tool has a sharp cutting edge, specially used for cutting sheet materials.
-
-**Features:**
-- ✅ Fast cutting speed
-- ✅ Small kerf, less material waste
-- ✅ Suitable for thin sheet cutting
+**Advantages:**
+- Fast cutting
+- Narrow kerf (less waste)
+- Excellent for thin sheet cutting
 
 **Common uses:**
-- Cutting acrylic sheets
-- Cutting PVC sheets
-- Cutting thin wood boards
+- Cutting acrylic sheet
+- Cutting PVC sheet
+- Cutting thin wood
 
 ### 🔪 Flat End Mill
 
-**Simply put: "Flat head tool", the cutting edge end is flat, suitable for flat surface processing**
+A "flat tool," one of the most basic and widely used CNC tools for finishing flat surfaces.
 
 <img src="/eng/beginners-guide/media/tool-selection/平底尖刀.jpg" alt="Flat End Mill" style="width: 50%; height: auto; border-radius: 10px;" />
 <img src="/eng/beginners-guide/media/tool-selection/平底尖刀加工效果.png" alt="Flat End Mill Cutting Effect" style="width: 70%; height: auto; border-radius: 10px;" />
 
-Flat end mill has a flat cutting edge end, with both end and side cutting edges.
+**Core characteristics:**
+- A flat bottom end for flat surface and step machining
+- Multiple flutes for different stability needs
 
-**Features:**
-- ✅ Suitable for processing flat surfaces and steps
-- ✅ Uniform cutting force, stable processing
-- ✅ Suitable for flat surface milling of various materials
-- ✅ Can achieve high-precision flat surface processing
-- ✅ Flexible flute count (2-flute/4-flute) for different scenarios
+**Advantages:**
+- Great for flat milling, steps, and slot base cleanup
+- Even cutting force; stable machining
+- Supports high-precision flat parts
+- Flute count can be selected (2-flute / 4-flute)
 
-**Flute Count Selection Guide:**
-
-| Flute Count | Suitable Scenarios | Features |
-|-------------|-------------------|----------|
-| 2-flute | Roughing, wood, plastic | Large chip space, less clogging |
-| 4-flute | Finishing, metal | Smoother cutting, better surface quality |
-
-**Core Positioning:** For all large area, high volume roughing, flat end mill is the most efficient; finishing with high-gloss process can achieve mirror finish.
-
-**Processing Tips:**
-- **Roughing**: Use high feed rate, large cutting depth to quickly remove material
-- **Finishing**: Reduce cutting depth, lower feed rate, use coolant
-- **Side Wall Processing**: Pay attention to tool extension length to reduce vibration
+**Flute selection:**
+- 2 flutes: roughing, wood/plastic; larger chip space
+- 4 flutes: finishing, metal; smoother surface quality
 
 **Common uses:**
-- Milling flat surfaces
-- Processing steps and grooves
-- Cleaning bottom surfaces
-- Making flat surface parts
-- Grooving and cutting off
-- Mold reference surface processing
+- Flat surface milling
+- Steps and pockets
+- Base cleanup
+- Flat part machining
 
-### 🟤 Bull Nose End Mill (Corner Radius End Mill)
+### 🟤 Bull Nose End Mill
 
-**Simply put: "Flat end mill with rounded corners", specialized tool for toolpath avoidance and anti-interference**
+A flat end mill variant with a built-in radius at the tip. It prevents interference and chipping in deep pockets and tight corners.
 
 <img src="/eng/beginners-guide/media/tool-selection/牛鼻铣刀.png" alt="Bull Nose End Mill" style="width: 50%; height: auto; border-radius: 10px;" />
 <img src="/eng/beginners-guide/media/tool-selection/牛鼻铣刀加工效果.png" alt="Bull Nose Cutting Effect" style="width: 70%; height: auto; border-radius: 10px;" />
 
-Bull nose end mill retains flat cutting surface with fixed corner radius (R0.5/R1/R2, etc.).
+**Core purpose:**
+- Solves interference problems where sharp corners of a flat tool would collide with pocket walls/side walls.
 
-**Core Function:** Solves interference problems when processing deep grooves, thin walls and inner corners
-
-- Right angle flat end mill tips will hit workpiece corners, causing scratches, chipping, overcutting
-- Bull nose radius structure perfectly avoids these positions for smooth cutting
+**Typical benefits:**
+- Smooth cutting in deep slots and thin-wall work
+- Protects edges and avoids overcutting or tool scraping
 
 **Common uses:**
-- ✅ Thin wall part processing
-- ✅ Deep groove, narrow groove, special shape groove processing
-- ✅ Mold structure, complex cavity processing
-- ✅ High-precision workpieces requiring edge protection
+- Thin-wall parts
+- Deep or narrow slots and complex inner features
+- Molds and complex cavities
+- Parts that require edge protection and chipping resistance
 
 ### ⚡ Chamfer Tool
 
-**Simply put: "Chamfer expert", specially used for edge chamfering and deburring**
+A "chamfer specialist" for edge chamfering and deburring to make edges smooth, safe, and visually clean.
 
 <img src="/eng/beginners-guide/media/tool-selection/倒角刀.png" alt="Chamfer Tool" style="width: 50%; height: auto; border-radius: 10px;" />
 <img src="/eng/beginners-guide/media/tool-selection/倒角刀加工效果.png" alt="Chamfer Tool Cutting Effect" style="width: 70%; height: auto; border-radius: 10px;" />
 
-Chamfer tool usually has three flutes with fixed cutting angle for fast and efficient chamfering.
+**Key characteristics:**
+- Often a multi-flute (e.g., three-flute) design with fixed angles
+- Efficient and consistent chamfer generation
 
-**Features:**
-- ✅ Three-flute design, stable cutting, high efficiency
-- ✅ Precise angle, consistent chamfering
-- ✅ Good deburring effect, smooth edges
-- ✅ Suitable for chamfering various materials
+**Common angles:**
+- 90°: most common; beginner-friendly
+- 45°: for special chamfer needs
 
-**Common Angles:**
-- **90°**: Most commonly used, suitable for most chamfering scenarios
-- **45°**: Suitable for special angle requirements
-
-**Recommended Specifications:**
-- **2.0×50 3-flute chamfer tool**: Suitable for small hole chamfering, fine part deburring
-- **4.0×50 3-flute chamfer tool**: Suitable for larger holes and workpiece edges
-
-**Common uses:**
-- ✅ Part edge deburring, fillet rounding
-- ✅ Hole chamfering for assembly
-- ✅ Making tapered surfaces, bevels
-- ✅ Improving part appearance and safety
+**Typical uses:**
+- Deburring and rounding edges
+- Chamfering hole mouths for easier assembly and reduced stress concentration
+- Making conical and sloped features
+- Improving overall appearance and safety
 
 ### 🔩 Thread Mill
 
-**Simply put: "Thread expert", specially used for internal and external thread processing**
+A "thread specialist" for internal and external threads with high precision and flexibility.
 
 <img src="/eng/beginners-guide/media/tool-selection/螺纹铣刀.png" alt="Thread Mill" style="width: 50%; height: auto; border-radius: 10px;" />
 <img src="/eng/beginners-guide/media/tool-selection/螺纹铣刀加工效果.png" alt="Thread Mill Cutting Effect" style="width: 50%; height: auto; border-radius: 10px;" />
 
-Thread mill uses helical interpolation to process threads, offering higher flexibility and longer life than traditional taps.
+**Core advantages:**
+- Threads via CNC helical interpolation
+- More flexible than taps and often longer-lived
+- Lower cutting force; less risk of tool snapping compared with taps
 
-**Features:**
-- ✅ One tool can process multiple pitch threads
-- ✅ High processing precision, good thread quality
-- ✅ Suitable for high hardness materials and large diameter threads
-- ✅ Low cutting force, less tool breakage
-
-**Thread Size Recommendations:**
-- **Minimum recommended size**: M3 and above
-- **Below M3**: Small thread size, high processing difficulty, easy breakage
-- **Design principle**: Prioritize M3 and above to avoid small size breakage risk
-
-**Thread Mill Types:**
-- **Single-tooth thread mill**: Versatile, suitable for multiple pitches
-- **Multi-tooth thread mill**: High efficiency, suitable for mass production
-- **Solid carbide thread mill**: Suitable for hard material processing
-- **Indexable insert thread mill**: Low cost, replaceable inserts
-
-**Processing Notes:**
-- ✅ Use dedicated thread milling program or CNC software thread function
-- ✅ Choose appropriate cutting parameters to avoid vibration
-- ✅ Ensure sufficient tool rigidity, use short shank tools
-- ✅ Clean workpiece surface before processing
+**Key guidance:**
+- Recommended minimum thread size: M3 and above
+- Below M3, threading becomes difficult and breakage risk increases significantly for beginners.
 
 **Common uses:**
-- ✅ Processing internal threads (blind holes, through holes)
-- ✅ Processing external threads
-- ✅ Repairing damaged threads
-- ✅ Processing non-standard threads and special pitches
+- Internal threads (blind or through holes)
+- External threads
+- Repairing damaged threads
+- Making non-standard threads and special pitches
 
 ## 🎨 Tool Coating Knowledge
 
-In addition to shape and parameters, the tool's "coat" - coating, also affects tool performance!
+Beyond geometry and parameters, the "outer armor"—coating—is also critical to tool performance. Coatings are like high-performance "armor" that help a tool stay sharp under heat, pressure, and cutting loads.
 
-### 🎨 What is Tool Coating?
+### 🎨 What coatings change
 
-**Simply put: A special metal or compound coating on the tool surface to make the tool more durable and effective**
+Coatings typically improve four aspects:
 
-Like putting a "bulletproof vest" on the tool, coating can protect the tool from wear and corrosion.
+- ✅ **Wear resistance**: reduce abrasive wear so the cutting edge lasts longer
+- ✅ **Thermal stability**: protect against high-temperature softening and hot wear
+- ✅ **Oxidation / chemical stability**: reduce chemical reactions and diffusion wear at high temperatures
+- ✅ **Low friction / anti-sticking**: reduce sticking and built-up edge (BUE), especially for difficult materials like aluminum and copper
 
-### 🎨 Common Coating Types
+### 🎨 Common Coating Systems and Their Differences
 
-#### 🛡️ TiN Coating (Titanium Nitride)
+#### ⚪ A. Uncoated
 
-**Color: Gold**
+<img src="/eng/beginners-guide/media/tool-selection/未镀层.png" alt="Uncoated Tool" style="width: 20%; height: auto; border-radius: 10px;" />
 
-- ✅ Most commonly used coating, cost-effective
-- ✅ Increases tool hardness, reduces wear
-- ✅ Anti-oxidation, rust-resistant
-- ✅ Suitable for processing wood, plastic, soft metals
+**Features:** no extra film; relies on the carbide substrate.
 
-#### 🔵 TiCN Coating (Titanium Carbonitride)
+**Advantages:** lowest cost; less demanding process requirements.
 
-**Color: Blue-gray**
+**Limitations:** shorter life under high temperature, heavy abrasion, or strong BUE conditions.
 
-- ✅ 40% harder than TiN, more wear-resistant
-- ✅ Better high temperature performance
-- ✅ Less sticking to aluminum, suitable for aluminum alloy and copper
-- ✅ Suitable for hard metals and composites
+**Suitable for:** wood, plastics, wax-like materials, and light-duty machining.
 
-#### 🔷 AlTiN Coating (Aluminum Titanium Nitride)
+#### 🟡 B. TiN (Titanium Nitride)
 
-**Color: Purple-black**
+<img src="/eng/beginners-guide/media/tool-selection/tin.png" alt="TiN Coating" style="width: 40%; height: auto; border-radius: 10px;" />
 
-- ✅ Best high temperature performance, no burning or softening at high speeds
-- ✅ Extremely high hardness, excellent wear resistance
-- ✅ 3-5 times longer life than ordinary tools
-- ✅ Suitable for high-speed processing and hard metals
+**Appearance:** gold / yellowish.
 
-#### 🟢 TiAlCN Coating (Titanium Aluminum Carbonitride)
+**Goal:** general wear resistance and stable performance.
 
-**Color: Dark gray**
+**Advantages:** good wear suppression, broad process adaptability, affordable.
 
-- ✅ Best overall performance, wear-resistant, anti-stick, high temperature resistant, corrosion resistant
-- ✅ Suitable for high-speed processing of various materials
-- ✅ Professional processing preferred coating
+**Limitations:** anti-sticking capability is usually weaker for strong sticking materials like aluminum.
+
+**Suitable for:** general metal cutting when you prioritize durability and cost-effectiveness.
+
+#### 🟣 C. TiCN (Titanium Carbonitride)
+
+<img src="/eng/beginners-guide/media/tool-selection/ticn.png" alt="TiCN Coating" style="width: 50%; height: auto; border-radius: 10px;" />
+
+**Appearance:** bronze-colored.
+
+**Goal:** harder and more wear-resistant composite direction.
+
+**Advantages:** higher hardness than TiN and better resistance in a temperature range.
+
+**Limitations:** in very sticky aluminum high-MRR conditions, it still may not match low-friction coatings like DLC.
+
+**Suitable for:** medium-hard materials and cutting tasks sensitive to wear.
+
+#### 🌈 D. TiAlN / AlTiN (Titanium Aluminum Nitride — the most common "rainbow" coating)
+
+<img src="/eng/beginners-guide/media/tool-selection/tialn.png" alt="TiAlN Coating" style="width: 50%; height: auto; border-radius: 10px;" />
+
+**Appearance:** often rainbow or purple-black ("seven-color" look).
+
+**Goal:** high-temperature oxidation resistance + wear resistance.
+
+**Why the color?** multi-layer structures and thin-film interference create visual color.
+
+**Advantages:** better high-temperature tolerance; generally longer life than TiN/TiCN; excellent cost-performance for general metal cutting.
+
+**Limitations:** aluminum machining may still produce BUE; correct chip evacuation and tool geometry still matter.
+
+**Suitable for:** steel, stainless steel, and cast iron where high temperature + wear resistance are both important.
+
+#### 🌑 E. AlCrN / Multi-component High-Temperature Coatings
+
+<img src="/eng/beginners-guide/media/tool-selection/alcrn.png" alt="AlCrN Coating" style="width: 50%; height: auto; border-radius: 10px;" />
+
+**Appearance:** usually darker.
+
+**Goal:** stronger high-temperature stability and oxidation resistance.
+
+**Advantages:** especially stable under high-temperature cutting; excellent oxidation resistance.
+
+**Suitable for:** cast iron and heat-resistant materials or processes that commonly reach high temperatures.
+
+#### 🧬 F. Multilayer / Nano-multilayer
+
+<img src="/eng/beginners-guide/media/tool-selection/纳米.png" alt="Multilayer Coating" style="width: 20%; height: auto; border-radius: 10px;" />
+
+**Goal:** combine multiple properties via layer structure rather than optimizing a single metric.
+
+**Advantages:** better overall tool life; improves tolerance for slightly unstable cutting parameters and varying chip loads.
+
+**Suitable for:** users whose processes fluctuate and need more stable tool behavior.
+
+#### 💎 G. DLC (Diamond-Like Carbon)
+
+<img src="/eng/beginners-guide/media/tool-selection/dlc.png" alt="DLC Coating" style="width: 30%; height: auto; border-radius: 10px;" />
+
+**Positioning:** "king of low friction and anti-sticking."
+
+**What you feel:** tools are less prone to gumming up on sticky materials, producing more stable surface quality and less dimensional fluctuation.
+
+**Advantages:** extremely low friction and strong anti-sticking behavior for aluminum/copper-like materials.
+
+**Limitations:** coatings are typically thin; they still suffer under impact loads and temperature rise caused by poor chip evacuation.
+
+**Suitable for:** aluminum (especially when surface quality matters), copper, brass, and other high-sticking materials.
 
 ### 🎨 How to Choose the Right Coating?
 
-- **Wood, plastic**: TiN coating is sufficient, cost-effective
-- **Aluminum alloy, copper**: TiCN or AlTiN coating, anti-stick
+- **Wood, plastic**: Uncoated or TiN coating is sufficient, cost-effective
+- **Aluminum alloy, copper**: DLC coating for best anti-stick performance, TiCN as alternative
 - **Stainless steel, steel**: AlTiN or TiAlCN coating, high temperature wear-resistant
-- **High-temperature alloys**: TiAlCN coating
+- **High-temperature alloys**: AlCrN or multilayer coatings
 
 ---
 
-## 🎯 Beginner Tool Selection Guide
+## 🎯 Beginner Tool Selection Guide (9 "All-around" Tools)
 
-Now that you understand the basic knowledge of tools, how should beginners choose tools suitable for themselves?
+As a CNC beginner, choosing a suitable tool is the first step. A good tool makes machining smoother and boosts confidence. Below are 9 beginner-friendly "starter weapons" covering over 90% of common machining scenarios, helping you start CNC work effectively.
 
-### 🤔 First, think clearly: What material are you going to process?
+### � 1) 1/8" Corn Mill
 
-Different materials require different tools:
+**Appearance:** serrated cutting edges like a corn cob.
 
-| Material Type | Recommended Tool Type | Recommended Parameters | Recommended Coating |
-|--------------|----------------------|-----------------------|--------------------|
-| **Wood / MDF** | 2-flute end mill, ball nose | 2-flute, 6mm diameter | TiN |
-| **Acrylic / Plastic** | 1-flute end mill, V-bit | 1-flute, 3-6mm diameter | TiN |
-| **Aluminum alloy / Copper** | 3-flute end mill, bull nose | 3-flute, 3-6mm diameter | TiCN |
-| **PCB / Carbon fiber** | Corn mill, micro end mill | 2-flute, 1-3mm diameter | TiCN |
-| **Steel / Stainless steel** | 4-flute end mill, bull nose | 4-flute, 3-6mm diameter | AlTiN |
+<img src="/eng/beginners-guide/media/tool-selection/3.175玉米铣刀.png" alt="Corn Mill" style="width: 50%; height: auto; border-radius: 10px;" />
 
-### 🎯 Then think clearly: What processing are you going to do?
+**Why it fits beginners:**
 
-Different processing requires different tools:
+- ✅ **Excellent chip evacuation**: broken-up cutting turns chips into fine particles and evacuates them through the helical flutes, reducing chip clogging and burnt chips.
+- ✅ **Solves delamination problems**: for multilayer boards, PCBs, carbon fiber, and composites, it reduces tearing and delamination.
+- ✅ **High tolerance**: even if parameters are not perfect, tool breakage risk is often lower.
 
-- ✅ **Sheet rough cutting, high volume removal**: Large diameter flat end mill
-- ✅ **Fine text, sign carving**: 45°/60° V-bit + finishing toolpath
-- ✅ **3D relief, curved surface processing**: Small diameter ball nose end mill
-- ✅ **Special shapes, thin wall processing**: Bull nose end mill (toolpath avoidance)
-- ✅ **Deburring, surface finishing**: 90° 3-flute chamfer tool (2.0×50/4.0×50)
-- ✅ **Thread processing**: M3 and above + dedicated thread mill
-- ✅ **Precision drilling**: High-speed dedicated drill bit
+**Suitable for:**
+- PCB cutting
+- Carbon fiber machining
+- Multilayer composite board slotting
+- Hard plastic processing
 
-### 💡 Essential Tool List for Beginners
+**Beginner tip:** reduce feed rate slightly so the tool can fully utilize its break-up cutting advantages.
 
-As a CNC beginner, it is recommended to prepare these common tools first:
+**Buy now:** [Corn Mill](https://maxmake.com/products/corn-milling-cutter)
 
-1. **2-flute 6mm end mill**: General purpose roughing and finishing for wood, plastic
-2. **3mm 1-flute end mill**: Acrylic, plastic fine cutting
-3. **2-flute 3mm ball nose end mill**: 3D relief, curved surface finishing
-4. **45° V-bit**: Text and pattern carving
-5. **3mm drill bit**: Drilling
-6. **4.0×50 3-flute 90° chamfer tool**: Deburring, surface finishing
-7. **3-flute 6mm aluminum end mill**: Aluminum alloy processing
+### 🔧 2) 1/8" Double-flute Ball Nose End Mill
+
+**Appearance:** a perfect hemispherical ball tip with helical flutes.
+
+<img src="/eng/beginners-guide/media/tool-selection/双刃球头.png" alt="Ball Nose End Mill" style="width: 50%; height: auto; border-radius: 10px;" />
+
+**Why it fits beginners:**
+
+- ✅ **Works on soft and hard materials**: wood/plastics and also common metal scenarios.
+- ✅ **3D surface and relief processing**: produces smooth surfaces without obvious steps, great for 3D patterns and molds.
+- ✅ **High stability**: symmetric flute design balances cutting forces and reduces vibration, helping beginners achieve higher accuracy.
+
+**Suitable for:**
+- 3D portrait carving
+- Relief pattern making
+- Curved parts
+- Mold and model finishing
+
+**Beginner tip:** smaller ball radius gives more detail but slower machining. Beginners can rough with a larger ball nose, then finish with a smaller ball nose.
+
+**Buy now:** [Double Flute Ball Nose End Mill](https://maxmake.com/products/double-flute-ball-end-mill-for-non-metallic-use)
+
+### 🔧 3) 1/8" Single-flute Helical End Mill (DLC coating)
+
+**Appearance:** one wide helical chip flute and a black DLC (diamond-like carbon) coating.
+
+<img src="/eng/beginners-guide/media/tool-selection/单刃镀层螺旋铣刀.png" alt="DLC Single-Flute End Mill" style="width: 50%; height: auto; border-radius: 10px;" />
+
+**Why it fits beginners:**
+
+- ✅ **Great cutting results**: acrylic cutting produces less chipping, whitening, and melting; edges can be very clean.
+- ✅ **No sticking**: DLC's low friction reduces gumming and "mushy chips," helping avoid sticking issues.
+- ✅ **No chip-clog stress**: large chip flute design reduces clogging risk even during longer machining.
+
+**Suitable for:**
+- Precision acrylic cutting
+- Plastic precision machining
+- Engraving on acrylic (PMMA)
+- Resin material processing
+
+**Beginner tip:** use relatively higher spindle speeds and a moderate feed rate to keep the cutting edge operating efficiently.
+
+**Buy now:** [Single Flute Spiral End Mill (DLC)](https://maxmake.com/products/single-flute-spiral-end-mill-for-metal-use)
+
+### 🔧 4) 1/8" Three-flute Helical End Mill (DLC coating) — a "specialist" for aluminum
+
+**Appearance:** three evenly distributed helical cutting edges with DLC coating; typically deep black or rainbow-like.
+
+<img src="/eng/beginners-guide/media/tool-selection/三刃镀层螺旋铣刀.png" alt="DLC Three-Flute End Mill" style="width: 50%; height: auto; border-radius: 10px;" />
+
+**Why it fits beginners:**
+
+- ✅ **Aluminum "anti-sticking" specialist**: very low friction helps solve sticking on non-ferrous metals.
+- ✅ **Higher efficiency**: three flutes often provide faster removal than single-flute solutions at stable cutting.
+- ✅ **Better surface finish**: aluminum surfaces become smoother, reducing post-finishing work.
+
+**Suitable for:**
+- Aluminum alloy parts
+- Aluminum profile slotting
+- Aluminum mold machining
+- Brass/copper alloy machining
+
+**Beginner tip:** for aluminum machining, use cooling/lubrication when appropriate to further improve surface quality and tool life.
+
+**Buy now:** [DLC Three-Flute Spiral End Mill](https://maxmake.com/products/maxmake-3-flute-up-cut-spiral-end-mill-aluminum-1-8-shank)
+
+### 🔧 5) 6mm Three-flute Helical End Mill
+
+**Appearance:** thicker tool body (often high-temp/high-performance coating such as DLC).
+
+<img src="/eng/beginners-guide/media/tool-selection/6mm三刃螺旋铣刀.png" alt="6mm Three-Flute End Mill" style="width: 50%; height: auto; border-radius: 10px;" />
+
+**Why it fits beginners:**
+
+- ✅ **Rigidity increases dramatically**: compared with 1/8" (3.175mm), 6mm tools resist bending much better and can take larger chip loads, greatly reducing machining time.
+- ✅ **Extreme stability**: balanced cutting force distribution reduces vibration on metal cutting.
+- ✅ **Mirror-like sidewalls**: for side milling, high rigidity helps produce flatter and cleaner metal side surfaces.
+
+**Suitable for:**
+- Aluminum alloy
+- Quick rough removal on hard wood
+- Outer contour cutting
+- Deep pocket opening/large slotting
+
+**Beginner tip:** use it only if your CNC supports a 6mm collet/clamping setup. Treat it as the "metal pioneer": remove the bulk material first, then switch to smaller tools for details.
+
+**Buy now:** [6mm Three-Flute Spiral End Mill]
+
+### 🔧 6) 1/8" Flat End Mill (TiN coating) — the mainstay for general machining
+
+**Appearance:** flat cutting end; TiN coating typically appears gold/yellow.
+
+<img src="/eng/beginners-guide/media/tool-selection/tin.png" alt="TiN Flat End Mill" style="width: 50%; height: auto; border-radius: 10px;" />
+
+**Why it fits beginners:**
+
+- ✅ **Highly versatile**: milling flat surfaces, steps, pockets, and cleaning the pocket floor.
+- ✅ **Higher hardness and wear resistance**: TiN improves tool durability and makes beginner practice easier.
+- ✅ **Simple to operate**: fewer complex requirements compared with specialty tools.
+
+**Suitable for:**
+- Flat surface milling
+- Step machining
+- Pocket floor cleanup
+- Outer contour milling
+
+**Beginner tip:** keep the tool cutting vertically and avoid heavy side loading to prevent breakage.
+
+**Buy now:** [TiN Coated Flat End Mill](https://maxmake.com/products/solid-carbide-metal-engraving-bits-1-8-shank)
+
+### 🔧 7) Drill Bit — the expert for precise hole making
+
+**Appearance:** spiral drilling body with cutting lips; designed for drilling, not milling slots.
+
+<img src="/eng/beginners-guide/media/tool-selection/3.175钻头.png" alt="Drill Bit" style="width: 50%; height: auto; border-radius: 10px;" />
+
+**Why it fits beginners:**
+
+- ✅ **Easy operation**: set drilling depth and feed; drill vertically for reliable results.
+- ✅ **Good center guidance**: the drill tip helps keep the hole position accurate.
+- ✅ **Essential base tool**: drilling appears in almost every CNC project.
+
+**Suitable for:**
+- Drilling holes in wood sheets
+- Drilling holes in plastic sheets
+- Assembly locating holes
+
+**Beginner tip:** use a slower feed to "spot" before full drilling to avoid slipping or walking.
+
+**Buy now:** [PCB Drill Bit](https://maxmake.com/products/pcb-drill)
+
+### 🔧 8) Chamfer Tool
+
+**Appearance:** typically with a V-shape front (often 90° or 60°), commonly with two to three cutting edges.
+
+<img src="/eng/beginners-guide/media/tool-selection/倒角刀.png" alt="Chamfer Tool" style="width: 50%; height: auto; border-radius: 10px;" />
+
+**Why it fits beginners:**
+
+- ✅ **Deburring and edge safety**: CNC cut edges can be sharp; chamfering quickly smooths them so the part is safer and cleaner.
+- ✅ **Adds "industrial" quality**: chamfering hole mouths and edges improves appearance significantly.
+- ✅ **Optional locating aid**: 90° chamfer tools can create small centering features before deep drilling.
+
+**Suitable for:**
+- Edge chamfering
+- Deburring hole mouths
+- Chamfering for countersink-like features
+- Locating marks
+
+**Beginner tip:** remove only a shallow amount at the edge—light contact is usually enough. You can feed a bit faster than you would for heavy milling.
+
+**Buy now:** [Chamfer Tool]
+
+### 🔧 9) 4mm Thread Mill
+
+**Appearance:** shaped for a specific thread pitch, like a cylindrical "comb." It typically does not provide bottom cutting capability like a flat mill.
+
+<img src="/eng/beginners-guide/media/tool-selection/螺纹铣刀.png" alt="Thread Mill" style="width: 50%; height: auto; border-radius: 10px;" />
+
+**Why it fits beginners:**
+
+- ✅ **One tool for multiple uses**: one thread mill can cut the correct helical trajectory for a given pitch; you don't need many taps.
+- ✅ **Avoid broken tap issues**: beginners often snap taps in the workpiece; broken taps can be difficult to remove. Thread milling reduces cutting load and is less likely to jam inside the hole.
+- ✅ **Fine control of tolerance**: CNC compensation can adjust tightness/fit precisely.
+
+**Suitable for:**
+- Thread holes for assembly (e.g., M4, M5 and larger sizes)
+- Thread milling in harder materials
+- Repairing damaged threads
+
+**Beginner tip:** thread milling must use the correct CNC/CAM thread-milling toolpath. You must pre-drill the bottom hole first (usually with a flat mill or drill).
+
+**Buy now:** [4mm Thread Mill]
+
+### ✨ Why these 9 tools cover 90% of machining needs
+
+This set is a "beginner starter toolkit." Their strengths are:
+
+- **Comprehensive coverage**: from rough removal to fine details, from curved relief to drilling and chamfering to threading.
+- **High tolerance**: the tools are designed to be workable even when parameters are not perfect.
+- **Good value**: most tools are reasonably priced, allowing you to build a capable kit without excessive spending.
+- **Gentle learning curve**: you can gradually learn CNC from basic 2D cutting through 3D carving to higher-level drilling/threading.
+
+### 💡 Beginner Tips
+
+- **Start with simpler projects**: cutting basic shapes and engraving text first, then move to 3D and more complex work.
+- **Prioritize tool safety**: power off when changing tools; wear eye protection and keep safe distance during machining.
+- **Practice frequently**: CNC machining develops "feel" through repetition—listen to sounds, observe chips, and adjust gradually.
+- **Stay patient**: early results may be imperfect. With experience, your quality improves quickly.
+
+**One-sentence summary:** These 9 tools act like a beginner's "starter teacher"—they help you enter CNC work efficiently and build confidence.
 
 ---
 
-## ❓ Frequently Asked Questions
+## ❓ Frequently Asked Questions (FAQ)
 
-### ❓ Is the more expensive the tool, the better?
+### ❓ Is a more expensive tool always better?
 
-Not necessarily! Choose tools based on your needs and budget:
-- If you only use it occasionally for wood and plastic, ordinary TiN coated tools are sufficient
-- If you frequently process hard materials with high precision finishing, better coated tools (TiCN/AlTiN) are recommended
-- Expensive tools have longer lifespans, but may not have the best cost performance for daily soft material processing
+Not necessarily. Choose based on your needs and budget:
 
-### ❓ What to do if the tool becomes dull?
+- If you mainly machine wood/plastics occasionally, standard TiN tools may be enough.
+- If you frequently machine hard materials and do high-precision finishing, higher-end coatings like TiCN/AlTiN can help.
+- Expensive tools may last longer, but they are not always the best value for soft-material beginners.
 
-- Can use a sharpening stone or professional tool grinder to sharpen
-- If wear is too severe, coating is peeling, replace with new tool
-- Keep tools clean, remove chips promptly to prevent rust and corrosion
+### ❓ What should I do if the tool gets dull?
 
-### ❓ Can tools be mixed?
+- You can regrind using a grinding stone or professional tool sharpener.
+- If the edge is heavily chipped or the coating is worn off, replace the tool to avoid poor surface quality or dimension issues.
+- Keep tools clean to prevent rust and corrosion and extend tool life.
 
-Not recommended! Different materials and processing require different tools:
-- Do not use metal tools for wood - metal residue will scratch wood and clog flutes
-- Do not use wood tools for metal - insufficient rigidity causes chipping and breakage
-- Mixing tools significantly reduces lifespan and affects quality
+### ❓ Can I mix tools for different materials?
 
-### ❓ Why does the workpiece surface still have tool marks after finishing?
+It is not recommended. Mixing tools can cause:
 
-Most likely three reasons: ① No finishing toolpath ② Ball radius too large ③ Feed rate too fast, stepover too large
+- Metal tools used on wood can leave metal residue and scratch the wood surface or clog flutes.
+- Wood tools used on metal may lack stiffness and fail easily.
+- Mixing shortens tool life and reduces machining quality and accuracy.
 
-Switch to smaller diameter tool, run separate low-speed finishing toolpath to solve
+### ❓ Why does the surface still show tool marks after finishing?
 
-### ❓ Why does edge chipping occur?
+Most commonly:
 
-Common causes: Wrong tool selection, mismatched flute count, no avoidance toolpath, incorrect speed/feed, worn tool
+- You did not use a true finishing (fine-pass) toolpath.
+- Ball nose radius is too large.
+- Feed speed/stepover are too aggressive.
 
-Use 1-flute for acrylic, bull nose for thin walls with avoidance to reduce chipping
+Use a smaller finishing tool and run a dedicated low-speed "finishing/clean-up" toolpath.
 
----
+### ❓ Why does chipping happen so often?
 
-## 📝 Summary
+Common causes:
 
-Choosing the right CNC tool is like choosing the "right weapon" for your CNC machine. As long as you master the basic parameters of tools and understand the uses of various tools, choosing the right tool is actually not difficult!
+- Wrong tool selection
+- Incorrect flute count
+- No proper toolpath avoidance strategy
+- Poor spindle speed / feed matching
+- Tool wear
 
-**Beginners remember these points:**
-1. Determine the material first, match tool flute count and coating
-2. Use flat end mill for roughing, ball nose/fine tool for finishing
-3. Use bull nose for complex structures with toolpath avoidance
-4. Always run finishing toolpath for fine processing, simulate before machining
-5. Prioritize M3 and above for thread design to avoid small size breakage
-6. Do not mix tools, use dedicated tools for each material
-
-As your CNC technology continues to improve, you will have a deeper understanding of tools and find the most suitable "tool combination" for yourself!
-
-Now, go choose a suitable tool and start your CNC creation journey!
+For acrylic, you typically should use single-flute tools. For thin walls, use a bull-nose strategy with avoidance paths to reduce chipping significantly.
 
 ---
 
-## FAQPage Schema Markup
+## 📝 Conclusion
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is the more expensive CNC tool always better?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Not necessarily! Choose tools based on your needs and budget. For occasional wood and plastic processing, ordinary TiN coated tools are sufficient. For frequent hard material processing with high precision requirements, better coated tools like TiCN or AlTiN are recommended."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What to do when CNC tool becomes dull?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can use a sharpening stone or professional tool grinder to sharpen the tool. If wear is too severe or coating is peeling, replace with a new tool. Keep tools clean by removing chips promptly to prevent rust and corrosion."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can CNC tools be mixed for different materials?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Not recommended! Different materials require different tools. Do not use metal tools for wood as metal residue will scratch wood and clog flutes. Do not use wood tools for metal as insufficient rigidity causes chipping and breakage."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Why does workpiece surface still have tool marks after finishing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most likely due to: no finishing toolpath, ball radius too large, or feed rate too fast with stepover too large. Switch to smaller diameter tool and run a separate low-speed finishing toolpath to solve."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Why does edge chipping occur during CNC machining?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common causes include wrong tool selection, mismatched flute count, no avoidance toolpath, incorrect speed/feed, or worn tool. Use 1-flute for acrylic and bull nose for thin walls with avoidance to reduce chipping."
-      }
-    }
-  ]
-}
-</script>
+Looking back at this guide, CNC tool selection and usage is never about "the more expensive the better." It's a **precision matching game** centered on the workpiece. Tool parameters define its physical limits, geometry determines what it can do, and coating determines how long it can survive harsh cutting conditions.
+
+Before starting the spindle and mounting a tool in the future, quickly run through this core tool selection logic in your mind:
+
+### 🔒 Lock the Material, Choose Coating & Flute Count
+
+| Material Characteristics | Recommended Flute Count | Recommended Coating | Suitable Materials |
+|-------------------------|------------------------|---------------------|-------------------|
+| Soft, sticky, gum-prone | 1-flute / 2-flute | DLC (rainbow) | Aluminum alloy, acrylic, copper |
+| Hard, high heat generation | 3-flute | AlTiN (purple-black) | Steel, stainless steel, iron |
+| General materials | Any | Uncoated / TiN (gold) | Wood, plastic |
+
+### 👀 Match the Process, Choose Tool Type
+
+| Machining Process | Recommended Tool Type |
+|------------------|----------------------|
+| Surface pocketing, contour cutting | Flat end mill / spiral end mill |
+| 3D surfaces, relief carving | Ball nose end mill |
+| Fine lettering | V-bit |
+| Edge chipping prevention, deep slotting | Bull nose end mill |
+| Composite board delamination prevention | Corn mill |
+| Vertical drilling | Drill bit |
+
+### 📐 Check Dimensions, Set Parameters
+
+| Parameter Type | Selection Principle |
+|---------------|-------------------|
+| Shank diameter | Must match machine collet precisely |
+| Cutting diameter | Must not exceed smallest feature in drawing |
+| Flute length | Use only what's needed; shorter = more stable (anti-vibration) |
+
+As a beginner, you can start with our recommended **9-tool "Swiss Army Knife" set**: corn mill, ball nose end mill, DLC single-flute end mill, DLC three-flute spiral end mill, 6mm three-flute spiral end mill, flat end mill, drill bit, chamfer tool, and thread mill. Always use dedicated tools for specific materials—never use metal-cutting tools on wood.
+
+When this matching logic becomes muscle memory, every tool in your hand will no longer be a blindly consumed consumable, but the most powerful weapon to perfectly carve your digital creativity into reality!
 
 ---
 
