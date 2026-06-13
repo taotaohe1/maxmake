@@ -640,7 +640,7 @@ As a CNC beginner, choosing a suitable tool is the first step. A good tool makes
 
 **Appearance:** three evenly distributed helical cutting edges with DLC coating; typically deep black or rainbow-like.
 
-<img src="/eng/beginners-guide/media/tool-selection/三刃镀层螺旋铣刀.png" alt="DLC Three-Flute End Mill" style="width: 50%; height: auto; border-radius: 10px;" />
+<img src="/eng/beginners-guide/media/tool-selection/6mm三刃螺旋铣刀.png" alt="6mm Three-Flute End Mill" style="width: 30%; height: auto; border-radius: 10px;" />
 
 **Why it fits beginners:**
 
