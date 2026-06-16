@@ -6,7 +6,7 @@ Learn the basics of MaxmakeLab software for HiMill CNC machines. This guide cove
 
 MaxmakeLab is an intelligent control software designed specifically for HiMill series CNC equipment, providing an intuitive operation interface and rich processing functions to help users easily complete various creative processing tasks. Whether you are a CNC beginner or an experienced user, you can quickly get started with using it.
 
-The software supports both CNC processing and laser processing modes, with complete design, toolpath generation, and processing control functions, providing users with a one-stop processing solution.
+The software supports both CNC processing and laser processing modes, with complete design, toolpath generation (CAM features are under development, currently only CNC basic functions are supported), and processing control functions, providing users with a one-stop processing solution.
 
 
 ## 🎨 Main Interface Function Introduction
@@ -28,8 +28,8 @@ MaxmakeLab adopts a modular interface design, mainly divided into the following 
 | 4 | Color Bar | Assign different colors to primitives for easy distinction and processing parameter setting |
 | 5 | Device Bar | Select, connect, and quickly control devices |
 | 6 | Parameter Setting | Set blank parameters and tool library parameters in CNC mode, set processing parameters in laser mode |
-| 7 | Generate Toolpath | Choose the way to generate toolpath (contour milling, plane milling, V-type milling, drilling, relief, etc.) |
-| 8 | Toolpath List | Display already generated toolpaths |
+| 7 | Generate Toolpath | Choose the way to generate toolpath (CAM features are under development, currently only CNC basic functions are supported) |
+| 8 | Toolpath List | Display already generated toolpaths (CAM features are under development) |
 | 9 | Quick Control | Quick control functions in laser mode, such as fast movement, reset, etc. |
 | 10 | Layer Bar | Assign different processing parameters to primitives of different colors |
 | 11 | Simulation Preview | Simulate and preview processing paths |
@@ -55,8 +55,8 @@ MaxmakeLab adopts a modular interface design, mainly divided into the following 
 #### CNC Processing
 - **Blank Setting**: Custom blank size
 - **Tool Library Management**: Add and manage tool parameters
-- **Multiple Toolpath Generation**: Contour milling, plane milling, V-type milling, drilling, relief, etc.
-- **Toolpath Simulation**: 2D/3D preview of processing paths
+- **Multiple Toolpath Generation**: Contour milling, plane milling, V-type milling, drilling, relief, etc. (CAM features are under development, currently only CNC basic functions are supported)
+- **Toolpath Simulation**: 2D/3D preview of processing paths (CAM features are under development)
 - **Precise Control**: Single-step control, spindle switch, tool change, etc.
 - **Coordinate Setting**: Flexible setting of XY0 and Z0 coordinates
 
@@ -73,8 +73,8 @@ MaxmakeLab adopts a modular interface design, mainly divided into the following 
 1. **Design or Import Graphics**: Draw graphics on the canvas or import external files
 2. **Set Blank Parameters**: Set the size of processing material in the parameter bar
 3. **Select Tools**: Select appropriate tools from the tool library
-4. **Generate Toolpath**: Choose toolpath generation method and set processing parameters
-5. **Preview Toolpath**: Check processing paths in the simulation preview area
+4. **Generate Toolpath**: Choose toolpath generation method and set processing parameters (CAM features are under development)
+5. **Preview Toolpath**: Check processing paths in the simulation preview area (CAM features are under development)
 6. **Connect Device**: Click "Auto Connect" or manually connect the device
 7. **Zero Return Operation**: Must execute zero return operation after turning on the device
 8. **Start Processing**: Click the "Run" button to start processing, can pause or stop at any time

@@ -321,6 +321,8 @@ Complete user manual for MaxmakeLab software. This guide covers interface functi
 | **Toolpath and Operations** | Contour milling, planar milling, V-type milling, drilling, relief, import toolpath programs |
 | **Toolpath** | Display generated toolpaths |
 
+> ⚠️ **Note**: The software's CAM features are still under active development. Some advanced processing functions (such as complex surface machining, multi-axis linkage, etc.) are still in the research and development phase. We will continuously update and iterate based on user feedback and technical progress. Stay tuned for future version upgrades!
+
 ---
 
 ## <a id="9-cnc-processing-workflow"></a>9. CNC Processing Workflow
