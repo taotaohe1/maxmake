@@ -1,5 +1,13 @@
 # 回転軸
 
+> ⚠️ **重要なお知らせ**：税関の政策上の理由により、モーターケーブルは発送時に取り外されています。**商品を受け取ったら、すぐに再接続してください**。取り付けを開始する前に必ずこの作業を完了してください。
+
+**モーターケーブルの接続（拡大図）:**
+
+<img src="/eng/himill-d1-d1s/media/hmd1s-rotation-axis/旋转轴电机线1.jpg" alt="モーターケーブル取り外し状態（拡大図）" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+
+<img src="/eng/himill-d1-d1s/media/hmd1s-rotation-axis/旋转轴电机线2.jpg" alt="モーターケーブル接続状態（拡大図）" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+
 ## 1. アクセサリーの紹介とチャックの調整
 
 ### 📦 部品一覧

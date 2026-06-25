@@ -2,6 +2,14 @@
 
 Learn how to install and use the [rotation axis](https://maxmake.com/products/4th-axis-module) accessory for HiMill D1S CNC machine. This guide covers accessory list, chuck adjustment, installation location, and connection steps.
 
+> ⚠️ **Important Notice**: Due to customs policy requirements, the motor cable has been disconnected for shipping. **Please reconnect it immediately upon receiving the package** before proceeding with installation.
+
+**Motor Cable Connection (Close-up):**
+
+<img src="/eng/himill-d1-d1s/media/hmd1s-rotation-axis/旋转轴电机线1.jpg" alt="Motor Cable Disconnected - Close-up" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+
+<img src="/eng/himill-d1-d1s/media/hmd1s-rotation-axis/旋转轴电机线2.jpg" alt="Motor Cable Connected - Close-up" style="width: 600px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+
 ## 1. Accessories Introduction and Chuck Adjustment
 
 ### 📦 Parts List
