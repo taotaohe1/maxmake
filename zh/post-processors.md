@@ -7,6 +7,7 @@
 | 名称 | 适用软件 | 下载链接 |
 |------|----------|----------|
 | Fusion360 后处理器 | Autodesk Fusion 360 | <a href="/chi/himill-d1-d1s/media/post/fusion360.zip" target="_blank" rel="noopener noreferrer">下载</a> |
+| FreeCAD 后处理器 | FreeCAD | <a href="/chi/himill-d1-d1s/media/post/freecad.zip" target="_blank" rel="noopener noreferrer">下载</a> |
 | Vectric 后处理器 | Vectric VCarve / Aspire / Cut2D | <a href="/chi/himill-d1-d1s/media/post/vectric.zip" target="_blank" rel="noopener noreferrer">下载</a> |
 | Kiri:moto 后处理器 | Kiri:moto | <a href="/chi/himill-d1-d1s/media/post/kiri-moto.zip" target="_blank" rel="noopener noreferrer">下载</a> |
 | Estlcam 后处理器 | Estlcam | <a href="/chi/himill-d1-d1s/media/post/estlcam-maxmake.zip" target="_blank" rel="noopener noreferrer">下载</a> |

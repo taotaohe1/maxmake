@@ -6,6 +6,7 @@ Learn how to use the 3D probe for MAXMAKE HiMill D1S CNC machine. This guide cov
 
 > ⚠️ **3D Probe Usage Safety Precautions**:
 >
+> - **Before first use, it is recommended to move the 3D probe to a safe position (e.g., X100,Y-100,Z-10) and manually trigger detection to confirm normal operation before use**
 > - Centering is suitable for workpieces with regular shapes, such as circles or rectangles. Not recommended for irregular workpieces
 > - During Z-axis surface detection, select the highest surface of the workpiece
 > - When moving the 3D probe, keep the ball tip slightly below the workpiece, not too low
@@ -13,9 +14,7 @@ Learn how to use the 3D probe for MAXMAKE HiMill D1S CNC machine. This guide cov
 > - The 3D probe is a precision and easily damaged accessory, please move the 3D probe slowly
 > - If the alarm is triggered by accidental contact during movement, please remove the obstacle in time, return to zero and retry
 > - The 3D probe will alarm if triggered before movement
->- The 3D probe will also alarm if triggered during movement (i.e., G0, G1, G2)
->- The 3D probe will alarm if no object is detected within the detection distance
->- The 3D probe will not trigger an alarm during zero return, so please ensure there are no obstacles in the zero return path to avoid damage to the 3D probe
+> - The 3D probe only triggers an alarm during JOG manual movement (clicking the move button in the software), and also alarms when the detection command G38.2 encounters an error. G0, G1, G2 commands will not trigger an alarm, so special attention must be paid to avoid collisions when performing operations such as border walking and zero return
 >
 > {.is-warning}
 
