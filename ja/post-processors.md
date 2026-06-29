@@ -7,6 +7,7 @@
 | 名前 | 互換ソフトウェア | ダウンロードリンク |
 |------|-------------------|---------------------|
 | Fusion360ポストプロセッサー | Autodesk Fusion 360 | <a href="/eng/himill-d1-d1s/media/post/fusion360.zip" target="_blank" rel="noopener noreferrer">ダウンロード</a> |
+| FreeCADポストプロセッサー | FreeCAD | <a href="/eng/himill-d1-d1s/media/post/freecad.zip" target="_blank" rel="noopener noreferrer">ダウンロード</a> |
 | Vectricポストプロセッサー | Vectric VCarve / Aspire / Cut2D | <a href="/eng/himill-d1-d1s/media/post/vectric.zip" target="_blank" rel="noopener noreferrer">ダウンロード</a> |
 | Kiri:motoポストプロセッサー | Kiri:moto | <a href="/eng/himill-d1-d1s/media/post/kiri-moto.zip" target="_blank" rel="noopener noreferrer">ダウンロード</a> |
 | Estlcamポストプロセッサー | Estlcam | <a href="/eng/himill-d1-d1s/media/post/estlcam-maxmake.zip" target="_blank" rel="noopener noreferrer">ダウンロード</a> |
