@@ -57,10 +57,6 @@ If photos cannot fully demonstrate the damage (such as loose internal parts or t
 
 ---
 
-*📝 If you have any questions, please feel free to contact our customer service team.*
-
----
-
 ## 🔌 Electrical Safety
 
 ### 1. Voltage Check
@@ -93,3 +89,5 @@ Remove the power interface label, insert the power cord, and turn on the power s
 <img src="/eng/himill-d1-d1s/media/basic-operation-and-usage-safety/1-用电安全-4.webp" alt="Remove Label" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
 
 <img src="/eng/himill-d1-d1s/media/basic-operation-and-usage-safety/1-用电安全-5.webp" alt="Insert Power Cord" style="width: 500px; height: auto; margin-bottom: 8px; border-radius: 16px;" />
+
+*📝 If you have any questions, please feel free to contact our customer service team.*
