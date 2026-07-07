@@ -15,7 +15,7 @@ Learn how to use the 3D probe for MAXMAKE HiMill D1S CNC machine. This guide cov
 > - If the alarm is triggered by accidental contact during movement, please remove the obstacle in time, return to zero and retry
 > - The 3D probe will alarm if triggered before movement
 > - The 3D probe only triggers an alarm during JOG manual movement (clicking the move button in the software), and also alarms when the detection command G38.2 encounters an error. G0, G1, G2 commands will not trigger an alarm, so special attention must be paid to avoid collisions when performing operations such as border walking and zero return
-> - **Due to a software fix for the 3D probe abnormal zero return issue, a prompt popup may appear when detecting at or near the zero position. This is normal behavior. If this popup appears during detection, the equipment will immediately stop moving, but JOG manual movement is still available. Please be careful to avoid damaging the 3D probe**
+> - **Due to a software fix for the 3D probe abnormal zero return issue, a new detection logic was added, so a prompt popup may appear when detecting at or near the zero position. This is normal behavior. If this popup appears during detection, the equipment will immediately stop moving after detection completes and will not return to the pre-detection position, but JOG manual movement is still available. Please be careful to avoid damaging the 3D probe**
 >
 > {.is-warning}
 >
