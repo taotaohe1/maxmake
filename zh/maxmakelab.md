@@ -19,6 +19,10 @@ MaxmakeLab 软件的详细操作说明，帮助您正确使用。
 - [HiMill D1S 加工控制](/zh/himill-d1-d1s/hmd1s-processing-control.md)
 - [HiMill D1S 激光加工](/zh/himill-d1-d1s/hmd1s-laser-processing.md)
 
+## 社区支持
+如果您在使用软件中遇到任何问题，请点击此链接加入我们的 Discord 并创建工单获取帮助：
+- [Discord](https://discord.com/channels/1436232802227064903/1436232803061600351)
+
 ---
 
 ## ⚠️ 重要安全提示

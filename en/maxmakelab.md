@@ -22,6 +22,10 @@ If you want to learn more about MaxmakeLab's features, you can refer to:
 - [HiMill D1S Processing Control](/en/himill-d1-d1s/hmd1s-processing-control.md)
 - [HiMill D1S Laser Processing](/en/himill-d1-d1s/hmd1s-laser-processing.md)
 
+## Community Support
+If you encounter any issues while using the software, please click this link to join our Discord and create a ticket for help:
+- [Discord](https://discord.com/channels/1436232802227064903/1436232803061600351)
+
 ---
 
 ## ⚠️ Important Safety Notice
