@@ -4,7 +4,7 @@ MaxmakeLAB version 0.9.18 introduces new CAM-related features: Stock Setup, Tool
 
 ## 1. Stock Setup (Job Step)
 
-<img src="/eng/maxmakelab/maxmakelab-cam-feature-introduction/毛坯设置.webp" alt="Stock Setup Demo" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
+<img src="/eng/maxmakelab/media/maxmakelab-cam-feature-introduction/毛坯设置.webp" alt="Stock Setup Demo" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
 
 - Set stock dimensions (length, width, height)
 - The machining origin currently defaults to the top vertex. Bottom origin functionality will be added in future updates
@@ -13,7 +13,7 @@ MaxmakeLAB version 0.9.18 introduces new CAM-related features: Stock Setup, Tool
 
 ## 2. Tool Library
 
-<img src="/eng/maxmakelab/maxmakelab-cam-feature-introduction/刀具库.webp" alt="Tool Library Demo" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
+<img src="/eng/maxmakelab/media/maxmakelab-cam-feature-introduction/刀具库.webp" alt="Tool Library Demo" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
 
 - Modify tool parameters including:
   - Tool number, unit, diameter, etc.
@@ -30,7 +30,7 @@ MaxmakeLAB version 0.9.18 introduces new CAM-related features: Stock Setup, Tool
 
 ## 3. Profile Toolpath
 
-<img src="/eng/maxmakelab/maxmakelab-cam-feature-introduction/轮廓铣.webp" alt="Profile Toolpath Demo" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
+<img src="/eng/maxmakelab/media/maxmakelab-cam-feature-introduction/轮廓铣.webp" alt="Profile Toolpath Demo" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
 
 - Generate profile toolpath after selecting vectors
 - Set machining depth. Machining start height will be added later
@@ -41,7 +41,7 @@ MaxmakeLAB version 0.9.18 introduces new CAM-related features: Stock Setup, Tool
 
 ## 4. Pocket Toolpath
 
-<img src="/eng/maxmakelab/maxmakelab-cam-feature-introduction/平面铣.webp" alt="Pocket Toolpath Demo" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
+<img src="/eng/maxmakelab/media/maxmakelab-cam-feature-introduction/平面铣.webp" alt="Pocket Toolpath Demo" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
 
 - Generate pocket toolpath after selecting vectors
 - Set machining depth. Machining start height will be added later
@@ -50,7 +50,7 @@ MaxmakeLAB version 0.9.18 introduces new CAM-related features: Stock Setup, Tool
 
 ## 5. Relief Toolpath
 
-<img src="/eng/maxmakelab/maxmakelab-cam-feature-introduction/浮雕加工.webp" alt="Relief Toolpath Demo" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
+<img src="/eng/maxmakelab/media/maxmakelab-cam-feature-introduction/浮雕加工.webp" alt="Relief Toolpath Demo" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
 
 - Generate relief toolpath after selecting an image
 - Set machining depth, which currently defines the relief height
@@ -66,7 +66,7 @@ MaxmakeLAB version 0.9.18 introduces new CAM-related features: Stock Setup, Tool
 
 ## 6. Simulation
 
-<img src="/eng/maxmakelab/maxmakelab-cam-feature-introduction/仿真加工.webp" alt="Simulation Demo" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
+<img src="/eng/maxmakelab/media/maxmakelab-cam-feature-introduction/仿真加工.webp" alt="Simulation Demo" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
 
 - After generating toolpath, click the simulate button to view the machining simulation
 - Toggle toolpath display on/off
@@ -75,7 +75,7 @@ MaxmakeLAB version 0.9.18 introduces new CAM-related features: Stock Setup, Tool
 
 ## 7. Export
 
-<img src="/eng/maxmakelab/maxmakelab-cam-feature-introduction/导出.webp" alt="Export Demo" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
+<img src="/eng/maxmakelab/media/maxmakelab-cam-feature-introduction/导出.webp" alt="Export Demo" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
 
 - After generating toolpath, click the export button to export G-code in NC format
 - Can directly import to the machine when connected and zeroed

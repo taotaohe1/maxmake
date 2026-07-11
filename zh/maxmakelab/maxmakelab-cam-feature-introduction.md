@@ -4,7 +4,7 @@ MaxmakeLAB-0.9.18版本更新，新增了CAM相关功能：毛坯设置，刀具
 
 ## 1. 毛坯设置（Job Step）
 
-<img src="/chi/maxmakelab/maxmakelab-cam-feature-introduction/毛坯设置.webp" alt="毛坯设置演示" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
+<img src="/chi/maxmakelab/media/maxmakelab-cam-feature-introduction/毛坯设置.webp" alt="毛坯设置演示" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
 
 - 可设置毛坯的长宽高
 - 加工起点目前默认为顶点，后续会增加底面为零点功能
@@ -13,7 +13,7 @@ MaxmakeLAB-0.9.18版本更新，新增了CAM相关功能：毛坯设置，刀具
 
 ## 2. 刀具库（Tool Library）
 
-<img src="/chi/maxmakelab/maxmakelab-cam-feature-introduction/刀具库.webp" alt="刀具库演示" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
+<img src="/chi/maxmakelab/media/maxmakelab-cam-feature-introduction/刀具库.webp" alt="刀具库演示" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
 
 - 可修改刀具参数如下：
   - 刀具号、单位、直径等
@@ -30,7 +30,7 @@ MaxmakeLAB-0.9.18版本更新，新增了CAM相关功能：毛坯设置，刀具
 
 ## 3. 轮廓铣（Profile Toolpath）
 
-<img src="/chi/maxmakelab/maxmakelab-cam-feature-introduction/轮廓铣.webp" alt="轮廓铣演示" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
+<img src="/chi/maxmakelab/media/maxmakelab-cam-feature-introduction/轮廓铣.webp" alt="轮廓铣演示" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
 
 - 选择矢量后，可生成轮廓路径
 - 可设置加工深度，加工起始高度后续添加
@@ -41,7 +41,7 @@ MaxmakeLAB-0.9.18版本更新，新增了CAM相关功能：毛坯设置，刀具
 
 ## 4. 平面铣（Pocket Toolpath）
 
-<img src="/chi/maxmakelab/maxmakelab-cam-feature-introduction/平面铣.webp" alt="平面铣演示" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
+<img src="/chi/maxmakelab/media/maxmakelab-cam-feature-introduction/平面铣.webp" alt="平面铣演示" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
 
 - 选择矢量后，可生成平面铣路径
 - 可设置加工深度，加工起始高度后续添加
@@ -50,7 +50,7 @@ MaxmakeLAB-0.9.18版本更新，新增了CAM相关功能：毛坯设置，刀具
 
 ## 5. 浮雕加工（Relief Toolpath）
 
-<img src="/chi/maxmakelab/maxmakelab-cam-feature-introduction/浮雕加工.webp" alt="浮雕加工演示" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
+<img src="/chi/maxmakelab/media/maxmakelab-cam-feature-introduction/浮雕加工.webp" alt="浮雕加工演示" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
 
 - 选择图片后，可生成浮雕路径
 - 可设置加工深度，目前设置后，即为浮雕的高度
@@ -66,7 +66,7 @@ MaxmakeLAB-0.9.18版本更新，新增了CAM相关功能：毛坯设置，刀具
 
 ## 6. 仿真（Simulate）
 
-<img src="/chi/maxmakelab/maxmakelab-cam-feature-introduction/仿真加工.webp" alt="仿真演示" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
+<img src="/chi/maxmakelab/media/maxmakelab-cam-feature-introduction/仿真加工.webp" alt="仿真演示" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
 
 - 生成路径后，可点击仿真按钮，查看仿真加工效果
 - 可打开/关闭路径的显示
@@ -75,7 +75,7 @@ MaxmakeLAB-0.9.18版本更新，新增了CAM相关功能：毛坯设置，刀具
 
 ## 7. 导出（Export）
 
-<img src="/chi/maxmakelab/maxmakelab-cam-feature-introduction/导出.webp" alt="导出演示" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
+<img src="/chi/maxmakelab/media/maxmakelab-cam-feature-introduction/导出.webp" alt="导出演示" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
 
 - 生成路径后，可点击导出按钮，导出Gcode，为NC格式
 - 连接机器并归零的情况下，可直接导入机器

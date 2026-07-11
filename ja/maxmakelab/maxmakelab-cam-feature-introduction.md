@@ -4,7 +4,7 @@ MaxmakeLAB-0.9.18バージョンアップデートでは、CAM関連機能が新
 
 ## 1. ストック設定（Job Step）
 
-<img src="/eng/maxmakelab/maxmakelab-cam-feature-introduction/毛坯设置.webp" alt="ストック設定デモ" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
+<img src="/eng/maxmakelab/media/maxmakelab-cam-feature-introduction/毛坯设置.webp" alt="ストック設定デモ" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
 
 - ストックの幅、奥行き、高さを設定可能
 - 加工原点は現在、頂点がデフォルトです。底面を原点とする機能は今後追加されます
@@ -13,7 +13,7 @@ MaxmakeLAB-0.9.18バージョンアップデートでは、CAM関連機能が新
 
 ## 2. ツールライブラリ（Tool Library）
 
-<img src="/eng/maxmakelab/maxmakelab-cam-feature-introduction/刀具库.webp" alt="ツールライブラリデモ" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
+<img src="/eng/maxmakelab/media/maxmakelab-cam-feature-introduction/刀具库.webp" alt="ツールライブラリデモ" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
 
 - ツールパラメータを変更可能：
   - ツール番号、単位、直径など
@@ -30,7 +30,7 @@ MaxmakeLAB-0.9.18バージョンアップデートでは、CAM関連機能が新
 
 ## 3. プロファイルミリング（Profile Toolpath）
 
-<img src="/eng/maxmakelab/maxmakelab-cam-feature-introduction/轮廓铣.webp" alt="プロファイルミリングデモ" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
+<img src="/eng/maxmakelab/media/maxmakelab-cam-feature-introduction/轮廓铣.webp" alt="プロファイルミリングデモ" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
 
 - ベクターを選択後、プロファイルパスを生成可能
 - 加工深度を設定可能。加工開始高さは今後追加されます
@@ -41,7 +41,7 @@ MaxmakeLAB-0.9.18バージョンアップデートでは、CAM関連機能が新
 
 ## 4. ポケットミリング（Pocket Toolpath）
 
-<img src="/eng/maxmakelab/maxmakelab-cam-feature-introduction/平面铣.webp" alt="ポケットミリングデモ" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
+<img src="/eng/maxmakelab/media/maxmakelab-cam-feature-introduction/平面铣.webp" alt="ポケットミリングデモ" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
 
 - ベクターを選択後、ポケットパスを生成可能
 - 加工深度を設定可能。加工開始高さは今後追加されます
@@ -50,7 +50,7 @@ MaxmakeLAB-0.9.18バージョンアップデートでは、CAM関連機能が新
 
 ## 5. レリーフ加工（Relief Toolpath）
 
-<img src="/eng/maxmakelab/maxmakelab-cam-feature-introduction/浮雕加工.webp" alt="レリーフ加工デモ" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
+<img src="/eng/maxmakelab/media/maxmakelab-cam-feature-introduction/浮雕加工.webp" alt="レリーフ加工デモ" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
 
 - 画像を選択後、レリーフパスを生成可能
 - 加工深度を設定可能。現在設定後、レリーフの高さとなります
@@ -66,7 +66,7 @@ MaxmakeLAB-0.9.18バージョンアップデートでは、CAM関連機能が新
 
 ## 6. シミュレーション（Simulate）
 
-<img src="/eng/maxmakelab/maxmakelab-cam-feature-introduction/仿真加工.webp" alt="シミュレーションデモ" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
+<img src="/eng/maxmakelab/media/maxmakelab-cam-feature-introduction/仿真加工.webp" alt="シミュレーションデモ" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
 
 - パス生成後、シミュレートボタンをクリックして加工シミュレーションを表示可能
 - パスの表示をオン/オフ可能
@@ -75,7 +75,7 @@ MaxmakeLAB-0.9.18バージョンアップデートでは、CAM関連機能が新
 
 ## 7. エクスポート（Export）
 
-<img src="/eng/maxmakelab/maxmakelab-cam-feature-introduction/导出.webp" alt="エクスポートデモ" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
+<img src="/eng/maxmakelab/media/maxmakelab-cam-feature-introduction/导出.webp" alt="エクスポートデモ" style="width: 100%; height: auto; margin-bottom: 4px; border-radius: 16px;" />
 
 - パス生成後、エクスポートボタンをクリックしてGコードをNC形式でエクスポート可能
 - 機械に接続してゼロリターンした状態で、直接機械にインポート可能
