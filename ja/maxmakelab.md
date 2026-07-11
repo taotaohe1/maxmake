@@ -14,6 +14,7 @@ MaxmakeLabのコア機能と特徴の詳細な紹介。
 ## ソフトウェア操作
 MaxmakeLabソフトウェアを正しく使用するための詳細な操作説明。
 * [MaxmakeLabソフトウェアマニュアル](/ja/maxmakelab/maxmakelab-software-manual.md)
+* [MaxmakeLab CAM機能紹介ページ](/ja/maxmakelab/maxmakelab-cam-feature-introduction.md)
 
 ## 関連リソース
 MaxmakeLabの機能について詳しく知りたい場合は、以下を参照してください：

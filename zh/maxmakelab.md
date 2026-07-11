@@ -13,6 +13,7 @@
 ## 软件操作
 MaxmakeLab 软件的详细操作说明，帮助您正确使用。
 * [MaxmakeLab 软件说明书](/zh/maxmakelab/maxmakelab-software-manual.md)
+* [MaxmakeLab CAM功能介绍页面](/zh/maxmakelab/maxmakelab-cam-feature-introduction.md)
 
 ## 相关资源
 如果您想深入学习MaxmakeLab的更多功能，可以参考：

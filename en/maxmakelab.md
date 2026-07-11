@@ -16,6 +16,7 @@ Detailed introduction to the core functions and features of MaxmakeLab.
 ## Software Operations
 Detailed operation instructions for MaxmakeLab software to help you use it correctly.
 * [MaxmakeLab Software Manual](/en/maxmakelab/maxmakelab-software-manual.md)
+* [MaxmakeLab CAM Feature Introduction](/en/maxmakelab/maxmakelab-cam-feature-introduction.md)
 
 ## Related Resources
 If you want to learn more about MaxmakeLab's features, you can refer to:
