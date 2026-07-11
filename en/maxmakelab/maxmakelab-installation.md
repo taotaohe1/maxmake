@@ -30,17 +30,31 @@ MaxmakeLab is an intelligent control software designed specifically for HiMill s
 ## 📥 Software Download
 You can download MaxmakeLab software through the following links. Choose the appropriate version according to your operating system and needs:
 
-> ℹ️ **Update Notice**:
-> 1. Improved console macro command functionality
-> 2. Fixed issue where images could not be rendered after clicking "Fit" when importing images
-> 3. Added feature to offset and set origin by clicking XYZ coordinates in CNC workflow, including absolute and relative positions
-> 4. Added VC_redist.x64.exe runtime library installer
-> 5. Fixed issue where null values were generated after applying height map
-> 6. Fixed firmware flashing disconnection issue on Mac
-> 7. CAM functionality is still being improved, related CAM features do not represent the final software effect
+> ℹ️ **Version 0.9.18 Update**:
+> 1. Text function upgrade: Text creation function optimization
+> 2. New tool library function: Add tools in the tool library, and edit tool parameters when generating toolpaths
+> 3. Stock setup optimization: After setting stock, 2D area displays stock size within machine working area, supports adding graphics within the area
+> 4. New Profile Milling, Pocket Milling, and Grayscale Relief strategies
+> 5. New Simulation Preview: Supports machining simulation after generating toolpaths
 > {.is-info}
+>
+> > ⚠️ **Notes**:
+> > 1. The tool parameter library currently only supports one material type. Multi-material switching will be added in future updates. The software currently includes a set of parameters for soft wood machining.
+> > 2. Currently supported tools: Flat end mill, Ball nose end mill, Flat tip V-bit, V-bit. Other tool types will be added in the future.
+> > 3. Toolpaths are currently generated starting from the material surface. Start height setting will be added in future updates.
+> > 4. Bridge function will be added in future updates.
+> > 5. Ramp function will be added in future updates, so currently only soft wood and similar materials are supported. Hard wood and metal are not recommended.
+> > 6. The relief function currently reserves a large roughing allowance. It is not recommended for hard woods like sandalwood. This feature will be optimized in future updates.
+> > 7. G-code Generation: The generated code includes the first tool change command. Therefore, before machining, please click tool change in the software, measure tool height, set Z0, then start machining. (Must be executed, otherwise machining errors or height errors may occur)
+> > 8. Mac version is expected to be updated next week.
+> > 9. If you encounter any software issues, please contact us in the Discord software feedback channel. We will actively consider your suggestions and fix issues promptly: [Discord](https://discord.com/channels/1436232802227064903/1436232803061600351)
+> > {.is-warning}
 
-### Latest Version (v0.9.17)
+### Latest Version (v0.9.18)
+**[MaxmakeLab Software Download Link(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.18.exe)**
+**[MaxmakeLab Software Download Link(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.18.dmg)**
+
+### Previous Version (v0.9.17)
 **[MaxmakeLab Software Download Link(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.17.exe)**
 **[MaxmakeLab Software Download Link(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.17.dmg)**
 
