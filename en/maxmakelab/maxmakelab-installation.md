@@ -37,18 +37,19 @@ You can download MaxmakeLab software through the following links. Choose the app
 > 4. New Profile Milling, Pocket Milling, and Grayscale Relief strategies
 > 5. New Simulation Preview: Supports machining simulation after generating toolpaths
 > {.is-info}
->
-> > ⚠️ **Notes**:
-> > 1. The tool parameter library currently only supports one material type. Multi-material switching will be added in future updates. The software currently includes a set of parameters for soft wood machining.
-> > 2. Currently supported tools: Flat end mill, Ball nose end mill, Flat tip V-bit, V-bit. Other tool types will be added in the future.
-> > 3. Toolpaths are currently generated starting from the material surface. Start height setting will be added in future updates.
-> > 4. Bridge function will be added in future updates.
-> > 5. Ramp function will be added in future updates, so currently only soft wood and similar materials are supported. Hard wood and metal are not recommended.
-> > 6. The relief function currently reserves a large roughing allowance. It is not recommended for hard woods like sandalwood. This feature will be optimized in future updates.
-> > 7. G-code Generation: The generated code includes the first tool change command. Therefore, before machining, please click tool change in the software, measure tool height, set Z0, then start machining. (Must be executed, otherwise machining errors or height errors may occur)
-> > 8. Mac version is expected to be updated next week.
-> > 9. If you encounter any software issues, please contact us in the Discord software feedback channel. We will actively consider your suggestions and fix issues promptly: [Discord](https://discord.com/channels/1436232802227064903/1436232803061600351)
-> > {.is-warning}
+
+
+>  ⚠️ **Notes**:
+>  1. The tool parameter library currently only supports one material type. Multi-material switching will be added in future updates. The software currently includes a set of parameters for soft wood machining.
+>  2. Currently supported tools: Flat end mill, Ball nose end mill, Flat tip V-bit, V-bit. Other tool types will be added in the future.
+>  3. Toolpaths are currently generated starting from the material surface. Start height setting will be added in future updates.
+>  4. Bridge function will be added in future updates.
+>  5. Ramp function will be added in future updates, so currently only soft wood and similar materials are supported. Hard wood and metal are not recommended.
+>  6. The relief function currently reserves a large roughing allowance. It is not recommended for hard woods like sandalwood. This feature will be optimized in future updates.
+>  7. G-code Generation: The generated code includes the first tool change command. Therefore, before machining, please click tool change in the software, measure tool height, set Z0, then start machining. (Must be executed, otherwise machining errors or height errors may occur)
+>  8. Mac version is expected to be updated next week.
+>  9. If you encounter any software issues, please contact us in the Discord software feedback channel. We will actively consider your suggestions and fix issues promptly: [Discord](https://discord.com/channels/1436232802227064903/1436232803061600351)
+>  {.is-warning}
 
 ### Latest Version (v0.9.18)
 **[MaxmakeLab Software Download Link(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.18.exe)**
