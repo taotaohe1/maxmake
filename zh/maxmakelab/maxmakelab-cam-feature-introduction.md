@@ -89,6 +89,8 @@ MaxmakeLAB-0.9.18版本更新，新增了CAM相关功能：毛坯设置，刀具
 
 ## 8. 问题反馈
 
-有任何软件问题，可在Discord软件反馈专区内联系我们。我们会积极参考大家的建议并及时修复问题：
+有任何软件问题，可通过以下渠道联系我们。我们会积极参考大家的建议并及时修复问题：
 
 - [Discord](https://discord.com/channels/1436232802227064903/1436232803061600351)
+- 邮箱：support@maxmaketech.com
+- 邮箱：support@maxmake.com

@@ -89,6 +89,8 @@ MaxmakeLAB version 0.9.18 introduces new CAM-related features: Stock Setup, Tool
 
 ## 8. Feedback
 
-If you encounter any software issues, please contact us in the Discord software feedback channel. We will actively consider your suggestions and fix issues promptly:
+If you encounter any software issues, please contact us via the following channels. We will actively consider your suggestions and fix issues promptly:
 
 - [Discord](https://discord.com/channels/1436232802227064903/1436232803061600351)
+- Email: support@maxmaketech.com
+- Email: support@maxmake.com
