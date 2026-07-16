@@ -6,7 +6,7 @@ Learn the basics of MaxmakeLab software for HiMill CNC machines. This guide cove
 
 MaxmakeLab is an intelligent control software designed specifically for HiMill series CNC equipment, providing an intuitive operation interface and rich processing functions to help users easily complete various creative processing tasks. Whether you are a CNC beginner or an experienced user, you can quickly get started with using it.
 
-The software supports both CNC processing and laser processing modes, with complete design, toolpath generation (CAM features are under development, currently only CNC basic functions are supported), and processing control functions, providing users with a one-stop processing solution.
+The software supports both CNC processing and laser processing modes, with complete design, toolpath generation (CAM basic features are available, advanced features will be added in future updates), and processing control functions, providing users with a one-stop processing solution.
 
 
 ## 🎨 Main Interface Function Introduction
@@ -28,7 +28,7 @@ MaxmakeLab adopts a modular interface design, mainly divided into the following 
 | 4 | CAM Preview Interface | Generated toolpath preview |
 | 5 | Device Bar | Select, connect, and quickly control devices |
 | 6 | Parameter Setting | Set blank parameters and tool library parameters in CNC mode, set processing parameters in laser mode |
-| 7 | Generate Toolpath | Choose the way to generate toolpath (CAM features are under development, currently only CNC basic functions are supported) |
+| 7 | Generate Toolpath | Choose the way to generate toolpath (CAM basic features are available, advanced features will be added in future updates) |
 | 8 | Toolpath List | Display already generated toolpaths |
 | 9 | Export Toolpath & Simulation | Toolpath simulation and export |
 | 10 | Color Bar | Assign different colors to primitives for easy distinction and processing parameter setting |
@@ -57,7 +57,7 @@ MaxmakeLab adopts a modular interface design, mainly divided into the following 
 #### CNC Processing
 - **Blank Setting**: Custom blank size
 - **Tool Library Management**: Add and manage tool parameters
-- **Multiple Toolpath Generation**: Contour milling, plane milling, V-type milling, drilling, relief, etc. (CAM features are under development, currently only CNC basic functions are supported)
+- **Multiple Toolpath Generation**: Contour milling, plane milling, V-type milling, drilling, relief, etc. (CAM basic features are available, advanced features will be added in future updates)
 - **Toolpath Simulation**: 2D/3D preview of processing paths (3D preview is currently not supported)
 - **Precise Control**: Single-step control, spindle switch, tool change, etc.
 - **Coordinate Setting**: Flexible setting of XY0 and Z0 coordinates
