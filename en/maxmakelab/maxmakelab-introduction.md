@@ -25,14 +25,16 @@ MaxmakeLab adopts a modular interface design, mainly divided into the following 
 | 1 | Menu Bar | Import and export files, adjust view size, software settings, help guide, language switching, mode switching |
 | 2 | Design Bar | Add various types of primitives (lines, rectangles, circles, text, images, etc.) |
 | 3 | Canvas | Generally the size of the device's working area, used for designing and editing processing graphics |
-| 4 | Color Bar | Assign different colors to primitives for easy distinction and processing parameter setting |
+| 4 | CAM Preview Interface | Generated toolpath preview |
 | 5 | Device Bar | Select, connect, and quickly control devices |
 | 6 | Parameter Setting | Set blank parameters and tool library parameters in CNC mode, set processing parameters in laser mode |
 | 7 | Generate Toolpath | Choose the way to generate toolpath (CAM features are under development, currently only CNC basic functions are supported) |
-| 8 | Toolpath List | Display already generated toolpaths (CAM features are under development) |
-| 9 | Quick Control | Quick control functions in laser mode, such as fast movement, reset, etc. |
-| 10 | Layer Bar | Assign different processing parameters to primitives of different colors |
-| 11 | Simulation Preview | Simulate and preview processing paths |
+| 8 | Toolpath List | Display already generated toolpaths |
+| 9 | Export Toolpath & Simulation | Toolpath simulation and export |
+| 10 | Color Bar | Assign different colors to primitives for easy distinction and processing parameter setting |
+| 11 | Quick Control | Quick control functions in laser mode, such as fast movement, reset, etc. |
+| 12 | Layer Bar | Assign different processing parameters to primitives of different colors |
+| 13 | Simulation Preview | Simulate and preview processing paths |
 
 ## 🚀 Core Function Features
 
@@ -56,7 +58,7 @@ MaxmakeLab adopts a modular interface design, mainly divided into the following 
 - **Blank Setting**: Custom blank size
 - **Tool Library Management**: Add and manage tool parameters
 - **Multiple Toolpath Generation**: Contour milling, plane milling, V-type milling, drilling, relief, etc. (CAM features are under development, currently only CNC basic functions are supported)
-- **Toolpath Simulation**: 2D/3D preview of processing paths (CAM features are under development)
+- **Toolpath Simulation**: 2D/3D preview of processing paths (3D preview is currently not supported)
 - **Precise Control**: Single-step control, spindle switch, tool change, etc.
 - **Coordinate Setting**: Flexible setting of XY0 and Z0 coordinates
 
@@ -73,8 +75,8 @@ MaxmakeLab adopts a modular interface design, mainly divided into the following 
 1. **Design or Import Graphics**: Draw graphics on the canvas or import external files
 2. **Set Blank Parameters**: Set the size of processing material in the parameter bar
 3. **Select Tools**: Select appropriate tools from the tool library
-4. **Generate Toolpath**: Choose toolpath generation method and set processing parameters (CAM features are under development)
-5. **Preview Toolpath**: Check processing paths in the simulation preview area (CAM features are under development)
+4. **Generate Toolpath**: Choose toolpath generation method and set processing parameters
+5. **Preview Toolpath**: Check processing paths in the simulation preview area (currently only 2D preview is supported)
 6. **Connect Device**: Click "Auto Connect" or manually connect the device
 7. **Zero Return Operation**: Must execute zero return operation after turning on the device
 8. **Start Processing**: Click the "Run" button to start processing, can pause or stop at any time
