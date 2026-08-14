@@ -743,7 +743,7 @@ As a CNC beginner, choosing a suitable tool is the first step. A good tool makes
 
 **Beginner tip:** remove only a shallow amount at the edge—light contact is usually enough. You can feed a bit faster than you would for heavy milling.
 
-**Buy now:** [Chamfer Tool]
+**Buy now:** [Chamfer Tool](https://maxmake.com/products/90-degree-chamfer-mill-v-groove-bit-rainbow)
 
 ### 🔧 9) 4mm Thread Mill
 
@@ -764,7 +764,7 @@ As a CNC beginner, choosing a suitable tool is the first step. A good tool makes
 
 **Beginner tip:** thread milling must use the correct CNC/CAM thread-milling toolpath. You must pre-drill the bottom hole first (usually with a flat mill or drill).
 
-**Buy now:** [4mm Thread Mill]
+**Buy now:** [4mm Thread Mill](https://maxmake.com/products/4mm-solid-carbide-thread-mill-metal)
 
 ### ✨ Why these 9 tools cover 90% of machining needs
 
