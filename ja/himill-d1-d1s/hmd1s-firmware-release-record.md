@@ -27,12 +27,21 @@ MaxMakeLabソフトウェアを使用して機器に接続した後、コンピ�
 
 | ファイルの種類 | ダウンロードリンク |
 |----------|--------------|
-| 最新ファームウェア | [HiMill_D1_V1.0.36.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.36-20260507.bin) |
-| 以前のバージョン | [HiMill_D1_V1.0.34.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.34-20251222.bin) |
+| 最新ファームウェア | [HiMill_D1_V1.0.37.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.37-20260814.bin) |
+| 以前のバージョン | [HiMill_D1_V1.0.36.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.36-20260507.bin) |
 
 ---
 
 ## 最新バージョン
+
+### V1.0.37 (2026-08-14)
+
+#### 🎉 公式リリース
+- 外部緊急停止が作動した際に、JOG移動やスピンドル起動がまだ可能だった問題を修正しました
+
+---
+
+## 以前のバージョン
 
 ### V1.0.36 (2026-05-07)
 
@@ -40,8 +49,6 @@ MaxMakeLabソフトウェアを使用して機器に接続した後、コンピ�
 - G20モードでのツールチェンジ中にG21に切り替えた後、G20に戻らない問題を修正しました
 
 ---
-
-## 以前のバージョン
 
 ### V1.0.34 (2025-12-22)
 
