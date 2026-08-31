@@ -29,12 +29,21 @@ If you choose to manually flash the firmware, you can follow these steps:
 
 | File Type | Download Link |
 |----------|--------------|
-| Latest Firmware | [HiMill_D1_V1.0.37.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.37-20260814.bin) |
-| Previous Version | [HiMill_D1_V1.0.36.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.36-20260507.bin) |
+| Latest Firmware | [HiMill_D1_V1.0.38.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.38-20260829.bin) |
+| Previous Version | [HiMill_D1_V1.0.37.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.37-20260814.bin) |
 
 ---
 
 ## Latest Version
+
+### V1.0.38 (2026-08-31)
+
+#### 🎉 Official Release
+- Fixed the issue where subsequent code was still executed during tool change in streaming machining
+
+---
+
+## Previous Versions
 
 ### V1.0.37 (2026-08-14)
 
@@ -42,8 +51,6 @@ If you choose to manually flash the firmware, you can follow these steps:
 - Fixed the issue where the external emergency stop could still jog move or turn on the spindle when triggered
 
 ---
-
-## Previous Versions
 
 ### V1.0.36 (2026-05-07)
 

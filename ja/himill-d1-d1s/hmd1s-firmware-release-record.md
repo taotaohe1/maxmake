@@ -27,12 +27,21 @@ MaxMakeLabソフトウェアを使用して機器に接続した後、コンピ�
 
 | ファイルの種類 | ダウンロードリンク |
 |----------|--------------|
-| 最新ファームウェア | [HiMill_D1_V1.0.37.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.37-20260814.bin) |
-| 以前のバージョン | [HiMill_D1_V1.0.36.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.36-20260507.bin) |
+| 最新ファームウェア | [HiMill_D1_V1.0.38.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.38-20260829.bin) |
+| 以前のバージョン | [HiMill_D1_V1.0.37.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.37-20260814.bin) |
 
 ---
 
 ## 最新バージョン
+
+### V1.0.38 (2026-08-31)
+
+#### 🎉 公式リリース
+- ストリーミング加工中のツールチェンジ時に後続のコードが実行されてしまう問題を修正しました
+
+---
+
+## 以前のバージョン
 
 ### V1.0.37 (2026-08-14)
 
@@ -40,8 +49,6 @@ MaxMakeLabソフトウェアを使用して機器に接続した後、コンピ�
 - 外部緊急停止が作動した際に、JOG移動やスピンドル起動がまだ可能だった問題を修正しました
 
 ---
-
-## 以前のバージョン
 
 ### V1.0.36 (2026-05-07)
 

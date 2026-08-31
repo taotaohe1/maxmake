@@ -26,12 +26,21 @@
 
 | 文件类型 | 下载链接 |
 |---------|---------|
-| 最新固件 | [HiMill_D1_V1.0.37.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.37-20260814.bin) |
-| 以往版本 | [HiMill_D1_V1.0.36.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.36-20260507.bin) |
+| 最新固件 | [HiMill_D1_V1.0.38.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.38-20260829.bin) |
+| 以往版本 | [HiMill_D1_V1.0.37.bin](https://assets.maxmake.com/Maxmakelab/firmware/himill/HiMill_D1-v1.0.37-20260814.bin) |
 
 ---
 
 ## 最新版本
+
+### V1.0.38 (2026-08-31)
+
+#### 🎉 正式发布
+- 修复了流式传输加工换刀时，后续代码被执行的问题
+
+---
+
+## 以往版本
 
 ### V1.0.37 (2026-08-14)
 
@@ -39,8 +48,6 @@
 - 修复了外接急停触发时，还能jog移动或者打开主轴等问题
 
 ---
-
-## 以往版本
 
 ### V1.0.36 (2026-05-07)
 
