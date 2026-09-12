@@ -30,42 +30,58 @@ MaxmakeLab is an intelligent control software designed specifically for HiMill s
 ## 📥 Software Download
 You can download MaxmakeLab software through the following links. Choose the appropriate version according to your operating system and needs:
 
-> ℹ️ **Version 0.9.19 Update**:
-> 1. Optimized text functionality
-> 2. Optimized 3D probing function: replaced G-code commands with JOG motion commands
-> 3. Optimized pocket milling algorithm
-> 4. Fixed potential crash upon DXF file import
-> 5. Optimized toolpath display in 3D preview to reduce crash occurrences
-> 6. Fixed tool library import errors
-> 7. Optimized DXF import logic: original canvas content is no longer cleared
-> 8. Fixed feed rate reset issue after tool change
-> 9. Fixed interaction issues with horizontal and vertical lines
-> 10. If you encounter any software issues, please contact us in the Discord software feedback channel. We will actively consider your suggestions and fix issues promptly: [Discord](https://discord.com/channels/1436232802227064903/1436232803061600351)
+> ℹ️ **Version 0.9.20 Update**:
+> 
+> **1. Probe Function**
+> 1. Added probe status indicator on the tool setting interface
+> 2. Added F value after M3/M4 commands in GCode for probe height map application
+> 
+> **2. Tool Parameters & Toolpath**
+> 1. Fixed incorrect toolpath issue in offset contour milling with complex tools
+> 2. Tool parameter database adjustment: software updates will no longer overwrite user-modified tool parameters. Defaults to loading toolbase_user.db3 (automatically copied from toolbase.db3 if not present), user parameters are saved in this file
+> 3. Added popup prompt for resetting tool parameter library
+> 
+> **3. Layer Management**
+> 1. Fixed the issue where layers appeared in laser mode after adding graphics in CNC mode
+> 2. Fixed the issue where layer info was still displayed when no elements existed in the layer in laser mode
+> 
+> **4. Element Operations & Rendering**
+> 1. Added element width/height rendering, ruler width/height highlight rendering
+> 2. Alignment operations now support using Shift-selected single element as reference element
+> 3. Added snap-to-alignment function when moving elements on 2D canvas
+> 4. Fixed the issue where elements disappeared after multiple ungroup operations
+> 5. Added crop function
+> 
+> **5. Text Editing**
+> 1. Fixed UI issue when pressing ESC during text addition interaction
+> 2. Fixed rendering issue when pressing ESC during double-click text re-editing
+> 3. When the selected font doesn't support certain characters, fallback fonts (from project) are used to load glyphs
+> 4. Changed ESC behavior from cancel to submit during text interaction; pressing ESC after re-editing text now triggers submit
+> 5. Redesigned node editing: currently only supports moving control points; adding/removing nodes will be added in future
+> 
+> **6. Error Handling & Stability**
+> 1. Fixed the issue where homing and detection buttons in alarm errors 3, 4, 5, 8, 9 caused software crashes
+> 2. Alarm popup display now consistent with About window display, no longer shown as a separate window
+> 
+> **7. UI/UX Optimization**
+> 1. User prompt on software startup is now closed by default
+> 2. Tool change popup now auto-closes after 3 seconds
+> 3. Fixed cursor issue when switching from crop action to node editing action
+> 
+> If you encounter any software issues, please contact us in the Discord software feedback channel. We will actively consider your suggestions and fix issues promptly: [Discord](https://discord.com/channels/1436232802227064903/1436232803061600351)
 > {.is-info}
 
-### Latest Version (v0.9.19)
+### Latest Version (v0.9.20)
+**[MaxmakeLab Software Download Link(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.20.exe)**
+**[MaxmakeLab Software Download Link(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.20.dmg)**
+
+### Previous Version (v0.9.19)
 **[MaxmakeLab Software Download Link(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.19.exe)**
 **[MaxmakeLab Software Download Link(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.19.dmg)**
 
 ### Previous Version (v0.9.18)
 **[MaxmakeLab Software Download Link(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.18.exe)**
 **[MaxmakeLab Software Download Link(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.18.dmg)**
-
-### Previous Version (v0.9.17)
-**[MaxmakeLab Software Download Link(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.17.exe)**
-**[MaxmakeLab Software Download Link(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.17.dmg)**
-
-### Previous Version (v0.9.16)
-**[MaxmakeLab Software Download Link(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.16.exe)**
-**[MaxmakeLab Software Download Link(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.16.dmg)**
-
-### Previous Version (v0.9.15)
-**[MaxmakeLab Software Download Link(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.15.exe)**
-**[MaxmakeLab Software Download Link(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.15.dmg)**
-
-### Previous Version (v0.9.14)
-**[MaxmakeLab Software Download Link(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.14.exe)**
-**[MaxmakeLab Software Download Link(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.14.dmg)**
 
 > Recommendation: Please always download the latest version of the software for the best functional experience and stability.
 {.is-info}

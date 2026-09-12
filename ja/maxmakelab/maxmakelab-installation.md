@@ -28,42 +28,58 @@ MaxmakeLabは、HiMillシリーズCNC機器専用に設計されたインテリ�
 ## 📥 ソフトウェアのダウンロード
 以下のリンクからMaxmakeLabソフトウェアをダウンロードすることができます。お使いのオペレーティングシステムとニーズに応じて適切なバージョンを選択してください：
 
-> ℹ️ **バージョン0.9.19更新内容**：
-> 1. テキスト機能を最適化
-> 2. 3次元プロービング機能を最適化：GコマンドからJOG移動コマンドに変更
-> 3. ポケット加工アルゴリズムを最適化
-> 4. DXFファイルインポート時にクラッシュする可能性のある不具合を修正
-> 5. 3Dプレビューでのツールパス表示を最適化し、クラッシュの発生を低減
-> 6. ツールライブラリのインポートエラーを修正
-> 7. DXFファイルのインポートロジックを最適化：元のキャンバス内容をクリアしない仕様に変更
-> 8. 工具交換後に送り速度がリセットされる不具合を修正
-> 9. 水平線・垂直線のインタラクションに関する不具合を修正
-> 10. ソフトウェアの問題がある場合は、Discordのソフトウェアフィードバック専用チャンネルでお問い合わせください。皆様のご意見を積極的に参考にし、問題を速やかに修正いたします：[Discord](https://discord.com/channels/1436232802227064903/1436232803061600351)
+> ℹ️ **バージョン0.9.20更新内容**：
+> 
+> **一、Probe機能**
+> 1. 工具設定画面にプローブステータスランプ表示を追加
+> 2. プローブ高さマップ適用時のGCodeのM3/M4コマンド後にF値を追加
+> 
+> **二、工具パラメータとパス**
+> 1. オフセット輪郭フライス加工の複雑な工具パスエラー問題を修正
+> 2. 工具パラメータライブラリデータベース機能調整：ソフトウェア更新後にユーザー変更した工具パラメータを上書きしない。デフォルトでtoolbase_user.db3を読み込み（存在しない場合はtoolbase.db3から自動コピー）、ユーザーパラメータはこのファイルに保存
+> 3. 工具パラメータライブラリリセットのポップアップヒントを追加
+> 
+> **三、レイヤー管理**
+> 1. CNCモードで図形追加後、レーザーモードでレイヤーが表示される問題を修正
+> 2. レーザーモードでレイヤーに図形がない場合でもレイヤー情報が表示される問題を修正
+> 
+> **四、図形操作とレンダリング**
+> 1. 図形の幅・高さレンダリング、ルーラーの幅・高さハイライトレンダリングを追加
+> 2. 整列操作でShift単一選択図形を基準図元としてサポート
+> 3. 2Dキャンバスで図形移動時のスナップ整列機能を新規追加
+> 4. 複数回のグループ解除後に図形が消失する問題を修正
+> 5. クリップ機能を追加
+> 
+> **五、テキスト編集**
+> 1. テキスト追加操作中にESCキー押下時のUI問題を修正
+> 2. ダブルクリックでのテキスト再編集中にESCキー押下時のレンダリング問題を修正
+> 3. テキスト追加時に選択フォントが文字をサポートしない場合、候補フォント（プロジェクト内フォント）でグリフを読み込み
+> 4. テキスト操作のESCキー取消機能を送信機能に変更、テキスト再編集後にESCキーで送信をトリガー
+> 5. ノード編集機能を再設計：現在はコントロールポイントの移動のみサポート、今後ノード追加・削除などの機能を追加予定
+> 
+> **六、エラー処理と安定性**
+> 1. アラームエラーの3、4、5、8、9の原点復帰と検出ボタンでソフトウェアがクラッシュする問題を修正
+> 2. アラームポップアップ表示をAbout画面表示と一致させ、個別ウィンドウ表示しない
+> 
+> **七、UI/UX最適化**
+> 1. ソフトウェア起動後のユーザーヒントをデフォルトで閉じる
+> 2. 工具交換ポップアップを3秒後に自動的に閉じる
+> 3. クリップ操作からノード編集操作に切り替える際のカーソル問題を修正
+> 
+> ソフトウェアの問題がある場合は、Discordのソフトウェアフィードバック専用チャンネルでお問い合わせください。皆様のご意見を積極的に参考にし、問題を速やかに修正いたします：[Discord](https://discord.com/channels/1436232802227064903/1436232803061600351)
 > {.is-info}
 
-### 最新バージョン（v0.9.19）
+### 最新バージョン（v0.9.20）
+**[MaxmakeLabソフトウェアダウンロードリンク(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.20.exe)**
+**[MaxmakeLabソフトウェアダウンロードリンク(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.20.dmg)**
+
+### 以前のバージョン（v0.9.19）
 **[MaxmakeLabソフトウェアダウンロードリンク(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.19.exe)**
 **[MaxmakeLabソフトウェアダウンロードリンク(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.19.dmg)**
 
 ### 以前のバージョン（v0.9.18）
 **[MaxmakeLabソフトウェアダウンロードリンク(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.18.exe)**
 **[MaxmakeLabソフトウェアダウンロードリンク(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.18.dmg)**
-
-### 以前のバージョン（v0.9.17）
-**[MaxmakeLabソフトウェアダウンロードリンク(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.17.exe)**
-**[MaxmakeLabソフトウェアダウンロードリンク(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.17.dmg)**
-
-### 以前のバージョン（v0.9.16）
-**[MaxmakeLabソフトウェアダウンロードリンク(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.16.exe)**
-**[MaxmakeLabソフトウェアダウンロードリンク(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.16.dmg)**
-
-### 以前のバージョン（v0.9.15）
-**[MaxmakeLabソフトウェアダウンロードリンク(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.15.exe)**
-**[MaxmakeLabソフトウェアダウンロードリンク(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.15.dmg)**
-
-### 以前のバージョン（v0.9.14）
-**[MaxmakeLabソフトウェアダウンロードリンク(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.14.exe)**
-**[MaxmakeLabソフトウェアダウンロードリンク(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.14.dmg)**
 
 > 推奨：常に最新バージョンのソフトウェアをダウンロードして、最高の機能体験と安定性を享受してください。
 {.is-info}

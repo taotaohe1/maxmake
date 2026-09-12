@@ -28,42 +28,58 @@ MaxmakeLab是一款专为HiMill系列CNC设备设计的智能控制软件，提�
 ## 📥 软件下载
 您可以通过以下链接下载MaxmakeLab软件，根据您的操作系统和需要选择相应版本：
 
-> ℹ️ **0.9.19软件版本更新内容**：
-> 1. 优化文本功能
-> 2. 三坐标探测优化，从G命令改为JOG移动命令
-> 3. 优化平面铣算法
-> 4. 修复导入DXF后可能崩溃的问题
-> 5. 优化3D预览中的路径显示，减少崩溃问题
-> 6. 修复刀具库导入错误问题
-> 7. 优化导入DXF文件逻辑，不再清除原画布内容
-> 8. 修复换刀后进给率重置问题
-> 9. 修复水平/垂直线交互问题
-> 10. 有任何软件问题，可在Discord软件反馈专区内联系我们。我们会积极参考大家的建议并及时修复问题：[Discord](https://discord.com/channels/1436232802227064903/1436232803061600351)
+> ℹ️ **0.9.20软件版本更新内容**：
+> 
+> **一、Probe功能**
+> 1. 对刀界面添加对刀器状态灯显示
+> 2. 对刀功能应用高度图在 GCode 的 M3/M4 指令后添加 F 值
+> 
+> **二、刀具参数与路径**
+> 1. 修复偏移轮廓铣复杂刀具路径错误问题
+> 2. 刀具参数库数据库功能调整：软件更新后不再覆盖用户修改的刀具参数。默认加载 toolbase_user.db3（不存在时自动从 toolbase.db3 复制），用户参数保存在该文件中
+> 3. 添加重置刀具参数库的弹窗提示
+> 
+> **三、图层管理**
+> 1. 修复 CNC 模式添加图形后，激光模式下会出现图层的问题
+> 2. 修复激光模式下，图层没有图元时仍显示图层信息的问题
+> 
+> **四、图元操作与渲染**
+> 1. 添加图元宽高渲染，标尺宽高高亮渲染
+> 2. 对齐操作支持 Shift 单选图元时作为基准图元
+> 3. 新增 2D 画布移动图元时对齐吸附功能
+> 4. 修复多次解组后图元消失的问题
+> 5. 添加裁剪功能
+> 
+> **五、文字编辑**
+> 1. 修复添加文字动作交互时按 ESC 键 UI 问题
+> 2. 修复双击文字二次编辑时按 ESC 键渲染问题
+> 3. 添加文字时所选字体不支持字符时使用候选字体（项目中的字体）加载字形
+> 4. 文字交互原有按 ESC 取消功能调整为提交功能，二次编辑文字修改后按 ESC 触发提交
+> 5. 节点编辑功能重新设计：当前仅支持移动控制点，后续将添加增加节点、移除节点等功能
+> 
+> **六、报错与稳定性**
+> 1. 修复 alarm 报错里面 3、4、5、8、9 里面的回零和检测按键会导致软件崩溃的问题
+> 2. alarm 弹窗显示与关于窗口显示保持一致，不单独窗口显示
+> 
+> **七、UI/UX 优化**
+> 1. 开启软件后的用户提示默认关闭
+> 2. 换刀弹窗 3 秒后自动关闭
+> 3. 修复裁剪动作时切换节点编辑动作时光标问题
+> 
+> 有任何软件问题，可在Discord软件反馈专区内联系我们。我们会积极参考大家的建议并及时修复问题：[Discord](https://discord.com/channels/1436232802227064903/1436232803061600351)
 > {.is-info}
 
-### 最新版本 (v0.9.19)
+### 最新版本 (v0.9.20)
+**[MaxmakeLab 软件下载链接(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.20.exe)**
+**[MaxmakeLab 软件下载链接(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.20.dmg)**
+
+### 历史版本 (v0.9.19)
 **[MaxmakeLab 软件下载链接(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.19.exe)**
 **[MaxmakeLab 软件下载链接(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.19.dmg)**
 
 ### 历史版本 (v0.9.18)
 **[MaxmakeLab 软件下载链接(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.18.exe)**
 **[MaxmakeLab 软件下载链接(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.18.dmg)**
-
-### 历史版本 (v0.9.17)
-**[MaxmakeLab 软件下载链接(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.17.exe)**
-**[MaxmakeLab 软件下载链接(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.17.dmg)**
-
-### 历史版本 (v0.9.16)
-**[MaxmakeLab 软件下载链接(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.16.exe)**
-**[MaxmakeLab 软件下载链接(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.16.dmg)**
-
-### 历史版本 (v0.9.15)
-**[MaxmakeLab 软件下载链接(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.15.exe)**
-**[MaxmakeLab 软件下载链接(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.15.dmg)**
-
-### 历史版本 (v0.9.14)
-**[MaxmakeLab 软件下载链接(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.14.exe)**
-**[MaxmakeLab 软件下载链接(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.14.dmg)**
 
 > 建议：请始终下载最新版本的软件，以获得最佳的功能体验和稳定性。
 {.is-info}
