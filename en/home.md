@@ -128,7 +128,7 @@ If you're completely new to CNC technology, welcome to start your CNC learning j
   </div>
 
   <div style="border: 1px solid #e0e0e0; border-radius: 6px; padding: 12px; text-align: center; width: 180px;">
-    <a href="https://discord.com/channels/1436232802227064903/1436232803061600351" target="_blank" rel="noopener noreferrer">
+    <a href="https://discord.gg/u9XkszV3Mj" target="_blank" rel="noopener noreferrer">
       <img src="/eng/himill-d1-d1s/media/icon/discord.png" alt="Discord" style="width: auto; height: 80px; margin-bottom: 8px; border-radius: 6px;" />
       <br>
       Discord
