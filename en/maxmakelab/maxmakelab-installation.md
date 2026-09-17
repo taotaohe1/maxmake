@@ -68,7 +68,7 @@ You can download MaxmakeLab software through the following links. Choose the app
 > 2. Tool change popup now auto-closes after 3 seconds
 > 3. Fixed cursor issue when switching from crop action to node editing action
 > 
-> If you encounter any software issues, please contact us in the Discord software feedback channel. We will actively consider your suggestions and fix issues promptly: [Discord](https://discord.com/channels/1436232802227064903/1436232803061600351)
+> If you encounter any software issues, please contact us in the Discord software feedback channel. We will actively consider your suggestions and fix issues promptly: [Discord](https://discord.gg/u9XkszV3Mj)
 > {.is-info}
 
 ### Latest Version (v0.9.20)

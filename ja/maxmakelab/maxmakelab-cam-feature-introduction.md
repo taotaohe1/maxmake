@@ -91,6 +91,6 @@ MaxmakeLAB-0.9.18バージョンアップデートでは、CAM関連機能が新
 
 ソフトウェアの問題がある場合は、以下のチャンネルでお問い合わせください。皆様のご意見を積極的に参考にし、問題を速やかに修正いたします：
 
-- [Discord](https://discord.com/channels/1436232802227064903/1436232803061600351)
+- [Discord](https://discord.gg/u9XkszV3Mj)
 - メール：support@maxmaketech.com
 - メール：support@maxmake.com

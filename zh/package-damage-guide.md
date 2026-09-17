@@ -8,7 +8,7 @@
 > ⚠️ **重要提示**：超出4个工作日后才联系我们的将有极大概率无法保障能够得到相应赔偿。
 
 ### 联系方式
-- <a href="https://discord.com/channels/1436232802227064903/1436232803061600351" target="_blank" rel="noopener noreferrer">Discord</a>
+- <a href="https://discord.gg/u9XkszV3Mj" target="_blank" rel="noopener noreferrer">Discord</a>
 - 邮箱：support@maxmake.com
 
 ## 二、保留现场

@@ -19,7 +19,7 @@ Maxmake製品の梱包を受け取った際に損傷がある場合は、以下�
 > ⚠️ **重要なお知らせ**：4営業日後にお問い合わせいただくと、補償を保証できない可能性が高くなります。
 
 #### お問い合わせ方法
-- <a href="https://discord.com/channels/1436232802227064903/1436232803061600351" target="_blank" rel="noopener noreferrer">Discord</a>
+- <a href="https://discord.gg/u9XkszV3Mj" target="_blank" rel="noopener noreferrer">Discord</a>
 - メール：support@maxmake.com
 
 ### 2. 現場を保全する

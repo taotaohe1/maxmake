@@ -22,7 +22,7 @@ MaxmakeLab 软件的详细操作说明，帮助您正确使用。
 
 ## 社区支持
 如果您在使用软件中遇到任何问题，请点击此链接加入我们的 Discord 并创建工单获取帮助：
-- [Discord](https://discord.com/channels/1436232802227064903/1436232803061600351)
+- [Discord](https://discord.gg/u9XkszV3Mj)
 
 ---
 

@@ -25,7 +25,7 @@ If you want to learn more about MaxmakeLab's features, you can refer to:
 
 ## Community Support
 If you encounter any issues while using the software, please click this link to join our Discord and create a ticket for help:
-- [Discord](https://discord.com/channels/1436232802227064903/1436232803061600351)
+- [Discord](https://discord.gg/u9XkszV3Mj)
 
 ---
 

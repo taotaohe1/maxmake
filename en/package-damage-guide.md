@@ -19,7 +19,7 @@ If there is any damage within 4 working days after signing for the package, you 
 > ⚠️ **Important Notice**: If you contact us after 4 working days, there is a high probability that we will not be able to guarantee compensation.
 
 #### Contact Methods
-- <a href="https://discord.com/channels/1436232802227064903/1436232803061600351" target="_blank" rel="noopener noreferrer">Discord</a>
+- <a href="https://discord.gg/u9XkszV3Mj" target="_blank" rel="noopener noreferrer">Discord</a>
 - Email: support@maxmake.com
 
 ### 2. Preserve the Scene
