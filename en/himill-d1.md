@@ -47,6 +47,7 @@ Detailed accessory operation instructions to help you correctly use HiMill D1 ac
 * [Side Clamp](/en/himill-d1-d1s/hmd1s-side-clamp.md)
 * [Collet Kit](/en/himill-d1-d1s/hmd1s-collet-kit.md)
 * [Vacuum Adsorption Platform](/en/himill-d1-d1s/hmd1s-vacuum-platform.md)
+* [Emergency Stop Interface](/en/himill-d1-d1s/hmd1s-emergency-stop-interface.md)
 
 ## Daily Maintenance
 Necessary daily maintenance operations to help you keep HiMill D1 running normally.

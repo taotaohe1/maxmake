@@ -44,6 +44,7 @@ HiMill D1のアクセサリを正しく使用するための詳細なアクセ�
 * [サイドクランプ](/ja/himill-d1-d1s/hmd1s-side-clamp.md)
 * [コレットキット](/ja/himill-d1-d1s/hmd1s-collet-kit.md)
 * [真空吸着プラットフォーム](/ja/himill-d1-d1s/hmd1s-vacuum-platform.md)
+* [非常停止インターフェース](/ja/himill-d1-d1s/hmd1s-emergency-stop-interface.md)
 
 ## 日常メンテナンス
 HiMill D1を正常に動作させ続けるための必要な日常メンテナンス操作。

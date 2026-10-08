@@ -43,6 +43,7 @@ MaxmakeLab 软件的详细操作说明，帮助您正确使用HiMill D1。
 * [侧推钳](/zh/himill-d1-d1s/hmd1s-side-clamp.md)
 * [夹头套装](/zh/himill-d1-d1s/hmd1s-collet-kit.md)
 * [真空吸附平台](/zh/himill-d1-d1s/hmd1s-vacuum-platform.md)
+* [急停接口](/zh/himill-d1-d1s/hmd1s-emergency-stop-interface.md)
 
 ## 日常维护
 必要的日常维护操作，帮助您保持HiMill D1的正常运行。
