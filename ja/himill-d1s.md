@@ -10,6 +10,7 @@ HiMill D1Sの使用をすぐに開始するための必要な簡単な操作手�
 * [HiMill D1Sの開梱ガイド](/ja/himill-d1-d1s/hmd1s-unboxing-guide.md)
 * [MaxmakeLabソフトウェアのインストール](/ja/maxmakelab/maxmakelab-installation.md)
 * [HiMill D1Sの初回使用](/ja/himill-d1-d1s/hmd1s-first-use.md)
+* [HiMill D1S Z0設定の注意事項](/ja/himill-d1-d1s/hmd1s-set-z0-notes.md)
 * [HiMill D1Sマニュアルダウンロード](/eng/himill-d1-d1s/media/d1s-en.pdf)
 
 ## 使用説明
