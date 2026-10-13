@@ -28,23 +28,25 @@
 
 软件连接到设备后，会自动查询当前设备的固件版本。如需更新，会弹出提示框。
 
-<img src="/chi/himill-d1-d1s/media/hmd1s-firmware-upgrade/firmware_update_prompt.png" alt="固件更新提示" style="max-width: 800px;">
+<img src="/chi/himill-d1-d1s/media/hmd1s-firmware-upgrade/自动步骤一.png" alt="固件更新提示" style="max-width: 800px;">
 
 ### 步骤 2：进入引导模式
 
 点击确认后，自动打开设备设置，并弹出提示框，询问是否进入引导模式并开始固件升级。
 
-<img src="/chi/himill-d1-d1s/media/hmd1s-firmware-upgrade/bootloader_mode_prompt.png" alt="进入引导模式提示" style="max-width: 800px;"> 
+<img src="/chi/himill-d1-d1s/media/hmd1s-firmware-upgrade/自动步骤二.png" alt="进入引导模式提示" style="max-width: 800px;"> 
 
-### 步骤 3：固件烧写
+### 步骤 3：打开固件烧录窗口
 
-点击确认后，会自动开始烧写固件，等待进度条加载完成。
+点击确认后，系统会弹出固件烧录窗口。
 
-<img src="/chi/himill-d1-d1s/media/hmd1s-firmware-upgrade/firmware_flashing.png" alt="固件烧写进度" style="max-width: 800px;">
+<img src="/chi/himill-d1-d1s/media/hmd1s-firmware-upgrade/自动步骤三.png" alt="固件烧录窗口" style="max-width: 800px;">
 
-### 步骤 4：升级完成
+### 步骤 4：执行固件烧录
 
-烧写完成后，会弹出烧写成功的提示框。此时需要重新连接设备即可使用升级后的固件。
+在烧录窗口中选择对应的设备串口，点击 Open 建立连接，然后直接点击 Flash 开始烧录，无需手动选择固件文件，等待进度完成即可。
+
+<img src="/chi/himill-d1-d1s/media/hmd1s-firmware-upgrade/自动步骤四.png" alt="执行固件烧录" style="max-width: 800px;">
 
 ---
 
@@ -52,28 +54,36 @@
 
 ### 步骤 1：打开设备设置界面
 
-连接设备后，点击设备设置按钮，打开设备设置界面。
+连接设备后，点击设备设置按钮，打开设备设置界面，然后点击 Firmware Flash 按钮。
 
-<img src="/chi/himill-d1-d1s/media/hmd1s-firmware-upgrade/1.png" alt="打开设备设置界面" style="max-width: 800px;">
+<img src="/chi/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤一.png" alt="打开设备设置界面" style="max-width: 800px;">
 
-### 步骤 2：选择固件文件
+### 步骤 2：确认进入烧录模式
 
-点击打开，选择下载好的固件。
+点击确认，进入固件烧录模式。
+
+<img src="/chi/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤二.png" alt="确认进入烧录模式" style="max-width: 800px;">
+
+### 步骤 3：配置烧录参数并烧录
+
+进入烧录窗口后，按以下步骤操作：
+1. **选择设备串口**：Windows 端通常选择 COM 接口，Mac 端通常选择 cu.usbmodem 或 tty.usbmodem
+2. **建立连接**：选择正确的串口后点击 Open，窗口下方显示 `<Boot|Ver:1.4>` 表示连接成功
+3. **选择固件文件**：点击 Select，手动选择要烧录的固件文件
 
 > 提示：最新固件可在此页面下载（[跳转到固件发布界面](/zh/himill-d1-d1s/hmd1s-firmware-release-record.md)）
 > {.is-info}
 
-<img src="/chi/himill-d1-d1s/media/hmd1s-firmware-upgrade/2.png" alt="选择固件文件" style="max-width: 800px;">
+4. **开始烧录**：点击 Flash，等待烧写进度完成
 
-### 步骤 3：开始烧写
+Windows 端：
+<img src="/chi/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤三.png" alt="选择设备串口（Windows）" style="max-width: 800px;">
 
-选择好固件后，点击烧写，弹出提示框点击确认。
+Mac 端：
+<img src="/chi/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤三mac.png" alt="选择设备串口（Mac）" style="max-width: 800px;">
 
-<img src="/chi/himill-d1-d1s/media/hmd1s-firmware-upgrade/3.png" alt="开始烧写" style="max-width: 800px;">
+### 步骤 4：完成升级
 
-### 步骤 4：升级完成
+烧录完成后，在烧录窗口中点击 OK，然后重启设备即可使用新固件。
 
-等待进度条加载完成，弹出烧写完成后可重新连接使用。
-
-<img src="/chi/himill-d1-d1s/media/hmd1s-firmware-upgrade/4.png" alt="升级完成" style="max-width: 800px;">
-
+<img src="/chi/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤四.png" alt="升级完成" style="max-width: 800px;">
