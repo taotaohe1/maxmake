@@ -28,25 +28,25 @@
 
 ソフトウェアがデバイスに接続すると、現在のファームウェアバージョンを自動的に確認します。更新が必要な場合、プロンプトボックスが表示されます。
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/自动步骤一.png" alt="ファームウェア更新プロンプト" style="max-width: 800px;">
+<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/自动步骤一.png" alt="ファームウェア更新プロンプト" style="max-width: 1100px;">
 
 ### ステップ2：ブートローダーモードに入る
 
 確認をクリックすると、デバイス設定が自動的に開き、ブートローダーモードに入ってファームウェアのアップグレードを開始するかどうかを尋ねるプロンプトボックスが表示されます。
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/自动步骤二.png" alt="ブートローダーモードに入るプロンプト" style="max-width: 800px;">
+<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/自动步骤二.png" alt="ブートローダーモードに入るプロンプト" style="max-width: 1100px;">
 
 ### ステップ3：ファームウェアフラッシュウィンドウを開く
 
 確認をクリックすると、ファームウェアフラッシュウィンドウが表示されます。
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/自动步骤三.png" alt="ファームウェアフラッシュウィンドウ" style="max-width: 800px;">
+<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/自动步骤三.png" alt="ファームウェアフラッシュウィンドウ" style="max-width: 1100px;">
 
 ### ステップ4：ファームウェアのフラッシュを実行
 
 フラッシュウィンドウで対応するデバイスのシリアルポートを選択し、Openをクリックして接続を確立した後、Flashを直接クリックしてフラッシュを開始します。ファームウェアファイルを手動で選択する必要はありません。進行状況が完了するのを待ちます。
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/自动步骤四.png" alt="ファームウェアのフラッシュ実行" style="max-width: 800px;">
+<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/自动步骤四.png" alt="ファームウェアのフラッシュ実行" style="max-width: 1100px;">
 
 ---
 
@@ -56,13 +56,13 @@
 
 デバイスに接続した後、デバイス設定ボタンをクリックしてデバイス設定画面を開き、Firmware Flashボタンをクリックします。
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤一.png" alt="デバイス設定画面を開く" style="max-width: 800px;">
+<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤一.png" alt="デバイス設定画面を開く" style="max-width: 1100px;">
 
 ### ステップ2：フラッシュモードへの移行を確認
 
 確認をクリックして、ファームウェアのフラッシュモードに入ります。
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤二.png" alt="フラッシュモードへの移行を確認" style="max-width: 800px;">
+<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤二.png" alt="フラッシュモードへの移行を確認" style="max-width: 1100px;">
 
 ### ステップ3：フラッシュパラメータの設定とフラッシュ
 
@@ -77,13 +77,13 @@
 4. **フラッシュを開始**：Flashをクリックし、フラッシュの進行状況が完了するのを待ちます
 
 Windows：
-<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤三.png" alt="デバイスのシリアルポートの選択（Windows）" style="max-width: 800px;">
+<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤三.png" alt="デバイスのシリアルポートの選択（Windows）" style="max-width: 1100px;">
 
 Mac：
-<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤三mac.png" alt="デバイスのシリアルポートの選択（Mac）" style="max-width: 800px;">
+<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤三mac.png" alt="デバイスのシリアルポートの選択（Mac）" style="max-width: 1100px;">
 
 ### ステップ4：アップグレードの完了
 
 フラッシュが完了したら、フラッシュウィンドウでOKをクリックし、デバイスを再起動すると新しいファームウェアが使用できるようになります。
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤四.png" alt="アップグレード完了" style="max-width: 800px;">
+<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤四.png" alt="アップグレード完了" style="max-width: 1100px;">

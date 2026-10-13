@@ -28,25 +28,25 @@
 
 After the software connects to the device, it automatically queries the current firmware version. If an update is needed, a prompt box will appear.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/自动步骤一.png" alt="Firmware Update Prompt" style="max-width: 800px;">
+<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/自动步骤一.png" alt="Firmware Update Prompt" style="max-width: 1100px;">
 
 ### Step 2: Enter Bootloader Mode
 
 After clicking confirm, the device settings will open automatically, and a prompt box will appear asking whether to enter bootloader mode and start the firmware upgrade.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/自动步骤二.png" alt="Enter Bootloader Mode Prompt" style="max-width: 800px;"> 
+<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/自动步骤二.png" alt="Enter Bootloader Mode Prompt" style="max-width: 1100px;"> 
 
 ### Step 3: Open Firmware Flashing Window
 
 After clicking confirm, the firmware flashing window will appear.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/自动步骤三.png" alt="Firmware Flashing Window" style="max-width: 800px;">
+<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/自动步骤三.png" alt="Firmware Flashing Window" style="max-width: 1100px;">
 
 ### Step 4: Execute Firmware Flashing
 
 In the flashing window, select the corresponding device serial port, click Open to establish a connection, then click Flash to start flashing directly — no need to manually select a firmware file. Wait for the progress to complete.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/自动步骤四.png" alt="Execute Firmware Flashing" style="max-width: 800px;">
+<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/自动步骤四.png" alt="Execute Firmware Flashing" style="max-width: 1100px;">
 
 ---
 
@@ -56,13 +56,13 @@ In the flashing window, select the corresponding device serial port, click Open 
 
 After connecting the device, click the device settings button to open the device settings interface, then click the Firmware Flash button.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤一.png" alt="Open Device Settings" style="max-width: 800px;">
+<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤一.png" alt="Open Device Settings" style="max-width: 1100px;">
 
 ### Step 2: Confirm Entering Flashing Mode
 
 Click confirm to enter the firmware flashing mode.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤二.png" alt="Confirm Entering Flashing Mode" style="max-width: 800px;">
+<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤二.png" alt="Confirm Entering Flashing Mode" style="max-width: 1100px;">
 
 ### Step 3: Configure Flashing Parameters and Flash
 
@@ -77,13 +77,13 @@ After entering the flashing window, follow these steps:
 4. **Start flashing**: Click Flash and wait for the flashing progress to complete
 
 Windows:
-<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤三.png" alt="Select Device Serial Port (Windows)" style="max-width: 800px;">
+<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤三.png" alt="Select Device Serial Port (Windows)" style="max-width: 1100px;">
 
 Mac:
-<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤三mac.png" alt="Select Device Serial Port (Mac)" style="max-width: 800px;">
+<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤三mac.png" alt="Select Device Serial Port (Mac)" style="max-width: 1100px;">
 
 ### Step 4: Complete the Upgrade
 
 After flashing is complete, click OK in the flashing window, then restart the device to use the new firmware.
 
-<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤四.png" alt="Upgrade Complete" style="max-width: 800px;">
+<img src="/eng/himill-d1-d1s/media/hmd1s-firmware-upgrade/手动步骤四.png" alt="Upgrade Complete" style="max-width: 1100px;">
