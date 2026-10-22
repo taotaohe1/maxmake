@@ -1,3 +1,7 @@
+---
+title: "HiMill D1/D1S 移动轴运行异常"
+---
+
 # HiMill D1/D1S 移动轴运行异常
 
 ## 注意事项

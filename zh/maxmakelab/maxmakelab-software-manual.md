@@ -1,3 +1,7 @@
+---
+title: "MaxmakeLab 软件说明书"
+---
+
 # MaxmakeLab 软件说明书
 
 ## 目录

@@ -1,3 +1,7 @@
+---
+title: "MaxmakeLab HiMill D1/D1S 网络配置"
+---
+
 # 📡 MaxmakeLab HiMill D1/D1S 网络配置
 
 ## 🌟 功能介绍

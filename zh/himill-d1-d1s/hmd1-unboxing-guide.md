@@ -1,3 +1,7 @@
+---
+title: "HiMill D1 开箱指南"
+---
+
 # HiMill D1 开箱指南
 
 ## 📹 开箱视频

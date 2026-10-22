@@ -1,3 +1,7 @@
+---
+title: "MaxmakeLab 软件"
+---
+
 # MaxmakeLab 软件
 
 <img src="/chi/himill-d1-d1s/media/icon/maxmakelab.png" alt="MaxmakeLab 主界面" style="width: 100px; height: auto; margin-bottom: 8px; border-radius: 6px;" />

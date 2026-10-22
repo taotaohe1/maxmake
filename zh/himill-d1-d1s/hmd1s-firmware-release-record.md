@@ -1,3 +1,7 @@
+---
+title: "HiMill D1/D1S 固件发布记录"
+---
+
 # HiMill D1/D1S 固件发布记录
 
 ## 固件更新说明

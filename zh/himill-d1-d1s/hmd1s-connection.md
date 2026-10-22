@@ -1,3 +1,7 @@
+---
+title: "MaxmakeLab HiMill D1/D1S 连接"
+---
+
 # MaxmakeLab HiMill D1/D1S 连接
 
 ## 1. 自动连接

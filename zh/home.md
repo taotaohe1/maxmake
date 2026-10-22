@@ -1,3 +1,7 @@
+---
+title: "欢迎来到 MAXMAKE WiKi！"
+---
+
 # 欢迎来到 MAXMAKE WiKi！
 这是您的一站式资源，包含 MAXMAKE 相关的所有内容，包括教程、文档、常见问题解答和社区贡献。
 

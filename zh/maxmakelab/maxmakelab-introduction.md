@@ -1,3 +1,7 @@
+---
+title: "MaxmakeLab 软件入门"
+---
+
 # MaxmakeLab 软件入门
 
 ## 📖 软件概述

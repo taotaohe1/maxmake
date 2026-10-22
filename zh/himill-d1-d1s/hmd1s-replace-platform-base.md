@@ -1,3 +1,7 @@
+---
+title: "HiMill D1/D1S 更换平台基板"
+---
+
 # HiMill D1/D1S 更换平台基板
 
 ---

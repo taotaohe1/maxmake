@@ -1,3 +1,7 @@
+---
+title: "MaxmakeLab 软件安装"
+---
+
 # MaxmakeLab 软件安装
 
 ## 📖 软件简介

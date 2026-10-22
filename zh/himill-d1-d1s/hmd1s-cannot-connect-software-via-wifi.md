@@ -1,3 +1,7 @@
+---
+title: "MaxmakeLab HiMill D1/D1S 无法通过WiFi连接软件"
+---
+
 # MaxmakeLab HiMill D1/D1S 无法通过WiFi连接软件
 
 ---

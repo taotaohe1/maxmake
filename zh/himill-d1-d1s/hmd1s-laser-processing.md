@@ -1,3 +1,7 @@
+---
+title: "MaxmakeLab 激光加工"
+---
+
 # MaxmakeLab 激光加工
 
 ## ⚠️ 使用前提醒

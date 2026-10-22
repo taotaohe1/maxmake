@@ -1,3 +1,7 @@
+---
+title: "MaxmakeLab HiMill D1/D1S 安全门设置"
+---
+
 # MaxmakeLab HiMill D1/D1S 安全门设置
 
 ## 📋 安全门功能说明

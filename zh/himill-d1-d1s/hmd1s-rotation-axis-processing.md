@@ -1,3 +1,7 @@
+---
+title: "MaxmakeLab HiMill D1S 旋转轴加工（导入NC程序）"
+---
+
 # MaxmakeLab 旋转轴加工-导入NC程序的加工流程
 
 ## 1. 切换为CNC模式

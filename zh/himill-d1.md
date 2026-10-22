@@ -1,3 +1,7 @@
+---
+title: "HiMill D1 产品介绍"
+---
+
 # Himill D1
 <img src="/chi/himill-d1-d1s/media/himill-d1.png" alt="" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 6px;" />
 
