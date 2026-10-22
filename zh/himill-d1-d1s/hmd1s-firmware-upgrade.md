@@ -1,3 +1,7 @@
+---
+title: "MaxmakeLab HiMill D1/D1S 固件升级"
+---
+
 # MaxmakeLab HiMill D1/D1S 固件升级
 
 ## ⚠️ 注意事项
