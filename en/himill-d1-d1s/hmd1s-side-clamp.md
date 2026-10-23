@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S Side Clamp"
+description: "HiMill D1S side clamp accessory guide: included parts, jaw adjustment, mounting, and workpiece clamping steps."
+---
+
 # HiMill D1S Side Clamp | MAXMAKE Wiki
 
 Learn how to install and use the [side clamp](https://maxmake.com/products/frog-wrench) accessory for MAXMAKE HiMill D1S CNC machine. This guide covers installation steps and workpiece clamping methods.

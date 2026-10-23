@@ -1,3 +1,8 @@
+---
+title: "Laser Cutting & Engraving Guide for Beginners"
+description: "This guide provides comprehensive introductory knowledge for laser processing beginners, helping you master the core content of laser processing technology step by…"
+---
+
 # Laser Cutting & Engraving Guide for Beginners
 
 > Learn laser processing basics, parameter settings, and safety tips. Complete guide for HiMill laser module users.

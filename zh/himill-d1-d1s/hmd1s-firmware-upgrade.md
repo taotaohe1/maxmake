@@ -1,5 +1,6 @@
 ---
 title: "MaxmakeLab HiMill D1/D1S 固件升级"
+description: "软件连接到设备后，会自动查询当前设备的固件版本。如需更新，会弹出提示框。"
 ---
 
 # MaxmakeLab HiMill D1/D1S 固件升级

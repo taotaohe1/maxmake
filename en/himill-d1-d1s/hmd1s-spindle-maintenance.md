@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S Spindle Maintenance"
+description: "HiMill D1S spindle maintenance: collet cleaning steps and precautions, with a maintenance video."
+---
+
 # HiMill D1S Spindle Maintenance | MAXMAKE Wiki
 
 Learn how to maintain your [MAXMAKE HiMill D1S](https://www.maxmake.com/products/himill-d1s) spindle. Includes video tutorials, collet cleaning procedures, and essential maintenance precautions for smooth operation.

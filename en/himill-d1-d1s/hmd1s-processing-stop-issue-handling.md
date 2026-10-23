@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S Processing Stop Recovery"
+description: "Recovery guide for machining stopped by an error on the HiMill D1/D1S, with steps for powered-off and powered-on cases based on tool change code usage."
+---
+
 # HiMill D1S Processing Stop Recovery | MAXMAKE Wiki
 
 Learn how to recover from processing stops on [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) CNC machine. This guide covers power-off recovery, tool change scenarios, and multi-tool processing resume.

@@ -1,3 +1,8 @@
+---
+title: "HiMill D1/D1S SD Card Replacement Guide: Micro SD Card Swap Tutorial"
+description: "Replacement guide for the Micro SD card on the HiMill D1/D1S, including removal, installation, and precautions."
+---
+
 # HiMill D1/D1S SD Card Replacement Guide: Micro SD Card Swap Tutorial
 
 Learn how to replace the Micro SD card on [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) CNC machine. This guide covers safety precautions, SD card removal steps, and installation procedures for file storage upgrade.

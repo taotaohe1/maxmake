@@ -1,3 +1,8 @@
+---
+title: "MaxmakeLabソフトウェアの使い方"
+description: "MaxmakeLabはHiMillシリーズCNC機器専用の制御ソフトウェアです。初心者から経験者まで、直感的な操作で快適に使える機能を紹介します。"
+---
+
 # MaxmakeLabソフトウェアの使い方
 
 ## 📖 ソフトウェアの概要

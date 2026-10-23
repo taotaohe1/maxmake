@@ -1,3 +1,8 @@
+---
+title: "MaxmakeLabソフトウェア"
+description: "MaxmakeLabソフトウェアの概要。クイックスタート、機能、操作ガイド、関連リソース、コミュニティサポートへのリンクをまとめています。"
+---
+
 # MaxmakeLabソフトウェア
 
 <img src="/eng/himill-d1-d1s/media/icon/maxmakelab.png" alt="MaxmakeLab Main Interface" style="width: 100px; height: auto; margin-bottom: 8px; border-radius: 6px;" />

@@ -1,3 +1,8 @@
+---
+title: "CNC Speed and Feed Guide for HiMill D1/D1S"
+description: "Learn CNC speed and feed fundamentals for MAXMAKE HiMill D1/D1S desktop CNC machines."
+---
+
 # CNC Speed and Feed Guide for HiMill D1/D1S | MAXMAKE Wiki
 
 Learn CNC speed and feed fundamentals for [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) desktop CNC machines. Understand spindle RPM, feed rates, tool coating, and best practices for optimal cutting performance and tool longevity.

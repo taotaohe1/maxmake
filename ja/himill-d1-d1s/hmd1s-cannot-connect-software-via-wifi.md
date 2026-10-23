@@ -1,3 +1,8 @@
+---
+title: "MaxmakeLab HiMill D1/D1SがWiFi経由でソフトウェアに接続できない"
+description: "MaxmakeLabがWiFiでHiMill D1/D1Sに接続できない問題を、接続設定と信号干渉の観点から原因と解決方法を解説します。"
+---
+
 # MaxmakeLab HiMill D1/D1SがWiFi経由でソフトウェアに接続できない
 
 ---

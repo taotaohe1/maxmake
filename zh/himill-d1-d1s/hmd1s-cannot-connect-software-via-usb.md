@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1/D1S 无法通过USB线连接软件"
+description: "HiMill D1/D1S 无法通过 USB 连接软件：从线材问题与信号干扰两方面分析原因并给出解决方法。"
 ---
 
 # HiMill D1/D1S 无法通过USB线连接软件

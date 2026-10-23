@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1S 吸尘系统"
+description: "吸尘罩采用磁吸安装方式，应当在加工前，上升主轴到最高处，安装吸尘罩。"
 ---
 
 # HiMill D1S 吸尘系统

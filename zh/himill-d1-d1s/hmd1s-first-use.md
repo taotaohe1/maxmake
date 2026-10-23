@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1S 第一次使用"
+description: "HiMill D1S 第一次使用教程：使用随附测试材料与加工文件，完成从开机到首件加工的完整体验。"
 ---
 
 # HiMill D1S 第一次使用

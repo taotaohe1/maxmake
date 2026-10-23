@@ -1,3 +1,8 @@
+---
+title: "MAXMAKE Wiki | CNC Machine Guides for HiMill D1/D1S"
+description: "Welcome to MAXMAKE Wiki - your comprehensive resource for MAXMAKE HiMill D1/D1S CNC machine guides, tutorials, and troubleshooting."
+---
+
 # MAXMAKE Wiki | CNC Machine Guides for HiMill D1/D1S
 
 Welcome to MAXMAKE Wiki - your comprehensive resource for [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) CNC machine guides, tutorials, and troubleshooting. Learn CNC basics, laser processing, and get expert tips for your MAXMAKE desktop CNC.

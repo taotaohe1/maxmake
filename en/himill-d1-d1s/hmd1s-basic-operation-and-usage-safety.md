@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S Basic Operation & Safety Guide: Electrical Safety, USB Connection & Machining Safety"
+description: "Learn essential safety procedures for HiMill D1S CNC machine operation."
+---
+
 # HiMill D1S Basic Operation & Safety Guide: Electrical Safety, USB Connection & Machining Safety
 
 Learn essential safety procedures for HiMill D1S CNC machine operation. This guide covers voltage settings, USB connection, clamping safety, safety door requirements, and power-off maintenance procedures.

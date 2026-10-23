@@ -1,3 +1,8 @@
+---
+title: "HiMill D1/D1S移動軸モーターの交換"
+description: "HiMill D1/D1Sの移動軸モーターの交換。X、Y、Z軸モーターの取り外しと取り付け手順、注意事項を解説します。"
+---
+
 # HiMill D1/D1S移動軸モーターの交換
 
 ---

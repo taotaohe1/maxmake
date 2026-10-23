@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S Collet Kit"
+description: "In CNC machining, the collet is not just a tool-holding component; it is the \"precision bridge\" connecting spindle power to the cutting end."
+---
+
 # HiMill D1S Collet Kit | MAXMAKE Wiki
 
 In CNC machining, the collet is not just a tool-holding component; it is the "precision bridge" connecting spindle power to the cutting end.

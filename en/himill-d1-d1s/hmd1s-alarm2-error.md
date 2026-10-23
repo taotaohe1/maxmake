@@ -1,3 +1,8 @@
+---
+title: "HiMill D1/D1S Alarm2 Error Troubleshooting: Z-axis Travel Issue Fix"
+description: "Learn how to fix Alarm2 error on HiMill D1/D1S CNC machine."
+---
+
 # HiMill D1/D1S Alarm2 Error Troubleshooting: Z-axis Travel Issue Fix
 
 Learn how to fix Alarm2 error on HiMill D1/D1S CNC machine. This guide explains the Z-axis travel issue, troubleshooting steps, and preventive measures to avoid processing errors. This guide will detail how to troubleshoot and resolve this issue.

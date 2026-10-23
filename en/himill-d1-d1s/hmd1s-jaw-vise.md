@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S Jaw Vise"
+description: "HiMill D1S jaw vise accessory guide: what is included, installation steps, and how to clamp workpieces."
+---
+
 # HiMill D1S Jaw Vise | MAXMAKE Wiki
 
 Learn how to install and use the [jaw vise](https://maxmake.com/products/flat-jaw-clamping-module) accessory for MAXMAKE HiMill D1S CNC machine. This guide covers installation steps, workpiece clamping methods, and usage precautions.

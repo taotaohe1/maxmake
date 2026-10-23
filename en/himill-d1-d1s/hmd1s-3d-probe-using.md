@@ -1,3 +1,8 @@
+---
+title: "How to Use HiMill D1S 3D Probe"
+description: "Learn how to use the 3D probe for MAXMAKE HiMill D1S CNC machine."
+---
+
 # How to Use HiMill D1S 3D Probe | MAXMAKE Wiki
 
 Learn how to use the 3D probe for MAXMAKE HiMill D1S CNC machine. This guide covers corner detection, centering, Z-axis setting, and height map features for precise machining.

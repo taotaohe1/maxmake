@@ -1,3 +1,8 @@
+---
+title: "HiMill D1/D1S Limit Switch Troubleshooting: XYZ Homing Sensor Issues Fix"
+description: "Limit switch troubleshooting for the HiMill D1/D1S, with symptoms, causes, and fixes for the XY and Z axes."
+---
+
 # HiMill D1/D1S Limit Switch Troubleshooting: XYZ Homing Sensor Issues Fix
 
 Learn how to troubleshoot limit switch issues on [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) CNC machine. This guide covers XY and Z axis homing problems, collision detection, wiring checks, and step-by-step repair solutions.

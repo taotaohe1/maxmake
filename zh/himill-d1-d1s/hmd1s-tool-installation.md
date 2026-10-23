@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1S 刀具安装指南"
+description: "本文档详细介绍HiMill D1S设备的刀具安装方法，确保安全、准确的刀具更换操作。"
 ---
 
 # HiMill D1S 刀具安装指南

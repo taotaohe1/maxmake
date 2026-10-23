@@ -1,5 +1,6 @@
 ---
 title: "MaxmakeLab 激光加工"
+description: "MaxmakeLab 激光加工流程：切换激光模式、设置参数、边框定位、调焦到开始加工的完整步骤。"
 ---
 
 # MaxmakeLab 激光加工

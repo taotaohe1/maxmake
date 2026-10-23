@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1S 更换主轴"
+description: "HiMill D1S 主轴更换：主轴或主轴灯板、背部电路板与散热风扇的更换步骤。"
 ---
 
 # HiMill D1S 更换主轴

@@ -1,3 +1,8 @@
+---
+title: "MaxmakeLabソフトウェアのインストール"
+description: "MaxmakeLabはHiMillシリーズCNC機器専用の制御ソフトウェアです。直感的な操作性と豊富な加工機能で、さまざまな創作加工を簡単に実現します。"
+---
+
 # MaxmakeLabソフトウェアのインストール
 
 ## 📖 ソフトウェアの紹介

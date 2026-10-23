@@ -1,3 +1,8 @@
+---
+title: "HiMill D1/D1S Platform Base Replacement Guide: Wood & Aluminum Base Swap"
+description: "Replacement guide for the woodworking and aluminum platform base plates on the HiMill D1/D1S."
+---
+
 # HiMill D1/D1S Platform Base Replacement Guide: Wood & Aluminum Base Swap
 
 Learn how to replace platform base plates on [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) CNC machine. This guide covers woodworking base and aluminum base replacement procedures with safety precautions.

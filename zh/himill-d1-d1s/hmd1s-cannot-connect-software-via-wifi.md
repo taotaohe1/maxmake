@@ -1,5 +1,6 @@
 ---
 title: "MaxmakeLab HiMill D1/D1S 无法通过WiFi连接软件"
+description: "MaxmakeLab 无法通过 WiFi 连接 HiMill D1/D1S：涵盖连接配置与信号干扰两类问题及对应解决方法。"
 ---
 
 # MaxmakeLab HiMill D1/D1S 无法通过WiFi连接软件

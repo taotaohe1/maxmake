@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S Introduction"
+description: "MAXMAKE HiMill D1S is a high-performance desktop CNC engraving and milling machine for creators and workshops."
+---
+
 # HiMill D1S Introduction | MAXMAKE Wiki
 
 MAXMAKE HiMill D1S is a high-performance desktop CNC engraving and milling machine for creators and workshops. Learn key features, technical specs, machining capabilities, and safety guidelines for your HiMill D1S.

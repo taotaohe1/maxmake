@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S Laser Module"
+description: "Overview of the HiMill D1S 10W 450nm blue laser module, including the accessory list, usage rules, and air hose installation steps."
+---
+
 # HiMill D1S Laser Module | MAXMAKE Wiki
 
 Learn about the [10W laser module](https://maxmake.com/products/10w-laser-module) for MAXMAKE HiMill D1S CNC machine. This guide covers safety regulations, air hose installation, focus adjustment, and laser processing precautions.

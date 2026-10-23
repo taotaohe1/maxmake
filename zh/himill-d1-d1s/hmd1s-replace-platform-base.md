@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1/D1S 更换平台基板"
+description: "HiMill D1/D1S 平台基板更换：木工基板与铝制基板的更换步骤及注意事项。"
 ---
 
 # HiMill D1/D1S 更换平台基板

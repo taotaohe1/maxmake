@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1/D1S 更换器件仓部件"
+description: "HiMill D1/D1S 器件仓部件更换：电路板、开关电源与电机驱动板的更换步骤及注意事项。"
 ---
 
 # HiMill D1/D1S 更换器件仓部件

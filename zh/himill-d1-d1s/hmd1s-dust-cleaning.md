@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1S 灰尘清洁"
+description: "HiMill D1S 灰尘清洁保养：台面、丝杆与光轴的清洁方法和注意事项，附保养视频。"
 ---
 
 # HiMill D1S 灰尘清洁

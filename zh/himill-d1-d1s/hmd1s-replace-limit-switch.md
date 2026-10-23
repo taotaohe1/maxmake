@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1/D1S 更换限位开关"
+description: "HiMill D1/D1S 限位开关更换：X、Y、Z 三轴限位开关的拆装步骤及注意事项。"
 ---
 
 # HiMill D1/D1S 更换限位开关

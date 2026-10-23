@@ -1,3 +1,8 @@
+---
+title: "MaxmakeLab HiMill D1/D1Sの接続"
+description: "コンピュータと機器をデータケーブルで接続します。初めてソフトウェアを開くと、HiMill機器を自動的に検索して接続することができます。"
+---
+
 # MaxmakeLab HiMill D1/D1Sの接続
 
 

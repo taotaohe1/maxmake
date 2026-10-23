@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1/D1S 更换对刀器"
+description: "HiMill D1/D1S 对刀器更换：对刀器本体与电路板的拆装步骤及注意事项。"
 ---
 
 # HiMill D1/D1S 更换对刀器

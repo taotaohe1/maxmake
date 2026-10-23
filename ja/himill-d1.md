@@ -1,3 +1,8 @@
+---
+title: "HiMill D1"
+description: "HiMill D1の製品概要とドキュメント案内。クイックスタート、使用方法、ソフトウェア操作、アクセサリー、メンテナンス、トラブルシューティング、部品交換をまとめています。"
+---
+
 # HiMill D1
 <img src="/eng/himill-d1-d1s/media/himill-d1.png" alt="" style="width: 400px; height: auto; margin-bottom: 8px; border-radius: 6px;" />
 

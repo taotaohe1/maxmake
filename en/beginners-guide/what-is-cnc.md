@@ -1,3 +1,8 @@
+---
+title: "What is CNC?"
+description: "Learn what CNC (Computer Numerical Control) is and how MAXMAKE HiMill D1/D1S brings this technology to your desktop."
+---
+
 # What is CNC? | MAXMAKE Wiki
 
 Learn what CNC (Computer Numerical Control) is and how [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) brings this technology to your desktop. Comprehensive guide for CNC beginners covering basics, history, and types.

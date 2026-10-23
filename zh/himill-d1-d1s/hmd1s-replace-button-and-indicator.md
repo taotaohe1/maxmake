@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1/D1S 更换按键指示灯"
+description: "HiMill D1/D1S 按键指示灯更换：外部与内部指示灯的拆装步骤及注意事项。"
 ---
 
 # HiMill D1/D1S 更换按键指示灯

@@ -1,3 +1,8 @@
+---
+title: "MaxmakeLab Software Installation Guide: Download & Setup Tutorial"
+description: "Learn how to install MaxmakeLab software for HiMill CNC machines."
+---
+
 # MaxmakeLab Software Installation Guide: Download & Setup Tutorial
 
 Learn how to install MaxmakeLab software for HiMill CNC machines. This guide covers system requirements, download links for Windows and macOS, installation steps, and troubleshooting tips.

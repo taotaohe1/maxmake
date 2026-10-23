@@ -1,3 +1,8 @@
+---
+title: "What is CAM Software?"
+description: "Learn the difference between CAD and CAM software, how they work, and which tools to choose for MAXMAKE HiMill D1/D1S CNC machines."
+---
+
 # What is CAM Software? | MAXMAKE Wiki
 
 Learn the difference between CAD and CAM software, how they work, and which tools to choose for MAXMAKE HiMill D1/D1S CNC machines.

@@ -1,3 +1,8 @@
+---
+title: "HiMill D1 Spindle Replacement Guide: Motor, Board & Fan Swap Tutorial"
+description: "Step-by-step guide to replacing the spindle, rear circuit board, cooling fan, and spindle light on the HiMill D1."
+---
+
 # HiMill D1 Spindle Replacement Guide: Motor, Board & Fan Swap Tutorial
 
 Learn how to replace spindle components in HiMill D1 CNC machine. This guide covers spindle replacement, rear circuit board replacement, cooling fan replacement, and spindle light replacement.

@@ -1,3 +1,8 @@
+---
+title: "MaxmakeLab CAM Feature Introduction"
+description: "Introduction to MaxmakeLab CAM features: stock setup, tool library management, contour, face, and relief milling strategies, and simulation."
+---
+
 # MaxmakeLab CAM Feature Introduction
 
 MaxmakeLAB version 0.9.18 introduces new CAM-related features: Stock Setup, Tool Library Management, three toolpath strategies (Profile Milling, Pocket Milling, Relief Toolpath), and Simulation. Here's an overview of each feature:

@@ -1,3 +1,8 @@
+---
+title: "CNC Tool Selection Complete Guide"
+description: "In CNC machining, the machine provides the power, but the tool is what truly \"goes head-to-head\" with the material."
+---
+
 # CNC Tool Selection Complete Guide
 
 In CNC machining, the machine provides the power, but the tool is what truly "goes head-to-head" with the material. Choosing the right tool often determines 80% of your machining success. It directly affects your cutting speed, surface finish, tool life, and even machine wear.

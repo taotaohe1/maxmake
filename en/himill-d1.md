@@ -1,3 +1,8 @@
+---
+title: "HiMill D1 Desktop CNC Machine"
+description: "HiMill D1 product overview and documentation hub: quick start, operation, software, accessories, maintenance, troubleshooting, and part replacement."
+---
+
 # HiMill D1 Desktop CNC Machine | MAXMAKE Wiki
 
 Learn about the [MAXMAKE HiMill D1](https://www.maxmake.com/products/himill-d1) desktop CNC machine specifications, setup, maintenance, and troubleshooting. Your complete guide to the HiMill D1 engraving and milling machine.

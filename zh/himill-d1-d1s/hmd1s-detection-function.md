@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1S 检测功能说明"
+description: "HiMill D1S 检测功能说明：通过检测窗口查看限位、安全门、按键、3D 测头、对刀器与急停的硬件信号状态。"
 ---
 
 # HiMill D1S 检测功能说明

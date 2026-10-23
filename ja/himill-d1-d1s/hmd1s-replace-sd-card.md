@@ -1,3 +1,8 @@
+---
+title: "HiMill D1/D1S SDカードの交換"
+description: "HiMill D1/D1SのSDカードの交換。Micro SDカードの取り外し・取り付け手順と注意事項を解説します。"
+---
+
 # HiMill D1/D1S SDカードの交換
 
 ---

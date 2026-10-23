@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1S 光轴丝杆保养"
+description: "HiMill D1S 光轴与丝杆保养：定期润滑周期、X/Y/Z 三轴涂脂方法与注意事项。"
 ---
 
 # 光轴丝杆保养

@@ -1,3 +1,8 @@
+---
+title: "HiMill D1/D1S Button & Indicator Troubleshooting: LED & Switch Issues Fix"
+description: "Button and indicator troubleshooting for the HiMill D1/D1S, covering possible symptoms, causes, and fixes for both external and internal buttons."
+---
+
 # HiMill D1/D1S Button & Indicator Troubleshooting: LED & Switch Issues Fix
 
 Learn how to troubleshoot button and indicator issues on HiMill D1/D1S CNC machine. This guide covers external/internal LED problems, button trigger failures, and step-by-step repair solutions.

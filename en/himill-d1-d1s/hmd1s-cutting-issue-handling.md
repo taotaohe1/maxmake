@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S Tool Breakage Recovery"
+description: "Tool breakage recovery guide for HiMill D1/D1S machining, with recovery steps for powered-off and powered-on cases by tool change code usage."
+---
+
 # HiMill D1S Tool Breakage Recovery | MAXMAKE Wiki
 
 Learn how to handle tool breakage during CNC machining with [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products). This guide covers recovery procedures, power-off situations, and preventive measures.

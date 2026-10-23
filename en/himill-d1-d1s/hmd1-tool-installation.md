@@ -1,3 +1,8 @@
+---
+title: "HiMill D1 Tool Installation"
+description: "Learn how to install tools on MAXMAKE HiMill D1 CNC machine."
+---
+
 # HiMill D1 Tool Installation | MAXMAKE Wiki
 
 Learn how to install tools on MAXMAKE HiMill D1 CNC machine. This guide covers software tool change preparation, collet installation, tool clamping depth, and automatic height measurement procedures.

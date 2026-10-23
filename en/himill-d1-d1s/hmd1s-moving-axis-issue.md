@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S Axis Movement Issues"
+description: "Troubleshoot HiMill D1/D1S axis movement problems by checking electrical, mechanical, and control system causes, with step-by-step fixes."
+---
+
 # HiMill D1S Axis Movement Issues | MAXMAKE Wiki
 
 Learn how to fix axis movement problems on [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) CNC machine. This guide covers axis not moving, stuttering, and free movement issues with step-by-step solutions.

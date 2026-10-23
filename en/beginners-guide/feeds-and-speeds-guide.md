@@ -1,3 +1,8 @@
+---
+title: "Desktop CNC Feeds and Speeds Professional Guide: Aluminum, Acrylic & PCB Edition"
+description: "The following video provides a comprehensive visual guide to help you master optimal feeds and speeds settings for processing aluminum, acrylic, pattern wood, and…"
+---
+
 # Desktop CNC Feeds and Speeds Professional Guide: Aluminum, Acrylic & PCB Edition
 
 The following video provides a comprehensive visual guide to help you master optimal feeds and speeds settings for processing aluminum, acrylic, pattern wood, and PCB materials with your [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) desktop CNC machine.

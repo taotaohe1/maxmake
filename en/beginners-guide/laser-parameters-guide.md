@@ -1,3 +1,8 @@
+---
+title: "Laser Processing Parameters Guide"
+description: "This document provides a detailed introduction to the core parameters in laser processing for MAXMAKE HiMill D1/D1S 10W laser module, helping beginners…"
+---
+
 # Laser Processing Parameters Guide
 
 This document provides a detailed introduction to the core parameters in laser processing for [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) [10W laser module](https://maxmake.com/products/10w-laser-module), helping beginners systematically understand the definition, impact, and application scenarios of each parameter. By mastering the adjustment rules of these parameters, you can quickly get started with laser equipment and achieve ideal processing results.

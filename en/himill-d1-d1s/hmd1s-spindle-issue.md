@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S Spindle Not Rotating"
+description: "HiMill D1/D1S spindle troubleshooting for two symptoms: the spindle not rotating, and stopping right after it starts."
+---
+
 # HiMill D1S Spindle Not Rotating | MAXMAKE Wiki
 
 Learn how to fix spindle problems on [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) CNC machine. This guide covers spindle not rotating, motor issues, and step-by-step troubleshooting solutions.

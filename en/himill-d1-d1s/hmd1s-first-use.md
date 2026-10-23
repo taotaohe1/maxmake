@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S First Use Guide"
+description: "HiMill D1S first-use tutorial: use the included test material and machining file to complete your first cut from power-on to finished part."
+---
+
 # HiMill D1S First Use Guide | MAXMAKE Wiki
 
 Welcome to [MAXMAKE HiMill D1S](https://www.maxmake.com/products/himill-d1s)! This comprehensive tutorial guides you through your first machining experience with HiMill D1S, including pre-machining preparation, [MaxmakeLab](https://maxmake.com/pages/software) software setup, sample project files, and video instructions.

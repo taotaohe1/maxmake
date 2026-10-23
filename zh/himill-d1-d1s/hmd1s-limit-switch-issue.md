@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1/D1S 限位开关异常"
+description: "HiMill D1/D1S 限位开关异常排查：分别针对 XY 轴与 Z 轴说明可能现象、原因和解决方法。"
 ---
 
 # HiMill D1/D1S 限位开关异常

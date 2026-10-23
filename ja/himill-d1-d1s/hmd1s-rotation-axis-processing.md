@@ -1,3 +1,8 @@
+---
+title: "MaxmakeLab HiMill D1S 回転軸加工 - NCプログラムインポート加工ワークフロー"
+description: "MaxmakeLab HiMill D1Sの回転軸加工ワークフロー。CNCモード、NCファイルのインポート、原点設定、シミュレーション確認から加工開始までを解説します。"
+---
+
 # MaxmakeLab回転軸加工 - NCプログラムインポート加工ワークフロー
 
 ## 1. CNCモードに切り替える

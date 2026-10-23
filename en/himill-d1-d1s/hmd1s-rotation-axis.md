@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S Rotation Axis"
+description: "HiMill D1S rotation axis accessory: 1:5 gear ratio, 1-33 mm clamping range, 4-jaw chuck, and motor cable connection."
+---
+
 # HiMill D1S Rotation Axis | MAXMAKE Wiki
 
 Learn how to install and use the [rotation axis](https://maxmake.com/products/4th-axis-module) accessory for HiMill D1S CNC machine. This guide covers accessory list, chuck adjustment, installation location, and connection steps.

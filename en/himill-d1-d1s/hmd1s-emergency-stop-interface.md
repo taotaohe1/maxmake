@@ -1,3 +1,8 @@
+---
+title: "Emergency Stop Interface"
+description: "HiMill D1/D1S emergency stop interface guide: the GX12 2-pin connector, trigger and reset behavior, and materials and wiring for a DIY setup."
+---
+
 # Emergency Stop Interface
 
 ## 1. Interface Introduction

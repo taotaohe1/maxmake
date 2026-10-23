@@ -1,5 +1,6 @@
 ---
 title: "MaxmakeLab HiMill D1/D1S 连接"
+description: "电脑和设备用数据线连接，在首次打开软件时，可以自动查找HiMill设备并连接。"
 ---
 
 # MaxmakeLab HiMill D1/D1S 连接

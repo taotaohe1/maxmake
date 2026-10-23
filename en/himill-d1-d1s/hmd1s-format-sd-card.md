@@ -1,3 +1,8 @@
+---
+title: "HiMill D1/D1S SD Card Format Guide: Fix File Transfer & Storage Issues"
+description: "Learn how to format the SD card on HiMill D1/D1S CNC machine."
+---
+
 # HiMill D1/D1S SD Card Format Guide: Fix File Transfer & Storage Issues
 
 Learn how to format the SD card on HiMill D1/D1S CNC machine. This guide explains formatting procedures, file system requirements, and steps to resolve file transfer failures and storage problems.

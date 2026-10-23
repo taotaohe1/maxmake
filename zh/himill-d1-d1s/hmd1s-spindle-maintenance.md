@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1S 主轴保养"
+description: "HiMill D1S 主轴保养：夹头清理步骤与注意事项，附保养视频。"
 ---
 
 # HiMill D1S 主轴保养

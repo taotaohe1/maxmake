@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1/D1S 移动轴运行异常"
+description: "HiMill D1/D1S 移动轴运行异常排查：从电气、机械与控制系统分析原因，并给出分步解决方法。"
 ---
 
 # HiMill D1/D1S 移动轴运行异常

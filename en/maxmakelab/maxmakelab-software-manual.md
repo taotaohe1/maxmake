@@ -1,3 +1,8 @@
+---
+title: "MaxmakeLab Software Manual: Complete User Guide & Reference"
+description: "Complete MaxmakeLab user manual covering the main interface, menus, design and parameter panels, toolpath generation, and CNC and laser workflows."
+---
+
 # MaxmakeLab Software Manual: Complete User Guide & Reference
 
 Complete user manual for MaxmakeLab software. This guide covers interface functions, menu operations, design tools, parameter settings, toolpath generation, CNC workflow, and laser processing workflow.

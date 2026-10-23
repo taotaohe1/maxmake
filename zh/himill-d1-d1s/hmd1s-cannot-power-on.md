@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1/D1S 无法上电"
+description: "HiMill D1/D1S 无法上电排查：列出常见现象、可能原因与逐步解决方法。"
 ---
 
 # HiMill D1/D1S 无法上电

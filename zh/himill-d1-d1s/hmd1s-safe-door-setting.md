@@ -1,5 +1,6 @@
 ---
 title: "MaxmakeLab HiMill D1/D1S 安全门设置"
+description: "MaxmakeLab 安全门设置：功能说明、开启步骤与安全门状态指示灯的查看方法。"
 ---
 
 # MaxmakeLab HiMill D1/D1S 安全门设置

@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S主軸の交換"
+description: "HiMill D1Sの主軸交換。主軸または主軸ライト基板、背面基板、冷却ファンの交換手順を解説します。"
+---
+
 # HiMill D1S主軸の交換
 
 ---

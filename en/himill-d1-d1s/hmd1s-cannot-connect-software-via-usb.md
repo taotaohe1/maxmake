@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S USB Connection Issues"
+description: "Fix USB connection problems between the HiMill D1/D1S and MaxmakeLab by troubleshooting cable issues and signal interference."
+---
+
 # HiMill D1S USB Connection Issues | MAXMAKE Wiki
 
 Learn how to fix USB connection problems between [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) CNC machine and [MaxmakeLab](https://maxmake.com/pages/software) software. This guide covers cable issues, port checks, and driver troubleshooting.

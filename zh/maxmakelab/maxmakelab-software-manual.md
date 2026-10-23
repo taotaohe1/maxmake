@@ -1,5 +1,6 @@
 ---
 title: "MaxmakeLab 软件说明书"
+description: "MaxmakeLab 软件说明书：界面功能区、菜单栏、设计栏、参数栏、刀路生成及 CNC 与激光加工流程。"
 ---
 
 # MaxmakeLab 软件说明书

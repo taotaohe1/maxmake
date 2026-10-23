@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S 3D Probe Height Map Guide: Uneven Surface Compensation Tutorial"
+description: "Learn how to use the height map feature with 3D probe on MAXMAKE HiMill D1S CNC machine."
+---
+
 # HiMill D1S 3D Probe Height Map Guide: Uneven Surface Compensation Tutorial
 
 Learn how to use the height map feature with [3D probe](https://maxmake.com/products/3d-probe) on [MAXMAKE HiMill D1S](https://www.maxmake.com/products/himill-d1s) CNC machine. This guide covers surface detection point setup, grid probing, and precise machining for uneven workpiece surfaces.

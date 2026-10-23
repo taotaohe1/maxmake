@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1 产品介绍"
+description: "HiMill D1 产品介绍与文档导航：快速入门、使用说明、软件操作、配件、维护、故障排除与部件更换。"
 ---
 
 # Himill D1

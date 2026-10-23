@@ -1,3 +1,8 @@
+---
+title: "Unboxing Precautions"
+description: "If you receive a Maxmake product package and find any damage, please follow the process below to ensure you receive timely and effective compensation."
+---
+
 # Unboxing Precautions
 
 ## After-Sales Unboxing Guide

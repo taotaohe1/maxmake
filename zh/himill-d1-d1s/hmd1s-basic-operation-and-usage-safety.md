@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1S 基本操作和使用安全"
+description: "本文档介绍HiMill D1S设备的基本操作方法和安全使用规范。请在使用前仔细阅读并遵守所有安全规定。"
 ---
 
 # HiMill D1S 基本操作和使用安全

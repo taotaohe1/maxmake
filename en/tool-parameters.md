@@ -1,3 +1,8 @@
+---
+title: "CNC Tool Parameters Guide"
+description: "Tool parameter reference for MAXMAKE HiMill machines: flat end mills, ball nose mills, drills, PCB drills, and V-bits for metal and non-metal materials."
+---
+
 # CNC Tool Parameters Guide | MAXMAKE Wiki
 
 Complete tool parameter reference for MAXMAKE HiMill D1/D1S CNC machines. Spindle speeds, feed rates, depth of cut, and settings for various tool types and materials.

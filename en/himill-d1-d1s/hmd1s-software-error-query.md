@@ -1,3 +1,8 @@
+---
+title: "Software Error Query"
+description: "MaxmakeLab error code reference covering ALARM alerts, G-code, machine, and SD card errors, with troubleshooting guidance."
+---
+
 # 📋 Software Error Query
 
 > This page organizes all software error information for HiMill D1/D1s equipment to help users quickly locate and resolve equipment fault issues.

@@ -1,3 +1,8 @@
+---
+title: "HiMill D1/D1S Button & Indicator Guide: LED Status & Operation Tutorial"
+description: "Learn about button functions and indicator lights on HiMill D1/D1S CNC machine."
+---
+
 # HiMill D1/D1S Button & Indicator Guide: LED Status & Operation Tutorial
 
 Learn about button functions and indicator lights on HiMill D1/D1S CNC machine. This guide covers power-on status, alarm states, processing progress, WiFi connection, tool change operations, and button control methods.

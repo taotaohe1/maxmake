@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1/D1S 工件装夹指南"
+description: "本文档详细介绍HiMill D1/D1S设备的各种工件装夹方法，确保安全、高效的加工操作。"
 ---
 
 # HiMill D1/D1S 工件装夹指南

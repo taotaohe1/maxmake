@@ -1,3 +1,8 @@
+---
+title: "Laser Processing Parameters"
+description: "Reference laser engraving and cutting parameters for MAXMAKE HiMill D1/D1S."
+---
+
 # Laser Processing Parameters | MAXMAKE Wiki
 
 Reference laser engraving and cutting parameters for MAXMAKE HiMill D1/D1S. Recommended speed and power settings for wood, plastic, leather, paper, and other materials.

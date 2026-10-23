@@ -1,3 +1,8 @@
+---
+title: "HiMill D1 Guide Rail & Lead Screw Maintenance: Step-by-Step Lubrication Guide"
+description: "HiMill D1 guide rail and lead screw maintenance: lubrication intervals, greasing steps for the X, Y, and Z axes, and precautions."
+---
+
 # HiMill D1 Guide Rail & Lead Screw Maintenance: Step-by-Step Lubrication Guide
 
 Learn how to maintain HiMill D1 guide rails and lead screws for optimal performance. This guide covers XYZ axis lubrication procedures, maintenance frequency, and troubleshooting tips.

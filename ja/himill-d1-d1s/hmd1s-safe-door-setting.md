@@ -1,3 +1,8 @@
+---
+title: "MaxmakeLab HiMill D1/D1S安全ドアの設定"
+description: "MaxmakeLabの安全ドア設定。機能の説明、有効化手順、安全ドア状態インジケーターの確認方法を解説します。"
+---
+
 # MaxmakeLab HiMill D1/D1S安全ドアの設定
 
 ## 📋 安全ドア機能の説明

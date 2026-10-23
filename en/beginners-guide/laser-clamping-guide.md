@@ -1,3 +1,8 @@
+---
+title: "Laser Material Clamping Guide"
+description: "This document provides a detailed introduction to material clamping methods for laser processing with MAXMAKE HiMill D1/D1S 10W laser module, helping beginners…"
+---
+
 # Laser Material Clamping Guide
 
 This document provides a detailed introduction to material clamping methods for laser processing with [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) [10W laser module](https://maxmake.com/products/10w-laser-module), helping beginners systematically understand the core principles of material clamping, common clamping methods and their applicable scenarios, clamping scheme optimizations for desktop devices, and special material clamping techniques. This ensures materials remain stable and flat during processing, achieving precise processing results.

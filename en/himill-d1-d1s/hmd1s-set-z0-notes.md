@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S Setting Z0 Notes"
+description: "Learn how to set the Z0 (Z-axis machining origin) on the MAXMAKE HiMill D1S CNC machine."
+---
+
 # HiMill D1S Setting Z0 Notes | MAXMAKE Wiki
 
 Learn how to set the Z0 (Z-axis machining origin) on the [MAXMAKE HiMill D1S](https://www.maxmake.com/products/himill-d1s) CNC machine. This guide explains the G-code logic behind the Set Z0 function, the required height measurement step, power-off compensation behavior, and precautions for third-party control software.

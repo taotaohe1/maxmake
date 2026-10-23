@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1/D1S 更换移动轴电机"
+description: "HiMill D1/D1S 移动轴电机更换：X、Y、Z 三轴电机的拆装步骤及注意事项。"
 ---
 
 # HiMill D1/D1S 更换移动轴电机

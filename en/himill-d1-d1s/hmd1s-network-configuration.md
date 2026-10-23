@@ -1,3 +1,8 @@
+---
+title: "HiMill D1/D1S Network Configuration Guide: WiFi Setup & IP Connection Tutorial"
+description: "HiMill D1/D1S network configuration guide: connect the machine over WiFi, covering two wireless connection methods and setup steps."
+---
+
 # HiMill D1/D1S Network Configuration Guide: WiFi Setup & IP Connection Tutorial
 
 Learn how to configure WiFi connection for HiMill D1/D1S CNC machine. This guide covers STA mode (local network), AP mode (hotspot), IP address setup, and wireless connection troubleshooting.

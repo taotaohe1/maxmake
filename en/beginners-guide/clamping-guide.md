@@ -1,3 +1,8 @@
+---
+title: "CNC Clamping Guide for HiMill D1/D1S"
+description: "Learn essential CNC clamping techniques for MAXMAKE HiMill D1/D1S."
+---
+
 # CNC Clamping Guide for HiMill D1/D1S | MAXMAKE Wiki
 
 Learn essential CNC clamping techniques for [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products). This guide covers clamping principles, fixtures, collision prevention, and material-specific strategies for safe and precise machining.

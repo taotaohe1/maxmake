@@ -1,5 +1,6 @@
 ---
 title: "MaxmakeLab CNC加工-导入NC程序的加工流程"
+description: "MaxmakeLab CNC 加工流程：导入 NC 程序后完成移动定位、设置原点、仿真预览、传输加工与参数调整。"
 ---
 
 # MaxmakeLab CNC加工-导入NC程序的加工流程

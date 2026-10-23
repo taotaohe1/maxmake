@@ -1,3 +1,8 @@
+---
+title: "CNC Material Selection Guide"
+description: "Discover the best materials for CNC machining with MAXMAKE HiMill D1/D1S."
+---
+
 # CNC Material Selection Guide | MAXMAKE Wiki
 
 Discover the best materials for CNC machining with [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products). This guide covers metals, non-metals, composites, and special materials with processing tips and safety precautions.

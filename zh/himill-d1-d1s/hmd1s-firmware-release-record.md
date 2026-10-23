@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1/D1S 固件发布记录"
+description: "使用 MaxMakeLab 软件连接设备后，如果电脑处于联网状态，软件将自动查询最新固件版本并提示升级。"
 ---
 
 # HiMill D1/D1S 固件发布记录

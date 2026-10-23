@@ -1,3 +1,8 @@
+---
+title: "HiMill CNC FAQ"
+description: "Find answers to common questions about MAXMAKE HiMill D1/D1S CNC machines. Comprehensive troubleshooting, setup, software, and maintenance FAQ for all skill levels."
+---
+
 # HiMill CNC FAQ | MAXMAKE Wiki
 
 Find answers to common questions about [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) CNC machines. Comprehensive troubleshooting, setup, software, and maintenance FAQ for all skill levels.

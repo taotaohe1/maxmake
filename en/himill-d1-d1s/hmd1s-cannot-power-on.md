@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S Cannot Power On"
+description: "HiMill D1/D1S power-on troubleshooting: common symptoms, possible causes, and step-by-step solutions."
+---
+
 # HiMill D1S Cannot Power On | MAXMAKE Wiki
 
 Learn how to troubleshoot power-on issues with [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) CNC machine. This guide covers power cord checks, voltage adjustment, and step-by-step solutions.

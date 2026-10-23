@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S Guide Rail Maintenance"
+description: "HiMill D1S guide rail and lead screw maintenance: lubrication intervals, greasing steps for the X, Y, and Z axes, and precautions."
+---
+
 # HiMill D1S Guide Rail Maintenance | MAXMAKE Wiki
 
 Learn how to maintain [MAXMAKE HiMill D1S](https://www.maxmake.com/products/himill-d1s) guide rails and lead screws. This guide covers XYZ axis lubrication, maintenance frequency, grease application, and troubleshooting tips.

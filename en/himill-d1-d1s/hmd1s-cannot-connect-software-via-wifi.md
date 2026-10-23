@@ -1,3 +1,8 @@
+---
+title: "HiMill D1/D1S WiFi Connection Issues: Network Setup & Troubleshooting"
+description: "Troubleshoot WiFi connection failures between MaxmakeLab and the HiMill D1/D1S, covering connection settings and signal interference."
+---
+
 # HiMill D1/D1S WiFi Connection Issues: Network Setup & Troubleshooting
 
 Learn how to fix WiFi connection problems with [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) CNC machine. This guide covers connection failures, IP configuration, router settings, antenna checks, and step-by-step wireless troubleshooting solutions.

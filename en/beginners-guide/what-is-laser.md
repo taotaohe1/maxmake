@@ -1,3 +1,8 @@
+---
+title: "What is Laser Cutting?"
+description: "Learn laser cutting and engraving fundamentals for MAXMAKE HiMill D1/D1S 10W laser module."
+---
+
 # What is Laser Cutting? | MAXMAKE Wiki
 
 Learn laser cutting and engraving fundamentals for [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) [10W laser module](https://maxmake.com/products/10w-laser-module). Understand laser technology, working principles, and how to achieve precise cutting on various materials.

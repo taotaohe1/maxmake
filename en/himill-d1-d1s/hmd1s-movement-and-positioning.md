@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S Movement & Positioning"
+description: "Learn how to control axis movement and set machining origin on MAXMAKE HiMill D1/D1S CNC machine."
+---
+
 # HiMill D1S Movement & Positioning | MAXMAKE Wiki
 
 Learn how to control axis movement and set machining origin on MAXMAKE HiMill D1/D1S CNC machine. This guide covers XYZ axis control, step size settings, and origin positioning.

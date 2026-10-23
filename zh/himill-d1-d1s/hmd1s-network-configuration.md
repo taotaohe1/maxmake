@@ -1,5 +1,6 @@
 ---
 title: "MaxmakeLab HiMill D1/D1S 网络配置"
+description: "HiMill D1/D1S 网络配置指南：通过 WiFi 连接设备，介绍两种无线连接方式及操作步骤。"
 ---
 
 # 📡 MaxmakeLab HiMill D1/D1S 网络配置

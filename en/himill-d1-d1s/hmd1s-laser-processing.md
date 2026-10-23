@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S Laser Processing Guide: Mode Switching & Parameter Settings"
+description: "Laser processing workflow in MaxmakeLab: switch to laser mode, set parameters, frame the workpiece, adjust focus, and start machining."
+---
+
 # HiMill D1S Laser Processing Guide: Mode Switching & Parameter Settings
 
 Learn how to use laser processing with [10W laser module](https://maxmake.com/products/10w-laser-module) on [MAXMAKE HiMill D1S](https://www.maxmake.com/products/himill-d1s) CNC machine. This guide covers laser mode switching, file import, parameter settings, border positioning, and focus adjustment.

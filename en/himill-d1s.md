@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S Advanced CNC Machine"
+description: "HiMill D1S product overview and documentation hub: quick start, operation, software, accessories, maintenance, troubleshooting, and part replacement."
+---
+
 # HiMill D1S Advanced CNC Machine | MAXMAKE Wiki
 
 Discover the [MAXMAKE HiMill D1S](https://www.maxmake.com/products/himill-d1s) advanced desktop CNC machine with 3D probe. Learn setup, features, maintenance, and troubleshooting for your HiMill D1S.

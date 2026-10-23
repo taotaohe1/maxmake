@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1 开箱指南"
+description: "HiMill D1 开箱指南：开箱视频、配件清单核对与首次使用前的注意事项。"
 ---
 
 # HiMill D1 开箱指南

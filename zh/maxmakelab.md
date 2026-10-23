@@ -1,5 +1,6 @@
 ---
 title: "MaxmakeLab 软件"
+description: "MaxmakeLab 软件总览：快速入门、软件功能、操作说明、相关资源与社区支持入口。"
 ---
 
 # MaxmakeLab 软件

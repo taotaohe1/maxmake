@@ -1,3 +1,8 @@
+---
+title: "MaxmakeLab Software Getting Started Guide: Interface & Features Overview"
+description: "Learn the basics of MaxmakeLab software for HiMill CNC machines."
+---
+
 # MaxmakeLab Software Getting Started Guide: Interface & Features Overview
 
 Learn the basics of MaxmakeLab software for HiMill CNC machines. This guide covers software overview, main interface functions, design tools, device control, and core features for CNC and laser processing.

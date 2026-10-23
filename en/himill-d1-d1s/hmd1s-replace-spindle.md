@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S Spindle Replacement Guide: Motor, Light Board & Fan Swap"
+description: "Replacement guide for the HiMill D1S spindle, spindle light board, rear circuit board, and cooling fan."
+---
+
 # HiMill D1S Spindle Replacement Guide: Motor, Light Board & Fan Swap
 Learn how to replace spindle components in [MAXMAKE HiMill D1S](https://www.maxmake.com/products/himill-d1s) CNC machine. This guide covers spindle replacement, light board replacement, rear circuit board replacement, and cooling fan replacement.
 ---

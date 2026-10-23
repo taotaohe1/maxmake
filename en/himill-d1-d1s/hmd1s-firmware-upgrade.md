@@ -1,3 +1,8 @@
+---
+title: "MaxmakeLab HiMill D1/D1S Firmware Upgrade"
+description: "After the software connects to the device, it automatically queries the current firmware version. If an update is needed, a prompt box will appear."
+---
+
 # MaxmakeLab HiMill D1/D1S Firmware Upgrade
 
 ## ⚠️ Important Notes

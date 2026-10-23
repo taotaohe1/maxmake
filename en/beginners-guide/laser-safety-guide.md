@@ -1,3 +1,8 @@
+---
+title: "Laser Safety Guide"
+description: "This document provides detailed safety precautions for laser processing with MAXMAKE HiMill D1/D1S 10W laser module, helping beginners systematically understand…"
+---
+
 # Laser Safety Guide
 
 This document provides detailed safety precautions for laser processing with [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) [10W laser module](https://maxmake.com/products/10w-laser-module), helping beginners systematically understand laser radiation safety, smoke and harmful gas management, fire prevention and response, mechanical and electrical safety, as well as standardized operating procedures. It ensures laser processing is conducted safely and standardized, avoiding safety accidents.

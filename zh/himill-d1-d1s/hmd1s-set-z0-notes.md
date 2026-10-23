@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1S 设置Z0注意事项"
+description: "本文介绍 HiMill D1S 设备设置 Z0（加工原点 Z 轴零点）的原理与注意事项，帮助您正确操作，避免因刀具补偿错误导致的加工异常或碰撞。"
 ---
 
 # HiMill D1S 设置Z0注意事项

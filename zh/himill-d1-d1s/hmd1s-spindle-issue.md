@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1/D1S 主轴异常"
+description: "HiMill D1/D1S 主轴异常排查：针对主轴不转与一转就停两类现象分析原因并给出解决方法。"
 ---
 
 # HiMill D1/D1S 主轴异常

@@ -1,3 +1,8 @@
+---
+title: "HiMill D1/D1S Probe Replacement Guide: Tool Setter & Circuit Board Swap"
+description: "Replacement guide for the tool setter (probe) and its circuit board on the HiMill D1/D1S."
+---
+
 # HiMill D1/D1S Probe Replacement Guide: Tool Setter & Circuit Board Swap
 
 Learn how to replace the [3D probe](https://maxmake.com/products/3d-probe) tool setter and its circuit board on [MAXMAKE HiMill D1/D1S](https://www.maxmake.com/products) CNC machine. This guide covers safety precautions, probe removal, and installation steps for accurate Z-axis measurement.

@@ -1,5 +1,6 @@
 ---
 title: "NX 后处理器安装教程"
+description: "本文档提供了在 Siemens NX 软件中安装 HiMill 系列设备后处理器的详细步骤。"
 ---
 
 # NX 后处理器安装教程

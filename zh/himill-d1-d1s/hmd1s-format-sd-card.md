@@ -1,5 +1,6 @@
 ---
 title: "MaxmakeLab HiMill D1/D1S 格式化SD卡"
+description: "设备加工时，文件会传输到设备的Micro SD卡中。如果文件传输总是失败，可能是SD卡出现问题，可以尝试格式化SD卡来解决。"
 ---
 
 # MaxmakeLab HiMill D1/D1S 格式化SD卡

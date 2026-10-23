@@ -1,5 +1,6 @@
 ---
 title: "HiMill D1/D1S 按键和指示灯"
+description: "本文档详细介绍HiMill D1/D1S设备上按键和指示灯的功能及操作方法，帮助用户了解设备状态和正确操作。"
 ---
 
 # HiMill D1/D1S 按键和指示灯

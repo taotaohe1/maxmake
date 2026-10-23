@@ -1,3 +1,8 @@
+---
+title: "HiMill D1/D1S Workpiece Installation Guide: Clamping Methods & Safety Tips"
+description: "Learn proper workpiece installation methods for HiMill D1/D1S CNC machine."
+---
+
 # HiMill D1/D1S Workpiece Installation Guide: Clamping Methods & Safety Tips
 
 Learn proper workpiece installation methods for HiMill D1/D1S CNC machine. This guide covers clamping plate techniques, screw selection, large object securing, and machining range awareness for safe operations.

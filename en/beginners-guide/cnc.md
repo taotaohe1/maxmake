@@ -1,3 +1,8 @@
+---
+title: "CNC Machine Basics - A Complete Guide for Beginners"
+description: "This guide provides comprehensive introductory knowledge for CNC beginners, helping you master the core content of CNC technology step by step from basic concepts…"
+---
+
 # CNC Machine Basics - A Complete Guide for Beginners
 
 > Learn CNC fundamentals, from basic concepts to practical operations. Complete guide for HiMill D1/D1S CNC beginners.

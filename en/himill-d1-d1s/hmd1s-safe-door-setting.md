@@ -1,3 +1,8 @@
+---
+title: "MaxmakeLab HiMill D1/D1S Safe Door Setting"
+description: "Configure the safety door function in MaxmakeLab, including how it works, setup steps, and how to read the status indicator."
+---
+
 # MaxmakeLab HiMill D1/D1S Safe Door Setting
 
 ## 📋 Safe Door Function Description

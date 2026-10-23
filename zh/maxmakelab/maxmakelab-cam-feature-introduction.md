@@ -1,5 +1,6 @@
 ---
 title: "MaxmakeLab CAM功能介绍页面"
+description: "MaxmakeLab CAM 功能简介：毛坯设置、刀具库管理、轮廓铣/平面铣/浮雕加工三种策略与仿真功能。"
 ---
 
 # MaxmakeLab CAM功能介绍页面

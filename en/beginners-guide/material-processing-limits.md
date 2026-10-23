@@ -1,3 +1,8 @@
+---
+title: "Laser Material Compatibility & Processing Limits Guide for HiMill D1/D1S"
+description: "Learn what materials you can and cannot process with HiMill D1/D1S laser module."
+---
+
 # Laser Material Compatibility & Processing Limits Guide for HiMill D1/D1S
 
 Learn what materials you can and cannot process with HiMill D1/D1S laser module. This guide covers recommended materials (acrylic, wood, leather), prohibited materials (PVC, reflective metals), processing limitations, and pretreatment techniques for optimal laser cutting and engraving.

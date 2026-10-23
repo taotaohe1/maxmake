@@ -1,3 +1,8 @@
+---
+title: "MaxmakeLab HiMill D1/D1Sネットワーク設定"
+description: "HiMill D1/D1Sのネットワーク設定ガイド。WiFi経由で機器に接続する2つの方法と設定手順を解説します。"
+---
+
 # 📡 MaxmakeLab HiMill D1/D1Sネットワーク設定
 
 ## 🌟 機能の紹介

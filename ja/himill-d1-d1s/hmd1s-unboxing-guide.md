@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S 開梱ガイド"
+description: "HiMill D1Sの開梱ガイド。開梱動画、付属品リストの確認、初回使用前の注意事項をまとめています。"
+---
+
 # HiMill D1S 開梱ガイド
 
 ## 📹 開梱動画

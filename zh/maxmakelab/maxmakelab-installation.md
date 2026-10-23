@@ -1,5 +1,6 @@
 ---
 title: "MaxmakeLab 软件安装"
+description: "MaxmakeLab是一款专为HiMill系列CNC设备设计的智能控制软件，提供直观的操作界面和丰富的加工功能，帮助用户轻松完成各种创意加工任务。"
 ---
 
 # MaxmakeLab 软件安装

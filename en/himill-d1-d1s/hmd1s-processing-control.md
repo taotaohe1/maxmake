@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S CNC Processing Control"
+description: "CNC machining workflow in MaxmakeLab: import an NC program, position the axes, set the origin, preview the simulation, transfer the file, and adjust parameters."
+---
+
 # HiMill D1S CNC Processing Control | MAXMAKE Wiki
 
 Learn how to process with CNC mode on MAXMAKE HiMill D1/D1S CNC machine. This guide covers mode switching, NC program import, origin setting, and processing control.

@@ -1,3 +1,8 @@
+---
+title: "HiMill D1S Unboxing Guide"
+description: "HiMill D1S unboxing guide with the unboxing video, accessory checklist, and precautions to check before first use."
+---
+
 # HiMill D1S Unboxing Guide | MAXMAKE Wiki
 
 Learn how to unbox and set up your MAXMAKE HiMill D1S CNC machine. This guide includes accessory checklist, unboxing video, voltage setting instructions, and safety reminders.

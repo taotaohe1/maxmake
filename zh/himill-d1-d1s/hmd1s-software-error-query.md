@@ -1,5 +1,6 @@
 ---
 title: "软件报错查询"
+description: "MaxmakeLab 软件报错查询：ALARM 报警、G 代码、设备、SD 卡等错误码的含义与对应排查方法。"
 ---
 
 # 📋 软件报错查询
