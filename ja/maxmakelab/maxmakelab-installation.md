@@ -33,43 +33,27 @@ MaxmakeLabは、HiMillシリーズCNC機器専用に設計されたインテリ�
 ## 📥 ソフトウェアのダウンロード
 以下のリンクからMaxmakeLabソフトウェアをダウンロードすることができます。お使いのオペレーティングシステムとニーズに応じて適切なバージョンを選択してください：
 
-> ℹ️ **バージョン0.9.21更新内容**：
-> 
-> **一、パフォーマンス最適化**
-> 1. ソフトウェアアーキテクチャを調整し、レンダリングとインタラクションを最適化。ウィンドウ切り替えやデバイス接続後に発生するカクつきの問題を解決
-> 
-> **二、表示の修正**
-> 1. ダークモードでのテキスト表示異常を修正
-> 
-> **三、加工精度とシミュレーション**
-> 1. 工具パスの時間予測エラーを修正
-> 2. レリーフ粗加工の工具パスと安全エリア計算を修正
-> 3. 3Dシミュレーション効果を最適化
-> 
-> **四、新機能**
-> 1. 角丸長方形ツールを追加
-> 2. 矢印基本ツールを追加
-> 3. 切り抜きツールを追加
-> 4. ステータスバーのビューズームコントロールを追加
-> 
-> **五、権限と設定**
-> 1. 権限調整：管理者権限での起動を不要にし、標準権限で動作するよう変更
-> 2. 設定ファイルの読み取りと書き込みを分離。ユーザーの設定ファイルは `%LOCALAPPDATA%\Marxmake\MaxmakeLAB\` に保存されます
+> ℹ️ **バージョン0.9.22更新内容**：
+> 1. 初回インストール時のソフトウェアダイアログが操作できない問題を修正
+> 2. 新アーキテクチャのレンダリング等の問題を修正し、インストーラーのサイズを削減
+> 3. 高さマップ適用時に非動作指令を誤認識し、工具交換後の衝突リスクを引き起こす問題を修正
+> 4. ステータスバーに選択ツール、キャンバスドラッグツール、自動ズームツールを追加
+> 5. レーザーパスプレビューを最適化
 > 
 > ソフトウェアの問題がある場合は、Discordのソフトウェアフィードバック専用チャンネルでお問い合わせください。皆様のご意見を積極的に参考にし、問題を速やかに修正いたします：[Discord](https://discord.gg/u9XkszV3Mj)
 > {.is-info}
 
-### 最新バージョン（v0.9.21）
+### 最新バージョン（v0.9.22）
+**[MaxmakeLabソフトウェアダウンロードリンク(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.22.exe)**
+**[MaxmakeLabソフトウェアダウンロードリンク(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.22.dmg)**
+
+### 以前のバージョン（v0.9.21）
 **[MaxmakeLabソフトウェアダウンロードリンク(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.21.exe)**
 **[MaxmakeLabソフトウェアダウンロードリンク(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.21.dmg)**
 
 ### 以前のバージョン（v0.9.20）
 **[MaxmakeLabソフトウェアダウンロードリンク(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.20.exe)**
 **[MaxmakeLabソフトウェアダウンロードリンク(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.20.dmg)**
-
-### 以前のバージョン（v0.9.19）
-**[MaxmakeLabソフトウェアダウンロードリンク(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.19.exe)**
-**[MaxmakeLabソフトウェアダウンロードリンク(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.19.dmg)**
 
 > 推奨：常に最新バージョンのソフトウェアをダウンロードして、最高の機能体験と安定性を享受してください。
 {.is-info}

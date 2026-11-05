@@ -35,43 +35,27 @@ MaxmakeLab is an intelligent control software designed specifically for HiMill s
 ## 📥 Software Download
 You can download MaxmakeLab software through the following links. Choose the appropriate version according to your operating system and needs:
 
-> ℹ️ **Version 0.9.21 Update**:
-> 
-> **1. Performance Optimization**
-> 1. Restructured software architecture, optimized rendering and interaction, resolved lag issues caused by window switching or device connection
-> 
-> **2. Display Fixes**
-> 1. Fixed abnormal text display in dark mode
-> 
-> **3. Machining Accuracy & Simulation**
-> 1. Fixed toolpath time estimation errors
-> 2. Fixed relief roughing toolpath and safety zone calculation
-> 3. Optimized 3D simulation effects
-> 
-> **4. New Features**
-> 1. Added rounded rectangle tool
-> 2. Added arrow basic tool
-> 3. Added crop tool
-> 4. Added status bar view zoom control
-> 
-> **5. Permissions & Configuration**
-> 1. Permission adjustment: removed admin requirement to launch the software, now runs with standard privileges
-> 2. Separated read and write access for config files; user config files are stored in `%LOCALAPPDATA%\Marxmake\MaxmakeLAB\`
+> ℹ️ **Version 0.9.22 Update**:
+> 1. Fixed unresponsive installer dialog on first launch
+> 2. Fixed rendering issues in the new architecture, reduced installer size
+> 3. Fixed height map application incorrectly identifying non-motion commands, avoiding collision risk after tool change
+> 4. Added select tool, drag canvas tool, and auto-zoom tool in the status bar
+> 5. Optimized laser path preview
 > 
 > If you encounter any software issues, please contact us in the Discord software feedback channel. We will actively consider your suggestions and fix issues promptly: [Discord](https://discord.gg/u9XkszV3Mj)
 > {.is-info}
 
-### Latest Version (v0.9.21)
+### Latest Version (v0.9.22)
+**[MaxmakeLab Software Download Link (Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.22.exe)**
+**[MaxmakeLab Software Download Link (macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.22.dmg)**
+
+### Previous Version (v0.9.21)
 **[MaxmakeLab Software Download Link (Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.21.exe)**
 **[MaxmakeLab Software Download Link (macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.21.dmg)**
 
 ### Previous Version (v0.9.20)
 **[MaxmakeLab Software Download Link (Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.20.exe)**
 **[MaxmakeLab Software Download Link (macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.20.dmg)**
-
-### Previous Version (v0.9.19)
-**[MaxmakeLab Software Download Link (Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.19.exe)**
-**[MaxmakeLab Software Download Link (macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.19.dmg)**
 
 > Recommendation: Please always download the latest version of the software for the best functional experience and stability.
 {.is-info}
