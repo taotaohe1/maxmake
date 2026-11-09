@@ -31,7 +31,7 @@ After unboxing, please first check if the following accessories are complete:
 - ✅ Manual × 1
 - ✅ Clamp × 1
 - ✅ Dust Collector Adapter × 1
-- ✅ Substitute Wood × 2
+- ✅ 420 Epoxy Board × 2
 - ✅ Power Cord × 1
 - ✅ Wooden Substrate × 1
 
