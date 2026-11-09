@@ -25,15 +25,15 @@ Learn how to unbox and set up your HiMill D1 CNC machine. This guide includes an
 After unboxing, please first check if the following accessories are complete:
 
 - ✅ HiMill D1 Main Unit × 1
-- ✅ Dust Collection Cover × 1
-- ✅ Tool Accessory Box × 1
-- ✅ USB Data Cable × 1
-- ✅ Manual × 1
-- ✅ Clamp × 1
-- ✅ Dust Collector Adapter × 1
+- ✅ Tool Case × 1
+- ✅ USB Type-B Cable × 1
+- ✅ AC Power Cord × 1
+- ✅ Base Board × 1
 - ✅ 420 Epoxy Board × 2
-- ✅ Power Cord × 1
-- ✅ Wooden Substrate × 1
+- ✅ Manual × 1
+- ✅ Vacuum Cleaner Adapter × 1
+- ✅ Worm Gear Hose Clamp × 1
+- ✅ Dust Collection Cover × 1
 
 ---
 
@@ -43,9 +43,9 @@ After unboxing, please first check if the following accessories are complete:
 > 
 > Please be sure to confirm that the voltage setting meets local standards. If adjustment is needed, it must be done before powering on. The adjustment switch is located at the marked position inside the equipment
 > 
-> ⚙️ **Wooden Substrate**:
+> ⚙️ **Base Board**:
 > 
-> The wooden substrate is standard equipment for each machine and is pre-installed at the factory. Below is the DXF vector file for the wooden substrate. You can process wooden substrates of different thicknesses according to your needs. You can also purchase them from our independent website.
+> The base board is standard equipment for each machine and is pre-installed at the factory. Below is the DXF vector file for the base board. You can process base boards of different thicknesses according to your needs. You can also purchase them from our independent website.
 > 
 > **📁 [sacrificial_plate.dxf](/eng/himill-d1-d1s/media/sacrificial_plate.dxf)**
 > 
