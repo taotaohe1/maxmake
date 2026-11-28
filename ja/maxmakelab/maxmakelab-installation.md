@@ -33,30 +33,29 @@ MaxmakeLabは、HiMillシリーズCNC機器専用に設計されたインテリ�
 ## 📥 ソフトウェアのダウンロード
 以下のリンクからMaxmakeLabソフトウェアをダウンロードすることができます。お使いのオペレーティングシステムとニーズに応じて適切なバージョンを選択してください：
 
-> ℹ️ **バージョン0.9.24更新内容**：
-> 1. ベクター図形のインタラクションを改善
-> 2. 環境設定画面を調整
-> 3. デバイスで撮影した写真のベクトル化の問題を修正
-> 4. ノード編集で直線・角丸長方形・ポリラインのダブルクリックに対応し、曲線・直線変換機能と削除機能を追加
-> 5. トリム機能のインタラクションを改善
-> 6. 多角形ツールを追加
-> 7. リソースモニター機能を追加（メインメニュー → ヘルプ → リソースマネージャー）
-> 8. パラメータパネルのUIを調整
+> ℹ️ **バージョン0.9.25更新内容**：
+> 1. AI Agentのチャット機能を追加（現時点では基本図形の作成のみ対応。APIはご自身で追加する必要があります）
+> 2. ノード編集でノード移動時の自動結合、ノードの切断、ノードまたはパスの消去に対応
+> 3. ツールパスのダブルクリックによる二次編集を追加
+> 4. 重複図形の削除機能を追加（先に重複図形を選択する必要があります）
+> 5. 星形図形を追加
+> 6. ダブルクリックによるノード編集でブール演算後の図形に対応
+> 7. 浮動パラメータパネルに角丸、辺数、比率、開始角度、スイープ角度などのパラメータを追加
 > 
 > ソフトウェアの問題がある場合は、Discordのソフトウェアフィードバック専用チャンネルでお問い合わせください。皆様のご意見を積極的に参考にし、問題を速やかに修正いたします：[Discord](https://discord.gg/u9XkszV3Mj)
 > {.is-info}
 
-### 最新バージョン（v0.9.24）
+### 最新バージョン（v0.9.25）
+**[MaxmakeLabソフトウェアダウンロードリンク(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.25.exe)**
+**[MaxmakeLabソフトウェアダウンロードリンク(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.25.dmg)**
+
+### 以前のバージョン（v0.9.24）
 **[MaxmakeLabソフトウェアダウンロードリンク(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.24.exe)**
 **[MaxmakeLabソフトウェアダウンロードリンク(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.24.dmg)**
 
 ### 以前のバージョン（v0.9.23）
 **[MaxmakeLabソフトウェアダウンロードリンク(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.23.exe)**
 **[MaxmakeLabソフトウェアダウンロードリンク(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.23.dmg)**
-
-### 以前のバージョン（v0.9.22）
-**[MaxmakeLabソフトウェアダウンロードリンク(Windows)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.22.exe)**
-**[MaxmakeLabソフトウェアダウンロードリンク(macOS)](https://assets.maxmake.com/Maxmakelab/software/MaxmakeLAB_v0.9.22.dmg)**
 
 > 推奨：常に最新バージョンのソフトウェアをダウンロードして、最高の機能体験と安定性を享受してください。
 {.is-info}
